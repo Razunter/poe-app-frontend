@@ -12,6 +12,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 {% import "macros.njk" as macros %}
 {% set thisVersion = version.version %}
 {% set skiprf = false %}
+<div hidden>{% svgSprite %}</div>
 <div class="main">
   <nav class="mainnav">
     <ul>

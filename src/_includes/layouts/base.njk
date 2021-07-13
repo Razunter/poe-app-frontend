@@ -1,16 +1,24 @@
-{# Base HTML, compatible with what Vite expects #}
+{% set eleventyVersion = pkg.devDependencies['@11ty/eleventy'] | replace("^", "") %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="generator" content="Eleventy v{{ eleventyVersion }}" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preload" href="{{ "/css/index.css" | url }}" as="style">
   <title>{{ title or metadata.title }}</title>
-  {% if build.env == "production" %}
-    {# Add any CSS from the main script #}
-    {% viteLinkStylesheetTags "src/client/main.js" %}
-    {% viteLinkModulePreloadTags "src/client/main.js" %}
-  {% endif %}
+  <meta name="author" content="{{ site.author }}">
+  <meta name="robots" content="index,follow">
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:title" content="{{ title }} | {{ siteparams.siteTitle }}" />
+  <meta name="description" content="{{ description }}" />
+  <meta property="og:description" content="{{ description }}" />
+  <meta property="og:url" content="{{ siteparams.siteURLforOG }}{{ page.url }}" />
+  <link rel="stylesheet" href="{{ "/css/index.css" | url }}">
+  <script>
+      window.lazyLoadOptions = {};
+  </script>
 </head>
 <body>
 <header>
@@ -21,23 +29,8 @@
 </main>
 <footer>
 </footer>
-{#
-We must split development and production scripts
-In development, vite runs a server to resolve and reload scripts
-In production, the scripts are statically replaced at build-time
-
-The build.env variable is assigned in src/_data/build.js
-@see https://vitejs.dev/guide/backend-integration.html#backend-integration
-@see https://www.11ty.dev/docs/data-js/#example-exposing-environment-variables
-#}
-{% if build.env == "production" %}
-  {# We must read the production scripts from the Vite manifest. We defer that logic to a custom shortcode #}
-  {% viteScriptTag "src/client/main.js" %}
-  {% viteLegacyScriptTag "vite/legacy-polyfills" %}
-  {% viteLegacyScriptTag "src/client/main-legacy.js" %}
-{% else %}
-  <script type="module" src="http://localhost:3000/@vite/client"></script>
-  <script type="module" src="http://localhost:3000/src/client/main.js"></script>
-{% endif %}
+<script async src="{{ "/assets/lazyload.min.js" | url }}"></script>
+<script async src="{{ "/assets/gumshoe.polyfills.min.js" | url }}"></script>
+<script async src="{{ "/assets/index.js" | url }}"></script>
 </body>
 </html>

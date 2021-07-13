@@ -1,10 +1,8 @@
 import { defineConfig } from "vite";
-import svgSpritePlugin from "vite-plugin-svg-sprite-component"
 
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [
-        svgSpritePlugin({symbolId: (name) => "icon-" + name})
     ],
     build: {
         // This is important: Generate directly to _site and then assetsDir.

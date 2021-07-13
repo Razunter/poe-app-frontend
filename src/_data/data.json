@@ -1,0 +1,3800 @@
+{
+  "currentVersion": "3.14",
+  "types": {
+    "melee": "Melee",
+    "caster": "Caster & Wander",
+    "ranged": "Archer",
+    "totems": "Totems",
+    "rf": "Righteous Fire & Death's Oath",
+    "mines": "Mines & Traps",
+    "minions": "Minions",
+    "misc": "Misc"
+  },
+  "buildList": [
+    {
+      "type": "melee",
+      "builds": [
+        {
+          "title": "For Marauder - Ngamahu's Flame Cyclone / Consecrated Path / Tectonic Slam Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/2092338",
+          "video": "https://www.youtube.com/watch?v=VCueqRvsVpY",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Hybrid's Molten Strike Jugg - Hold right click to TANK anything | MELT the Atlas",
+          "url": "https://www.pathofexile.com/forum/view-thread/2211489",
+          "video": "https://www.youtube.com/watch?v=iZSe8RTxJgQ",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "For Slayer / Champion - Ngamahu Cyclone / Consecrated Path / Tectonic Slam (All Content)",
+          "url": "https://www.pathofexile.com/forum/view-thread/1819239",
+          "video": "https://www.youtube.com/watch?v=ArAg-dhVemg",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Nightblade Flurry Assassin | Beginner's Guides | Boss Killer",
+          "url": "https://www.pathofexile.com/forum/view-thread/2284176",
+          "video": "https://www.youtube.com/watch?v=4IQYtLWqEWc",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The Warbringer Slaming Serker [League Starter | Cheap | Smash the Atlas]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2618769",
+          "video": "https://www.youtube.com/watch?v=WRwc39QPbq4",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "LACERMAN BUILD (Fast ClearSpeed + Labber + Super EZ + Endgame) (Gladiator)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2875553",
+          "video": "https://www.youtube.com/watch?v=MLHRfA0fDIY",
+          "versions": [
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Spirit Walker | CI Charged Dash HOWA Scion | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2605098",
+          "video": "https://www.youtube.com/watch?v=tf_mG-QGpxA",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "For Scion - Ngamahu's Flame Cyclone / Consecrated Path / Tectonic Slam (End Game Viable)",
+          "url": "https://www.pathofexile.com/forum/view-thread/1960309",
+          "video": "https://www.youtube.com/watch?v=Gsikjka3EZ4",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "1h Impale Cyclone Slayer. All content viable with cheap gear. No required items.",
+          "url": "https://www.pathofexile.com/forum/view-thread/2591825",
+          "video": "https://www.youtube.com/watch?v=6Lyrhk_q4iU",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Bergerbrush's Impale Cyclone Champion - League Starter & Beginner Friendly!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2775438",
+          "video": "https://www.youtube.com/watch?v=bHiX7G7hsiY",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Konsta's Gladiator Double Strike Starter - Excellent DPS, good defenses. Starter.",
+          "url": "https://www.pathofexile.com/forum/view-thread/2702132",
+          "video": "https://www.youtube.com/watch?v=df760-W-72Y",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The BLOCKMAN endgame farming build. All content farming (Cheap and tanky) League starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2775490",
+          "video": "https://www.youtube.com/watch?v=uZlGIbIoOcw",
+          "versions": [
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Devon's Blooming Flicker | Most content viable | Decent starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2874747",
+          "video": "https://www.youtube.com/watch?v=UzApjFcugsc",
+          "versions": [
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "KissMeQuick's Gladiator Reave: REBORN — T19 100% Maps & A8 Sirus 1:19 Speedrun — Starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2976624",
+          "video": "https://www.youtube.com/watch?v=lp_RcSLaNBs",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Fivers Frost Blades Raider",
+          "url": "https://www.pathofexile.com/forum/view-thread/2081371",
+          "video": "https://www.youtube.com/watch?v=uKRTqKhqoj0",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "7na's Hollow Palm Ice Crash ❄️ 15mil DPS | All Content | Tanky Boi | Leaguestart Section",
+          "url": "https://www.pathofexile.com/forum/view-thread/2859157",
+          "video": "https://www.youtube.com/watch?v=-V8kzOKB2I8",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "melee",
+          "title": "Gladiator Bleed Earthquake 75/75 Block / League Starter / Budget Friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2912301",
+          "video": "https://www.youtube.com/watch?v=H1eLo15p5hU",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "melee",
+          "title": "Champion Earthshatter Impale 2H | League Starter | SSF | Tank 90% Fortify| All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/3080159",
+          "video": "https://www.youtube.com/watch?v=rkl5c6Chfm8",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "melee",
+          "title": "This Build Still DESTROYS Bosses - General's Cry Perforate Champion Build Guide",
+          "url": "https://www.youtube.com/watch?v=l3uH7CnByK4",
+          "video": "https://www.youtube.com/watch?v=l3uH7CnByK4",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Badger"
+        },
+        {
+          "type": "melee",
+          "title": "Steel Skills Still Strong Starter Guide",
+          "url": "https://www.youtube.com/watch?v=3xdSBrDFij4",
+          "video": "https://www.youtube.com/watch?v=3xdSBrDFij4",
+          "versions": [
+            "3.14"
+          ],
+          "author": "DonTheCrown"
+        },
+        {
+          "type": "melee",
+          "title": "Complete Cyclone Guide | Journey From League Start to End Game",
+          "url": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
+          "video": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Jaamon"
+        },
+        {
+          "title": "Brutus' Lead Sprinkler Earthquake Chieftain",
+          "url": "https://www.youtube.com/watch?v=-7yIpiqVPmI",
+          "video": "https://www.youtube.com/watch?v=-7yIpiqVPmI",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "Jaamon"
+        },
+        {
+          "type": "melee",
+          "title": "Cyclone Gladiator Max Block with Crit Facebreakers",
+          "url": "https://www.youtube.com/watch?v=mPFcDlXdqc4",
+          "video": "https://www.youtube.com/watch?v=mPFcDlXdqc4",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Jaamon"
+        },
+        {
+          "type": "melee",
+          "title": "Starter Build Idea - Vaal Ground Slam Slayer",
+          "url": "https://www.youtube.com/watch?v=HqocypE_DRg",
+          "video": "https://www.youtube.com/watch?v=HqocypE_DRg",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Octavian"
+        },
+        {
+          "type": "melee",
+          "title": "Steelmage's SLAMMER JAMMER - Ground Slam Berserker League Starter",
+          "url": "https://www.youtube.com/watch?v=QxYGb739KzI",
+          "video": "https://www.youtube.com/watch?v=QxYGb739KzI",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "Angry Roleplayer - \"EQ JUGG\" EARTHQUAKE T H I C C JUGGERNAUT Build 2021 Edition (Staff/Mace) + UBER ELDER!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2149501",
+          "video": "https://www.youtube.com/watch?v=zCnoS1PH8WU",
+          "versions": [
+            "3.7",
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Frostblades Assassin SSF Viable. 1M+ DPS w/ Budget gear! League starter! Insane Clear Speed",
+          "url": "https://www.pathofexile.com/forum/view-thread/2093747",
+          "video": "https://www.youtube.com/watch?v=NXZ56WrE9CE",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "From League Starter to Shaper – Cheap, Tanky, Fast and Fun Physical ST – Very Detailed Guide",
+          "url": "https://www.pathofexile.com/forum/view-thread/2077519",
+          "video": "https://www.youtube.com/watch?v=NqynUMlMulw",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - ICE CRASH BERSERKER Build. 4M DPS + 700% CRIT, ALL Content & UBER ELDER Viable!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2585877",
+          "video": "https://www.youtube.com/watch?v=Ue3JL4BWQNo",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Dreamfeather Machine. Champion/Gladiator Build. | All Content! League Starter - Budget!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2171678",
+          "video": "https://www.youtube.com/watch?v=VvdEpaQDEzA",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Level with FLICKER STRIKE from LV28 - LEAGUE START",
+          "url": "https://www.pathofexile.com/forum/view-thread/2514061",
+          "video": "https://www.youtube.com/watch?v=MiIcQ38cVts",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ice CRASH IT ALL Juggernaut * beginner & budget friendly! tank with high dps!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2187472",
+          "video": "https://www.youtube.com/watch?v=jzLqQvmc8aA",
+          "versions": [
+            "3.7",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Dual-wield Ahn's Might Cyclone Slayer | Off Meta | League Starter | Endgame | All Content |",
+          "url": "https://www.pathofexile.com/forum/view-thread/2575392",
+          "video": "https://www.youtube.com/watch?v=dkZr7IpDyzI",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Complete Cobra Lash Assassin Guide | >10m Shaper DPS | All content | Noob Friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2668482",
+          "video": "https://www.youtube.com/watch?v=n8llHL6286c",
+          "versions": [
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Double Strike / Flicker Assassin ~ League starter and ender! U-Elder and U-Atziri deathless!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2650714",
+          "video": "https://www.youtube.com/watch?v=b8v5mY7rGTI",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ngamahu's Flame/300% Movement Speed/8-13 Frenzy Charges/7k HP/6.75 Mil Shaper DPS/40k Evasion",
+          "url": "https://www.pathofexile.com/forum/view-thread/2526420",
+          "video": "https://www.youtube.com/watch?v=qpLt3Tuqma4",
+          "versions": [
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Pillar of Caged God Earthquake | 11k+ EHP 7M+ DPS | Maybe HC viable | All content down",
+          "url": "https://www.pathofexile.com/forum/view-thread/2768886",
+          "video": "https://www.youtube.com/watch?v=k1DZPtBQ0_4",
+          "versions": [
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Tesla Cyclone | Destroy the Game | All Content | Super Fast! | Spin 2 Win | Updated",
+          "url": "https://www.pathofexile.com/forum/view-thread/2129487",
+          "video": "https://www.youtube.com/watch?v=obrewJUBnMM",
+          "versions": [
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ultimate Claw Poison Pathfinder - League Starter & Ender - 100% Delirious farmer",
+          "url": "https://www.pathofexile.com/forum/view-thread/2639074",
+          "video": "https://www.youtube.com/watch?v=0CT_nkL4IUY",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Krovah's Berserker Frost Blades |In-Depth Guide| - Annihilate the Atlas, Shaper & FPS",
+          "url": "https://www.pathofexile.com/forum/view-thread/2587658",
+          "video": "https://www.youtube.com/watch?v=Fhz7iVnx6Cg",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - GLACIAL HAMMER *SHOCKing* Berserker Build. ONE PUNCH MAN! (Uber Elder Done)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2615012",
+          "video": "https://www.youtube.com/watch?v=pwEMG13mIkI",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Torstein's Icebreaker - Glacial Hammer - Sleeper end-game crusher",
+          "url": "https://www.pathofexile.com/forum/view-thread/2686278",
+          "video": "https://www.youtube.com/watch?v=K9dec1K8NNI",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Champion Perforate + Bladestorm | 2H Impale | All Content Starter viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/2558982",
+          "video": "https://www.youtube.com/watch?v=an9OkhaqgvA",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Lazy Lacerator - Max Block Gladiator",
+          "url": "https://www.pathofexile.com/forum/view-thread/2586705",
+          "video": "https://www.youtube.com/watch?v=We6iK5jq5Jo",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Budget and SSF friendly Bladestorm Berserker in depth guide. Uber Elder on 5l.",
+          "url": "https://www.pathofexile.com/forum/view-thread/2529202",
+          "video": "https://www.youtube.com/watch?v=m5MDgu3rkRs",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - RECKONING (Counterattack) Gladiator Build. Let them kill themselves! UBER ~2 min! BOSSES AFK",
+          "url": "https://www.pathofexile.com/forum/view-thread/2622675",
+          "video": "https://www.youtube.com/watch?v=2rKmIH42M6w",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "NEBULOCH JUGGERNAUT. TECTONIC SLAM, HC SUPER TANK, HC awakener viable still works flawless",
+          "url": "https://www.pathofexile.com/forum/view-thread/2589795",
+          "video": "https://www.youtube.com/watch?v=hHpJXvi3SHw",
+          "versions": [
+            "3.8",
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - POISONOUS ASSaSSIN Build (Cobra Lash/Blade Flurry/Plague Bearer) UBER ELDER + VIDEO GUIDE!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2674867",
+          "video": "https://www.youtube.com/watch?v=FAxUNDYdNN8",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - 50K ARMOUR \"Mr. T H I C C\" tonic (Crit Tectonic Slam) Juggernaut Build +VIDEO GUIDE! 5M+ DPS!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2288501",
+          "video": "https://www.youtube.com/watch?v=18DmdoUxvl8",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "HunterKee's Consercated path JUGG! | Super Tanky | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2761746",
+          "video": "https://www.youtube.com/watch?v=PrJWMOVTWpA",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Aziire's Earthshatter Juggernaut - Screenwide Slamming! | League Starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2874676",
+          "video": "https://www.youtube.com/watch?v=J5T-m8n-CgQ",
+          "versions": [
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Aziire's Aziire's Splitting Steel Champion - Impale Explosions!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2936173",
+          "video": "https://www.youtube.com/watch?v=XBj0SbQZYRI",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "HunterKee's Splitting Steel || League Start || Fast Mapper & Max Block",
+          "url": "https://www.pathofexile.com/forum/view-thread/2932377",
+          "video": "https://www.youtube.com/watch?v=pq50BdLMAoM",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - EARTHSHATTER JUGGERNAUT Build. BEST OF SLAMs. Screen Wide AOE. Cheap League Starter!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2936314",
+          "video": "https://www.youtube.com/watch?v=QQfXxi4ouUc",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - PESTILENT STRIKE PATHFINDER Build. Cheapest & Strongest Poison Build! Deathless Sirus A8",
+          "url": "https://www.pathofexile.com/forum/view-thread/2934802",
+          "video": "https://www.youtube.com/watch?v=Q0Jy-qa3l8k",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Lancing Steel Deadeye/Raider | Very Fun Playstyle | 4-50M DPS Easy Gearing Path",
+          "url": "https://www.pathofexile.com/forum/view-thread/2955035",
+          "video": "https://www.youtube.com/watch?v=qOF1kjyttOU",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "g00fy_goober's Physical Reave/Bflurry Berserker (Easily Clear All Content)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2129351",
+          "video": "https://www.youtube.com/watch?v=G-Rbzr5yoGA",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "g00fy_goober's Ultimate EleBuzzsaw Raider (Easily Clear All Content)",
+          "url": "https://www.pathofexile.com/forum/view-thread/1839087",
+          "video": "https://www.youtube.com/watch?v=WzljhF6zDBk",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Badger - Lancing Steel Deadeye Build Guide - Budget Sword-Machine-Gun Starter!",
+          "url": "https://www.youtube.com/watch?v=ssUtL9-uP_0",
+          "video": "https://www.youtube.com/watch?v=ssUtL9-uP_0",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - An All-Time Favourite SPIN TO WIN - Cyclone Slayer Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=ivYiKxYHyjg",
+          "video": "https://www.youtube.com/watch?v=ivYiKxYHyjg",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "(WIP!) Rivalen's Young, Wild Strikin' and Free | 'Natural Wild Strike Berserker | 8M+ DPS",
+          "url": "https://www.pathofexile.com/forum/view-thread/3009645",
+          "video": "",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Hank the Tank™ - The Manliest Man - Cleave & Bladestorm",
+          "url": "https://www.pathofexile.com/forum/view-thread/2087746",
+          "video": "https://www.youtube.com/watch?v=kzakfOHBSuk",
+          "versions": [
+            "3.7",
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Devon's Shocking Lawnmower | Pure Phys Crit-Cyclone | All content viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/2128004",
+          "video": "https://www.youtube.com/watch?v=EcnVdLz45lU",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Nickonasty's Modular CoCpri Ice Nova Assassin - Shaper/UElder Viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/2541000",
+          "video": "https://www.youtube.com/watch?v=4Bo9Txz4OH0",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "SUNDERMAN BUILD (Insane Clearspeed + Lab King + Super EZ + Endgame) (Gladiator)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2507153",
+          "video": "https://www.youtube.com/watch?v=iokP8QyIteM",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Blade Flurry/Reave SLAYER Starter Build Guide!",
+          "url": "https://www.youtube.com/watch?v=9ZHG90nIC90",
+          "video": "https://www.youtube.com/watch?v=9ZHG90nIC90",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Devon's Poisoning Lawnmower | Poison CoC Cyclone | All content viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/2628159",
+          "video": "",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Bergerbrush's Impale Cyclone Champion - League Starter & Beginner Friendly!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2775438",
+          "video": "https://www.youtube.com/watch?v=jxC6pg2tHt0",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Leaguestarter for CHAMPIONS ft. Steelmage - Shattering Steel Champion",
+          "url": "https://www.youtube.com/watch?v=84ITwRb8xv8",
+          "video": "https://www.youtube.com/watch?v=84ITwRb8xv8",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Badger - The QUAKENER Build Guide - Bleed Earthquake Gladiator (League Start Viable!)",
+          "url": "https://www.youtube.com/watch?v=HZYRO3VXBbU",
+          "video": "https://www.youtube.com/watch?v=HZYRO3VXBbU",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - E Q J U G G - Thick and Slammy Leaguestarter!",
+          "url": "https://www.youtube.com/watch?v=hUF9ZsrVC68",
+          "video": "https://www.youtube.com/watch?v=hUF9ZsrVC68",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "2h Freezing Cyclone! ~Freeze the Atlas~",
+          "url": "https://www.pathofexile.com/forum/view-thread/2071340",
+          "video": "https://www.youtube.com/watch?v=o3uuM0a_nQU",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ziz - 3.7 Legion Gladiator Cyclone + Melee Starter Build Guide!",
+          "url": "https://www.youtube.com/watch?v=7u4NJzkRw_Y",
+          "video": "https://www.youtube.com/watch?v=7u4NJzkRw_Y",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Pure Phys Cyclone Raider! 1.3M DPS! Starforge/ Kondos Pride! League Starter!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2201907",
+          "video": "https://www.youtube.com/watch?v=z6ct-f5sMvg",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Storm to the Limit - Lightning Strike | All content viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/2082900",
+          "video": "https://www.youtube.com/watch?v=tQdLpZsqw6c",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ahfack's Crimson Cyclone | WIP | 100% Pure Phys | All Content | 4.5M+ Shaper dmg 7k Life",
+          "url": "https://www.pathofexile.com/forum/view-thread/1995010",
+          "video": "https://www.youtube.com/watch?v=gyUYq1mX-Lc",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Vaal groundslam Adaptive build!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2514590",
+          "video": "https://www.youtube.com/watch?v=VajdUxccUAw",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Untouchable Ghost. 50k Evasion 10k ES HOWA Charged Dash",
+          "url": "https://www.pathofexile.com/forum/view-thread/2465400",
+          "video": "https://www.youtube.com/watch?v=yxgFGfZ-gr4",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "[Zizaran] Legion Slayer Cyclone + Melee Starter Build Guide!",
+          "url": "https://www.youtube.com/watch?v=jxpqkc3E6AM",
+          "video": "https://www.youtube.com/watch?v=jxpqkc3E6AM",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "[Zizaran] Legion Ele Hit Deadeye Starter Build Guide!",
+          "url": "https://www.youtube.com/watch?v=O0zMIfgyjjM",
+          "video": "https://www.youtube.com/watch?v=O0zMIfgyjjM",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "[ZiggyD] Impale Champion Build (Cyclone or Bladestorm) My League Starter",
+          "url": "https://www.youtube.com/watch?v=5BuakJVc8us",
+          "video": "https://www.youtube.com/watch?v=5BuakJVc8us",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "SSF Bladestorm berserker build overview and t13 preview",
+          "url": "https://www.youtube.com/watch?v=vnJwRwwqSJg",
+          "video": "https://www.youtube.com/watch?v=vnJwRwwqSJg",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "1H-Impale Cyclone Champion - 13M+ Shaper DPS Fullbuffed / 176%-230% Movspeed Speedy Boy",
+          "url": "https://www.pathofexile.com/forum/view-thread/2514647",
+          "video": "",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Rake's Tectonic Slam Equipment Guide - from League Start to Endgame",
+          "url": "https://www.pathofexile.com/forum/view-thread/2503553",
+          "video": "",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "1M+ (880k+ Shaper) Sunder Gladiator (Budget friendly!)",
+          "url": "https://www.pathofexile.com/forum/view-thread/1979204",
+          "video": "",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Steels 3.10 Bleed Lacerate - Path of Exile Delirium League Starter",
+          "url": "https://www.youtube.com/watch?v=I2h-TxFoIYE",
+          "video": "https://www.youtube.com/watch?v=I2h-TxFoIYE",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        }
+      ]
+    },
+    {
+      "type": "caster",
+      "builds": [
+        {
+          "title": "Enki's Arc Witch - a beginner & SSF-friendly Lightning Caster",
+          "url": "https://www.pathofexile.com/forum/view-thread/1147951",
+          "video": "https://www.youtube.com/watch?v=uCPyyiPFUGM",
+          "versions": [
+            "3.7",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": "",
+          "pin": true
+        },
+        {
+          "title": "Aegis Incinerate Inquisitor - Tank with 5mil Shaper DPS!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2865430",
+          "video": "https://www.youtube.com/watch?v=RdhButU92D8",
+          "versions": [
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "ShakCentral's Vortex For Everyone",
+          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
+          "video": "https://www.youtube.com/watch?v=3QNlEmX1k1U",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Fyregrass' Comprehensive Storm Brand Assassin Guide - Updated for 3.14! - Act 1 to Maven 9",
+          "url": "https://www.pathofexile.com/forum/view-thread/3039923",
+          "video": "https://www.youtube.com/watch?v=X1KkfLZYOFU",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Essence Drain 6.6 Mil DoT DPS | Very Beginner Friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2785198",
+          "video": "https://www.youtube.com/watch?v=qLAT_iurj2A",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Blazing Salvo Fireball Inquisitor - self cast - strong DPS, fast clear, 9k life pool, block",
+          "url": "https://www.pathofexile.com/forum/view-thread/2967830",
+          "video": "https://www.youtube.com/watch?v=aewG_GQYSCk",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "caster",
+          "title": "Just do not die 4head | Tanky Divine Ire ignite Inquisitor | all content | league starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/3080303",
+          "video": "https://www.youtube.com/watch?v=1lpcAiwHeyg",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Gryph's Burning Witch - Volatile Dead Necromancer - Burn Yourself Through the Atlas",
+          "url": "https://www.pathofexile.com/forum/view-thread/3007160",
+          "video": "https://www.youtube.com/watch?v=_KHBzv7fMJU",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Coldslinger | Vortex | Creeping Frost | League Start | Endgame | SSF [CI/LL]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2797749",
+          "video": "https://www.youtube.com/watch?v=sbGzM9qXVAQ",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "caster",
+          "title": "CieOnDancer's Bane Occultist - ULTIMATUM READY! Grind T16 maps with low budget! Good Starter!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2885912",
+          "video": "https://www.youtube.com/watch?v=wVm5hBdmRXk",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "caster",
+          "title": "Archmage Hexblast | 10M+ Ignite DPS | Budget Options League Start to Endgame",
+          "url": "https://www.pathofexile.com/forum/view-thread/3049865",
+          "video": "https://www.youtube.com/watch?v=Joh-1ENhuLg",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "caster",
+          "title": "Lahkesis Queen of Chaos\"Essence Drain/Bane/Contag\" [Life&LL][HC/SC] - ️All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/1963181",
+          "video": "https://www.youtube.com/watch?v=s5hW-6gV5JI",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Velyna's LowLife Storm Brand ⚡ 7m DPS | Leaguestart Section | Guardian | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2890856",
+          "video": "https://www.twitch.tv/videos/763607741",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "videothumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/b629699dc306b69660ba_velyna_30502710747_2656257170//thumb/thumb763607741-%{width}x%{height}.jpg",
+          "videoid": "763607741",
+          "author": ""
+        },
+        {
+          "type": "caster",
+          "title": "SSF Friendly Poison BF/BB Assassin Levelling Guide | Blast Through Levelling",
+          "url": "https://www.pathofexile.com/forum/view-thread/3063150",
+          "video": "",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "caster",
+          "title": "Archmage Bladefall/Blade Blast Hierophant Build Guide",
+          "url": "https://www.poe-vault.com/guides/archmage-bladefall-blade-blast-hierophant-build-guide",
+          "video": "https://www.youtube.com/watch?v=fhAYWkooxBg",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Brittleknee"
+        },
+        {
+          "type": "caster",
+          "title": "UNETHICAL Amounts of Damage - Blade Blast Inquisitor League Start Guide",
+          "url": "https://www.youtube.com/watch?v=ZaFRN0dsTp8",
+          "video": "https://www.youtube.com/watch?v=ZaFRN0dsTp8",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Big Ducks"
+        },
+        {
+          "type": "caster",
+          "title": "BEST Build for Going FAST - Poison Blade Vortex Assassin League Start Guide",
+          "url": "https://www.youtube.com/watch?v=SSn8uo-Jkko",
+          "video": "https://www.youtube.com/watch?v=SSn8uo-Jkko",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Big Ducks"
+        },
+        {
+          "type": "caster",
+          "title": "BEST Build For New Players - Creeping Frost Occultist League Start Guide",
+          "url": "https://www.youtube.com/watch?v=OR8vWzTQgCU",
+          "video": "https://www.youtube.com/watch?v=OR8vWzTQgCU",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Big Ducks"
+        },
+        {
+          "title": "Chaos DoT Trickster",
+          "url": "https://www.poe-vault.com/guides/chaos-dot-trickster-build-guide",
+          "video": "https://www.youtube.com/watch?v=_ijk7e--U8k",
+          "versions": [
+            "3.11",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "title": "Cold Snap Vortex Occultist",
+          "url": "https://www.poe-vault.com/guides/cold-snap-vortex-occultist-build-guide",
+          "video": "https://www.youtube.com/watch?v=jqH3a4VhoyE",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "title": "Coldslinger Occultist",
+          "url": "https://www.poe-vault.com/guides/coldslinger-occultist-build-guide",
+          "video": "https://www.youtube.com/watch?v=P9lBVu-z92w",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "title": "Blade Blast Bladefall Poison Assassin",
+          "url": "https://www.poe-vault.com/guides/blade-blast-bladefall-poison-assassin-build-guide",
+          "video": "https://www.youtube.com/watch?v=-iiztsITtzM",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "type": "caster",
+          "title": "Flame Wall Spellslinger Elementalist",
+          "url": "https://www.poe-vault.com/guides/flame-wall-spellslinger-elementalist-build-guide",
+          "video": "https://www.youtube.com/watch?v=jy1qXlTe6NA",
+          "versions": [
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "type": "caster",
+          "title": "Poison Bladefall / Blade Blast Assassin",
+          "url": "https://www.pathofexile.com/forum/view-thread/3108817",
+          "video": "https://www.youtube.com/watch?v=gk5Ypqfzjhs",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "type": "caster",
+          "title": "Zizaran's Exsanguinate Ascendant | Gladiator + Necromancer | Spellslinger, Selfcast & Lowlife",
+          "url": "https://www.pathofexile.com/forum/view-thread/3102014",
+          "video": "https://www.youtube.com/watch?v=Hjl6yoh72mw",
+          "versions": [
+            "3.14"
+          ],
+          "author": "",
+          "pin": true
+        },
+        {
+          "type": "caster",
+          "title": "ESSENCE DRAIN CONTAGION Trickster League Starter",
+          "url": "https://www.youtube.com/watch?v=3npA1n10PpQ",
+          "video": "https://www.youtube.com/watch?v=3npA1n10PpQ",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "HunterKee's Blade Blast & Blade Vortex | League Start | Insane Clear | Boss Killer | Tanky",
+          "url": "https://www.pathofexile.com/forum/view-thread/2784465",
+          "video": "https://www.youtube.com/watch?v=VU8MsnLIBow",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Poison Blade Vortex Assassin (Carried me to level 100 / delve 600+ / Aul / Sirus A8 viable)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2784069",
+          "video": "https://www.youtube.com/watch?v=UFWqgyfwEek",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Essence Drain: BEASTMODE || SSF Build Guide || ALL Content || Updated PoB",
+          "url": "https://www.pathofexile.com/forum/view-thread/2606026",
+          "video": "https://www.youtube.com/watch?v=oL_5qiqa1WE",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - WINTER ORB ELEMENTALIST Build. Highest DPS on budget!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2320561",
+          "video": "https://www.youtube.com/watch?v=e0KlCo97zUI",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Poison BV Explosion Assassin - Super Speedy Mapper",
+          "url": "https://www.pathofexile.com/forum/view-thread/2753922",
+          "video": "https://www.youtube.com/watch?v=hgYRf1Oqnro",
+          "versions": [
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ultimate SOULREND / ESSENCE DRAIN Occultist / Trickster Build. STARTER & UBER Elder Carry!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2333065",
+          "video": "https://www.youtube.com/watch?v=xAVgqoEskh0",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "FreezeFinder - Cold Blade Vortex, boss killer, all content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2685676",
+          "video": "https://www.youtube.com/watch?v=Cb7jNgemAYg",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "gr0bbs | Poison Blade Vortex | Budget Viable | Endgame 50Mil+ DPS",
+          "url": "https://www.pathofexile.com/forum/view-thread/2714125",
+          "video": "https://www.youtube.com/watch?v=0164qub8Tcw",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Necromantic Scribe - [6k+ Life] [All Content] [3M+ dps] [Fun Playstyle]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2474628",
+          "video": "https://www.youtube.com/watch?v=GibEZEqyA2k",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "bOOgy's Kinetic Blast Wander (Assassin) - ZOOMING T16s on a budget",
+          "url": "https://www.pathofexile.com/forum/view-thread/2843873",
+          "video": "https://www.youtube.com/watch?v=i0oUFCSlj4Q",
+          "versions": [
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - FROSTBOLT / ICE NOVA *NON-COC* Assassin Build . SELFCAST Spells! Uber Elder + VIDEO!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2682119",
+          "video": "https://www.youtube.com/watch?v=pZ2Haafb960",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - CREEPING FROST Trickster Build. (4+ Million DoT DPS). UBER ELDER done EZ! FORGET VORTEX!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2486384",
+          "video": "https://www.youtube.com/watch?v=xRKjq2QXGYk",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Power Siphon/Kinetic Blast Poison Assassin - Very fast and tanky poison wander",
+          "url": "https://www.pathofexile.com/forum/view-thread/2687562",
+          "video": "https://www.youtube.com/watch?v=rvdVwEWM6Wk",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ultimate EDTrickster [2M dps - UNKILLABLE]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2581551",
+          "video": "https://www.youtube.com/watch?v=FS_pkzOXutc",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - SHOCK NOVA Elementalist Build. *SHOCKING AOE*",
+          "url": "https://www.pathofexile.com/forum/view-thread/2121651",
+          "video": "https://www.youtube.com/watch?v=NPM_m_YRkkw",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Self-Poisoning Blade Vortex Assasin | Awakener 8 viable | League Starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2739393",
+          "video": "https://www.youtube.com/watch?v=UBgT9waxbmY",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "BladeBlast/Bladefall MoM Scion | Tanky | Nuke bosses 20M+",
+          "url": "https://www.pathofexile.com/forum/view-thread/3009476",
+          "video": "https://www.youtube.com/watch?v=Kn3foJ_-Y94",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ignite Fireball/FW Agnostic Trickster. NO CLUSTERS REQ. LVL Guide",
+          "url": "https://www.pathofexile.com/forum/view-thread/2986132",
+          "video": "https://www.youtube.com/watch?v=gnbb8lCg1OQ",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The Bard's Soulrend Trickster | Ele. Ailment Immunity | League Starter | Up to Date!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2917692",
+          "video": "https://www.youtube.com/watch?v=ubAfKSYzm3I",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Blade Vortex of Hatred | League-start viable | Off-Screen Explosions | All Content |",
+          "url": "https://www.pathofexile.com/forum/view-thread/2935991",
+          "video": "https://www.youtube.com/watch?v=5m0TVTHCm_U",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Storm Brand Inquisitor - Beginner Friendly - SSF/League Start Viable - All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2326164",
+          "video": "https://www.youtube.com/watch?v=_npz1xnc7Y8",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Dragon's Breath Elementalist - Incinerate - All content viable - Good league starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2318921",
+          "video": "https://www.youtube.com/watch?v=vxRLSFlDz4Q",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Soulrend Trickster - Fast mapper with great defenses (League starter/All content)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2333153",
+          "video": "https://www.youtube.com/watch?v=xvn1V-1oBvk",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Bane Occultist - League Start/SSF Viable - All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2489249",
+          "video": "https://www.youtube.com/watch?v=qVI-ShElFCk",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Aziire's Divine Ire Inquisitor - Doryani's Fist, Kamehameha!!!!!!!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2777243",
+          "video": "https://www.youtube.com/watch?v=YJr9f_hlSW0",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Crit Orb of Storms Assassin - League Starter (Fast Leveling, Updated/WIP)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2579874",
+          "video": "https://www.youtube.com/watch?v=448178112",
+          "videothumb": "https://static-cdn.jtvnw.net/s3_vods/87d62542b36dc1186387_everydayengineering_44721210719_2792728791//thumb/thumb448178112-%{width}x%{height}.jpg",
+          "versions": [
+            "3.8",
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "g00fy_goober's WinterIsComing Trickster (Easily Clear All Content)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2326142",
+          "video": "https://www.youtube.com/watch?v=U0eZHUf29Ts",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Aziire's Kinetic Bolt Elementalist - Thor and the Golem Gang! | League Starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2785064",
+          "video": "https://www.youtube.com/watch?v=0Fy61mXmvtQ",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Gryph's CI Coldsnap + Vortex Trickster || Uber Elder+Everything Else",
+          "url": "https://www.pathofexile.com/forum/view-thread/2476865",
+          "video": "https://www.youtube.com/watch?v=80xNQk_XpiM",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Melting COC Assassin | 6m+ DPS | Deathless Uber Elder",
+          "url": "https://www.pathofexile.com/forum/view-thread/2676194",
+          "video": "https://www.youtube.com/watch?v=_qHZOZNtgZI",
+          "versions": [
+            "3.9",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Gryph's Volatile Dead Necromancer || Fun, Medium Budget, Tanky, Millions of DPS",
+          "url": "https://www.pathofexile.com/forum/view-thread/2629311",
+          "video": "https://www.youtube.com/watch?v=NG8r7sv3-W0",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Kelza`s VD | From SSF League Start up to EZ T19 100%",
+          "url": "https://www.pathofexile.com/forum/view-thread/2874400",
+          "video": "https://www.youtube.com/watch?v=whQXX5R3n0k",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Storm Brand – Great League Starter – Deathless Sirus/Uber Elder - Life / LL-ES / Boss killer",
+          "url": "https://www.pathofexile.com/forum/view-thread/2764794",
+          "video": "https://www.youtube.com/watch?v=ciPqy0wvD7k",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Elemental Hit Wandslinger Assassin - Very tanky, fast and fun wander",
+          "url": "https://www.pathofexile.com/forum/view-thread/2784902",
+          "video": "",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Agnostic RF - Bane Occultist | All Content Viable | League Start | Now SSF Viable!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2874634",
+          "video": "",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Big Ducks - Ball Lightning Archmage Ascendant",
+          "url": "https://www.youtube.com/watch?v=9kbrEZwJTGA",
+          "video": "https://www.youtube.com/watch?v=9kbrEZwJTGA",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Let's get CRACKLING! - Lightning Spell Inquisitor Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=skiIWPtugMw",
+          "video": "https://www.youtube.com/watch?v=skiIWPtugMw",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - The BEST STARTER BUILD, once again! - Essence Drain Contagion Trickster Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=BO8g3i78WkQ",
+          "video": "https://www.youtube.com/watch?v=BO8g3i78WkQ",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - The most RELIABLE TANKY BUILD for Ritual! - Blade Blast Chieftain Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=nj56ufm3PAI",
+          "video": "https://www.youtube.com/watch?v=nj56ufm3PAI",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - The BEST BOSS KILLER for Ritual - Steels Detonate Dead Necromancer",
+          "url": "https://www.youtube.com/watch?v=cUY6jgZ0zic",
+          "video": "https://www.youtube.com/watch?v=cUY6jgZ0zic",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - A different way of playing DD - Nugi's Detonate Dead Inquisitor",
+          "url": "https://www.youtube.com/watch?v=sVzA7HuHDD0",
+          "video": "https://www.youtube.com/watch?v=sVzA7HuHDD0",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Badger - Fireball Ignite Elementalist Build Guide - Budget Boss Killer!",
+          "url": "https://www.youtube.com/watch?v=dVJlfL7NOMA",
+          "video": "https://www.youtube.com/watch?v=dVJlfL7NOMA",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Big Ducks - Creeping Frost Occultist - Bossing on a Budget! - League Start Guide",
+          "url": "https://www.youtube.com/watch?v=dzCc8cJ7dNw",
+          "video": "https://www.youtube.com/watch?v=dzCc8cJ7dNw",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Big Ducks - Poison Blade Vortex Assassin - Destroy Bosses on a Budget",
+          "url": "https://www.youtube.com/watch?v=N1gMbQguCaE",
+          "video": "https://www.youtube.com/watch?v=N1gMbQguCaE",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Storm Brand Elementalist || Low Budget Starter || New Player Leveling Guide",
+          "url": "https://www.pathofexile.com/forum/view-thread/2936381",
+          "video": "",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Bagder - The Most OP Build I've Played - Ignite Discharge Elementalist",
+          "url": "https://www.youtube.com/watch?v=a8f5e4oeA0Y",
+          "video": "https://www.youtube.com/watch?v=a8f5e4oeA0Y",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Essence Drain & Contagion (or Bane/Soulrend) Trickster [SC/HC/Uber Elder/Shaper]",
+          "url": "https://www.pathofexile.com/forum/view-thread/1625254",
+          "video": "https://www.youtube.com/watch?v=1yQhV2hLOuk",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Beginner Friendly: Winter Orb Trickster [Uber Elder & Fast]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2485094",
+          "video": "https://www.youtube.com/watch?v=ej8gX85VfII",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Waggle - Poison BV MoM Assassin",
+          "url": "https://www.twitch.tv/videos/477371242",
+          "video": "https://www.youtube.com/watch?v=477371242",
+          "videothumb": "https://static-cdn.jtvnw.net/s3_vods/3cfb9d508ae482a02f13_waggle_35557728416_1291034857/thumb/thumb0-%{width}x%{height}.jpg",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Sirgog - Trickster Fireball Ignite (Non-Crit)",
+          "url": "https://www.youtube.com/watch?v=5FwETXbCIv4",
+          "video": "https://www.youtube.com/watch?v=5FwETXbCIv4",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Vortex Cold Snap DoT [HC/SC/Uber Elder/Shaper viable]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2474126",
+          "video": "https://www.youtube.com/watch?v=80xNQk_XpiM",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - EXPLODE maps with this! - Blade Blast Chieftain Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=xmGZ5NxERyM",
+          "video": "https://www.youtube.com/watch?v=xmGZ5NxERyM",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - The BEST League starter for Heist - ED Contagion Trickster",
+          "url": "https://www.youtube.com/watch?v=ZDI-LTpb-V4",
+          "video": "https://www.youtube.com/watch?v=ZDI-LTpb-V4",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - CRIT CRACK Leaguestarter - Crackling Lance Inquisitor",
+          "url": "https://www.youtube.com/watch?v=U7--hhULLKU",
+          "video": "https://www.youtube.com/watch?v=U7--hhULLKU",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "ItsYoji - Flame Wall OP? Fireball Ignite Trickster Build Plans - My Starter for Heist",
+          "url": "https://www.youtube.com/watch?v=k7jTfFAG5TI",
+          "video": "https://www.youtube.com/watch?v=k7jTfFAG5TI",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ghazzy - My 3.12 Heist League Starter Build - Dark Pact",
+          "url": "https://www.youtube.com/watch?v=LMtS23sCQwI",
+          "video": "https://www.youtube.com/watch?v=LMtS23sCQwI",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Stress-Free PoE - CURSING CI |SSF the Atlas w/ 1 Button & Any Gear|From League Start 2 End",
+          "url": "https://www.pathofexile.com/forum/view-thread/2687863",
+          "video": "https://www.youtube.com/watch?v=eaX8LXlf61Q",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Arc Miner & Traps Starter Build Guide",
+          "url": "https://www.youtube.com/watch?v=X98vC0QxChg",
+          "video": "https://www.youtube.com/watch?v=X98vC0QxChg",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Sirgog - 3.9 Ready League Start Build - Trickster Fireball Ignite",
+          "url": "https://www.youtube.com/watch?v=MiF5kAgOiN8",
+          "video": "https://www.youtube.com/watch?v=MiF5kAgOiN8",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Volatile Dead Spellslinger Necromancer",
+          "url": "https://www.youtube.com/watch?v=RzgzJdPEnL4",
+          "video": "https://www.youtube.com/watch?v=RzgzJdPEnL4",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Fireball Spellslinger Elementalist League Starter",
+          "url": "https://www.youtube.com/watch?v=9UvAsPxctMY",
+          "video": "https://www.youtube.com/watch?v=9UvAsPxctMY",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Karvarousku - ED/Contagion",
+          "url": "https://www.youtube.com/watch?v=DHn-8wvkEBI",
+          "video": "https://www.youtube.com/watch?v=DHn-8wvkEBI",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ziz - 3.7 Legion Essence Drain Contagion Starter Build Guide!",
+          "url": "https://www.youtube.com/watch?v=9gLo047shkI",
+          "video": "https://www.youtube.com/watch?v=9gLo047shkI",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Bashtart's SPARK INQUISITOR * farming like a god! :)",
+          "url": "https://www.pathofexile.com/forum/view-thread/1838569",
+          "video": "https://www.youtube.com/watch?v=4eMEXCi8rbk",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Uly's Purifying Flame Inquisitor - a beginner guide for all content [6k+ Life, 3 million DPS]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2451416",
+          "video": "https://www.youtube.com/watch?v=gIJV4HX06Dg",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Trickster MoM Orb of Storms League Start (Cheap & Fast) Nerf Wont Hurt",
+          "url": "https://www.pathofexile.com/forum/view-thread/2509015",
+          "video": "https://www.youtube.com/watch?v=RIynB-ZOH60",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Chunky Chargrill Chieftain - Incinerate CwC Volatile Dead - [2x Demigod winning build]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2199822",
+          "video": "https://www.youtube.com/watch?v=BlightedSmallDelicataBlargNaut",
+          "videothumb": "https://clips-media-assets2.twitch.tv/AT-cm%7C293833197-preview-480x272.jpg",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Occultist/Trickster Bane SSF SHC lvl 100 Rank 3 Build guide / All Content / lvl 100 viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/2466756",
+          "video": "",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Divine Ire Inquisitor [HC viable][SSF viable]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2451652",
+          "video": "",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Shock Nova EB MoM Inquisitor: Shockingly Fast, Powerful & Tanky [League Start & HC Viable]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2514382",
+          "video": "",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Blade Blast Blade Vortex Trickster",
+          "url": "https://www.youtube.com/watch?v=9tfqDaF-r2c",
+          "video": "https://www.youtube.com/watch?v=9tfqDaF-r2c",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Spellslinger VD Necromancer",
+          "url": "https://www.youtube.com/watch?v=dbuCoyi8KT0",
+          "video": "https://www.youtube.com/watch?v=dbuCoyi8KT0",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        }
+      ]
+    },
+    {
+      "type": "ranged",
+      "builds": [
+        {
+          "title": "Crimson Bow Gladiator, RoA + Puncture | Pure Bleed Build | All Content | In-depth",
+          "url": "https://www.pathofexile.com/forum/view-thread/2247655",
+          "video": "https://www.youtube.com/watch?v=GVTM01-jbBg",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Caustic Arrow Raider, DoT Focused | 6k+ Health | All Content | In-depth",
+          "url": "https://www.pathofexile.com/forum/view-thread/2077932",
+          "video": "https://www.youtube.com/watch?v=kxT3wKfuJZM",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Toxic Rain + Caustic Arrow | 5-10m Sirus DPS | Fast + Durable | 50c Budget/SSF Uber Elder",
+          "url": "https://www.pathofexile.com/forum/view-thread/2467666",
+          "video": "https://www.youtube.com/watch?v=zdyzUjrcE08",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, tanky, easy and fun to play, beginner friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2551841",
+          "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Remi's Toxic Rain Deadeye | Beginner guide | All Content | Stronger than ever",
+          "url": "https://www.pathofexile.com/forum/view-thread/2866127",
+          "video": "https://www.youtube.com/watch?v=JGb5AyfLMEU",
+          "versions": [
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "ranged",
+          "title": "Bleedsplosion Bow Gladiator | League Starter | Beginner Friendly | Assailum",
+          "url": "https://www.pathofexile.com/forum/view-thread/2894207",
+          "video": "https://www.youtube.com/watch?v=9AqJ3vvwCww",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "ranged",
+          "title": "Spectral Shield Throw Bleed Gladiator - tanky & fast mapping - good scaling - all content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2672813",
+          "video": "https://www.youtube.com/watch?v=N80uwaimHRM",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "ranged",
+          "title": "Lancing Steel Raider - ALL* Content - From leveling to 100 million dps guide",
+          "url": "https://www.pathofexile.com/forum/view-thread/3077253",
+          "video": "https://www.youtube.com/watch?v=lpZGDkspRGg",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "ranged",
+          "title": "Caustic Arrow CI Trickster Build Guide",
+          "url": "https://www.poe-vault.com/guides/caustic-arrow-ci-trickster-build-guide",
+          "video": "https://www.youtube.com/watch?v=vMuqK95WTXM",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Brittleknee"
+        },
+        {
+          "type": "ranged",
+          "title": "Burning Arrow Elementalist",
+          "url": "https://www.youtube.com/watch?v=9gjRshfmi_s",
+          "video": "https://www.youtube.com/watch?v=9gjRshfmi_s",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Jaamon"
+        },
+        {
+          "type": "ranged",
+          "title": "FIRE KB + BURNING ARROW - Best Clear and Easiest Burning Arrow League Start",
+          "url": "https://www.youtube.com/watch?v=CSye-pb5V3Y",
+          "video": "https://www.youtube.com/watch?v=CSye-pb5V3Y",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Tripolar Bear"
+        },
+        {
+          "type": "ranged",
+          "title": "STILL a super solid farmer - Toxic Rain Raider League Starter",
+          "url": "https://www.youtube.com/watch?v=6uVj-OXy-Gs",
+          "video": "https://www.youtube.com/watch?v=6uVj-OXy-Gs",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "Hasunic's leaguestart TR/CA | Ailment Immunity | SSF",
+          "url": "https://www.pathofexile.com/forum/view-thread/2712106",
+          "video": "https://www.youtube.com/watch?v=KiXFU7iozFk",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - LIGHTNING ARROW/BARRAGE Deadeye Build / Zap your way forward! UBER ELDER DONE!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2611619",
+          "video": "https://www.youtube.com/watch?v=uhPZXq6mzgQ",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Devon's Impale Barrage/RoA Deadeye | All content viable | 3mil+ DPS",
+          "url": "https://www.pathofexile.com/forum/view-thread/2756995",
+          "video": "https://www.youtube.com/watch?v=E0LBg90xJ8E",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - TOXIC RAIN + HERALD OF AGONY Pathfinder Build (6-8K life) (UBER ELDER done!) +VIDEO GUIDE!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2208830",
+          "video": "https://www.youtube.com/watch?v=oOxy9DUkx6g",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Brittleknee’s Caustic Arrow CI Trickster - Farm Awakener Comfortably!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2778181",
+          "video": "https://www.youtube.com/watch?v=vMuqK95WTXM",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Spectral Shield Throw Deadeye - Frigid Table Thrower",
+          "url": "https://www.pathofexile.com/forum/view-thread/2548646",
+          "video": "https://www.youtube.com/watch?v=Wby46F7e0oM",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Elemental Hit Ascendant [Deathless Uber Elder Video]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2183938",
+          "video": "https://www.youtube.com/watch?v=JNuBNgd0Ycs",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Burning Arrow ignite \"Elementalist\" | End game content | POB | Videos | 2-3M fullpower ignite",
+          "url": "https://www.pathofexile.com/forum/view-thread/2686750",
+          "video": "https://www.youtube.com/watch?v=knc2A8W_CWo",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Big Ducks - Toxic Rain Trickster - Zooming Through Endgame - League Start Guide",
+          "url": "https://www.youtube.com/watch?v=W2y7ihxXUss",
+          "video": "https://www.youtube.com/watch?v=W2y7ihxXUss",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Aquarism's Ice Shot [All Content]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2660684",
+          "video": "",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Champion Impale TS/Barrage | STRONG League Starter | Leveling guide | Still 8m+ DPS",
+          "url": "https://www.pathofexile.com/forum/view-thread/2560435",
+          "video": "https://www.youtube.com/watch?v=_3m-tgSslMw",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "HowTo Lightning Arrow Slayer - Beginner friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2127541",
+          "video": "https://www.youtube.com/watch?v=ReOu-MNuL4Y",
+          "versions": [
+            "3.7",
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The Hitman, Elemental Hit Slayer (League Starter to Endgame / 800+ Delve)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2514752",
+          "video": "https://www.youtube.com/watch?v=DsD-NUDKSOs",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The Most Well-Rounded Starter Build In PoE - Detailed Leveling Guide for CA/TR Starter by Asmodeus",
+          "url": "https://www.pathofexile.com/forum/view-thread/2998087",
+          "video": "https://www.youtube.com/watch?v=iuY3ifzuIsE",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Stress-Free PoE - Deaditor, \"EH\"? |SSF the Atlas w/ 1 Button & Any Gear|From League Start 2 End",
+          "url": "https://www.pathofexile.com/forum/view-thread/2688440",
+          "video": "https://www.youtube.com/watch?v=gAOWJnAGJfk",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Deadeye Explosive Arrow Starter Build Guide",
+          "url": "https://www.youtube.com/watch?v=Li_OBaPyibA",
+          "video": "https://www.youtube.com/watch?v=Li_OBaPyibA",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Steels 3.10 Bleed Bow Gladiator - Path of Exile Delirium League Starter",
+          "url": "https://www.youtube.com/watch?v=mfN5xM8sZMY",
+          "video": "https://www.youtube.com/watch?v=mfN5xM8sZMY",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        }
+      ]
+    },
+    {
+      "type": "totems",
+      "builds": [
+        {
+          "title": "Wallach's Hierophant Freezing Pulse Totems",
+          "url": "https://www.pathofexile.com/forum/view-thread/2685450",
+          "video": "https://www.youtube.com/watch?v=K8ZDMNoUl1w",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The Warchief | [Facebreaker] Ancestral Warchief | Uber Boss Farmer | Beginner -> Expert",
+          "url": "https://www.pathofexile.com/forum/view-thread/1694250",
+          "video": "https://www.youtube.com/watch?v=-UQnZ7fHcow",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Elemental Hit Ballista Totem Hiero | Budget Friendly | Optional 6L | League Start to Endgame",
+          "url": "https://www.pathofexile.com/forum/view-thread/3005581",
+          "video": "https://www.youtube.com/watch?v=0e4yDf7eD34",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "totems",
+          "title": "The Toxic Tank! SSF, HC, Gauntlet, and Leaguestart Viable. UE and Uber Atziri Down Deathless.",
+          "url": "https://www.pathofexile.com/forum/view-thread/3078246",
+          "video": "https://www.youtube.com/watch?v=EX5CR-VNuNs",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "totems",
+          "title": "Explosive Arrow Totems Heirophant",
+          "url": "https://balormage.com/build-guides/explosive-arrow-totems",
+          "video": "",
+          "versions": [
+            "3.14"
+          ],
+          "author": "BalorMage"
+        },
+        {
+          "title": "Angry Roleplayer - SIEGE BALLISTA HIEROPHANT Build > Iron Commander & 15 Ballistas! CHEAP LEAGUE STARTER!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2731974",
+          "video": "https://www.youtube.com/watch?v=CsFE3syWkrA",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "MRSEANCONNORS CRIT / ARC TOTEMS - Hierophant 4.5 MIL DPS / BEGINNER FRIENDLY [All Content]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2456407",
+          "video": "https://www.youtube.com/watch?v=397432742",
+          "videothumb": "https://static-cdn.jtvnw.net/s3_vods/f9926e7a3219c6bea040_mrseanconnor_64101443270_7305845219//thumb/thumb397432742-%{width}x%{height}.jpg",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Wallach's Hierophant Holy Flame Totems",
+          "url": "https://www.pathofexile.com/forum/view-thread/2784985",
+          "video": "https://www.youtube.com/watch?v=GDBmAMpR_g0",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "HOLY FLAME TOTEM, MARAUDER - CHIEFTAIN / BUDGET FRIENDLY - 4.6 MIL DPS [ ALL CONTENT ]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2452164/page/1",
+          "video": "https://www.youtube.com/watch?v=399015124",
+          "videothumb": "https://static-cdn.jtvnw.net/s3_vods/a5d1825df3803a7a7a68_mrseanconnor_10162920444_9390190554//thumb/thumb399015124-%{width}x%{height}.jpg",
+          "versions": [
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - ANCESTRAL WARCHIEF CHIEFTAIN Build (2020 Edition).Cheap,Strong League Starter, 15M+ DPS!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2769163",
+          "video": "https://www.youtube.com/watch?v=wxLohWMLDEE",
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "FaceBreakin' Ancestral Warchief Hiero | Budget Friendly | User Friendly | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2623691",
+          "video": "https://www.youtube.com/watch?v=lTbFYk0MWjQ",
+          "versions": [
+            "3.1",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Glacial Cascade Totems [ALL Content in the Game!] Deathless Uber Elder",
+          "url": "https://www.pathofexile.com/forum/view-thread/1976479",
+          "video": "https://www.youtube.com/watch?v=oAVvQTlif20",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "OneShotKill Elemental Hit Ballista Hiero - 9.6 million DPS - EZ Boss Killer + budget friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2224772",
+          "video": "https://www.youtube.com/watch?v=IXpcvkNbeUI",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "LiftingNerdBro's Uber Lab Warchief Totem Champion - Great League Starter!",
+          "url": "https://www.pathofexile.com/forum/view-thread/1960538",
+          "video": "https://www.youtube.com/watch?v=hKjASkoN_i8",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Wallach's Hierophant Freezing Pulse Totems",
+          "url": "https://www.pathofexile.com/forum/view-thread/2547296",
+          "video": "https://www.youtube.com/watch?v=6ggn2zf5Bt8",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Wallach's Hierophant Holy Flame Totems",
+          "url": "https://www.pathofexile.com/forum/view-thread/2452308",
+          "video": "https://www.youtube.com/watch?v=2AEq9q9bP18",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "LiftingNerdBro's Tri/Quad Frostbolt Totems Hierophant - Strong League Starter!",
+          "url": "https://www.pathofexile.com/forum/view-thread/1931084",
+          "video": "https://www.youtube.com/watch?v=uu5yRiHz7Tg",
+          "versions": [
+            "3.7",
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - FlameBlast Totem CHIEFTAIN Starter Build Guide!",
+          "url": "https://www.youtube.com/watch?v=49YsKpRkGS8",
+          "video": "https://www.youtube.com/watch?v=49YsKpRkGS8",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Freezing Pulse Totem Hierophant | Cheap, Starter, Guide, Guardians, Shaper",
+          "url": "https://www.pathofexile.com/forum/view-thread/2102655",
+          "video": "https://www.youtube.com/watch?v=1vbW4I5M47c",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Milky's Scorching Ray Totems",
+          "url": "https://www.pathofexile.com/forum/view-thread/1904823",
+          "video": "https://www.youtube.com/watch?v=98pqZI-gLC0",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ravioli's Divine Ire Totems - League Starter - SHAPER DOWN - Kamehameha All Content!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2465264",
+          "video": "https://www.youtube.com/watch?v=WzmzhobGVPo",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Arc Totems Hierophant - Starter + Budget + All Content + Console Friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2514602",
+          "video": "https://www.youtube.com/watch?v=9tWaop4LPb4",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "HOLY FLAME TOTEM, TEMPLAR - HIEROPHANT / 2.5 MIL DPS, BUDGET FRIENDLY! UBER ELDER KILL",
+          "url": "https://www.pathofexile.com/forum/view-thread/2514325",
+          "video": "https://www.youtube.com/watch?v=435198454",
+          "videothumb": "https://static-cdn.jtvnw.net/s3_vods/bbe6f317a4bbb1a87bd4_mrseanconnor_97121198236_3152876086//thumb/thumb435198454-%{width}x%{height}.jpg",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        }
+      ]
+    },
+    {
+      "type": "rf",
+      "builds": [
+        {
+          "type": "rf",
+          "title": "Righteous Fire Ultimatum League Starter",
+          "url": "https://www.youtube.com/watch?v=SwdtdIVy-TA",
+          "video": "https://www.youtube.com/watch?v=SwdtdIVy-TA",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Pohx"
+        },
+        {
+          "title": "Righteous Fire Juggernaut / Chieftain",
+          "url": "https://www.pathofexile.com/forum/view-thread/1985355",
+          "video": "https://www.youtube.com/watch?v=5v0-zX-Thk4",
+          "versions": [
+            "3.7",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Death’s Oath Occultist - Death Whisperer(CI)",
+          "url": "https://www.pathofexile.com/forum/view-thread/1966637",
+          "video": "https://www.youtube.com/watch?v=9G2T-mE_XUY",
+          "versions": [
+            "3.7",
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Stress Free PoE - HOLY RF |Clear the Atlas with YOUR Items at YOUR Pace (SSF & Co-op)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2627935",
+          "video": "https://www.youtube.com/watch?v=Zy01REo8HYQ",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ultimate Guide to Righteous Fire Templar - From 0 budget starter to All Content simplified.",
+          "url": "https://www.pathofexile.com/forum/view-thread/2923038",
+          "video": "https://www.youtube.com/watch?v=79c1g8ZAZc0",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Stress-Free PoE- ENDURING FIRE (RF) |SSF the Atlas w/ 1Button & Any Gear|From League Start 2 End",
+          "url": "https://www.pathofexile.com/forum/view-thread/2687845",
+          "video": "https://www.youtube.com/watch?v=Zy01REo8HYQ",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        }
+      ]
+    },
+    {
+      "type": "mines",
+      "builds": [
+        {
+          "title": "Fire&Flamethrower Traps Saboteur/Strongest Combo in the Game/League starter+Boss farmer",
+          "url": "https://www.pathofexile.com/forum/view-thread/2179053",
+          "video": "https://www.youtube.com/watch?v=CJj_PYxLUtk",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Purifying Flame Miner | League Starter | All content cleared | Leveling trees included.",
+          "url": "https://www.pathofexile.com/forum/view-thread/2943592",
+          "video": "https://www.youtube.com/watch?v=4Vr_-0t1v2Y",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "mines",
+          "title": "The Frozen Garden - Elementalist Permafreeze Arc Mines",
+          "url": "https://www.pathofexile.com/forum/view-thread/3071009",
+          "video": "https://www.youtube.com/watch?v=tyF7C-2F-NE",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "mines",
+          "title": "Toxic Rain - Leaguestart guide with in depth crafting and gearing section",
+          "url": "https://www.pathofexile.com/forum/view-thread/3078555",
+          "video": "https://www.youtube.com/watch?v=QW1xkRoYr74",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "mines",
+          "title": "Ice Trap Saboteur is INSANE - Freeze Bosses ONE BUTTON",
+          "url": "https://www.youtube.com/watch?v=okFDtR-6_pg",
+          "video": "https://www.youtube.com/watch?v=okFDtR-6_pg",
+          "versions": [
+            "3.14"
+          ],
+          "author": " Tripolar Bear"
+        },
+        {
+          "type": "mines",
+          "title": "BEST Early League Bossing - Purifying Flame Mines Saboteur League Start Guide",
+          "url": "https://www.youtube.com/watch?v=d0kne5HmUmA",
+          "video": "https://www.youtube.com/watch?v=4Vr_-0t1v2Y",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Big Ducks"
+        },
+        {
+          "title": "Toxic Rain Mine Saboteur",
+          "url": "https://balormage.com/build-guides/trmines/",
+          "video": "https://www.youtube.com/watch?v=VWRVAaUDsMU",
+          "versions": [
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": "BalorMage"
+        },
+        {
+          "title": "Ball Lightning/Arc Mines Saboteur",
+          "url": "https://balormage.com/build-guides/ball-lightning-mines/",
+          "video": "",
+          "versions": [
+            "3.9",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": "BalorMage"
+        },
+        {
+          "title": "Ice trap Saboteur - Freeze the Atlas",
+          "url": "https://www.pathofexile.com/forum/view-thread/2803662",
+          "video": "https://www.youtube.com/watch?v=HoobcXCnwv0",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "THE PURIFYING FLAME MINER | LEAGUE STARTER | A8 AWAKENER DOWN!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2686206",
+          "video": "https://www.youtube.com/watch?v=3Z0WnD-8XJI",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Beginner Friendly Arc/Ice Spear Mines | All Content | STEP BY STEP LVLING VIDEO GUIDE",
+          "url": "https://www.pathofexile.com/forum/view-thread/2249948",
+          "video": "https://www.youtube.com/watch?v=lXSCa5rMoW4",
+          "versions": [
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Doomfletch Split Arrow Mines - Starter Viable - End Game Capable - High Damage, Low Budget",
+          "url": "https://www.pathofexile.com/forum/view-thread/2784747",
+          "video": "https://www.youtube.com/watch?v=9JBhsYGjt_o",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "HC/SC/SSF All Content Miner - Any Mine Skill - LL/CI - 12k ES",
+          "url": "https://www.pathofexile.com/forum/view-thread/2660573",
+          "video": "https://www.youtube.com/watch?v=sAFC4ugC-5E",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - EXPLOSIVE / FLAMETHROWER TRAP Saboteur Build. Cheapest League Starter for ALL CONTENT!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2846126",
+          "video": "https://www.youtube.com/watch?v=xAEfDkXPLTY",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ryvenn's Arc Trap Build - 6k + EHP - 1.5M SHAPER DPS ALL CONTENT",
+          "url": "https://www.pathofexile.com/forum/view-thread/2250856",
+          "video": "https://www.youtube.com/watch?v=GBAt20B4tIk",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The highest DPS miner - 1.5 shapers per second",
+          "url": "https://www.pathofexile.com/forum/view-thread/2722511",
+          "video": "https://www.youtube.com/watch?v=dK-ugx5tqag",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Big Ducks - Purifying Flame Mines Saboteur - Screenwide Destruction - League Start Guide",
+          "url": "https://www.youtube.com/watch?v=LYY9h1a4iUg",
+          "video": "https://www.youtube.com/watch?v=LYY9h1a4iUg",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "ARC/LIGHTNING SPIRE TRAPS Saboteur Build (3-4 MILLION DPS, Uber Elder/Atziri EZ PZ)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2151195",
+          "video": "https://www.youtube.com/watch?v=d16LDajfXbM",
+          "versions": [
+            "3.7",
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Pohx - Blight League Start Build - Icicle Mine",
+          "url": "https://www.youtube.com/watch?v=WWzZIDSG0vY",
+          "video": "https://www.youtube.com/watch?v=WWzZIDSG0vY",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Octavian - Toxic Rain Mines",
+          "url": "https://www.youtube.com/watch?v=p9o3T42_sEo",
+          "video": "https://www.youtube.com/watch?v=p9o3T42_sEo",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Pohx - ARC Mine Sab League Starter Guide",
+          "url": "https://www.youtube.com/watch?v=9XyHyjb3W-Q",
+          "video": "https://www.youtube.com/watch?v=9XyHyjb3W-Q",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Sirgog - My Planned 3.9 League Start Build - Deadeye Ele Hit Mines (tri-element, EE)",
+          "url": "https://www.youtube.com/watch?v=042XSaPiOMA",
+          "video": "https://www.youtube.com/watch?v=9XyHyjb3W-Q",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Legion Lightning Trap [Tarke Cat]",
+          "url": "https://www.youtube.com/watch?v=lKwWrUTNt8o",
+          "video": "https://www.youtube.com/watch?v=lKwWrUTNt8o",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        }
+      ]
+    },
+    {
+      "type": "minions",
+      "builds": [
+        {
+          "title": "Flame Golem 101 - Complete Guide To Golemancy, All Bosses Down, Necro / Elementalist",
+          "url": "https://www.pathofexile.com/forum/view-thread/1827487",
+          "video": "https://www.youtube.com/watch?v=EXcYZmV8y5s",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Kay's Summoner // Spectres / Spiders / SRS / Golems / HoP // League start to Endgame",
+          "url": "https://www.pathofexile.com/forum/view-thread/2181275",
+          "video": "https://www.youtube.com/watch?v=nklMyb4qSYQ",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "iLL3aT’s Cold Skeleton Warriors/Archers/Mages - League Starter - All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2774965",
+          "video": "https://www.youtube.com/watch?v=UmDB8sI9u5Q",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The Fortified Summoner: CwC Raging Spirit Champion [All affixes! Sirus/Mapping Vids]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2663727",
+          "video": "https://www.youtube.com/watch?v=qsEFWt9t4z0",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "KING OF ALL SUMMONERS. Zombies & Skeletons & Spectres on STEROIDS! | League-Start to End-Game",
+          "url": "https://www.pathofexile.com/forum/view-thread/2642810",
+          "video": "https://www.youtube.com/watch?v=lzoZJ87BR9A",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "minions",
+          "title": "SRS Bomber | League Start to Endgame | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
+          "video": "https://www.youtube.com/watch?v=0Yg4zEdFUDs",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Moosseolini's Holy Relics Guardian",
+          "url": "https://www.pathofexile.com/forum/view-thread/2717739",
+          "video": "https://www.youtube.com/watch?v=Uo61k104dLg",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Dominating Blow Guardian",
+          "url": "https://balormage.com/build-guides/dominatingblow/",
+          "video": "https://www.youtube.com/watch?v=GVVdB3XSnfQ",
+          "versions": [
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": "BalorMage"
+        },
+        {
+          "title": "Dominating Blow Guardian",
+          "url": "https://www.poe-vault.com/guides/dominating-blow-guardian-build-guide",
+          "video": "https://www.youtube.com/watch?v=Bkmt5sm3xe8",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "title": "Summon Raging Spirits Necromancer",
+          "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=ejzwhD7V3lA",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "title": "Animate Weapon Necromancer",
+          "url": "https://www.poe-vault.com/guides/animate-weapon-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=oEPmTAEasWE",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "title": "Soulwrest Necromancer",
+          "url": "https://www.poe-vault.com/guides/soulwrest-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=Gxtoq57Vqwo",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "title": "Lich Queen Skeleton Summoner",
+          "url": "https://www.poe-vault.com/guides/lich-queen-skeleton-summoner-build-guide",
+          "video": "https://www.youtube.com/watch?v=AOMxbgMQX04",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "title": "Dark Pact Necromancer",
+          "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=yi9hT_xw_UA",
+          "versions": [
+            "3.13",
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "type": "minions",
+          "title": "The Spectre Summoner Build Guide",
+          "url": "https://www.poe-vault.com/guides/the-spectre-summoner-build-guide",
+          "video": "https://www.youtube.com/watch?v=qdwNK2IkYuM",
+          "versions": [
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "type": "minions",
+          "title": "Cold Convert Golem Elementalist",
+          "url": "https://www.poe-vault.com/guides/cold-convert-golem-elementalist-build-guide",
+          "video": "https://www.youtube.com/watch?v=KIOo21hgssg",
+          "versions": [
+            "3.14"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
+          "type": "minions",
+          "title": "Summoner League Starter Guide For Necromancer Ascendancy",
+          "url": "https://www.youtube.com/watch?v=P_5HNsMGiIM",
+          "video": "https://www.youtube.com/watch?v=P_5HNsMGiIM",
+          "versions": [
+            "3.14"
+          ],
+          "author": "TheGAM3Report1"
+        },
+        {
+          "type": "minions",
+          "title": "BEEEEEEEEEEEEEEEES!! - Popcorn Summon Raging Spirits Necromancer League Starter",
+          "url": "https://www.youtube.com/watch?v=PDg7-dbeTYo",
+          "video": "https://www.youtube.com/watch?v=PDg7-dbeTYo",
+          "versions": [
+            "3.14"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "Brittleknee’s SRS Necromancer - Reliable, Beginner-Friendly. All content.",
+          "url": "https://www.pathofexile.com/forum/view-thread/2164014",
+          "video": "https://www.youtube.com/watch?v=6oHJcOixwvY",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "QUEEN OF NECROMANCY - STRONGEST ZOMBIES EVER? 60M+ DPS 7K+ LIFE MAX BLOCK 90% CHAOS RES",
+          "url": "https://www.pathofexile.com/forum/view-thread/2624013",
+          "video": "https://www.youtube.com/watch?v=r6EA_gnhp-w",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Cold ANIMATE WEAPON Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2780128",
+          "video": "https://www.youtube.com/watch?v=1LKUO5uCuBY",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - SRS Necromancer (2021 Edition) Build - 5M DPS on 1EX budget! Uber Elder DEATHLESS in 3 days!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2563355",
+          "video": "https://www.youtube.com/watch?v=PlYLgr6zjA0",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.12",
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Pure Phys Skeletons & Friends Necromancer — Beginner/SSF/Budget Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/2108003",
+          "video": "https://www.youtube.com/watch?v=e7Z2XrFA-Ls",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Frost Nova Golementalist | Deathless Uber Elder Gameplay | 9K EHP | 5 - 6 Million Shaper DPS",
+          "url": "https://www.pathofexile.com/forum/view-thread/2683618",
+          "video": "https://www.youtube.com/watch?v=Z3wLq8LhNjA",
+          "versions": [
+            "3.9",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Bashtart's HERALD OF PURITY GUARDIAN: cheap starter & endgame boss farmer with insane dps!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2672562",
+          "video": "https://www.youtube.com/watch?v=n6qXjIN8DFw",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Herald of Purity Summoner | 36/40 | Deathless Sirus lvl 8 | By far my strongest Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/2717409",
+          "video": "https://www.youtube.com/watch?v=n6qXjIN8DFw",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - HERALD OF AGONY MAX BLOCK GLADIATOR Build. Super Tanky & Cheap. Great League Starter!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2859994",
+          "video": "https://www.youtube.com/watch?v=OxVV7nB2JMU",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - SOULWREST PHANTASM NECROMANCER",
+          "url": "https://www.pathofexile.com/forum/view-thread/2866966",
+          "video": "https://www.youtube.com/watch?v=e5XwreajgZU",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Angry Roleplayer - BUDGET GOLEMANCER for everyone! (Carrion Golem Necromancer build from 1 to Sirus)",
+          "url": "https://www.pathofexile.com/forum/view-thread/2984662",
+          "video": "https://www.youtube.com/watch?v=pHy92ZM3h4k",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Skeleton Nebulomancer | Sirus tank & kill on a <5ex budget, NO AURASTACK ! Beginner-friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2997696",
+          "video": "https://www.youtube.com/watch?v=v6oBaIIrTZI",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Cyclone Summoner - Heralds of Agony and Purity, Summon Holy Relic - League starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2217712",
+          "video": "https://www.youtube.com/watch?v=rV7T6RwJ_5A",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "My new best Friend | CarryOn Golemancer [SC/HC] | Uber Elder",
+          "url": "https://www.pathofexile.com/forum/view-thread/2636385",
+          "video": "https://www.youtube.com/watch?v=F-3hjRXo3Qs",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "VOIDFORGE Chains of Command (75/75 block, 6K+ life), Cheap 20M dps, all content.",
+          "url": "https://www.pathofexile.com/forum/view-thread/2784989",
+          "video": "",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "TheGAM3Report1 - Skeleton Mages POB Dead Reckoning League Starter Budget Build",
+          "url": "https://www.youtube.com/watch?v=toQpHyMXXjI",
+          "video": "https://www.youtube.com/watch?v=toQpHyMXXjI",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Esoro - Zombie Necromancer –Build Guide– Strong, Tanky Summoner | 14,000+ Life/ES!",
+          "url": "https://www.youtube.com/watch?v=6T1ndsDe2KM",
+          "video": "https://www.youtube.com/watch?v=6T1ndsDe2KM",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Speaker for the Dead | 74 minion Summoner | League Starter, Leveling Guide | 4.7M Shaper DPS",
+          "url": "https://www.pathofexile.com/forum/view-thread/2242389",
+          "video": "https://www.youtube.com/watch?v=xIVrA3b5xbg",
+          "versions": [
+            "3.7",
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "SKELEMANCER (Skeleton Summoner) Necromancer Build (UBERS DONE). IDEAL for SSF",
+          "url": "https://www.pathofexile.com/forum/view-thread/2192730",
+          "video": "https://www.youtube.com/watch?v=K1bbILxeXLI",
+          "versions": [
+            "3.7",
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "SPECTRE SUMMONER (2019 Edition) Necromancer Build. BEST League Starter!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2255988",
+          "video": "https://www.youtube.com/watch?v=UWF-LijeVDc",
+          "versions": [
+            "3.7",
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Beginner's Build: Lich Queen Skeleton Summoner [Everything Viable]",
+          "url": "https://www.pathofexile.com/forum/view-thread/1704143",
+          "video": "https://www.youtube.com/watch?v=q1xRpnP7JLU",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Dominating Blow \"Call to Arms\" League Starter Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/2208101",
+          "video": "https://www.youtube.com/watch?v=GzuUU7z7Mno",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "The Kingsguard - LL Aurabot Dominating Blow Summoner Tank - Uber Elder and Atziri, Delve 600+",
+          "url": "https://www.pathofexile.com/forum/view-thread/2213233",
+          "video": "https://www.youtube.com/watch?v=2F2sll1lYCQ",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ghazzy - Zombie Summoner Build Guide Showcase",
+          "url": "https://www.youtube.com/watch?v=4Jd9IvrVog0",
+          "video": "https://www.youtube.com/watch?v=4Jd9IvrVog0",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ghazzy - Summon Raging Spirits (SRS) Summoner Build Guide Showcase",
+          "url": "https://www.youtube.com/watch?v=81VGRLAyRpQ",
+          "video": "https://www.youtube.com/watch?v=81VGRLAyRpQ",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Steel's Spectre Summoner Starter Build Guide!",
+          "url": "https://www.youtube.com/watch?v=cO2JdTyLZGY",
+          "video": "https://www.youtube.com/watch?v=cO2JdTyLZGY",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - BEEEEE'S Exploding SRS Starter Build Guide!",
+          "url": "https://www.youtube.com/watch?v=V4mj0cQUXBQ",
+          "video": "https://www.youtube.com/watch?v=V4mj0cQUXBQ",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Animate Weapon Necromancer [SC/HC - End-Game Boss Viable]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2796362",
+          "video": "https://www.youtube.com/watch?v=oEPmTAEasWE",
+          "versions": [
+            "3.11",
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Beginner's Build: Soulwrest Summoner",
+          "url": "https://www.pathofexile.com/forum/view-thread/2239049",
+          "video": "https://www.youtube.com/watch?v=3Stsyla9W24",
+          "versions": [
+            "3.9",
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "A CI/LL Tri-Curse Herald of Agony Occultist [Deathless Uber Elder, League Starter]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2237214",
+          "video": "https://www.youtube.com/watch?v=iTzrZhO09pc",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - ANIMATE WEAPON Necro",
+          "url": "https://www.youtube.com/watch?v=lhGLVMKy95M",
+          "video": "https://www.youtube.com/watch?v=lhGLVMKy95M",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        }
+      ]
+    },
+    {
+      "type": "misc",
+      "builds": [
+        {
+          "type": "misc",
+          "title": "Mathil - Ultimatum Starter Builds & A Very Small Ritual Builds Review",
+          "url": "https://www.youtube.com/watch?v=yAG_rOsxxAI",
+          "video": "https://www.youtube.com/watch?v=yAG_rOsxxAI",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "misc",
+          "title": "Big Ducks - Top 5 BEST Builds For League Start - Full Guides Included",
+          "url": "https://www.youtube.com/watch?v=FLEWbOwexHs",
+          "video": "https://www.youtube.com/watch?v=FLEWbOwexHs",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "type": "misc",
+          "title": "Navandis Gaming - Ultimatum League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=xJ7I8ZtIPsE",
+          "video": "https://www.youtube.com/watch?v=xJ7I8ZtIPsE",
+          "versions": [
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Wrecker of Days' Stress-Free PoE \"One Stop Shop!\"",
+          "url": "https://www.pathofexile.com/forum/view-thread/2606288",
+          "video": "",
+          "versions": [
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Compiled List of Streamer Starter Builds for Ritual League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/kxwd89/compiled_list_of_streamer_starter_builds_for/",
+          "video": "",
+          "author": "u/Ryant12",
+          "versions": [
+            "3.13"
+          ]
+        },
+        {
+          "title": "Compiled List of Streamer Starter Builds for Ultimatum League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/ms7ikt/compiled_list_of_streamer_starter_builds_for/",
+          "video": "",
+          "author": "u/Ryant12",
+          "versions": [
+            "3.14"
+          ]
+        },
+        {
+          "title": "Esoro's Best League Starter Builds for Echoes of the Atlas!",
+          "url": "https://www.youtube.com/watch?v=-k6GOfdQQec",
+          "video": "https://www.youtube.com/watch?v=-k6GOfdQQec",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "GhazzyTV - Some Fine League Start Suggestions For 3.13",
+          "url": "https://www.youtube.com/watch?v=I2iGHGTRQ-U",
+          "video": "https://www.youtube.com/watch?v=I2iGHGTRQ-U",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Mathil's Ritual League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=uZhCzjPUU1A",
+          "video": "https://www.youtube.com/watch?v=uZhCzjPUU1A",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "DonTheCrown - 3 Solid League Starters",
+          "url": "https://www.youtube.com/watch?v=O36dvoQK4vg",
+          "video": "https://www.youtube.com/watch?v=O36dvoQK4vg",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Big Ducks - TOP 5 BEST LEAGUE START BUILDS",
+          "url": "https://www.youtube.com/watch?v=0Tmx0JnECSM",
+          "video": "https://www.youtube.com/watch?v=0Tmx0JnECSM",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - Gauntlet build suggestions for ALL CLASSES",
+          "url": "https://www.youtube.com/watch?v=Tvt8FF1nB8g",
+          "video": "https://www.youtube.com/watch?v=Tvt8FF1nB8g",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "David Allen - Path of Exile 3.13 Ritual League Top Starter Builds",
+          "url": "https://www.requnix.com/path-of-exile-3-13-ritual-top-starter-builds",
+          "video": "",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "David Allen - Path of Exile 3.13 Ritual Top Build Overview & Statistics",
+          "url": "https://www.requnix.com/path-of-exile-3-13-ritual-top-build-statistics",
+          "video": "",
+          "versions": [
+            "3.13"
+          ],
+          "author": ""
+        },
+        {
+          "title": "LiftingNerdBro - 5 Awesome Starter Builds for Blight League",
+          "url": "https://www.youtube.com/watch?v=dSwbqKjqifM",
+          "video": "https://www.youtube.com/watch?v=dSwbqKjqifM",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Tarke - Blight Starter Trees Mine, Trap, Ignite, Sab, Scion, Deadeye, Trickster",
+          "url": "https://www.youtube.com/watch?v=PN9aI5MJeFA",
+          "video": "https://www.youtube.com/watch?v=PN9aI5MJeFA",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Mathil - Starter Builds for Blight League",
+          "url": "https://www.youtube.com/watch?v=e2M-4_QlpuQ",
+          "video": "https://www.youtube.com/watch?v=e2M-4_QlpuQ",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Compiled List of Streamer Starter Builds for Blight League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/d0ay24/compiled_list_of_streamer_starter_builds_for/",
+          "video": "",
+          "versions": [
+            "3.8"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Mathil - Starter Builds For Heist League",
+          "url": "https://www.youtube.com/watch?v=ce4fq1rKjVw",
+          "video": "https://www.youtube.com/watch?v=ce4fq1rKjVw",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Big Ducks - 5 BEST LEAGUE START BUILDS - Full League Start Guides",
+          "url": "https://www.youtube.com/watch?v=Z0ekuQEz-yE",
+          "video": "https://www.youtube.com/watch?v=Z0ekuQEz-yE",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ghazzy - Some 3.12 Heist League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=_WSkhTnywj8",
+          "video": "https://www.youtube.com/watch?v=_WSkhTnywj8",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Nathan Walker - Experimental Starters",
+          "url": "https://www.youtube.com/watch?v=dXnufMyRcP0",
+          "video": "https://www.youtube.com/watch?v=dXnufMyRcP0",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Badger - 19 BUILDS for Endless Delve Race/League (One for Each Ascendancy!) ~ 100% SSF and HC Viable",
+          "url": "https://www.youtube.com/watch?v=QpDSAhwQ4UI",
+          "video": "https://www.youtube.com/watch?v=QpDSAhwQ4UI",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Zizaran - COMPETITIVE Builds for Flashback! - Builds for all Ascendancies",
+          "url": "https://www.youtube.com/watch?v=N7VYk0OvWMc",
+          "video": "https://www.youtube.com/watch?v=N7VYk0OvWMc",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Big Ducks - Heist Flashback - Top Builds to Smash the Event!",
+          "url": "https://www.youtube.com/watch?v=UyX6OPeGadA",
+          "video": "https://www.youtube.com/watch?v=UyX6OPeGadA",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "u/Ryant12 - Compiled List of Streamer Starter Builds for Heist League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/iv8uja/compiled_list_of_streamer_starter_builds_for/",
+          "video": "",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "u/irondraconis - Streamer/Content creator's league starter suggestions",
+          "url": "https://www.reddit.com/r/pathofexile/comments/iv7hc8/streamercontent_creators_league_starter/",
+          "video": "",
+          "versions": [
+            "3.12"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Tarke Cat - 3.9 Metamorph Starter Builds Ignite, Chaos & Cold DoT",
+          "url": "https://www.youtube.com/watch?v=s_7EgukIuAg",
+          "video": "https://www.youtube.com/watch?v=s_7EgukIuAg",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Esoro's Best League Starter Builds!",
+          "url": "https://www.youtube.com/watch?v=43tGLUKG30Q",
+          "video": "https://www.youtube.com/watch?v=43tGLUKG30Q",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "LiftingNerdBro - 5 Strong PoE Starter Builds for Metamorph (2019)",
+          "url": "https://www.youtube.com/watch?v=-LorwGT0oJA",
+          "video": "https://www.youtube.com/watch?v=-LorwGT0oJA",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Navandis - Metamorph League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=GJUIHWMnd84",
+          "video": "https://www.youtube.com/watch?v=GJUIHWMnd84",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Nathan Walker - Best League Starters",
+          "url": "https://www.youtube.com/watch?v=9Zvnkg5Fniw",
+          "video": "https://www.youtube.com/watch?v=9Zvnkg5Fniw",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "GoodGuyGaming - 6 Builds for Metamorph League",
+          "url": "https://www.youtube.com/watch?v=kazXd9AB4ck",
+          "video": "https://www.youtube.com/watch?v=kazXd9AB4ck",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Mathil - Metamorph 3.9 League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=njWOxIWkFCc",
+          "video": "https://www.youtube.com/watch?v=njWOxIWkFCc",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Compiled List of Streamer Starter Builds for Metamorph League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/e9y20u/compiled_list_of_streamer_starter_builds_for/",
+          "video": "",
+          "versions": [
+            "3.9"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Esoro's Best League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=DKoOwPnULM0",
+          "video": "https://www.youtube.com/watch?v=DKoOwPnULM0",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Ghazzy - 5 GREAT LEAGUE STARTERS 3.11 HARVEST LEAGUE",
+          "url": "https://www.youtube.com/watch?v=PkI_CFE3fYc",
+          "video": "https://www.youtube.com/watch?v=PkI_CFE3fYc",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Nathan Walker - Path of Exile: HARVEST | Best League Starters",
+          "url": "https://www.youtube.com/watch?v=WfS7-mnl7O0",
+          "video": "https://www.youtube.com/watch?v=WfS7-mnl7O0",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "GoodGuyGaming - 4 Strong League Starters (new player friendly)",
+          "url": "https://www.youtube.com/watch?v=TgjlKjKw-Bs",
+          "video": "https://www.youtube.com/watch?v=TgjlKjKw-Bs",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "BigDucks BEST BUILDS For League Start",
+          "url": "https://www.youtube.com/watch?v=CQ3REG3HXS0",
+          "video": "https://www.youtube.com/watch?v=CQ3REG3HXS0",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Mathil - A Few Harvest League Starter Builds (Slams & Brands)",
+          "url": "https://www.youtube.com/watch?v=V_oayGhA-1E",
+          "video": "https://www.youtube.com/watch?v=V_oayGhA-1E",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "u/Ryant12 - Compiled List of Streamer Starter Builds for Harvest League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/hbsu5k/compiled_list_of_streamer_starter_builds_for/",
+          "video": "",
+          "versions": [
+            "3.11"
+          ],
+          "author": ""
+        },
+        {
+          "title": "[LiftingNerdBro] 5 Strong League Starters for Legion (2019)",
+          "url": "https://www.youtube.com/watch?v=5_ByvfCaphg",
+          "video": "https://www.youtube.com/watch?v=5_ByvfCaphg",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "[Mathil] Legion League Starter Builds - A Melee Extravaganza",
+          "url": "https://www.youtube.com/watch?v=ZltcpqUX-v4",
+          "video": "https://www.youtube.com/watch?v=ZltcpqUX-v4",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "[Pohx] League Starter Builds. IB Slayer & BowZerker",
+          "url": "https://www.youtube.com/watch?v=MbrNV-WJPyE",
+          "video": "https://www.youtube.com/watch?v=MbrNV-WJPyE",
+          "versions": [
+            "3.7"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Tarke Cat - 3.10 My Delirium League Starter Chaos DoT Trickster CA/ED/TR/Bane/SR",
+          "url": "https://www.youtube.com/watch?v=bGkAeNxQcTw",
+          "video": "https://www.youtube.com/watch?v=bGkAeNxQcTw",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Erva Ergul - [3.10] - 5 Delirium Leaguestarter Builds By ErvaErgul",
+          "url": "https://www.youtube.com/watch?v=Ydr0CoyM5vQ",
+          "video": "https://www.youtube.com/watch?v=Ydr0CoyM5vQ",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Esoro's Best League Starter Builds!",
+          "url": "https://www.youtube.com/watch?v=L3ReJPrS2nA",
+          "video": "https://www.youtube.com/watch?v=L3ReJPrS2nA",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "LiftingNerdBro - 5 Solid PoE Delirium Starter Builds (2020)",
+          "url": "https://www.youtube.com/watch?v=0FYCPwuOz2M",
+          "video": "https://www.youtube.com/watch?v=0FYCPwuOz2M",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "bashtart - TOP LEAGUE STARTERS - Delirium League",
+          "url": "https://www.youtube.com/watch?v=nCmzvAiVroI",
+          "video": "https://www.youtube.com/watch?v=nCmzvAiVroI",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Moorhuhn - 3.10 leaguestarters. Power Siphon, Blade Storm, Flicker Strike and Blade Blast",
+          "url": "https://www.youtube.com/watch?v=7HdRFJCzl6I",
+          "video": "https://www.youtube.com/watch?v=7HdRFJCzl6I",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "Mathil's Delirium League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=BpGoDwsMYII",
+          "video": "https://www.youtube.com/watch?v=BpGoDwsMYII",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        },
+        {
+          "title": "u/Ryant12 - Compiled List of Streamer Starter Builds for Delirium League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/fhu3ca/compiled_list_of_streamer_starter_builds_for/",
+          "video": "",
+          "versions": [
+            "3.10"
+          ],
+          "author": ""
+        }
+      ]
+    }
+  ]
+}

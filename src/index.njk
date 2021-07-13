@@ -1,0 +1,94 @@
+---
+layout: layouts/base.njk
+title: Eleventy with Vite
+# @formatter:off
+pagination:
+    data: versions
+    size: 1
+    alias: version
+# @formatter:on
+permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{ version.version | slug }}{% endif %}.html"
+---
+{% import "macros.njk" as macros %}
+{% set thisVersion = version.version %}
+{% set skiprf = false %}
+<div class="main">
+  <nav class="mainnav">
+    <ul>
+      {% for typekey, typename in data.types %}
+        {% if (skiprf and typekey != 'rf') or not skiprf %}
+          <li>
+            <a href="#{{ typekey }}" title="{{ typename }}">
+              <svg class="icon">
+                <use xlink:href="#icon-{{ typekey }}" />
+              </svg>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+  <div class="main-content">
+    <h1>
+      Path of Exile {{ thisVersion }} {{ version.name }} starter builds collection
+      (Razunter's picks)
+      {% if version.wip %}<br><span class="subtitle">Work in Progress!</span>{% endif %}
+      {% if thisVersion != data.currentVersion %}
+        <br><span class="subtitle">old version, new version <a
+          href="index.html">here</a></span>
+      {% endif %}
+    </h1>
+
+    {% for typekey, typename in data.types %}
+      {% if (skiprf and typekey != 'rf') or not skiprf %}
+        <div class="section">
+          <h2 class="section-title" id="{{ typekey }}">
+            <svg class="icon">
+              <use xlink:href="#icon-{{ typekey }}" />
+            </svg>
+            {{ typename }}
+          </h2>
+          <div class="builds-collection">
+            {% set buildList = data.buildList | selectAttrEq("type", typekey) | first %}
+            {% for build in buildList.builds %}
+              {% if build.versions | select("equalto", thisVersion) | length != 0 %}
+                {{ macros.video(build.title, build.url, build.video, build.videothumb) }}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+    <footer>
+      <ul class="previous-links">
+        <li class="nav-description">Version:</li>
+        {% for v in versions %}
+          {% if v.version == data.currentVersion %}
+            <li class="active">
+          {% else %}
+            <li>
+          {% endif %}
+          {% if loop.first %}
+            <a href="index.html">Current ({{ v.version }})</a>
+          {% else %}
+            <a href="old-{{ v.version }}.html">{{ v.version }}</a>
+          {% endif %}
+          </li>
+          {% if not loop.last %}
+            <li class="separator">|</li>{% endif %}
+        {% endfor %}
+      </ul>
+      <ul class="footer-links">
+        <li>
+          <a href="https://www.pathofexile.com/" target="_blank" rel="noopener">Path
+            of
+            Exile</a>
+        </li>
+        <li>
+          Site created by <a href="mailto:razunter@gmail.com"
+                             title="razunter@gmail.com">Razunter</a>
+        </li>
+      </ul>
+    </footer>
+  </div>
+</div>

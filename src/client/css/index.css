@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply text-poe-text bg-poe-bg;
+}
+
+a {
+    @apply text-poe-link transition-colors;
+
+    &:hover, &:focus {
+        @apply text-poe-link-hover;
+    }
+}

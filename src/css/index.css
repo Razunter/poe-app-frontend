@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-    @apply text-poe-text bg-poe-bg;
+
 }
 
 a {
@@ -11,5 +11,59 @@ a {
 
     &:hover, &:focus {
         @apply text-poe-link-hover;
+    }
+}
+
+.main {
+    max-width: 1800px;
+    min-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+}
+
+.mainnav {
+    @apply mr-2.5 w-10;
+    flex-shrink: 0;
+
+    @media screen and (min-width: 800px) {
+        @apply mr-10 w-20;
+    }
+
+    ul {
+        position: sticky;
+        left: 0;
+        top: 50%;
+        display: flex;
+        justify-content: space-around;
+        font-size: 1rem;
+        flex-wrap: wrap;
+        margin: 0;
+        writing-mode: vertical-lr;
+        transform: translateY(-50%);
+
+        li.active a {
+        //color: lighten($link-color, 30%);
+        }
+
+        a {
+            padding: 10px;
+            display: block;
+
+            svg {
+                width: 20px;
+                height: 20px;
+            }
+
+            @media screen and (min-width: 800px) and (min-height: 640px) {
+                padding: 20px;
+
+                svg {
+                    width: 40px;
+                    height: 40px;
+                }
+            }
+        }
     }
 }

@@ -12,6 +12,13 @@ module.exports = {
   },
   darkMode: false, // or 'media' or 'class'
   theme: {
+    screens: {
+      'sm': '500px',
+      'md': '800px',
+      'lg': '1024px',
+      'xl': '1200px',
+      '2xl': '1536px',
+    },
     extend: {
       colors: {
         'poe-bg': '#03191e',

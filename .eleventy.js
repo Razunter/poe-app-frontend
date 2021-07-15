@@ -33,6 +33,11 @@ module.exports = function (eleventyConfig) {
     // eleventyConfig.addWatchTarget("./src/js/*.js")
     // eleventyConfig.addWatchTarget("./src/assets/css/*.css")
 
+    eleventyConfig.setBrowserSyncConfig({
+      files: ['_site/**/*'],
+      open: true,
+    });
+
     // STATIC FILES
     eleventyConfig.addPassthroughCopy({'./src/static/': '/'});
     // eleventyConfig.addPassthroughCopy({'./src/js/': '/assets/'});

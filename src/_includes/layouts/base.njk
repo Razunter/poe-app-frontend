@@ -6,7 +6,7 @@
   <meta name="generator" content="Eleventy v{{ eleventyVersion }}" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title or metadata.title }}</title>
+  <title>{{ title or (renderData and renderData.title) or metadata.title }}</title>
   <meta name="author" content="{{ site.author }}">
   <meta name="robots" content="index,follow">
   <meta name="description" content="{{ description }}" />
@@ -17,15 +17,25 @@
   <meta name="twitter:creator" content="@Razunter">
   <link rel="stylesheet" href="{{ "/assets/main.bundle.css" | url }}">
 </head>
-<body>
-<header>
-  <h1>{{ title }}</h1>
-</header>
-<main>
-  {{ content | safe }}
-</main>
-<footer>
-</footer>
+<body class="text-poe-text bg-poe-bg">
+<div class="main pl-2.5 pr-2.5 pt-5 pb-5 md:pl-5 md:pr-5 md:pt-10 md:pb-10">
+  {% block nav %}
+  {% endblock nav %}
+  <div class="main-content">
+    <header>
+      {% block header %}
+      {% endblock %}
+    </header>
+    <main>
+      {% block content %}
+      {% endblock %}
+    </main>
+    <footer>
+      {% block footer %}
+      {% endblock %}
+    </footer>
+  </div>
+</div>
 <script async src="{{ "/assets/main.bundle.js" | url }}"></script>
 </body>
 </html>

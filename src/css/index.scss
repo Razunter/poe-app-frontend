@@ -1,62 +1,258 @@
-body {
+@use '~modern-normalize/modern-normalize.css';
 
+@mixin limit-lines($lines: 3) {
+  display: -webkit-box;
+  -webkit-line-clamp: $lines;
+
+  /* autoprefixer: ignore next */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+$gutter: 40px;
+$spacer: 40px;
+$link-color: lighten(#20a4f3, 5%);
+$background-color: #03191e;
+$text-color: #c1cfda;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 1.5rem;
+
+  @media screen and (min-width: 800px) {
+    font-size: 2.5rem;
+  }
+
+  .subtitle {
+    color: lighten($text-color, 10%);
+  }
+}
+
+h2 {
+  font-size: 1.3rem;
+
+  @media screen and (min-width: 800px) {
+    font-size: 2rem;
+  }
+}
+
+h1, h2 {
+  margin-bottom: $spacer;
+}
+
+body {
+  background: $background-color;
+  color: $text-color;
+  text-align: center;
+  line-height: 1.4;
 }
 
 a {
+  color: $link-color;
+  transition: color 0.2s ease-in-out;
+  text-decoration: none;
 
-    &:hover, &:focus {
-
-    }
+  &:hover,
+  &:focus {
+    color: lighten($link-color, 20%);
+  }
 }
 
 .main {
-    max-width: 1800px;
-    min-width: 300px;
-    width: 100%;
-    margin: 0 auto;
-    position: relative;
-    display: flex;
+  max-width: 1800px;
+  min-width: 300px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  padding-left: $gutter / 4;
+  padding-right: $gutter / 4;
+  padding-top: $spacer / 2;
+  padding-bottom: $spacer / 2;
+
+  @media screen and (min-width: 800px) {
+    padding-left: $gutter / 2;
+    padding-right: $gutter / 2;
+    padding-top: $spacer;
+    padding-bottom: $spacer;
+  }
 }
 
 .mainnav {
-    flex-shrink: 0;
+  width: 40px;
+  margin-right: $gutter / 4;
+  flex-shrink: 0;
+
+  @media screen and (min-width: 800px) {
+    width: 80px;
+    margin-right: $gutter;
+  }
+
+  ul {
+    position: sticky;
+    left: 0;
+    top: 50%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1rem;
+    flex-wrap: wrap;
+    margin: 0;
+    writing-mode: vertical-lr;
+    transform: translateY(-50%);
+    list-style: none;
+
+    li.active a {
+      color: lighten($link-color, 30%);
+    }
+
+    a {
+      padding: 10px;
+      display: block;
+
+      svg {
+        width: 20px;
+        height: 20px;
+      }
+
+      @media screen and (min-width: 800px) and (min-height: 640px) {
+        padding: 20px;
+
+        svg {
+          width: 40px;
+          height: 40px;
+        }
+      }
+    }
+  }
+}
+
+.main-content {
+  width: 100%;
+}
+
+.section + .section {
+  margin-top: $spacer;
+}
+
+.section-title {
+  color: #59f8e8;
+
+  .icon {
+    width: 1em;
+    vertical-align: -12%;
+    height: 1em;
+  }
+}
+
+.builds-collection {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: $gutter / 2;
+
+  @media screen and (min-width: 500px) {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+
+  @media screen and (min-width: 1200px) {
+    grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+    grid-gap: $gutter;
+  }
+}
+
+.build {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: lighten($background-color, 3%);
+  box-shadow: 0 0 3px rgba(lighten($background-color, 10%), .7), 0 0 14px rgba(lighten($background-color, 10%), .3);
+  padding: 10px;
+
+  @media screen and (min-width: 800px) {
+    padding: 20px;
+  }
+
+  iframe,
+  .novideo,
+  img {
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+    flex-grow: 1;
+  }
+
+  iframe, img {
+    min-height: 360px;
+  }
+
+  img {
+    cursor: pointer;
+    object-fit: contain;
+  }
+
+  .novideo {
+    width: 480px;
+    flex-grow: 1;
+    margin: 0 auto;
+    font-size: 1.3rem;
+    max-height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid $text-color;
+  }
+}
+
+.build-title {
+  width: 100%;
+
+  a {
+    @include limit-lines(2);
+    font-size: 1.2rem;
+    height: 1.2rem * 1.4 * 2;
+    display: block;
+    width: 100%;
 
     @media screen and (min-width: 800px) {
+      @include limit-lines(3);
+      font-size: 1.5rem;
+      height: 1.5rem * 1.4 * 3;
     }
+  }
+}
 
-    ul {
-        position: sticky;
-        left: 0;
-        top: 50%;
-        display: flex;
-        justify-content: space-around;
-        font-size: 1rem;
-        flex-wrap: wrap;
-        margin: 0;
-        writing-mode: vertical-lr;
-        transform: translateY(-50%);
+footer {
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 0px, rgba(255, 255, 255, 0.0) 5px);
+  padding-top: $spacer;
+  margin-top: $spacer;
 
-        li.active a {
-        //color: lighten($link-color, 30%);
-        }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
 
-        a {
-            padding: 10px;
-            display: block;
-
-            svg {
-                width: 20px;
-                height: 20px;
-            }
-
-            @media screen and (min-width: 800px) and (min-height: 640px) {
-                padding: 20px;
-
-                svg {
-                    width: 40px;
-                    height: 40px;
-                }
-            }
-        }
+    li {
+      padding: 0 .3rem;
     }
+  }
+
+  li.active a {
+    text-decoration: underline;
+    color: desaturate($link-color, 50%);
+  }
+
+  .previous-links {
+    justify-content: flex-start;
+    margin-bottom: $spacer / 4;
+  }
 }

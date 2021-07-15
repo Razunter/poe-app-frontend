@@ -5,6 +5,7 @@ import { terser } from 'rollup-plugin-terser';
 import { nodeResolve } from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
 import cssnano from "cssnano";
+import path from "path";
 
 const dev = process.env.NODE_ENV !== 'production';
 
@@ -23,10 +24,12 @@ if (!dev) {
 	);
 }
 
+console.log(path.join(__dirname, '/node_modules'))
+
 export default {
     input: 'src/js/index.js',
     output: {
-        sourcemap: false,
+        sourcemap: !dev,
         format: 'iife',
         name: 'main',
         file: '_site/assets/main.bundle.js',
@@ -38,8 +41,8 @@ export default {
             sourceMap: !dev,
             processor: () => postcss(postcssConfig),
             includePaths: [
-                // path.join(__dirname, '../../node_modules/'),
-                'node_modules/'
+                path.join(__dirname, '/node_modules'),
+                'node_modules'
             ]
         }),
         !dev && terser(),

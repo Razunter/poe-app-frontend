@@ -6,7 +6,6 @@
   <meta name="generator" content="Eleventy v{{ eleventyVersion }}" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="preload" href="{{ "/css/index.css" | url }}" as="style">
   <title>{{ title or metadata.title }}</title>
   <meta name="author" content="{{ site.author }}">
   <meta name="robots" content="index,follow">
@@ -17,9 +16,6 @@
   <meta property="og:url" content="{{ siteparams.siteURLforOG }}{{ page.url }}" />
   <meta name="twitter:creator" content="@Razunter">
   <link rel="stylesheet" href="{{ "/assets/main.bundle.css" | url }}">
-  <script>
-      window.lazyLoadOptions = {};
-  </script>
 </head>
 <body>
 <header>
@@ -30,8 +26,6 @@
 </main>
 <footer>
 </footer>
-<script async src="{{ "/assets/lazyload.min.js" | url }}"></script>
-<script async src="{{ "/assets/gumshoe.polyfills.min.js" | url }}"></script>
 <script async src="{{ "/assets/main.bundle.js" | url }}"></script>
 </body>
 </html>

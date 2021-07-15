@@ -1,10 +1,14 @@
 import '../css/index.css';
+import LazyLoad from "vanilla-lazyload";
+import scrollSpy from 'simple-scrollspy'
 
 function process() {
+    const lazyLoadInstance = new LazyLoad({});
+
     // NAV
-    new Gumshoe('.mainnav a', {
-        reflow: true
-    });
+    scrollSpy('.mainnav', {
+
+    })
 
     // THUMBS
     let thumbs = document.getElementsByClassName('thumb');

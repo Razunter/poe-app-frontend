@@ -21,8 +21,10 @@
   ],
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "@rollup/plugin-node-resolve": "^13.0.0",
     "autoprefixer": "^10.3.1",
     "concurrently": "^6.2.0",
+    "cross-env": "^7.0.3",
     "cssnano": "^5.0.6",
     "glob": "^7.1.7",
     "html-minifier": "^4.0.0",
@@ -30,17 +32,18 @@
     "postcss": "^8.3.5",
     "postcss-cli": "^8.3.1",
     "rimraf": "^3.0.2",
+    "rollup": "^2.53.2",
+    "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-terser": "^7.0.2",
     "svg-sprite": "^1.5.0",
     "svgo": "^2.3.1",
     "tailwindcss": "^2.2.4",
-    "vinyl": "^2.2.1",
-    "cross-env": "^7.0.3",
-    "rollup": "^2.53.2",
-    "rollup-plugin-postcss": "^4.0.0",
-    "rollup-plugin-terser": "^7.0.2"
+    "vinyl": "^2.2.1"
   },
   "dependencies": {
+    "@rollup/plugin-commonjs": "^19.0.0",
     "gumshoejs": "^5.1.2",
+    "simple-scrollspy": "^2.1.0",
     "vanilla-lazyload": "^17.4.0"
   }
 }

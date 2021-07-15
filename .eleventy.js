@@ -16,6 +16,15 @@ module.exports = function (eleventyConfig) {
             return input.filter(item => item[attr] === value)
         }
     });
+    eleventyConfig.addNunjucksFilter("getVideoID", function (input) {
+        if (input !== undefined) {
+            const type = input.indexOf('youtube.com') !== -1 ? 'youtube' : 'twitch'
+            switch (type) {
+                case "youtube":
+                    return input.substring(input.lastIndexOf("?v=") + 3);
+            }
+        }
+    });
 
     // SVG Sprite
     eleventyConfig.addNunjucksAsyncShortcode('svgSprite', svgSprite)

@@ -1,4 +1,4 @@
-import '../css/index.css';
+import '../css/index.scss';
 import LazyLoad from "vanilla-lazyload";
 import scrollSpy from 'simple-scrollspy'
 

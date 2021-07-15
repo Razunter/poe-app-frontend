@@ -1,16 +1,11 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 body {
 
 }
 
 a {
-    @apply text-poe-link transition-colors;
 
     &:hover, &:focus {
-        @apply text-poe-link-hover;
+
     }
 }
 
@@ -24,11 +19,9 @@ a {
 }
 
 .mainnav {
-    @apply mr-2.5 w-10;
     flex-shrink: 0;
 
     @media screen and (min-width: 800px) {
-        @apply mr-10 w-20;
     }
 
     ul {

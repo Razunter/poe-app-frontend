@@ -2,6 +2,8 @@ const fs = require("fs/promises");
 const path = require("path");
 const svgSprite = require('./utils/svgsprite.js')
 const htmlmin = require("html-minifier")
+const purgeCssPlugin = require("eleventy-plugin-purgecss");
+const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster');
 
 const INPUT_DIR = "src";
 const OUTPUT_DIR = "_site";
@@ -34,31 +36,40 @@ module.exports = function (eleventyConfig) {
     // eleventyConfig.addWatchTarget("./src/assets/css/*.css")
 
     eleventyConfig.setBrowserSyncConfig({
-      files: ['_site/**/*'],
-      open: true,
+        files: ['_site/**/*'],
+        open: true,
     });
 
     // STATIC FILES
     eleventyConfig.addPassthroughCopy({'./src/static/': '/'});
     // eleventyConfig.addPassthroughCopy({'./src/js/': '/assets/'});
 
-    eleventyConfig.addPassthroughCopy({
-        "./node_modules/vanilla-lazyload/dist/lazyload.min.js": "assets/lazyload.min.js",
-        "./node_modules/gumshoejs/dist/gumshoe.polyfills.min.js": "assets/gumshoe.polyfills.min.js"
-    });
+    if (process.env.NODE_ENV === "production") {
+        eleventyConfig.addPlugin(purgeCssPlugin, {
+            // Optional: Specify the location of your PurgeCSS config
+            config: "./purgecss.config.js",
 
-    // TRANSFORM -- Minify HTML Output
-    eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
-        if (outputPath && outputPath.endsWith(".html")) {
-            let minified = htmlmin.minify(content, {
-                useShortDoctype: true,
-                removeComments: true,
-                collapseWhitespace: true
-            });
-            return minified;
-        }
-        return content;
-    });
+            // Optional: Set quiet: true to suppress terminal output
+            quiet: false,
+        });
+
+        // TRANSFORM -- Minify HTML Output
+        eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
+            if (outputPath && outputPath.endsWith(".html")) {
+                let minified = htmlmin.minify(content, {
+                    useShortDoctype: true,
+                    removeComments: true,
+                    collapseWhitespace: true
+                });
+                return minified;
+            }
+            return content;
+        });
+
+        eleventyConfig.addPlugin(cacheBuster({
+
+        }))
+    }
 
     return {
         templateFormats: ["njk", "html"],

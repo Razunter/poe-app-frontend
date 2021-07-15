@@ -1,10 +1,27 @@
-import postcss from 'rollup-plugin-postcss';
+import scss from 'rollup-plugin-scss'
+import postcss from 'postcss'
+import autoprefixer from 'autoprefixer'
 import { terser } from 'rollup-plugin-terser';
 import { nodeResolve } from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
-import path from 'path';
+import cssnano from "cssnano";
 
 const dev = process.env.NODE_ENV !== 'production';
+
+const postcssConfig = {
+	plugins: [autoprefixer()],
+};
+
+// If we are in production mode, then add cssnano
+if (!dev) {
+	postcssConfig.plugins.push(
+        cssnano({
+			// use the safe preset so that it doesn't
+			// mutate or remove code from our css
+			preset: 'default',
+		})
+	);
+}
 
 export default {
     input: 'src/js/index.js',
@@ -17,9 +34,13 @@ export default {
     plugins: [
         nodeResolve(),
         commonjs(),
-        postcss({
-            extract: path.resolve('_site/assets/main.bundle.css'),
-            minimize: !dev,
+        scss({
+            sourceMap: !dev,
+            processor: () => postcss(postcssConfig),
+            includePaths: [
+                // path.join(__dirname, '../../node_modules/'),
+                'node_modules/'
+            ]
         }),
         !dev && terser(),
     ],

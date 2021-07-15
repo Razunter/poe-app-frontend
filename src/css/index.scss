@@ -45,7 +45,8 @@ h2 {
   }
 }
 
-h1, h2 {
+h1,
+h2 {
   margin-bottom: $spacer;
 }
 
@@ -60,6 +61,10 @@ a {
   color: $link-color;
   transition: color 0.2s ease-in-out;
   text-decoration: none;
+
+  @media screen and (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
 
   &:hover,
   &:focus {
@@ -173,7 +178,7 @@ a {
   display: flex;
   flex-direction: column;
   background: lighten($background-color, 3%);
-  box-shadow: 0 0 3px rgba(lighten($background-color, 10%), .7), 0 0 14px rgba(lighten($background-color, 10%), .3);
+  box-shadow: 0 0 3px rgba(lighten($background-color, 10%), 0.7), 0 0 14px rgba(lighten($background-color, 10%), 0.3);
   padding: 10px;
 
   @media screen and (min-width: 800px) {
@@ -189,7 +194,8 @@ a {
     flex-grow: 1;
   }
 
-  iframe, img {
+  iframe,
+  img {
     min-height: 360px;
   }
 
@@ -216,6 +222,7 @@ a {
 
   a {
     @include limit-lines(2);
+
     font-size: 1.2rem;
     height: 1.2rem * 1.4 * 2;
     display: block;
@@ -223,6 +230,7 @@ a {
 
     @media screen and (min-width: 800px) {
       @include limit-lines(3);
+
       font-size: 1.5rem;
       height: 1.5rem * 1.4 * 3;
     }
@@ -230,7 +238,7 @@ a {
 }
 
 footer {
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 0px, rgba(255, 255, 255, 0.0) 5px);
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 0, rgba(255, 255, 255, 0) 5px);
   padding-top: $spacer;
   margin-top: $spacer;
 
@@ -242,7 +250,7 @@ footer {
     justify-content: space-between;
 
     li {
-      padding: 0 .3rem;
+      padding: 0 0.3rem;
     }
   }
 

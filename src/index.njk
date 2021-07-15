@@ -48,8 +48,8 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 {% block content %}
   {% for typekey, typename in data.types %}
     {% if (skiprf and typekey != 'rf') or not skiprf %}
-      <div class="section">
-        <h2 class="section-title" id="{{ typekey }}">
+      <section id="{{ typekey }}" class="section">
+        <h2 class="section-title">
           <svg class="icon">
             <use xlink:href="#icon-{{ typekey }}" />
           </svg>
@@ -63,7 +63,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
             {% endif %}
           {% endfor %}
         </div>
-      </div>
+      </section>
     {% endif %}
   {% endfor %}
 {% endblock %}

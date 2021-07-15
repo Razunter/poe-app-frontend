@@ -3,11 +3,12 @@ import LazyLoad from "vanilla-lazyload";
 import scrollSpy from 'simple-scrollspy'
 
 function process() {
-    const lazyLoadInstance = new LazyLoad({});
+    new LazyLoad({});
 
     // NAV
-    scrollSpy('.mainnav', {
-
+    scrollSpy('.mainnav ul', {
+        offset: 100,
+        sectionClass: '.section'
     })
 
     // THUMBS

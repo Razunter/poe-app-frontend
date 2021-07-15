@@ -1,8 +1,7 @@
 const plugins = [
     require('tailwindcss/nesting'),
     require('tailwindcss'),
-    require('autoprefixer'),
-    require('cssnano')
+    require('autoprefixer')
 ];
 
 module.exports = {

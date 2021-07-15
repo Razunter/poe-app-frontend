@@ -10,12 +10,13 @@
   <title>{{ title or metadata.title }}</title>
   <meta name="author" content="{{ site.author }}">
   <meta name="robots" content="index,follow">
+  <meta name="description" content="{{ description }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{{ title }} | {{ siteparams.siteTitle }}" />
-  <meta name="description" content="{{ description }}" />
   <meta property="og:description" content="{{ description }}" />
   <meta property="og:url" content="{{ siteparams.siteURLforOG }}{{ page.url }}" />
-  <link rel="stylesheet" href="{{ "/css/index.css" | url }}">
+  <meta name="twitter:creator" content="@Razunter">
+  <link rel="stylesheet" href="{{ "/assets/main.bundle.css" | url }}">
   <script>
       window.lazyLoadOptions = {};
   </script>
@@ -31,6 +32,6 @@
 </footer>
 <script async src="{{ "/assets/lazyload.min.js" | url }}"></script>
 <script async src="{{ "/assets/gumshoe.polyfills.min.js" | url }}"></script>
-<script async src="{{ "/assets/index.js" | url }}"></script>
+<script async src="{{ "/assets/main.bundle.js" | url }}"></script>
 </body>
 </html>

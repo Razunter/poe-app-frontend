@@ -21,12 +21,12 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addNunjucksAsyncShortcode('svgSprite', svgSprite)
 
     // rebuild on changes
-    eleventyConfig.addWatchTarget("./src/js/*.js")
-    eleventyConfig.addWatchTarget("./src/assets/css/*.css")
+    // eleventyConfig.addWatchTarget("./src/js/*.js")
+    // eleventyConfig.addWatchTarget("./src/assets/css/*.css")
 
     // STATIC FILES
     eleventyConfig.addPassthroughCopy({'./src/static/': '/'});
-    eleventyConfig.addPassthroughCopy({'./src/js/': '/assets/'});
+    // eleventyConfig.addPassthroughCopy({'./src/js/': '/assets/'});
 
     eleventyConfig.addPassthroughCopy({
         "./node_modules/vanilla-lazyload/dist/lazyload.min.js": "assets/lazyload.min.js",

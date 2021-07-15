@@ -6,8 +6,8 @@
   "scripts": {
     "clean": "rimraf _site",
     "dev": "cross-env NODE_ENV=development npm-run-all clean --parallel develop:*",
-    "develop:postcss": "cross-env TAILWIND_MODE=watch postcss src/assets/css/index.css -o _site/css/index.css --config ./postcss.config.js -w",
-    "develop:eleventy": "eleventy --serve --quiet --watch",
+    "develop:eleventy": "eleventy --quiet --serve --watch",
+    "develop:rollup": "rollup -c -w",
     "build": "cross-env NODE_ENV=production npm-run-all clean --parallel prod:*",
     "prod:eleventy": "eleventy --quiet",
     "prod:postcss": "postcss src/assets/css/index.css -o _site/css/index.css --config ./postcss.config.js"
@@ -34,7 +34,10 @@
     "svgo": "^2.3.1",
     "tailwindcss": "^2.2.4",
     "vinyl": "^2.2.1",
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "rollup": "^2.53.2",
+    "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-terser": "^7.0.2"
   },
   "dependencies": {
     "gumshoejs": "^5.1.2",

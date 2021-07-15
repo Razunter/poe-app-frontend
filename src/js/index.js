@@ -1,3 +1,5 @@
+import '../css/index.css';
+
 function process() {
     // NAV
     new Gumshoe('.mainnav a', {

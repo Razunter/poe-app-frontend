@@ -64,7 +64,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
           {% set buildList = data.buildList | selectAttrEq("type", typekey) | first %}
           {% for build in buildList.builds %}
             {% if build.versions | select("equalto", thisVersion) | length != 0 %}
-              {{ macros.video(build.title, build.url, build.video, build.videothumb) }}
+              {{ macros.video(build.title, build.url, build.video, build.videothumb, build.author) }}
             {% endif %}
           {% endfor %}
         </div>

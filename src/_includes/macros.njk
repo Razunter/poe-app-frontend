@@ -1,4 +1,4 @@
-{% macro video(title, url, video, videothumb) %}
+{% macro video(title, url, video, videothumb, author) %}
   {% set videotype = video | getVideoType %}
   {% set videoid = video | getVideoID(videotype) %}
   <figure class="build">
@@ -7,7 +7,7 @@
         <a class="build-link"
            href="{{ url }}"
            target="_blank" rel="noopener">
-          {{ title }}
+          {% if author %}<span class="build-author">{{ author }}</span> - {% endif %}{{ title }}
         </a>
       </h3>
     </figcaption>

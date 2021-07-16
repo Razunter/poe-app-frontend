@@ -1,5 +1,47 @@
 {
-  "currentVersion": "3.14",
+  "currentVersion": "3.15",
+  "versions": [
+    {
+      "name": "Legion",
+      "version": "3.7"
+    },
+    {
+      "name": "Blight",
+      "version": "3.8"
+    },
+    {
+      "name": "Metamorph",
+      "version": "3.9"
+    },
+    {
+      "name": "Delirium",
+      "version": "3.10"
+    },
+    {
+      "name": "Harvest",
+      "version": "3.11"
+    },
+    {
+      "name": "Heist",
+      "version": "3.12"
+    },
+    {
+      "name": "Echoes of the Atlas & Ritual",
+      "version": "3.13"
+    },
+    {
+      "name": "Ultimatum",
+      "version": "3.14",
+      "wip": false
+    },
+    {
+      "version": "3.15",
+      "name": "Expedition",
+      "wip": true,
+      "url": "https://www.pathofexile.com/expedition",
+      "note": "Massive balance changes, be wary!"
+    }
+  ],
   "types": {
     "melee": "Melee",
     "caster": "Caster & Wander",
@@ -744,15 +786,6 @@
           "video": "",
           "versions": [
             "3.8"
-          ],
-          "author": ""
-        },
-        {
-          "title": "Bergerbrush's Impale Cyclone Champion - League Starter & Beginner Friendly!",
-          "url": "https://www.pathofexile.com/forum/view-thread/2775438",
-          "video": "https://www.youtube.com/watch?v=jxC6pg2tHt0",
-          "versions": [
-            "3.11"
           ],
           "author": ""
         },

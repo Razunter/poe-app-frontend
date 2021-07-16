@@ -1,14 +1,16 @@
 {% macro video(title, url, video, videothumb) %}
   {% set videotype = video | getVideoType %}
   {% set videoid = video | getVideoID(videotype) %}
-  <div class="build">
-    <h3 class="build-title">
-      <a class="build-link"
-         href="{{ url }}"
-         target="_blank" rel="noopener">
-        {{ title }}
-      </a>
-    </h3>
+  <figure class="build">
+    <figcaption class="build-title">
+      <h3>
+        <a class="build-link"
+           href="{{ url }}"
+           target="_blank" rel="noopener">
+          {{ title }}
+        </a>
+      </h3>
+    </figcaption>
     {% if videotype == 'youtube' %}
       {% set dataSRC = 'https://img.youtube.com/vi/' + videoid + '/hqdefault.jpg' %}
       {% set class = 'YouTubeThumb' %}
@@ -34,5 +36,5 @@
     {% else %}
       <div class="novideo">No video</div>
     {% endif %}
-  </div>
+  </figure>
 {% endmacro %}

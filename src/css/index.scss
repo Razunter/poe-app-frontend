@@ -27,6 +27,8 @@ h3,
 h4,
 h5,
 h6 {
+  @include rfs.margin-bottom($spacer * 0.5);
+
   margin-top: 0;
 }
 
@@ -71,6 +73,10 @@ a {
   &:hover,
   &:focus {
     color: lighten($link-color, 20%);
+  }
+
+  &:focus {
+    outline-color: $text-color;
   }
 }
 
@@ -171,6 +177,8 @@ a {
 .build {
   @include rfs.padding(20px);
 
+  margin: 0;
+  width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -204,6 +212,11 @@ a {
   img {
     cursor: pointer;
     object-fit: contain;
+
+    &:hover,
+    &:focus {
+      box-shadow: rgba($link-color, .5) 0 0 5px;
+    }
   }
 
   .novideo {
@@ -221,7 +234,13 @@ a {
 }
 
 .build-title {
+  @include rfs.margin-bottom($spacer * 0.5);
+
   width: 100%;
+
+  h3 {
+    margin-bottom: 0;
+  }
 
   a {
     @include limit-lines(2);

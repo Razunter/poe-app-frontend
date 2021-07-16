@@ -48,6 +48,7 @@
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
+    "rfs": "^9.0.4",
     "simple-scrollspy": "^2.1.0",
     "vanilla-lazyload": "^17.4.0"
   }

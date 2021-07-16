@@ -1,4 +1,5 @@
 @use '~modern-normalize/modern-normalize.css';
+@use "~rfs/scss.scss" as rfs;
 
 @mixin limit-lines($lines: 3) {
   display: -webkit-box;
@@ -14,7 +15,11 @@ $gutter: 40px;
 $spacer: 40px;
 $link-color: lighten(#20a4f3, 5%);
 $background-color: #03191e;
-$text-color: #c1cfda;
+$text-color: #dae7f2;
+
+:root {
+  font-size: 16px;
+}
 
 h1,
 h2,
@@ -26,28 +31,25 @@ h6 {
 }
 
 h1 {
-  font-size: 1.5rem;
+  @include rfs.font-size(3rem);
 
-  @media screen and (min-width: 800px) {
-    font-size: 2.5rem;
+  a {
+    color: $text-color;
+    text-decoration: underline;
   }
 
   .subtitle {
-    color: lighten($text-color, 10%);
+    color: darken($text-color, 10%);
   }
 }
 
 h2 {
-  font-size: 1.3rem;
-
-  @media screen and (min-width: 800px) {
-    font-size: 2rem;
-  }
+  @include rfs.font-size(2.5rem);
 }
 
 h1,
 h2 {
-  margin-bottom: $spacer;
+  @include rfs.margin-bottom($spacer);
 }
 
 body {
@@ -73,33 +75,27 @@ a {
 }
 
 .main {
+  @include rfs.padding-left($gutter * 0.5);
+  @include rfs.padding-right($gutter * 0.5);
+  @include rfs.padding-top($gutter);
+  @include rfs.padding-bottom($gutter);
+
   max-width: 1800px;
   min-width: 300px;
   width: 100%;
   margin: 0 auto;
   position: relative;
   display: flex;
-  padding-left: $gutter / 4;
-  padding-right: $gutter / 4;
-  padding-top: $spacer / 2;
-  padding-bottom: $spacer / 2;
-
-  @media screen and (min-width: 800px) {
-    padding-left: $gutter / 2;
-    padding-right: $gutter / 2;
-    padding-top: $spacer;
-    padding-bottom: $spacer;
-  }
 }
 
 .mainnav {
+  @include rfs.margin-right($gutter);
+
   width: 40px;
-  margin-right: $gutter / 4;
   flex-shrink: 0;
 
   @media screen and (min-width: 800px) {
     width: 80px;
-    margin-right: $gutter;
   }
 
   ul {
@@ -115,12 +111,13 @@ a {
     transform: translateY(-50%);
     list-style: none;
 
-    li.active a {
+    li a.active {
       color: lighten($link-color, 30%);
     }
 
     a {
-      padding: 10px;
+      @include rfs.padding(10px);
+
       display: block;
 
       svg {
@@ -129,8 +126,6 @@ a {
       }
 
       @media screen and (min-width: 800px) and (min-height: 640px) {
-        padding: 20px;
-
         svg {
           width: 40px;
           height: 40px;
@@ -145,11 +140,11 @@ a {
 }
 
 .section + .section {
-  margin-top: $spacer;
+  @include rfs.margin-top($spacer);
 }
 
 .section-title {
-  color: #59f8e8;
+  color: #59cbf8;
 
   .icon {
     width: 1em;
@@ -159,9 +154,10 @@ a {
 }
 
 .builds-collection {
+  @include rfs.rfs($gutter, 'grid-gap');
+
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-gap: $gutter / 2;
 
   @media screen and (min-width: 500px) {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -169,21 +165,17 @@ a {
 
   @media screen and (min-width: 1200px) {
     grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
-    grid-gap: $gutter;
   }
 }
 
 .build {
+  @include rfs.padding(20px);
+
   height: 100%;
   display: flex;
   flex-direction: column;
   background: lighten($background-color, 3%);
   box-shadow: 0 0 3px rgba(lighten($background-color, 10%), 0.7), 0 0 14px rgba(lighten($background-color, 10%), 0.3);
-  padding: 10px;
-
-  @media screen and (min-width: 800px) {
-    padding: 20px;
-  }
 
   iframe,
   .novideo,
@@ -205,10 +197,11 @@ a {
   }
 
   .novideo {
+    @include rfs.font-size(1.3rem);
+
     width: 480px;
     flex-grow: 1;
     margin: 0 auto;
-    font-size: 1.3rem;
     max-height: 360px;
     display: flex;
     justify-content: center;
@@ -238,9 +231,10 @@ a {
 }
 
 footer {
+  @include rfs.padding-top($spacer);
+  @include rfs.margin-top($spacer);
+
   background: linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 0, rgba(255, 255, 255, 0) 5px);
-  padding-top: $spacer;
-  margin-top: $spacer;
 
   ul {
     list-style: none;
@@ -260,7 +254,8 @@ footer {
   }
 
   .previous-links {
+    @include rfs.margin-bottom($spacer * 0.25);
+
     justify-content: flex-start;
-    margin-bottom: $spacer / 4;
   }
 }

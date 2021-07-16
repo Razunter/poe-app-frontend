@@ -1,7 +1,7 @@
 ---
 # @formatter:off
 pagination:
-    data: versions
+    data: data.versions
     size: 1
     alias: version
 # @formatter:on
@@ -35,9 +35,14 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 
 {% block header %}
   <h1>
-    Path of Exile {{ thisVersion }} {{ version.name }} starter builds collection
-    (Razunter's picks)
-    {% if version.wip %}<br><span class="subtitle">Work in Progress!</span>{% endif %}
+    Path of Exile
+    {% if version.url %}
+      <a href="{{ version.url }}" target="_blank" rel="noopener">{{ thisVersion }} {{ version.name }}</a>
+    {% else %}
+      {{ thisVersion }} {{ version.name }}
+    {% endif %}
+    starter builds collection (Razunter's picks)
+    {% if version.wip %}<br><span class="subtitle">Work in Progress!</span>{% if version.note %} <span class="subtitle">{{ version.note }}</span>{% endif %}{% endif %}
     {% if thisVersion != data.currentVersion %}
       <br><span class="subtitle">old version, new version <a
         href="index.html">here</a></span>
@@ -71,8 +76,8 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 {% block footer %}
   <ul class="previous-links">
     <li class="nav-description">Version:</li>
-    {% for v in versions %}
-      {% if v.version == data.currentVersion %}
+    {% for v in data.versions | reverse %}
+      {% if v.version == thisVersion %}
         <li class="active">
       {% else %}
         <li>

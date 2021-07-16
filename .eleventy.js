@@ -18,13 +18,28 @@ module.exports = function (eleventyConfig) {
             return input.filter(item => item[attr] === value)
         }
     });
-    eleventyConfig.addNunjucksFilter("getVideoID", function (input) {
+    eleventyConfig.addNunjucksFilter("getVideoID", function (input, type) {
         if (input !== undefined) {
-            const type = input.indexOf('youtube.com') !== -1 ? 'youtube' : 'twitch'
             switch (type) {
                 case "youtube":
                     return input.substring(input.lastIndexOf("?v=") + 3);
+                case "twitch":
+                    return input.substring(input.lastIndexOf("/") + 1);
             }
+        }
+        return input;
+    });
+    eleventyConfig.addNunjucksFilter("getVideoType", function (input) {
+        if (input !== undefined) {
+            let type = 'novideo';
+            if (input.indexOf('youtube.com') !== -1) {
+                type = 'youtube';
+            } else if (input.indexOf('twitch.tv') !== -1) {
+                type = 'twitch';
+            }
+            return type;
+        } else {
+            return 'novideo'
         }
     });
 
@@ -66,9 +81,7 @@ module.exports = function (eleventyConfig) {
             return content;
         });
 
-        eleventyConfig.addPlugin(cacheBuster({
-
-        }))
+        eleventyConfig.addPlugin(cacheBuster({}))
     }
 
     return {

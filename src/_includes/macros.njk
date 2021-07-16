@@ -1,6 +1,6 @@
 {% macro video(title, url, video, videothumb) %}
-  {% set videotype = 'youtube' %}
-  {% set videoid = 0 %}
+  {% set videotype = video | getVideoType %}
+  {% set videoid = video | getVideoID(videotype) %}
   <div class="build">
     <h3 class="build-title">
       <a class="build-link"
@@ -12,23 +12,23 @@
     {% if videotype == 'youtube' %}
       <img width="480" height="360"
            src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 360 '%3E%3C/svg%3E"
-           data-src="https://img.youtube.com/vi/{{ video | getVideoID }}/hqdefault.jpg"
+           data-src="https://img.youtube.com/vi/{{ videoid }}/hqdefault.jpg"
            alt="{{ title }}"
-           data-video="{{ video | getVideoID }}" class='YouTubeThumb thumb lazy' />
+           data-video="{{ videoid }}" class='YouTubeThumb thumb lazy' />
     {% elseif videotype == 'twitchclip' or videotype == 'twitch' %}
       <img width="480" height="360"
            src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 360 '%3E%3C/svg%3E"
-           data-src="{{ videothumb|replace({'%{width}': 480, '%{height}': 360}) }}"
+           data-src="{{ videothumb | replace('%{width}', 480) | replace('%{height}', 360) }}"
            loading="lazy" alt=""
            data-video="{{ videoid }}"
-           class='{{ videotype }}Thumb thumb lazyload' />
-    {% elseif videotype == 'streamable' %}
-      <img width="480" height="360"
-           src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 360 '%3E%3C/svg%3E"
-           data-src="{{ videothumb }}"
-           loading="lazy" alt=""
-           data-video="{{ video }}"
-           class='{{ videotype }}Thumb thumb lazyload' />
+           class='{{ videotype }}Thumb thumb lazy' />
+      {# {% elseif videotype == 'streamable' %} #}
+      {# <img width="480" height="360" #}
+      {# src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 360 '%3E%3C/svg%3E" #}
+      {# data-src="{{ videothumb }}" #}
+      {# loading="lazy" alt="" #}
+      {# data-video="{{ video }}" #}
+      {# class='{{ videotype }}Thumb thumb lazyload' /> #}
     {% else %}
       <div class="novideo">No video</div>
     {% endif %}

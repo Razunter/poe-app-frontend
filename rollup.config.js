@@ -1,30 +1,29 @@
 import scss from 'rollup-plugin-scss'
 import postcss from 'postcss'
 import autoprefixer from 'autoprefixer'
-import { terser } from 'rollup-plugin-terser';
-import { nodeResolve } from '@rollup/plugin-node-resolve';
-import commonjs from '@rollup/plugin-commonjs';
-import cssnano from "cssnano";
-import path from "path";
+import { terser } from 'rollup-plugin-terser'
+import { nodeResolve } from '@rollup/plugin-node-resolve'
+import commonjs from '@rollup/plugin-commonjs'
+import cssnano from 'cssnano'
+import path from 'path'
+import nodePolyfills from 'rollup-plugin-node-polyfills'
 
-const dev = process.env.NODE_ENV !== 'production';
+const dev = process.env.NODE_ENV !== 'production'
 
 const postcssConfig = {
-	plugins: [autoprefixer()],
-};
+    plugins: [autoprefixer()],
+}
 
 // If we are in production mode, then add cssnano
 if (!dev) {
-	postcssConfig.plugins.push(
+    postcssConfig.plugins.push(
         cssnano({
-			// use the safe preset so that it doesn't
-			// mutate or remove code from our css
-			preset: 'default',
-		})
-	);
+            // use the safe preset so that it doesn't
+            // mutate or remove code from our css
+            preset: 'default',
+        })
+    )
 }
-
-console.log(path.join(__dirname, '/node_modules'))
 
 export default {
     input: 'src/js/index.js',
@@ -35,6 +34,7 @@ export default {
         file: '_site/assets/main.bundle.js',
     },
     plugins: [
+        nodePolyfills(),
         nodeResolve(),
         commonjs(),
         scss({
@@ -50,4 +50,4 @@ export default {
     watch: {
         clearScreen: false,
     },
-};
+}

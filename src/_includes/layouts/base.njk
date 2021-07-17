@@ -3,22 +3,43 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="generator" content="Eleventy v{{ eleventyVersion }}" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title or (renderData and renderData.title) or metadata.title }}</title>
-  <meta name="author" content="{{ site.author }}">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png?v=M46dyAmWwq">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=M46dyAmWwq">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=M46dyAmWwq">
+  <link rel="manifest" href="/site.webmanifest?v=M46dyAmWwq">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=M46dyAmWwq" color="#1ba2a8">
+  <link rel="shortcut icon" href="/favicon.ico?v=M46dyAmWwq">
+  <meta name="msapplication-TileColor" content="#1ba2a8">
+  <meta name="theme-color" content="#1ba2a8">
+  <meta name="author" content="{{ metadata.author.name }}">
   <meta name="robots" content="index,follow">
-  <meta name="description" content="{{ description }}" />
-  <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:title" content="{{ title }} | {{ siteparams.siteTitle }}" />
-  <meta property="og:description" content="{{ description }}" />
-  <meta property="og:url" content="{{ siteparams.siteURLforOG }}{{ page.url }}" />
-  <meta name="twitter:creator" content="@Razunter">
+  <meta name="description" content="{{ description or (renderData and renderData.description) }}" />
+  <meta name="generator" content="Eleventy v{{ eleventyVersion }}" />
+  <meta property="og:site_name" content="{{ metadata.title }}" />
+  <meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
+  <meta name="twitter:creator" content="{{ metadata.author.twitter }}">
   <link rel="stylesheet" href="{{ "/assets/main.bundle.css" | url }}">
+  {% if env === 'production' %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-19H84XW4N1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'G-19H84XW4N1');
+    </script>
+  {% endif %}
 </head>
-<body class="text-poe-text bg-poe-bg">
-<div class="main pl-2.5 pr-2.5 pt-5 pb-5 md:pl-5 md:pr-5 md:pt-10 md:pb-10">
+<body>
+<div class="main">
   {% block nav %}
   {% endblock nav %}
   <div class="main-content">

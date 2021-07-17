@@ -10,13 +10,13 @@ import nodePolyfills from 'rollup-plugin-node-polyfills'
 
 const dev = process.env.NODE_ENV !== 'production'
 
-const postcssConfig = {
-    plugins: [autoprefixer()],
-}
+const postcssPlugins = [
+    autoprefixer()
+]
 
 // If we are in production mode, then add cssnano
 if (!dev) {
-    postcssConfig.plugins.push(
+    postcssPlugins.push(
         cssnano({
             // use the safe preset so that it doesn't
             // mutate or remove code from our css
@@ -28,24 +28,25 @@ if (!dev) {
 export default {
     input: 'src/js/index.js',
     output: {
-        sourcemap: !dev,
+        sourcemap: process.env.NODE_ENV !== 'production',
         format: 'iife',
         name: 'main',
         file: '_site/assets/main.bundle.js',
     },
     plugins: [
-        nodePolyfills(),
-        nodeResolve(),
-        commonjs(),
         scss({
-            sourceMap: !dev,
-            processor: () => postcss(postcssConfig),
+            sourceMap: process.env.NODE_ENV !== 'production',
+            processor: () => postcss(postcssPlugins),
+            // outputStyle: dev ? 'expanded' : 'compressed',
             includePaths: [
                 path.join(__dirname, '/node_modules'),
                 'node_modules'
             ]
         }),
-        !dev && terser(),
+        nodePolyfills(),
+        nodeResolve(),
+        commonjs(),
+        process.env.NODE_ENV === 'production' && terser(),
     ],
     watch: {
         clearScreen: false,

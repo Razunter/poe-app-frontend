@@ -1,9 +1,9 @@
 {
-  "title": "Your site title",
-  "url": "https://example.com",
-  "domain": "example.com",
-  "description": "Your site description.",
+  "title": "Path of Exile starter builds collection (Razunter's picks)",
+  "url": "https://raz-poebuilds.netlify.app",
+  "description": "Starter builds for Path of Exile from forums and other sources, collected by Razunter",
   "author": {
-    "name": "Your name"
+    "name": "Razunter",
+    "twitter": "@Razunter"
   }
 }

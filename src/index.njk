@@ -7,6 +7,7 @@ pagination:
 # @formatter:on
 renderData:
   title: Path of Exile {{ version.version }} {{ version.name }} starter builds collection (Razunter's picks)
+  description: Quick preview of starter builds for Path of Exile v{{ version.version }} {{ version.name }}, collected by Razunter
 permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{ version.version | slug }}{% endif %}.html"
 ---
 {% extends 'layouts/base.njk' %}
@@ -94,9 +95,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
   </ul>
   <ul class="footer-links">
     <li>
-      <a href="https://www.pathofexile.com/" target="_blank" rel="noopener">Path
-        of
-        Exile</a>
+      <a href="https://www.pathofexile.com/" target="_blank" rel="noopener">Path of Exile</a>
     </li>
     <li>
       Site created by <a href="mailto:razunter@gmail.com"

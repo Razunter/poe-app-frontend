@@ -22,7 +22,7 @@
   <meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
   <meta name="twitter:creator" content="{{ metadata.author.twitter }}">
   <link rel="stylesheet" href="{{ "/assets/main.bundle.css" | url }}">
-  {% if env === 'production' %}
+  {% if build.env == 'production' %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-19H84XW4N1"></script>
     <script>

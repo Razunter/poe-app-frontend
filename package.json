@@ -10,7 +10,8 @@
     "develop:rollup": "rollup -c -w",
     "build": "cross-env NODE_ENV=production npm-run-all clean prod:rollup prod:eleventy",
     "prod:eleventy": "eleventy --quiet",
-    "prod:rollup": "rollup -c"
+    "prod:rollup": "rollup -c",
+    "serve": "eleventy --quiet --serve"
   },
   "browserslist": [
     "last 2 versions",

@@ -4,11 +4,11 @@ pagination:
     data: data.versions
     size: 1
     alias: version
-# @formatter:on
 renderData:
   title: Path of Exile {{ version.version }} {{ version.name }} starter builds collection (Razunter's picks)
   description: Quick preview of starter builds for Path of Exile v{{ version.version }} {{ version.name }}, collected by Razunter
 permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{ version.version | slug }}{% endif %}.html"
+# @formatter:on
 ---
 {% extends 'layouts/base.njk' %}
 {% import "macros.njk" as macros %}
@@ -17,13 +17,13 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 
 {% block nav %}
   <div hidden>{% svgSprite %}</div>
-  <nav class="mainnav">
+  <nav class="mainnav" aria-label="Main navigation">
     <ul>
       {% for typekey, typename in data.types %}
         {% if (skiprf and typekey != 'rf') or not skiprf %}
           <li>
             <a href="#{{ typekey }}" title="{{ typename }}">
-              <svg class="icon">
+              <svg class="icon" role="img" aria-hidden="true">
                 <use xlink:href="#icon-{{ typekey }}" />
               </svg>
             </a>
@@ -43,12 +43,14 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
       {{ thisVersion }} {{ version.name }}
     {% endif %}
     starter builds collection (Razunter's picks)
-    {% if version.wip %}<br><span class="subtitle">Work in Progress!</span>{% if version.note %} <span class="subtitle">{{ version.note }}</span>{% endif %}{% endif %}
-    {% if thisVersion != data.currentVersion %}
-      <br><span class="subtitle">old version, new version <a
-        href="index.html">here</a></span>
-    {% endif %}
   </h1>
+  {% if version.wip or version.note %}
+    <div
+      class="subtitle">{% if version.wip %}Work in Progress!{% endif %}{% if version.note %} {{ version.note }}{% endif %}</div>{% endif %}
+  {% if thisVersion != data.currentVersion %}
+    <div class="subtitle">old version, new version <a
+        href="index.html">here</a></div>
+  {% endif %}
 {% endblock %}
 
 {% block content %}
@@ -56,7 +58,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
     {% if (skiprf and typekey != 'rf') or not skiprf %}
       <section id="{{ typekey }}" class="section">
         <h2 class="section-title">
-          <svg class="icon">
+          <svg class="icon" role="img" aria-hidden="true">
             <use xlink:href="#icon-{{ typekey }}" />
           </svg>
           {{ typename }}

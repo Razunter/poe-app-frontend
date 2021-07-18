@@ -33,7 +33,7 @@ function process() {
             if (event.target.classList.contains('YouTubeThumb')) {
                 event.target.outerHTML = `<div id="ytvid-${YTcounter}"></div>`
                 const player = new YTPlayer('#ytvid-' + YTcounter, {
-                    width: '480',
+                    width: '640',
                     height: '360',
                     autoplay: true
                 })
@@ -42,7 +42,7 @@ function process() {
                 YTcounter++
             } else if (event.target.classList.contains('twitchclipThumb') || event.target.classList.contains('twitchThumb')) {
                 event.target.setAttribute('hidden', true)
-                event.target.outerHTML = `<iframe src="https://player.twitch.tv/?video=v${url}&parent=${domain}" allowfullscreen="true" width="480" height="360" class="videoframe videoframe--twitch" frameborder="0"></iframe>`
+                event.target.outerHTML = `<iframe src="https://player.twitch.tv/?video=v${url}&parent=${domain}" allowfullscreen="true" width="640" height="360" class="videoframe videoframe--twitch" frameborder="0"></iframe>`
             }
             // else if (event.target.classList.contains('streamableThumb')) {
             //     event.target.outerHTML = '<iframe src="' + url + '" frameborder="0" width="480" height="360" allowfullscreen frameborder="0"></iframe>';

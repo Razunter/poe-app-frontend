@@ -1,5 +1,8 @@
 @use '~modern-normalize/modern-normalize.css';
-@use "~rfs/scss.scss" as rfs;
+@use "~rfs/scss.scss" as rfs with (
+  $rfs-base-value: 1rem,
+  $rfs-two-dimensional: true
+);
 
 @mixin limit-lines($lines: 3) {
   display: -webkit-box;
@@ -16,6 +19,7 @@ $spacer: 40px;
 $link-color: lighten(#20a4f3, 5%);
 $background-color: #03191e;
 $text-color: #dae7f2;
+$icon-size: 60px;
 
 :root {
   font-size: 16px;
@@ -91,34 +95,45 @@ a {
 
   max-width: 1800px;
   min-width: 300px;
+  min-height: 100vw;
   width: 100%;
   margin: 0 auto;
   position: relative;
   display: flex;
+
+  @media screen and (max-height: 450px), screen and (max-width: 450px) {
+    padding: 10px;
+  }
 }
 
 .mainnav {
   @include rfs.margin-right($gutter);
 
-  width: 40px;
   flex-shrink: 0;
+  box-sizing: content-box;
 
-  @media screen and (min-width: 800px) {
-    width: 80px;
+  @media screen and (max-height: 450px), screen and (max-width: 450px) {
+    margin-right: 10px;
   }
 
   ul {
     position: sticky;
     left: 0;
     top: 50%;
+    padding: 0;
     display: flex;
-    justify-content: space-around;
-    font-size: 1rem;
+    flex-direction: column;
     flex-wrap: wrap;
+    max-height: 100vh;
+    align-items: center;
+    font-size: 1rem;
     margin: 0;
-    writing-mode: vertical-lr;
     transform: translateY(-50%);
     list-style: none;
+
+    li {
+      display: block;
+    }
 
     li a.active {
       color: lighten($link-color, 30%);
@@ -129,15 +144,19 @@ a {
 
       display: block;
 
-      svg {
-        width: 20px;
-        height: 20px;
+      @media screen and (max-height: 450px), screen and (max-width: 450px) {
+        padding: 5px;
       }
 
-      @media screen and (min-width: 800px) and (min-height: 640px) {
-        svg {
-          width: 40px;
-          height: 40px;
+      svg {
+        @include rfs.rfs($icon-size, 'width');
+        @include rfs.rfs($icon-size, 'height');
+
+        display: block;
+
+        @media screen and (max-height: 450px), screen and (max-width: 450px) {
+          width: 20px;
+          height: 20px;
         }
       }
     }
@@ -166,14 +185,10 @@ a {
   @include rfs.rfs($gutter, 'grid-gap');
 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: 1fr;
 
-  @media screen and (min-width: 500px) {
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  }
-
-  @media screen and (min-width: 1200px) {
-    grid-template-columns: repeat(auto-fill, minmax(640px, 1fr));
+  @media screen and (min-width: 920px) {
+    grid-template-columns: 1fr 1fr;
   }
 }
 
@@ -202,7 +217,6 @@ a {
   img {
     width: 100%;
     height: auto;
-    min-height: 360px;
     aspect-ratio: 16/9;
   }
 
@@ -270,14 +284,19 @@ a {
   }
 
   a {
-    @include limit-lines(2);
-
     font-size: 1.2rem;
-    height: 1.2rem * 1.4 * 2;
     display: block;
     width: 100%;
 
-    @media screen and (min-width: 800px) {
+    @media screen and (min-width: 920px) {
+      @include limit-lines(3);
+
+      height: 1.2rem * 1.4 * 3;
+    }
+
+    @media screen and (min-width: 1200px) {
+      @include limit-lines(3);
+
       font-size: 1.5rem;
       height: 1.5rem * 1.4 * 2;
     }
@@ -311,5 +330,6 @@ footer {
     @include rfs.margin-bottom($spacer * 0.25);
 
     justify-content: flex-start;
+    flex-wrap: wrap;
   }
 }

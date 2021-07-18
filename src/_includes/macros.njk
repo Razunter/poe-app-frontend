@@ -38,7 +38,7 @@
              data-video="{{ videoid }}" class='{{ class }} thumb lazy' />
       </div>
     {% else %}
-      <div class="novideo">No video</div>
+      <a class="novideo" href="{{ url }}" target="_blank" rel="noopener">No video</a>
     {% endif %}
   </figure>
 {% endmacro %}

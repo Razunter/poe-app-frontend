@@ -166,14 +166,14 @@ a {
   @include rfs.rfs($gutter, 'grid-gap');
 
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 
   @media screen and (min-width: 500px) {
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   }
 
   @media screen and (min-width: 1200px) {
-    grid-template-columns: repeat(auto-fit, minmax(640px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(640px, 1fr));
   }
 }
 
@@ -199,7 +199,6 @@ a {
   }
 
   iframe,
-  .novideo,
   img {
     width: 100%;
     height: auto;
@@ -251,6 +250,7 @@ a {
     @include rfs.font-size(1.3rem);
 
     width: 100%;
+    min-height: 3em;
     flex-grow: 1;
     margin: 0 auto;
     display: flex;
@@ -258,7 +258,6 @@ a {
     align-items: center;
     border: 1px solid $text-color;
   }
-
 }
 
 .build-title {

@@ -11,7 +11,7 @@
         </a>
       </h3>
     </figcaption>
-    {% if videothumb %}
+    {% if videothumb['480w'] %}
       {% set dataSRC = videothumb['480w'] %}
       {% set dataSRCset = '' %}
       {% for size, url in videothumb %}

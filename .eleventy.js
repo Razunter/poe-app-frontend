@@ -43,6 +43,11 @@ module.exports = function (eleventyConfig) {
         }
     });
 
+    eleventyConfig.addNunjucksFilter("limit", function (input, length) {
+        input.splice(0, input.length - length);
+        return input
+    });
+
     // SVG Sprite
     eleventyConfig.addNunjucksAsyncShortcode('svgSprite', svgSprite)
 

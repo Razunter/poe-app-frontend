@@ -78,7 +78,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 {% block footer %}
   <ul class="previous-links">
     <li class="nav-description">Version:</li>
-    {% for v in data.versions | reverse %}
+    {% for v in data.versions | limit(3) | reverse %}
       {% if v.version == thisVersion %}
         <li class="active">
       {% else %}

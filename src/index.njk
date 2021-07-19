@@ -13,14 +13,13 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 {% extends 'layouts/base.njk' %}
 {% import "macros.njk" as macros %}
 {% set thisVersion = version.version %}
-{% set skiprf = false %}
 
 {% block nav %}
   <div hidden>{% svgSprite %}</div>
   <nav class="mainnav" aria-label="Main navigation">
     <ul>
       {% for typekey, typename in data.types %}
-        {% if (skiprf and typekey != 'rf') or not skiprf %}
+        {% if (typekey != 'rf') or not version.skiprf %}
           <li>
             <a href="#{{ typekey }}" title="{{ typename }}">
               <svg class="icon" role="img" aria-hidden="true">
@@ -55,7 +54,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 
 {% block content %}
   {% for typekey, typename in data.types %}
-    {% if (skiprf and typekey != 'rf') or not skiprf %}
+    {% if (typekey != 'rf') or not version. skiprf %}
       <section id="{{ typekey }}" class="section">
         <h2 class="section-title">
           <svg class="icon" role="img" aria-hidden="true">

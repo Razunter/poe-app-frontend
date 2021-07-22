@@ -41,7 +41,7 @@
       "name": "Expedition",
       "wip": true,
       "url": "https://www.pathofexile.com/expedition",
-      "note": "Massive balance changes, be wary!",
+      "note": "Extreme balance changes, be wary!",
       "skiprf": true
     }
   ],
@@ -134,7 +134,8 @@
             "3.11",
             "3.12",
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -245,7 +246,8 @@
           "versions": [
             "3.12",
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -288,7 +290,8 @@
           },
           "versions": [
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -301,7 +304,8 @@
             "1280w": "https://i.ytimg.com/vi/H1eLo15p5hU/maxresdefault.jpg"
           },
           "versions": [
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -595,7 +599,8 @@
             "3.10",
             "3.11",
             "3.12",
-            "3.13"
+            "3.13",
+            "3.15"
           ]
         },
         {
@@ -614,7 +619,8 @@
             "3.10",
             "3.11",
             "3.12",
-            "3.13"
+            "3.13",
+            "3.15"
           ]
         },
         {
@@ -919,7 +925,8 @@
           "versions": [
             "3.8",
             "3.9",
-            "3.10"
+            "3.10",
+            "3.11"
           ]
         },
         {
@@ -986,7 +993,8 @@
             "1280w": "https://i.ytimg.com/vi/4Bo9Txz4OH0/maxresdefault.jpg"
           },
           "versions": [
-            "3.8"
+            "3.8",
+            "3.9"
           ]
         },
         {
@@ -1077,7 +1085,8 @@
             "1280w": "https://i.ytimg.com/vi/VajdUxccUAw/maxresdefault.jpg"
           },
           "versions": [
-            "3.7"
+            "3.7",
+            "3.9"
           ]
         },
         {
@@ -1194,21 +1203,21 @@
             "480w": "https://i.ytimg.com/vi/EcnVdLz45lU/hqdefault.jpg"
           },
           "versions": [
-            "3.8"
+            "3.8",
+            "3.14"
           ]
         },
         {
           "title": "(WIP!) Rivalen's Young, Wild Strikin' and Free | 'Natural Wild Strike Berserker | 8M+ DPS",
           "url": "https://www.pathofexile.com/forum/view-thread/3009645",
-          "videothumb": {},
           "versions": [
-            "3.13"
+            "3.13",
+            "3.14"
           ]
         },
         {
           "title": "Hank the Tank™ - The Manliest Man - Cleave & Bladestorm",
           "url": "https://www.pathofexile.com/forum/view-thread/2087746",
-          "videothumb": {},
           "versions": [
             "3.7",
             "3.8"
@@ -1217,15 +1226,14 @@
         {
           "title": "Devon's Poisoning Lawnmower | Poison CoC Cyclone | All content viable",
           "url": "https://www.pathofexile.com/forum/view-thread/2628159",
-          "videothumb": {},
           "versions": [
-            "3.8"
+            "3.8",
+            "3.9"
           ]
         },
         {
           "title": "1H-Impale Cyclone Champion - 13M+ Shaper DPS Fullbuffed / 176%-230% Movspeed Speedy Boy",
           "url": "https://www.pathofexile.com/forum/view-thread/2514647",
-          "videothumb": {},
           "versions": [
             "3.7"
           ]
@@ -1233,7 +1241,6 @@
         {
           "title": "Rake's Tectonic Slam Equipment Guide - from League Start to Endgame",
           "url": "https://www.pathofexile.com/forum/view-thread/2503553",
-          "videothumb": {},
           "versions": [
             "3.7"
           ]
@@ -1241,9 +1248,9 @@
         {
           "title": "1M+ (880k+ Shaper) Sunder Gladiator (Budget friendly!)",
           "url": "https://www.pathofexile.com/forum/view-thread/1979204",
-          "videothumb": {},
           "versions": [
-            "3.7"
+            "3.7",
+            "3.10"
           ]
         }
       ]
@@ -1398,7 +1405,8 @@
           },
           "versions": [
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -1450,7 +1458,8 @@
           },
           "versions": [
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -2357,7 +2366,8 @@
             "1280w": "https://i.ytimg.com/vi/4eMEXCi8rbk/maxresdefault.jpg"
           },
           "versions": [
-            "3.7"
+            "3.7",
+            "3.10"
           ]
         },
         {
@@ -2428,15 +2438,14 @@
         {
           "title": "SSF Friendly Poison BF/BB Assassin Levelling Guide | Blast Through Levelling",
           "url": "https://www.pathofexile.com/forum/view-thread/3063150",
-          "videothumb": {},
           "versions": [
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
           "title": "bOOgy's Kinetic Blast Wander (Assassin) - ZOOMING T16s on a budget",
           "url": "https://www.pathofexile.com/forum/view-thread/2843873",
-          "videothumb": {},
           "versions": [
             "3.11",
             "3.12"
@@ -2445,7 +2454,6 @@
         {
           "title": "Storm Brand Elementalist || Low Budget Starter || New Player Leveling Guide",
           "url": "https://www.pathofexile.com/forum/view-thread/2936381",
-          "videothumb": {},
           "versions": [
             "3.12"
           ]
@@ -2453,7 +2461,6 @@
         {
           "title": "Agnostic RF - Bane Occultist | All Content Viable | League Start | Now SSF Viable!",
           "url": "https://www.pathofexile.com/forum/view-thread/2874634",
-          "videothumb": {},
           "versions": [
             "3.11"
           ]
@@ -2461,7 +2468,6 @@
         {
           "title": "Essence Drain & Contagion (or Bane/Soulrend) Trickster [SC/HC/Uber Elder/Shaper]",
           "url": "https://www.pathofexile.com/forum/view-thread/1625254",
-          "videothumb": {},
           "versions": [
             "3.8",
             "3.9",
@@ -2472,7 +2478,6 @@
         {
           "title": "Elemental Hit Wandslinger Assassin - Very tanky, fast and fun wander",
           "url": "https://www.pathofexile.com/forum/view-thread/2784902",
-          "videothumb": {},
           "versions": [
             "3.10"
           ]
@@ -2480,7 +2485,6 @@
         {
           "title": "Soulrend Trickster - Fast mapper with great defenses (League starter/All content)",
           "url": "https://www.pathofexile.com/forum/view-thread/2333153",
-          "videothumb": {},
           "versions": [
             "3.7",
             "3.8",
@@ -2490,7 +2494,6 @@
         {
           "title": "Crit Orb of Storms Assassin - League Starter (Fast Leveling, Updated/WIP)",
           "url": "https://www.pathofexile.com/forum/view-thread/2579874",
-          "videothumb": {},
           "versions": [
             "3.8",
             "3.9"
@@ -2499,7 +2502,6 @@
         {
           "title": "Beginner Friendly: Winter Orb Trickster [Uber Elder & Fast]",
           "url": "https://www.pathofexile.com/forum/view-thread/2485094",
-          "videothumb": {},
           "versions": [
             "3.8"
           ]
@@ -2507,7 +2509,6 @@
         {
           "title": "Chunky Chargrill Chieftain - Incinerate CwC Volatile Dead - [2x Demigod winning build]",
           "url": "https://www.pathofexile.com/forum/view-thread/2199822",
-          "videothumb": {},
           "versions": [
             "3.7"
           ]
@@ -2515,7 +2516,6 @@
         {
           "title": "Occultist/Trickster Bane SSF SHC lvl 100 Rank 3 Build guide / All Content / lvl 100 viable",
           "url": "https://www.pathofexile.com/forum/view-thread/2466756",
-          "videothumb": {},
           "versions": [
             "3.7"
           ]
@@ -2523,15 +2523,14 @@
         {
           "title": "Divine Ire Inquisitor [HC viable][SSF viable]",
           "url": "https://www.pathofexile.com/forum/view-thread/2451652",
-          "videothumb": {},
           "versions": [
-            "3.7"
+            "3.7",
+            "3.11"
           ]
         },
         {
           "title": "Shock Nova EB MoM Inquisitor: Shockingly Fast, Powerful & Tanky [League Start & HC Viable]",
           "url": "https://www.pathofexile.com/forum/view-thread/2514382",
-          "videothumb": {},
           "versions": [
             "3.7"
           ]
@@ -2631,7 +2630,8 @@
             "3.11",
             "3.12",
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -2670,7 +2670,8 @@
             "1280w": "https://i.ytimg.com/vi/lpZGDkspRGg/maxresdefault.jpg"
           },
           "versions": [
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -2938,7 +2939,8 @@
           },
           "versions": [
             "3.7",
-            "3.8"
+            "3.8",
+            "3.9"
           ]
         },
         {
@@ -2951,13 +2953,13 @@
             "1280w": "https://i.ytimg.com/vi/DsD-NUDKSOs/maxresdefault.jpg"
           },
           "versions": [
-            "3.8"
+            "3.8",
+            "3.9"
           ]
         },
         {
           "title": "Aquarism's Ice Shot [All Content]",
           "url": "https://www.pathofexile.com/forum/view-thread/2660684",
-          "videothumb": {},
           "versions": [
             "3.11"
           ]
@@ -2967,6 +2969,17 @@
     {
       "type": "totems",
       "builds": [
+        {
+          "title": "Fyregrass' Comprehensive Freezing Pulse Totems Guide - Act 1 to Maven 9",
+          "url": "https://www.pathofexile.com/forum/view-thread/3145014",
+          "video": "https://www.youtube.com/watch?v=CJZnJDylFl4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CJZnJDylFl4/hqdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ]
+        },
         {
           "title": "Wallach's Hierophant Freezing Pulse Totems",
           "url": "https://www.pathofexile.com/forum/view-thread/2685450",
@@ -3000,7 +3013,8 @@
             "3.9",
             "3.10",
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -3198,7 +3212,8 @@
             "1280w": "https://i.ytimg.com/vi/98pqZI-gLC0/maxresdefault.jpg"
           },
           "versions": [
-            "3.7"
+            "3.7",
+            "3.6"
           ]
         },
         {
@@ -3241,7 +3256,6 @@
         {
           "title": "Explosive Arrow Totems Heirophant",
           "url": "https://balormage.com/build-guides/explosive-arrow-totems",
-          "videothumb": {},
           "versions": [
             "3.14"
           ],
@@ -3250,7 +3264,6 @@
         {
           "title": "MRSEANCONNORS CRIT / ARC TOTEMS - Hierophant 4.5 MIL DPS / BEGINNER FRIENDLY [All Content]",
           "url": "https://www.pathofexile.com/forum/view-thread/2456407",
-          "videothumb": {},
           "versions": [
             "3.7",
             "3.8",
@@ -3261,7 +3274,6 @@
         {
           "title": "HOLY FLAME TOTEM, MARAUDER - CHIEFTAIN / BUDGET FRIENDLY - 4.6 MIL DPS [ ALL CONTENT ]",
           "url": "https://www.pathofexile.com/forum/view-thread/2452164/page/1",
-          "videothumb": {},
           "versions": [
             "3.9",
             "3.10"
@@ -3270,7 +3282,6 @@
         {
           "title": "HOLY FLAME TOTEM, TEMPLAR - HIEROPHANT / 2.5 MIL DPS, BUDGET FRIENDLY! UBER ELDER KILL",
           "url": "https://www.pathofexile.com/forum/view-thread/2514325",
-          "videothumb": {},
           "versions": [
             "3.7"
           ]
@@ -3391,7 +3402,8 @@
           },
           "versions": [
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -3404,7 +3416,8 @@
             "1280w": "https://i.ytimg.com/vi/tyF7C-2F-NE/maxresdefault.jpg"
           },
           "versions": [
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -3597,7 +3610,8 @@
           },
           "versions": [
             "3.7",
-            "3.8"
+            "3.8",
+            "3.13"
           ]
         },
         {
@@ -3649,7 +3663,6 @@
         {
           "title": "Ball Lightning/Arc Mines Saboteur",
           "url": "https://balormage.com/build-guides/ball-lightning-mines/",
-          "videothumb": {},
           "versions": [
             "3.9",
             "3.12",
@@ -3661,7 +3674,6 @@
         {
           "title": "Ryvenn's Arc Trap Build - 6k + EHP - 1.5M SHAPER DPS ALL CONTENT",
           "url": "https://www.pathofexile.com/forum/view-thread/2250856",
-          "videothumb": {},
           "versions": [
             "3.7",
             "3.8",
@@ -3710,7 +3722,8 @@
             "3.11",
             "3.12",
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -3757,7 +3770,8 @@
             "3.11",
             "3.12",
             "3.13",
-            "3.14"
+            "3.14",
+            "3.15"
           ]
         },
         {
@@ -4156,7 +4170,8 @@
           },
           "versions": [
             "3.7",
-            "3.8"
+            "3.8",
+            "3.10"
           ]
         },
         {
@@ -4170,7 +4185,8 @@
           },
           "versions": [
             "3.7",
-            "3.8"
+            "3.8",
+            "3.13"
           ]
         },
         {
@@ -4184,7 +4200,8 @@
           },
           "versions": [
             "3.7",
-            "3.8"
+            "3.8",
+            "3.13"
           ]
         },
         {
@@ -4236,7 +4253,8 @@
             "1280w": "https://i.ytimg.com/vi/iTzrZhO09pc/maxresdefault.jpg"
           },
           "versions": [
-            "3.7"
+            "3.7",
+            "3.8"
           ]
         },
         {
@@ -4280,7 +4298,8 @@
           "versions": [
             "3.10",
             "3.11",
-            "3.12"
+            "3.12",
+            "3.15"
           ]
         },
         {
@@ -4301,7 +4320,6 @@
         {
           "title": "Beginner's Build: Lich Queen Skeleton Summoner [Everything Viable]",
           "url": "https://www.pathofexile.com/forum/view-thread/1704143",
-          "videothumb": {},
           "versions": [
             "3.8",
             "3.9",
@@ -4313,7 +4331,6 @@
         {
           "title": "Dominating Blow \"Call to Arms\" League Starter Build",
           "url": "https://www.pathofexile.com/forum/view-thread/2208101",
-          "videothumb": {},
           "versions": [
             "3.8",
             "3.9",
@@ -4325,7 +4342,6 @@
         {
           "title": "VOIDFORGE Chains of Command (75/75 block, 6K+ life), Cheap 20M dps, all content.",
           "url": "https://www.pathofexile.com/forum/view-thread/2784989",
-          "videothumb": {},
           "versions": [
             "3.10"
           ]
@@ -4333,16 +4349,15 @@
         {
           "title": "Beginner's Build: Soulwrest Summoner",
           "url": "https://www.pathofexile.com/forum/view-thread/2239049",
-          "videothumb": {},
           "versions": [
             "3.9",
-            "3.10"
+            "3.10",
+            "0-50"
           ]
         },
         {
           "title": "Ghazzy - Zombie Summoner Build Guide Showcase",
           "url": "https://www.youtube.com/watch?v=4Jd9IvrVog0",
-          "videothumb": {},
           "versions": [
             "3.8"
           ]
@@ -4350,7 +4365,6 @@
         {
           "title": "Ghazzy - Summon Raging Spirits (SRS) Summoner Build Guide Showcase",
           "url": "https://www.youtube.com/watch?v=81VGRLAyRpQ",
-          "videothumb": {},
           "versions": [
             "3.8"
           ]
@@ -4903,7 +4917,6 @@
         {
           "title": "Wrecker of Days' Stress-Free PoE \"One Stop Shop!\"",
           "url": "https://www.pathofexile.com/forum/view-thread/2606288",
-          "videothumb": {},
           "versions": [
             "3.11",
             "3.12",
@@ -4914,7 +4927,6 @@
         {
           "title": "Compiled List of Streamer Starter Builds for Ultimatum League",
           "url": "https://www.reddit.com/r/pathofexile/comments/ms7ikt/compiled_list_of_streamer_starter_builds_for/",
-          "videothumb": {},
           "versions": [
             "3.14"
           ],
@@ -4923,7 +4935,6 @@
         {
           "title": "David Allen - Path of Exile 3.13 Ritual League Top Starter Builds",
           "url": "https://www.requnix.com/path-of-exile-3-13-ritual-top-starter-builds",
-          "videothumb": {},
           "versions": [
             "3.13"
           ]
@@ -4931,7 +4942,6 @@
         {
           "title": "David Allen - Path of Exile 3.13 Ritual Top Build Overview & Statistics",
           "url": "https://www.requnix.com/path-of-exile-3-13-ritual-top-build-statistics",
-          "videothumb": {},
           "versions": [
             "3.13"
           ]
@@ -4939,7 +4949,6 @@
         {
           "title": "Compiled List of Streamer Starter Builds for Ritual League",
           "url": "https://www.reddit.com/r/pathofexile/comments/kxwd89/compiled_list_of_streamer_starter_builds_for/",
-          "videothumb": {},
           "versions": [
             "3.13"
           ],
@@ -4948,7 +4957,6 @@
         {
           "title": "u/Ryant12 - Compiled List of Streamer Starter Builds for Heist League",
           "url": "https://www.reddit.com/r/pathofexile/comments/iv8uja/compiled_list_of_streamer_starter_builds_for/",
-          "videothumb": {},
           "versions": [
             "3.12"
           ]
@@ -4956,7 +4964,6 @@
         {
           "title": "u/irondraconis - Streamer/Content creator's league starter suggestions",
           "url": "https://www.reddit.com/r/pathofexile/comments/iv7hc8/streamercontent_creators_league_starter/",
-          "videothumb": {},
           "versions": [
             "3.12"
           ]
@@ -4964,7 +4971,6 @@
         {
           "title": "u/Ryant12 - Compiled List of Streamer Starter Builds for Harvest League",
           "url": "https://www.reddit.com/r/pathofexile/comments/hbsu5k/compiled_list_of_streamer_starter_builds_for/",
-          "videothumb": {},
           "versions": [
             "3.11"
           ]
@@ -4972,7 +4978,6 @@
         {
           "title": "u/Ryant12 - Compiled List of Streamer Starter Builds for Delirium League",
           "url": "https://www.reddit.com/r/pathofexile/comments/fhu3ca/compiled_list_of_streamer_starter_builds_for/",
-          "videothumb": {},
           "versions": [
             "3.10"
           ]
@@ -4980,7 +4985,6 @@
         {
           "title": "Compiled List of Streamer Starter Builds for Metamorph League",
           "url": "https://www.reddit.com/r/pathofexile/comments/e9y20u/compiled_list_of_streamer_starter_builds_for/",
-          "videothumb": {},
           "versions": [
             "3.9"
           ]
@@ -4988,7 +4992,6 @@
         {
           "title": "Compiled List of Streamer Starter Builds for Blight League",
           "url": "https://www.reddit.com/r/pathofexile/comments/d0ay24/compiled_list_of_streamer_starter_builds_for/",
-          "videothumb": {},
           "versions": [
             "3.8"
           ]

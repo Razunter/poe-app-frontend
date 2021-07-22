@@ -1,18 +1,19 @@
 ---
 # @formatter:off
 pagination:
-    data: data.versions
+    data: versions.versions
     size: 1
     alias: version
 renderData:
   title: Path of Exile {{ version.version }} {{ version.name }} starter builds collection (Razunter's picks)
   description: Quick preview of starter builds for Path of Exile v{{ version.version }} {{ version.name }}, collected by Razunter
-permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{ version.version | slug }}{% endif %}.html"
+permalink: "{% if version.version == versions.currentVersion %}index{% else %}old-{{ version.version | slug }}{% endif %}.html"
 # @formatter:on
 ---
 {% extends 'layouts/base.njk' %}
 {% import "macros.njk" as macros %}
 {% set thisVersion = version.version %}
+{% set data = ('data-' + thisVersion) | getVarFromString %}
 
 {% block nav %}
   <div hidden>{% svgSprite %}</div>
@@ -46,7 +47,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
   {% if version.wip or version.note %}
     <div
       class="subtitle">{% if version.wip %}Work in Progress!{% endif %}{% if version.note %} {{ version.note }}{% endif %}</div>{% endif %}
-  {% if thisVersion != data.currentVersion %}
+  {% if thisVersion != versions.currentVersion %}
     <div class="subtitle">old version, new version <a
         href="index.html">here</a></div>
   {% endif %}
@@ -78,7 +79,7 @@ permalink: "{% if version.version == data.currentVersion %}index{% else %}old-{{
 {% block footer %}
   <ul class="previous-links">
     <li class="nav-description">Version:</li>
-    {% for v in data.versions | limit(3) | reverse %}
+    {% for v in versions.versions | limit(3) | reverse %}
       {% if v.version == thisVersion %}
         <li class="active">
       {% else %}

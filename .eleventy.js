@@ -29,6 +29,9 @@ module.exports = function (eleventyConfig) {
         }
         return input;
     });
+    eleventyConfig.addNunjucksFilter("getVarFromString", function (varName) {
+        return this.ctx[varName.replace('.', '-')];
+    });
     eleventyConfig.addNunjucksFilter("getVideoType", function (input) {
         if (input !== undefined) {
             let type = 'novideo';

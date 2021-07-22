@@ -1,0 +1,18 @@
+{
+  "currentVersion": "3.15",
+  "versions": [
+    {
+      "name": "Ultimatum",
+      "version": "3.14",
+      "wip": false
+    },
+    {
+      "version": "3.15",
+      "name": "Expedition",
+      "wip": true,
+      "url": "https://www.pathofexile.com/expedition",
+      "note": "Extreme balance changes, be wary!",
+      "skiprf": true
+    }
+  ]
+}

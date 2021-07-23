@@ -237,7 +237,8 @@ a {
       }
     }
 
-    img {
+    img,
+    iframe {
       cursor: pointer;
       object-fit: cover;
       position: absolute;

@@ -918,6 +918,20 @@
           ]
         },
         {
+          "title": "Complete Cyclone Guide | Journey From League Start to End Game",
+          "url": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
+          "video": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6AXPj-FMHSo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6AXPj-FMHSo/sddefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15"
+          ],
+          "author": "Jaamon"
+        },
+        {
           "title": "Viper Strike Pathfinder",
           "url": "https://www.youtube.com/watch?v=aiZ-9ei-t58",
           "video": "https://www.youtube.com/watch?v=aiZ-9ei-t58",
@@ -1161,19 +1175,6 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/mPFcDlXdqc4/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/mPFcDlXdqc4/sddefault.jpg"
-          },
-          "versions": [
-            "3.14"
-          ],
-          "author": "Jaamon"
-        },
-        {
-          "title": "Complete Cyclone Guide | Journey From League Start to End Game",
-          "url": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
-          "video": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/6AXPj-FMHSo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/6AXPj-FMHSo/sddefault.jpg"
           },
           "versions": [
             "3.14"
@@ -1938,20 +1939,6 @@
           "author": "Zizaran"
         },
         {
-          "title": "ESSENCE DRAIN CONTAGION Trickster League Starter",
-          "url": "https://www.youtube.com/watch?v=3npA1n10PpQ",
-          "video": "https://www.youtube.com/watch?v=3npA1n10PpQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3npA1n10PpQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3npA1n10PpQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3npA1n10PpQ/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14"
-          ],
-          "author": "Zizaran"
-        },
-        {
           "title": "Archmage Bladefall/Blade Blast Hierophant Build Guide",
           "url": "https://www.poe-vault.com/guides/archmage-bladefall-blade-blast-hierophant-build-guide",
           "video": "https://www.youtube.com/watch?v=fhAYWkooxBg",
@@ -2006,6 +1993,20 @@
             "3.15"
           ],
           "author": "Big Ducks"
+        },
+        {
+          "title": "Spellslinger Volatile Dead Necromancer",
+          "url": "https://www.youtube.com/watch?v=4g5Q8UrufTc",
+          "video": "https://www.youtube.com/watch?v=4g5Q8UrufTc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4g5Q8UrufTc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4g5Q8UrufTc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4g5Q8UrufTc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Jaamon"
         },
         {
           "title": "Essence Drain + Blight Full Guide",
@@ -2402,6 +2403,20 @@
           "versions": [
             "3.13"
           ]
+        },
+        {
+          "title": "ESSENCE DRAIN CONTAGION Trickster League Starter",
+          "url": "https://www.youtube.com/watch?v=3npA1n10PpQ",
+          "video": "https://www.youtube.com/watch?v=3npA1n10PpQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3npA1n10PpQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3npA1n10PpQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3npA1n10PpQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14"
+          ],
+          "author": "Zizaran"
         },
         {
           "title": "BEST Build For New Players - Creeping Frost Occultist League Start Guide",
@@ -3929,6 +3944,23 @@
           ]
         },
         {
+          "title": "The Fortified Summoner: CwC Raging Spirit Champion [All affixes! Sirus/Mapping Vids]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2663727",
+          "video": "https://www.youtube.com/watch?v=qsEFWt9t4z0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qsEFWt9t4z0/hqdefault.jpg"
+          },
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15"
+          ]
+        },
+        {
           "title": "The Kingsguard - LL Aurabot Dominating Blow Summoner Tank - Uber Elder and Atziri, Delve 600+",
           "url": "https://www.pathofexile.com/forum/view-thread/2213233",
           "video": "https://www.youtube.com/watch?v=2F2sll1lYCQ",
@@ -4179,22 +4211,6 @@
             "1280w": "https://i.ytimg.com/vi/lzoZJ87BR9A/maxresdefault.jpg"
           },
           "versions": [
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14"
-          ]
-        },
-        {
-          "title": "The Fortified Summoner: CwC Raging Spirit Champion [All affixes! Sirus/Mapping Vids]",
-          "url": "https://www.pathofexile.com/forum/view-thread/2663727",
-          "video": "https://www.youtube.com/watch?v=qsEFWt9t4z0",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/qsEFWt9t4z0/hqdefault.jpg"
-          },
-          "versions": [
-            "3.9",
             "3.10",
             "3.11",
             "3.12",

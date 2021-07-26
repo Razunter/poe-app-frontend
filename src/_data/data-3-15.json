@@ -922,8 +922,7 @@
           "url": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
           "video": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/6AXPj-FMHSo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/6AXPj-FMHSo/sddefault.jpg"
+            "480w": "https://i.ytimg.com/vi/6AXPj-FMHSo/hqdefault.jpg"
           },
           "versions": [
             "3.14",
@@ -1954,32 +1953,6 @@
           "author": "Brittleknee"
         },
         {
-          "title": "Dual Herald Occultist Wander - League Starter - Speed Farmer",
-          "url": "https://www.youtube.com/watch?v=9mgH5VxqFH0",
-          "video": "https://www.youtube.com/watch?v=9mgH5VxqFH0",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/9mgH5VxqFH0/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/9mgH5VxqFH0/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/9mgH5VxqFH0/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.15"
-          ],
-          "author": "Kuroboros"
-        },
-        {
-          "title": "Absolution Guardian League Starter",
-          "url": "https://www.youtube.com/watch?v=ngfpQlP0aac",
-          "video": "https://www.youtube.com/watch?v=ngfpQlP0aac",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ngfpQlP0aac/hqdefault.jpg"
-          },
-          "versions": [
-            "3.15"
-          ],
-          "author": "Von Vikton"
-        },
-        {
           "title": "New Player Build - Creeping Frost Occultist League Start Guide",
           "url": "https://www.youtube.com/watch?v=v8fv_N08Cbg",
           "video": "https://www.youtube.com/watch?v=v8fv_N08Cbg",
@@ -2036,6 +2009,20 @@
           "author": "Jaamon"
         },
         {
+          "title": "Dual Herald Occultist Wander - League Starter - Speed Farmer",
+          "url": "https://www.youtube.com/watch?v=9mgH5VxqFH0",
+          "video": "https://www.youtube.com/watch?v=9mgH5VxqFH0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9mgH5VxqFH0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9mgH5VxqFH0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9mgH5VxqFH0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Kuroboros"
+        },
+        {
           "title": "Freezing Pulse Elementalist",
           "url": "https://www.youtube.com/watch?v=2XP2mmmo-5Q",
           "video": "https://www.youtube.com/watch?v=2XP2mmmo-5Q",
@@ -2046,6 +2033,18 @@
             "3.15"
           ],
           "author": "Navandis"
+        },
+        {
+          "title": "Absolution Guardian League Starter",
+          "url": "https://www.youtube.com/watch?v=ngfpQlP0aac",
+          "video": "https://www.youtube.com/watch?v=ngfpQlP0aac",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ngfpQlP0aac/hqdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Von Vikton"
         },
         {
           "title": "Flame Wall Spellslinger Elementalist",
@@ -2929,6 +2928,20 @@
           "author": "Brittleknee"
         },
         {
+          "title": "FASTEST and SAFEST Clearing Build - Toxic Rain Raider",
+          "url": "https://www.youtube.com/watch?v=VwYklZElKBQ",
+          "video": "https://www.youtube.com/watch?v=VwYklZElKBQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/VwYklZElKBQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/VwYklZElKBQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/VwYklZElKBQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Big Ducks"
+        },
+        {
           "title": "SST Bleed Max Block Gladiator",
           "url": "https://www.youtube.com/watch?v=P6pfpH9vED0",
           "video": "https://www.youtube.com/watch?v=P6pfpH9vED0",
@@ -2955,20 +2968,6 @@
             "3.15"
           ],
           "author": "Von Vikton"
-        },
-        {
-          "title": "FASTEST and SAFEST Clearing Build - Toxic Rain Raider",
-          "url": "https://www.youtube.com/watch?v=VwYklZElKBQ",
-          "video": "https://www.youtube.com/watch?v=VwYklZElKBQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/VwYklZElKBQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/VwYklZElKBQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/VwYklZElKBQ/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.15"
-          ],
-          "author": "Big Ducks"
         },
         {
           "title": "Zizaran - Deadeye Explosive Arrow Starter Build Guide",
@@ -3310,18 +3309,6 @@
           "author": "Zizaran"
         },
         {
-          "title": "Freezing Pulse / Ice Spear Totems Hierophant League Starter",
-          "url": "https://www.youtube.com/watch?v=CSSvZo8omgY",
-          "video": "https://www.youtube.com/watch?v=CSSvZo8omgY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/CSSvZo8omgY/hqdefault.jpg"
-          },
-          "versions": [
-            "3.15"
-          ],
-          "author": "Von Vikton"
-        },
-        {
           "title": "Toxic Rain Caustic Arrow Ballista Build Guide!",
           "url": "https://www.youtube.com/watch?v=bfZ_Zsuxyh0",
           "video": "https://www.youtube.com/watch?v=bfZ_Zsuxyh0",
@@ -3347,6 +3334,18 @@
             "3.15"
           ],
           "author": "Jaamon"
+        },
+        {
+          "title": "Freezing Pulse / Ice Spear Totems Hierophant League Starter",
+          "url": "https://www.youtube.com/watch?v=CSSvZo8omgY",
+          "video": "https://www.youtube.com/watch?v=CSSvZo8omgY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CSSvZo8omgY/hqdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Von Vikton"
         },
         {
           "title": "Ice Spear Freezing Pulse Totem Hierophant",
@@ -3523,18 +3522,6 @@
           ]
         },
         {
-          "title": "Ice Trap Saboteur/Raider League Starter Build - Freeze ALL BOSSES with Un-Nerfed Damage",
-          "url": "https://www.pathofexile.com/forum/view-thread/3147827",
-          "video": "https://www.youtube.com/watch?v=23PjN3uFOEw",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/23PjN3uFOEw/hqdefault.jpg"
-          },
-          "versions": [
-            "3.15"
-          ],
-          "author": "Tripolar Bear"
-        },
-        {
           "title": "EXPLOSIVE / FLAMETHROWER TRAP Saboteur Build. Cheapest League Starter for ALL CONTENT!",
           "url": "https://www.pathofexile.com/forum/view-thread/2846126",
           "video": "https://www.youtube.com/watch?v=xAEfDkXPLTY",
@@ -3561,6 +3548,18 @@
             "3.15"
           ],
           "author": "Jaamon"
+        },
+        {
+          "title": "Ice Trap Saboteur/Raider League Starter Build - Freeze ALL BOSSES with Un-Nerfed Damage",
+          "url": "https://www.pathofexile.com/forum/view-thread/3147827",
+          "video": "https://www.youtube.com/watch?v=23PjN3uFOEw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/23PjN3uFOEw/hqdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Tripolar Bear"
         },
         {
           "title": "Beginner Friendly Arc/Ice Spear Mines | All Content | STEP BY STEP LVLING VIDEO GUIDE",
@@ -3790,20 +3789,6 @@
           ]
         },
         {
-          "title": "Ice Trap Saboteur is INSANE - Freeze Bosses ONE BUTTON",
-          "url": "https://www.youtube.com/watch?v=okFDtR-6_pg",
-          "video": "https://www.youtube.com/watch?v=okFDtR-6_pg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/okFDtR-6_pg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/okFDtR-6_pg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/okFDtR-6_pg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14"
-          ],
-          "author": "Tripolar Bear"
-        },
-        {
           "title": "BEST Early League Bossing - Purifying Flame Mines Saboteur League Start Guide",
           "url": "https://www.youtube.com/watch?v=d0kne5HmUmA",
           "video": "https://www.youtube.com/watch?v=4Vr_-0t1v2Y",
@@ -3816,6 +3801,20 @@
             "3.14"
           ],
           "author": "Big Ducks"
+        },
+        {
+          "title": "Ice Trap Saboteur is INSANE - Freeze Bosses ONE BUTTON",
+          "url": "https://www.youtube.com/watch?v=okFDtR-6_pg",
+          "video": "https://www.youtube.com/watch?v=okFDtR-6_pg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/okFDtR-6_pg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/okFDtR-6_pg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/okFDtR-6_pg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14"
+          ],
+          "author": "Tripolar Bear"
         },
         {
           "title": "Ryvenn's Arc Trap Build - 6k + EHP - 1.5M SHAPER DPS ALL CONTENT",
@@ -4277,20 +4276,6 @@
           "author": "BalorMage"
         },
         {
-          "title": "Skeleton Mages League Starter Guide",
-          "url": "https://www.youtube.com/watch?v=w3XBpsrbkoQ",
-          "video": "https://www.youtube.com/watch?v=w3XBpsrbkoQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/w3XBpsrbkoQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/w3XBpsrbkoQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/w3XBpsrbkoQ/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.15"
-          ],
-          "author": "Von Vikton"
-        },
-        {
           "title": "Dominating Blow Guardian",
           "url": "https://www.youtube.com/watch?v=rMStOznlHcU",
           "video": "https://www.youtube.com/watch?v=rMStOznlHcU",
@@ -4330,6 +4315,20 @@
             "3.15"
           ],
           "author": "Navandis"
+        },
+        {
+          "title": "Skeleton Mages League Starter Guide",
+          "url": "https://www.youtube.com/watch?v=w3XBpsrbkoQ",
+          "video": "https://www.youtube.com/watch?v=w3XBpsrbkoQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/w3XBpsrbkoQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/w3XBpsrbkoQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/w3XBpsrbkoQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Von Vikton"
         },
         {
           "title": "The Spectre Summoner Build Guide",

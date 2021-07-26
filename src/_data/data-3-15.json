@@ -1353,6 +1353,23 @@
           ]
         },
         {
+          "title": "Aegis Incinerate Inquisitor - Tank with 5mil Shaper DPS!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2865430",
+          "video": "https://www.youtube.com/watch?v=RdhButU92D8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/RdhButU92D8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/RdhButU92D8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/RdhButU92D8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15"
+          ]
+        },
+        {
           "title": "Ice Dancing Queen - Icestorm/Cyclone/CI - Viable For Everything",
           "url": "https://www.pathofexile.com/forum/view-thread/2628295",
           "video": "https://www.youtube.com/watch?v=C9SSg8rhPJ0",
@@ -1856,22 +1873,6 @@
           "pin": true
         },
         {
-          "title": "Aegis Incinerate Inquisitor - Tank with 5mil Shaper DPS!",
-          "url": "https://www.pathofexile.com/forum/view-thread/2865430",
-          "video": "https://www.youtube.com/watch?v=RdhButU92D8",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/RdhButU92D8/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/RdhButU92D8/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/RdhButU92D8/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14"
-          ]
-        },
-        {
           "title": "Just do not die 4head | Tanky Divine Ire ignite Inquisitor | all content | league starter",
           "url": "https://www.pathofexile.com/forum/view-thread/3080303",
           "video": "https://www.youtube.com/watch?v=1lpcAiwHeyg",
@@ -1953,18 +1954,30 @@
           "author": "Brittleknee"
         },
         {
-          "title": "Absolution Guardian League Starter",
-          "url": "https://www.youtube.com/watch?v=F0iaciwQma4",
-          "video": "https://www.youtube.com/watch?v=F0iaciwQma4",
+          "title": "Dual Herald Occultist Wander - League Starter - Speed Farmer",
+          "url": "https://www.youtube.com/watch?v=9mgH5VxqFH0",
+          "video": "https://www.youtube.com/watch?v=9mgH5VxqFH0",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/F0iaciwQma4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/F0iaciwQma4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/F0iaciwQma4/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/9mgH5VxqFH0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9mgH5VxqFH0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9mgH5VxqFH0/maxresdefault.jpg"
           },
           "versions": [
             "3.15"
           ],
-          "author": " Von Vikton"
+          "author": " Kuroboros"
+        },
+        {
+          "title": "Absolution Guardian League Starter",
+          "url": "https://www.youtube.com/watch?v=ngfpQlP0aac",
+          "video": "https://www.youtube.com/watch?v=ngfpQlP0aac",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ngfpQlP0aac/hqdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Von Vikton"
         },
         {
           "title": "New Player Build - Creeping Frost Occultist League Start Guide",
@@ -2941,7 +2954,7 @@
           "versions": [
             "3.15"
           ],
-          "author": " Von Vikton"
+          "author": "Von Vikton"
         },
         {
           "title": "FASTEST and SAFEST Clearing Build - Toxic Rain Raider",
@@ -3306,7 +3319,7 @@
           "versions": [
             "3.15"
           ],
-          "author": " Von Vikton"
+          "author": "Von Vikton"
         },
         {
           "title": "Toxic Rain Caustic Arrow Ballista Build Guide!",
@@ -4275,7 +4288,7 @@
           "versions": [
             "3.15"
           ],
-          "author": " Von Vikton"
+          "author": "Von Vikton"
         },
         {
           "title": "Dominating Blow Guardian",

@@ -54,6 +54,10 @@ module.exports = function (eleventyConfig) {
     // SVG Sprite
     eleventyConfig.addNunjucksAsyncShortcode('svgSprite', svgSprite)
 
+    eleventyConfig.addNunjucksGlobal('strIncludes', (string, inc) => {
+        return string.includes(inc)
+    })
+
     // rebuild on changes
     // eleventyConfig.addWatchTarget("./src/js/*.js")
     // eleventyConfig.addWatchTarget("./src/assets/css/*.css")

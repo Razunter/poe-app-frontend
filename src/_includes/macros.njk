@@ -8,6 +8,11 @@
            href="{{ url }}"
            target="_blank" rel="noopener">
           {% if author %}<span class="build-author">{{ author }}</span> - {% endif %}{{ title }}
+          {% if not strIncludes(url, 'youtube.com') %}
+            <svg class="icon-external" role="img" aria-hidden="true" width="1em" height="1em">
+              <use xlink:href="#icon-external" />
+            </svg>
+          {% endif %}
         </a>
       </h3>
     </figcaption>

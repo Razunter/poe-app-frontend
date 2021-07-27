@@ -1,3 +1,11 @@
+{% macro externalIcon(url) %}
+  {% if not strIncludes(url, 'youtube.com') %}
+    <svg class="icon-external" role="img" aria-hidden="true" width="1em" height="1em">
+      <use xlink:href="#icon-external" />
+    </svg>
+  {% endif %}
+{% endmacro %}
+
 {% macro video(title, url, video, videothumb, author) %}
   {% set videotype = video | getVideoType %}
   {% set videoid = video | getVideoID(videotype) %}
@@ -7,12 +15,7 @@
         <a class="build-link"
            href="{{ url }}"
            target="_blank" rel="noopener">
-          {% if author %}<span class="build-author">{{ author }}</span> - {% endif %}{{ title }}
-          {% if not strIncludes(url, 'youtube.com') %}
-            <svg class="icon-external" role="img" aria-hidden="true" width="1em" height="1em">
-              <use xlink:href="#icon-external" />
-            </svg>
-          {% endif %}
+          {% if author %}<span class="build-author">{{ author }}</span> - {% endif %}{{ title }}&#8288;{{ externalIcon(url) }}
         </a>
       </h3>
     </figcaption>

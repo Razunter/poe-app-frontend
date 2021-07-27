@@ -214,10 +214,16 @@ a {
   }
 
   iframe,
-  img {
+  img,
+  .novideo {
     width: 100%;
     height: auto;
     aspect-ratio: 16/9;
+  }
+
+  .video-wrap,
+  .novideo {
+    margin-top: auto;
   }
 
   @supports not (aspect-ratio: 16/9) {
@@ -238,7 +244,8 @@ a {
     }
 
     img,
-    iframe {
+    iframe,
+    .novideo {
       cursor: pointer;
       object-fit: cover;
       position: absolute;
@@ -266,8 +273,8 @@ a {
 
     width: 100%;
     min-height: 3em;
-    flex-grow: 1;
-    margin: 0 auto;
+    //flex-grow: 1;
+    //margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -290,16 +297,16 @@ a {
     width: 100%;
 
     @media screen and (min-width: 920px) {
-      @include limit-lines(3);
+      //@include limit-lines(3);
 
-      height: 1.2rem * 1.4 * 3;
+      //height: 1.2rem * 1.4 * 3;
     }
 
     @media screen and (min-width: 1200px) {
-      @include limit-lines(3);
+      //@include limit-lines(3);
 
       font-size: 1.5rem;
-      height: 1.5rem * 1.4 * 2;
+      //height: 1.5rem * 1.4 * 2;
     }
   }
 }

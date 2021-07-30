@@ -183,6 +183,18 @@
           ]
         },
         {
+          "title": "Max Block Impale Shield Crush Gladiator - Crush the Atlas on Easy-to-get Gear - SSF Compatible",
+          "url": "https://www.pathofexile.com/forum/view-thread/3148278/page/1",
+          "video": "https://www.youtube.com/watch?v=K3ObLKn6Fhg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/K3ObLKn6Fhg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/K3ObLKn6Fhg/sddefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ]
+        },
+        {
           "title": "Strength Stacking Slammer. Blast through the game from start to finish.",
           "url": "https://www.pathofexile.com/forum/view-thread/3101843",
           "video": "https://www.youtube.com/watch?v=KbKKc5EzMwM",
@@ -1209,13 +1221,6 @@
           "author": "Octavian"
         },
         {
-          "title": "Max Block Impale Shield Crush Gladiator - Crush the Atlas on Easy-to-get Gear - SSF Compatible",
-          "url": "https://www.pathofexile.com/forum/view-thread/3148278/page/1",
-          "versions": [
-            "3.15"
-          ]
-        },
-        {
           "title": "1H-Impale Cyclone Champion - 13M+ Shaper DPS Fullbuffed / 176%-230% Movspeed Speedy Boy",
           "url": "https://www.pathofexile.com/forum/view-thread/2514647",
           "versions": [
@@ -1273,6 +1278,19 @@
             "3.12",
             "3.13",
             "3.14",
+            "3.15"
+          ],
+          "pin": true
+        },
+        {
+          "title": "Enki's Archmage Hierophant | Arc & Ball Lightning | beginner- & leaguestart-friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/3147914",
+          "video": "https://www.youtube.com/watch?v=o-n3cUVNi5Q",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/o-n3cUVNi5Q/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/o-n3cUVNi5Q/sddefault.jpg"
+          },
+          "versions": [
             "3.15"
           ],
           "pin": true
@@ -2481,13 +2499,6 @@
           ]
         },
         {
-          "title": "Enki's Archmage Hierophant | Arc & Ball Lightning | beginner- & leaguestart-friendly",
-          "url": "https://www.pathofexile.com/forum/view-thread/3147914",
-          "versions": [
-            "3.15"
-          ]
-        },
-        {
           "title": "Occultist/Trickster Bane SSF SHC lvl 100 Rank 3 Build guide / All Content / lvl 100 viable",
           "url": "https://www.pathofexile.com/forum/view-thread/2466756",
           "versions": [
@@ -3690,6 +3701,19 @@
           "author": "BalorMage"
         },
         {
+          "title": "Ice Trap League Starter Build Guide - All Map Mods And Bosses On Low Budget",
+          "url": "https://www.youtube.com/watch?v=370c-7mqbnE",
+          "video": "https://www.youtube.com/watch?v=370c-7mqbnE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/370c-7mqbnE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/370c-7mqbnE/sddefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Asmodeus"
+        },
+        {
           "title": "POISON Blade Trap Saboteur - My SC 3.15 Starter Build!",
           "url": "https://www.youtube.com/watch?v=qw-H3m_IowY",
           "video": "https://www.youtube.com/watch?v=qw-H3m_IowY",
@@ -3716,6 +3740,19 @@
             "3.15"
           ],
           "author": "Brittleknee"
+        },
+        {
+          "title": "60 Chaos Budget Seismic Trap Saboteur Destroys Everything",
+          "url": "https://www.youtube.com/watch?v=JqjQrQEfHf4",
+          "video": "https://www.youtube.com/watch?v=JqjQrQEfHf4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JqjQrQEfHf4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JqjQrQEfHf4/sddefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Jaamon"
         },
         {
           "title": "Legion Lightning Trap [Tarke Cat]",

@@ -195,6 +195,27 @@
           ]
         },
         {
+          "title": "Hybrid's Molten Strike Jugg - Hold right click to TANK anything | MELT the Atlas",
+          "url": "https://www.pathofexile.com/forum/view-thread/2211489",
+          "video": "https://www.youtube.com/watch?v=iZSe8RTxJgQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15"
+          ]
+        },
+        {
           "title": "Strength Stacking Slammer. Blast through the game from start to finish.",
           "url": "https://www.pathofexile.com/forum/view-thread/3101843",
           "video": "https://www.youtube.com/watch?v=KbKKc5EzMwM",
@@ -891,26 +912,6 @@
           ]
         },
         {
-          "title": "Hybrid's Molten Strike Jugg - Hold right click to TANK anything | MELT the Atlas",
-          "url": "https://www.pathofexile.com/forum/view-thread/2211489",
-          "video": "https://www.youtube.com/watch?v=iZSe8RTxJgQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.7",
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14"
-          ]
-        },
-        {
           "title": "Nightblade Flurry Assassin | Beginner's Guides | Boss Killer",
           "url": "https://www.pathofexile.com/forum/view-thread/2284176",
           "video": "https://www.youtube.com/watch?v=4IQYtLWqEWc",
@@ -928,6 +929,20 @@
             "3.13",
             "3.14"
           ]
+        },
+        {
+          "title": "Rage Vortex Berserker FULL Build Guide ~ The Most OP Leaguestarter I've played in a LONG Time!",
+          "url": "https://www.youtube.com/watch?v=3typtfXv-a4",
+          "video": "https://www.youtube.com/watch?v=3typtfXv-a4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3typtfXv-a4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3typtfXv-a4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3typtfXv-a4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Badger"
         },
         {
           "title": "Complete Cyclone Guide | Journey From League Start to End Game",

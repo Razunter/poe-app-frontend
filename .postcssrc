@@ -1,0 +1,12 @@
+{
+  "plugins": {
+	"postcss-preset-env": {
+		stage: 4,
+		autoprefixer: false
+	},
+	"postcss-sort-media-queries": {},
+    "autoprefixer": {
+      "grid": true
+    }
+  }
+}

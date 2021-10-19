@@ -16,10 +16,10 @@
     "clean": "rimraf _site",
     "dev": "cross-env NODE_ENV=development npm-run-all clean --parallel develop:*",
     "develop:eleventy": "eleventy --quiet --serve --watch",
-    "develop:parcel": "parcel watch",
+    "develop:parcel": "parcel watch --no-cache",
     "build": "cross-env NODE_ENV=production npm-run-all clean prod:parcel prod:eleventy",
     "prod:eleventy": "eleventy --quiet",
-    "prod:parcel": "parcel build --no-source-maps",
+    "prod:parcel": "parcel build --no-source-maps --no-cache",
     "serve": "eleventy --quiet --serve"
   },
   "browserslist": [
@@ -44,6 +44,8 @@
     "parcel": "^2.0.0",
     "postcss": "^8.3.9",
     "postcss-cli": "^9.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-sort-media-queries": "^4.1.0",
     "rimraf": "^3.0.2",
     "sass": "^1.43.2",
     "stylelint": "^13.13.1",

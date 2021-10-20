@@ -2,7 +2,7 @@
   "types": {
     "melee": "Melee",
     "caster": "Caster & Wander",
-    "ranged": "Archer",
+    "ranged": "Ranged",
     "totems": "Totems",
     "rf": "Righteous Fire & Death's Oath",
     "mines": "Mines & Traps",
@@ -25,10 +25,11 @@
           "versions": [
             "3.15",
             "3.16"
-          ]
+          ],
+          "skip": true
         },
         {
-          "title": "Gladiator Bleed Earthquake 75/75 Block / League Starter / Budget Friendly",
+          "title": "Gladiator Bleed Earthquake 85/73 Block / League Starter / Budget Friendly",
           "url": "https://www.pathofexile.com/forum/view-thread/2912301",
           "video": "https://www.youtube.com/watch?v=H1eLo15p5hU",
           "videothumb": {
@@ -43,7 +44,7 @@
           ]
         },
         {
-          "title": "The Warbringer Slaming Serker [League Starter | Cheap | Smash the Atlas]",
+          "title": "The Warbringer Slaming Serker [League Starter | Cheap | Smash the Atlas | Prismatic GOD]",
           "url": "https://www.pathofexile.com/forum/view-thread/2618769",
           "video": "https://www.youtube.com/watch?v=WRwc39QPbq4",
           "videothumb": {
@@ -77,10 +78,11 @@
             "3.14",
             "3.15",
             "3.16"
-          ]
+          ],
+          "skip": true
         },
         {
-          "title": "Max Block Impale Shield Crush Gladiator - Crush the Atlas on Easy-to-get Gear - SSF Compatible",
+          "title": "Max Block Impale Shield Crush Gladiator - Crush the Atlas - SSF Compatible",
           "url": "https://www.pathofexile.com/forum/view-thread/3148278/page/1",
           "video": "https://www.youtube.com/watch?v=K3ObLKn6Fhg",
           "videothumb": {
@@ -112,7 +114,8 @@
             "3.14",
             "3.15",
             "3.16"
-          ]
+          ],
+          "skip": true
         },
         {
           "title": "KissMeQuick's Gladiator Reave: REBORN — T19 100% Maps & A8 Sirus 1:19 Speedrun — Starter",
@@ -126,7 +129,8 @@
             "3.14",
             "3.15",
             "3.16"
-          ]
+          ],
+          "skip": true
         },
         {
           "title": "Devon's Shocking Lawnmower | Pure Phys Crit-Cyclone | All content viable",
@@ -140,7 +144,8 @@
             "3.14",
             "3.15",
             "3.16"
-          ]
+          ],
+          "skip": true
         },
         {
           "title": "Storm to the Limit - Lightning Strike | All content viable",
@@ -666,6 +671,15 @@
           "author": "kira1414"
         },
         {
+          "title": "INSANE DAMAGE with a 2-Button Build - General's Cry Shield Crush",
+          "url": "https://www.youtube.com/watch?v=w70tJIIJ5TU",
+          "video": "https://www.youtube.com/watch?v=w70tJIIJ5TU",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Navandis Gaming"
+        },
+        {
           "title": "Zizaran - E Q J U G G - Thick and Slammy Leaguestarter!",
           "url": "https://www.youtube.com/watch?v=hUF9ZsrVC68",
           "video": "https://www.youtube.com/watch?v=hUF9ZsrVC68",
@@ -807,7 +821,8 @@
             "3.14",
             "3.15",
             "3.16"
-          ]
+          ],
+          "skip": true
         },
         {
           "title": "Coldslinger | Vortex | Creeping Frost | League Start | Endgame | SSF [CI/LL]",
@@ -823,7 +838,8 @@
             "3.14",
             "3.15",
             "3.16"
-          ]
+          ],
+          "skip": true
         },
         {
           "title": "Aegis Incinerate Inquisitor - Tank with 5mil Shaper DPS!",
@@ -841,7 +857,8 @@
             "3.14",
             "3.15",
             "3.16"
-          ]
+          ],
+          "skip": true
         },
         {
           "title": "Storm Brand Occultist | 5M+ DPS Leaguestart | All Content | Brands Freeze Everything",
@@ -856,7 +873,8 @@
             "3.15",
             "3.16"
           ],
-          "author": "Velyna"
+          "author": "Velyna",
+          "skip": true
         },
         {
           "title": "Storm Brand Guardian | Leaguestart Section | Freezing Brands | All Content",
@@ -871,7 +889,8 @@
             "3.15",
             "3.16"
           ],
-          "author": "Velyna"
+          "author": "Velyna",
+          "skip": true
         },
         {
           "title": "FreezeFinder - Cold Blade Vortex, boss killer, all content",
@@ -1315,6 +1334,24 @@
           "author": "Brittleknee"
         },
         {
+          "title": "One-Shotting Bosses with Discharge Elementalist!",
+          "url": "https://www.youtube.com/watch?v=lMhjfk1JXPg",
+          "video": "https://www.youtube.com/watch?v=lMhjfk1JXPg",
+          "versions": [
+            "3.16"
+          ],
+          "author": " This is Badger"
+        },
+        {
+          "title": "Bane Occultist BUFFED?! Most insane league starter",
+          "url": "https://www.youtube.com/watch?v=7B1MtEQyU2k",
+          "video": "https://www.youtube.com/watch?v=7B1MtEQyU2k",
+          "versions": [
+            "3.16"
+          ],
+          "author": "subtractem"
+        },
+        {
           "title": "Flame Wall Spellslinger Elementalist",
           "url": "https://www.poe-vault.com/guides/flame-wall-spellslinger-elementalist-build-guide",
           "video": "https://www.youtube.com/watch?v=jy1qXlTe6NA",
@@ -1596,7 +1633,7 @@
       "type": "ranged",
       "builds": [
         {
-          "title": "Remi's Toxic Rain Deadeye | Beginner guide | All Content | Stronger than ever",
+          "title": "Remi's Toxic Rain Deadeye | Beginner guide | All Content Viable",
           "url": "https://www.pathofexile.com/forum/view-thread/2866127",
           "video": "https://www.youtube.com/watch?v=JGb5AyfLMEU",
           "videothumb": {
@@ -1612,6 +1649,15 @@
             "3.15",
             "3.16"
           ]
+        },
+        {
+          "title": "Lightning Strike Raider",
+          "url": "https://www.pathofexile.com/forum/view-thread/3186978",
+          "video": "https://www.youtube.com/watch?v=9qsgkDwuoFM",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Fuzzy Duckzy"
         },
         {
           "title": "The Hitman, Elemental Hit Slayer (League Starter to Endgame / 800+ Delve)",
@@ -1867,6 +1913,24 @@
           "author": "Brittleknee"
         },
         {
+          "title": "Incredible League Starter Build - Toxic Rain Champion",
+          "url": "https://www.youtube.com/watch?v=DJ1oKC16ddU",
+          "video": "https://www.youtube.com/watch?v=DJ1oKC16ddU",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Asmodeus"
+        },
+        {
+          "title": "Toxic Rain Raider",
+          "url": "https://www.youtube.com/watch?v=y6CqHo7v5GQ",
+          "video": "https://www.youtube.com/watch?v=y6CqHo7v5GQ",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Seberus"
+        },
+        {
           "title": "FIRE KB + BURNING ARROW - Best Clear and Easiest Burning Arrow League Start",
           "url": "https://www.youtube.com/watch?v=CSye-pb5V3Y",
           "video": "https://www.youtube.com/watch?v=CSye-pb5V3Y",
@@ -2102,6 +2166,15 @@
             "3.15"
           ],
           "author": "Zizaran"
+        },
+        {
+          "title": "INSANELY Fast Early Farming - Toxic Rain Raider",
+          "url": "https://www.youtube.com/watch?v=oZwMKp9ocVE",
+          "video": "https://www.youtube.com/watch?v=oZwMKp9ocVE",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Big Ducks"
         },
         {
           "title": "Toxic Rain Caustic Arrow Ballista Build Guide!",
@@ -2356,6 +2429,15 @@
           "author": "Tripolar Bear"
         },
         {
+          "title": "A very RELIABLE all-rounder build - Xai's Physical Trapper Saboteur",
+          "url": "https://www.youtube.com/watch?v=uVZWzXEzUGI",
+          "video": "https://www.youtube.com/watch?v=uVZWzXEzUGI",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Zizaran"
+        },
+        {
           "title": "Toxic Rain Mine Saboteur",
           "url": "https://balormage.com/build-guides/trmines/",
           "video": "https://www.youtube.com/watch?v=VWRVAaUDsMU",
@@ -2370,6 +2452,24 @@
             "3.14"
           ],
           "author": "BalorMage"
+        },
+        {
+          "title": "Eye of Winter: HUGE Damage on a Budget & Solid Clear Speed",
+          "url": "https://www.youtube.com/watch?v=kAWdJhHwqAc",
+          "video": "https://www.youtube.com/watch?v=kAWdJhHwqAc",
+          "versions": [
+            "3.16"
+          ],
+          "author": " Path of Matth"
+        },
+        {
+          "title": "The Most COMFORTABLE Bossing Build: Seismic Trap",
+          "url": "https://www.youtube.com/watch?v=FP1ti9Ah5hI",
+          "video": "https://www.youtube.com/watch?v=FP1ti9Ah5hI",
+          "versions": [
+            "3.16"
+          ],
+          "author": " Path of Matth"
         },
         {
           "title": "Ice Trap Saboteur is INSANE - Freeze Bosses ONE BUTTON",
@@ -2455,6 +2555,29 @@
     {
       "type": "minions",
       "builds": [
+        {
+          "title": "Kay's Summoner // Spectres / Spiders / SRS / Skeletons / Herald of Purity / Golems",
+          "url": "https://www.pathofexile.com/forum/view-thread/3179145",
+          "video": "https://www.youtube.com/watch?v=taj0yghh95U",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/taj0yghh95U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/taj0yghh95U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/taj0yghh95U/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "pin": true
+        },
         {
           "title": "Moosseolini's Holy Relics Guardian",
           "url": "https://www.pathofexile.com/forum/view-thread/2717739",
@@ -2606,29 +2729,6 @@
           ]
         },
         {
-          "title": "Kay's Summoner // Spectres / Spiders / SRS / Skeletons / Herald of Purity / Golems",
-          "url": "https://www.pathofexile.com/forum/view-thread/3179145",
-          "video": "https://www.youtube.com/watch?v=taj0yghh95U",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ugb-qOsbigY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/ugb-qOsbigY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/ugb-qOsbigY/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.7",
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16"
-          ],
-          "pin": true
-        },
-        {
           "title": "Brain-dead Dominating Blow Guardian - 2mil DPS on 20c budget, 5mil+ with investment",
           "url": "https://www.pathofexile.com/forum/view-thread/3106152",
           "video": "https://www.youtube.com/watch?v=8_OSPW45_VY",
@@ -2749,6 +2849,33 @@
             "3.14"
           ],
           "author": "BalorMage"
+        },
+        {
+          "title": "My top summoner skeleton league starter",
+          "url": "https://www.youtube.com/watch?v=nFe-14FctK4",
+          "video": "https://www.youtube.com/watch?v=nFe-14FctK4",
+          "versions": [
+            "3.16"
+          ],
+          "author": " TheGAM3Report1"
+        },
+        {
+          "title": "Skeleton Mages League Starter",
+          "url": "https://www.youtube.com/watch?v=o3hB2DdfiY4",
+          "video": "https://www.youtube.com/watch?v=o3hB2DdfiY4",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Von Vikton"
+        },
+        {
+          "title": "Stone Golems Necromancer League Starter",
+          "url": "https://www.youtube.com/watch?v=VpLzKhscoKw",
+          "video": "https://www.youtube.com/watch?v=VpLzKhscoKw",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Von Vikton"
         },
         {
           "title": "Dominating Blow Guardian",
@@ -2900,7 +3027,9 @@
           "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
           "video": "https://www.youtube.com/watch?v=yNm1bko7beI",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/en_l0ow4lRE/hqdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/yNm1bko7beI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yNm1bko7beI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/yNm1bko7beI/maxresdefault.jpg"
           },
           "versions": [
             "3.13",
@@ -2921,6 +3050,15 @@
     {
       "type": "misc",
       "builds": [
+        {
+          "title": "Updates to Inquisitor Righteous Fire and Int Stacking Deadeye",
+          "url": "https://www.youtube.com/watch?v=t0D5F34-xEY",
+          "video": "https://www.youtube.com/watch?v=t0D5F34-xEY",
+          "versions": [
+            "3.16"
+          ],
+          "author": " CaptainLance9"
+        },
         {
           "title": "Esoro's Best League Starter Builds!",
           "url": "https://www.youtube.com/watch?v=43tGLUKG30Q",

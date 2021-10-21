@@ -25,8 +25,7 @@
           "versions": [
             "3.15",
             "3.16"
-          ],
-          "skip": true
+          ]
         },
         {
           "title": "Gladiator Bleed Earthquake 85/73 Block / League Starter / Budget Friendly",
@@ -163,8 +162,7 @@
             "3.14",
             "3.15",
             "3.16"
-          ],
-          "skip": true
+          ]
         },
         {
           "title": "For Slayer / Champion - Ngamahu Cyclone / Consecrated Path / Tectonic Slam (All Content)",
@@ -688,6 +686,20 @@
           "author": "Zizaran"
         },
         {
+          "title": "Steelmage's SLAMMER JAMMER - Ground Slam Berserker League Starter",
+          "url": "https://www.youtube.com/watch?v=QxYGb739KzI",
+          "video": "https://www.youtube.com/watch?v=QxYGb739KzI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QxYGb739KzI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QxYGb739KzI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QxYGb739KzI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14"
+          ],
+          "author": "Zizaran"
+        },
+        {
           "title": "MASSIVE Damage Scaling - Steel Champion",
           "url": "https://www.youtube.com/watch?v=a4qEF31bxY0",
           "video": "https://www.youtube.com/watch?v=a4qEF31bxY0",
@@ -714,6 +726,20 @@
             "3.16"
           ],
           "author": "Navandis Gaming"
+        },
+        {
+          "title": "Cyclone Pillar Champion",
+          "url": "https://www.youtube.com/watch?v=laabDKkssdM",
+          "video": "https://www.youtube.com/watch?v=laabDKkssdM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/laabDKkssdM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/laabDKkssdM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/laabDKkssdM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Palsteron"
         },
         {
           "title": "GGeneral Cry Blade Flurry Berserker: Fast & BIG Damage",
@@ -755,20 +781,6 @@
           "versions": [
             "3.11"
           ]
-        },
-        {
-          "title": "Steelmage's SLAMMER JAMMER - Ground Slam Berserker League Starter",
-          "url": "https://www.youtube.com/watch?v=QxYGb739KzI",
-          "video": "https://www.youtube.com/watch?v=QxYGb739KzI",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/QxYGb739KzI/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/QxYGb739KzI/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/QxYGb739KzI/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14"
-          ],
-          "author": "Zizaran"
         },
         {
           "title": "Brutus' Lead Sprinkler Earthquake Chieftain",
@@ -873,6 +885,26 @@
       "type": "caster",
       "builds": [
         {
+          "title": "ShakCentral's Cold DoT For Everyone",
+          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
+          "video": "https://www.youtube.com/watch?v=3QNlEmX1k1U",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3QNlEmX1k1U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3QNlEmX1k1U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3QNlEmX1k1U/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "pin": true
+        },
+        {
           "title": "Lahkesis Queen of Chaos \"Essence Drain/Bane/Contag\" [Life&LL] [HC/SC] - ️All Content",
           "url": "https://www.pathofexile.com/forum/view-thread/1963181",
           "video": "https://www.youtube.com/watch?v=hE9NDmnoVpI",
@@ -902,8 +934,7 @@
             "3.14",
             "3.15",
             "3.16"
-          ],
-          "skip": true
+          ]
         },
         {
           "title": "Aegis Incinerate Inquisitor - Tank with 5mil Shaper DPS!",
@@ -925,6 +956,35 @@
           "skip": true
         },
         {
+          "title": "Blazing Salvo Fireball Inquisitor - self cast - strong DPS, fast clear, 8k HP, block",
+          "url": "https://www.pathofexile.com/forum/view-thread/2967830",
+          "video": "https://www.youtube.com/watch?v=_x4ajyqIgZI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_x4ajyqIgZI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_x4ajyqIgZI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_x4ajyqIgZI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ]
+        },
+        {
+          "title": "Ice Dancing Queen - Icestorm/Cyclone/CI - Viable For Everything",
+          "url": "https://www.pathofexile.com/forum/view-thread/2628295",
+          "video": "https://www.youtube.com/watch?v=C9SSg8rhPJ0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/C9SSg8rhPJ0/hqdefault.jpg"
+          },
+          "versions": [
+            "3.15",
+            "3.16"
+          ],
+          "skip": true
+        },
+        {
           "title": "Storm Brand Occultist | 5M+ DPS Leaguestart | All Content | Brands Freeze Everything",
           "url": "https://www.pathofexile.com/forum/view-thread/3079363",
           "video": "https://www.youtube.com/watch?v=b0LatvSwFws",
@@ -937,8 +997,7 @@
             "3.15",
             "3.16"
           ],
-          "author": "Velyna",
-          "skip": true
+          "author": "Velyna"
         },
         {
           "title": "Storm Brand Guardian | Leaguestart Section | Freezing Brands | All Content",
@@ -953,8 +1012,7 @@
             "3.15",
             "3.16"
           ],
-          "author": "Velyna",
-          "skip": true
+          "author": "Velyna"
         },
         {
           "title": "FreezeFinder - Cold Blade Vortex, boss killer, all content",
@@ -1254,25 +1312,6 @@
           "author": "Zizaran"
         },
         {
-          "title": "ShakCentral's Cold DoT For Everyone",
-          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
-          "video": "https://www.youtube.com/watch?v=3QNlEmX1k1U",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3QNlEmX1k1U/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3QNlEmX1k1U/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3QNlEmX1k1U/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15"
-          ],
-          "pin": true
-        },
-        {
           "title": "Enki's Archmage Hierophant | Arc & Ball Lightning | beginner- & leaguestart-friendly",
           "url": "https://www.pathofexile.com/forum/view-thread/3147914",
           "video": "https://www.youtube.com/watch?v=o-n3cUVNi5Q",
@@ -1294,21 +1333,6 @@
             "640w": "https://i.ytimg.com/vi/wVm5hBdmRXk/sddefault.jpg"
           },
           "versions": [
-            "3.14",
-            "3.15"
-          ]
-        },
-        {
-          "title": "Blazing Salvo Fireball Inquisitor - self cast - strong DPS, fast clear, 8k HP, block",
-          "url": "https://www.pathofexile.com/forum/view-thread/2967830",
-          "video": "https://www.youtube.com/watch?v=_x4ajyqIgZI",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/_x4ajyqIgZI/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/_x4ajyqIgZI/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/_x4ajyqIgZI/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.13",
             "3.14",
             "3.15"
           ]
@@ -1342,17 +1366,6 @@
           "versions": [
             "3.13",
             "3.14",
-            "3.15"
-          ]
-        },
-        {
-          "title": "Ice Dancing Queen - Icestorm/Cyclone/CI - Viable For Everything",
-          "url": "https://www.pathofexile.com/forum/view-thread/2628295",
-          "video": "https://www.youtube.com/watch?v=C9SSg8rhPJ0",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/C9SSg8rhPJ0/hqdefault.jpg"
-          },
-          "versions": [
             "3.15"
           ]
         },
@@ -1410,6 +1423,20 @@
             "3.16"
           ],
           "author": "CatmasterOP"
+        },
+        {
+          "title": "Bane Occultist BUFFED?! Most insane league starter",
+          "url": "https://www.youtube.com/watch?v=7uWYEK2TlbQ",
+          "video": "https://www.youtube.com/watch?v=7uWYEK2TlbQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7uWYEK2TlbQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7uWYEK2TlbQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7uWYEK2TlbQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "subtractem"
         },
         {
           "title": "Bane Occultist BUFFED?! Most insane league starter",
@@ -1724,6 +1751,27 @@
           ]
         },
         {
+          "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, tanky, fun to play, beginner friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2551841",
+          "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dS-gx4lgU7s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dS-gx4lgU7s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dS-gx4lgU7s/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ]
+        },
+        {
           "title": "Lightning Strike Raider",
           "url": "https://www.pathofexile.com/forum/view-thread/3186978",
           "video": "https://www.youtube.com/watch?v=9qsgkDwuoFM",
@@ -1858,26 +1906,6 @@
             "1280w": "https://i.ytimg.com/vi/lpZGDkspRGg/maxresdefault.jpg"
           },
           "versions": [
-            "3.14",
-            "3.15"
-          ]
-        },
-        {
-          "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, tanky, easy and fun to play, beginner friendly",
-          "url": "https://www.pathofexile.com/forum/view-thread/2551841",
-          "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/dS-gx4lgU7s/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/dS-gx4lgU7s/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/dS-gx4lgU7s/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
             "3.14",
             "3.15"
           ]
@@ -2635,6 +2663,20 @@
           "author": "BalorMage"
         },
         {
+          "title": "Duration Is Insane For Seismic Traps",
+          "url": "https://www.youtube.com/watch?v=AUTcMFfxXmk",
+          "video": "https://www.youtube.com/watch?v=AUTcMFfxXmk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/AUTcMFfxXmk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/AUTcMFfxXmk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/AUTcMFfxXmk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "BalorMage"
+        },
+        {
           "title": "Freeze and Annihilate Bosses | Icicle Mine Saboteur All Content Build",
           "url": "https://www.youtube.com/watch?v=7NYSIjKxbh8",
           "video": "https://www.youtube.com/watch?v=7NYSIjKxbh8",
@@ -2851,6 +2893,23 @@
           ]
         },
         {
+          "title": "Elemental ANIMATE WEAPON Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
+          "url": "https://www.pathofexile.com/forum/view-thread/2780128",
+          "video": "https://www.youtube.com/watch?v=tVK-DqG0i3E",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tVK-DqG0i3E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tVK-DqG0i3E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tVK-DqG0i3E/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.15",
+            "3.16"
+          ]
+        },
+        {
           "title": "Cyclone Summoner - Heralds of Agony and Purity, Summon Holy Relic - League starter",
           "url": "https://www.pathofexile.com/forum/view-thread/2217712",
           "video": "https://www.youtube.com/watch?v=rV7T6RwJ_5A",
@@ -2995,22 +3054,6 @@
           ]
         },
         {
-          "title": "Cold ANIMATE WEAPON Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
-          "url": "https://www.pathofexile.com/forum/view-thread/2780128",
-          "video": "https://www.youtube.com/watch?v=tVK-DqG0i3E",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/tVK-DqG0i3E/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/tVK-DqG0i3E/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/tVK-DqG0i3E/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.15"
-          ]
-        },
-        {
           "title": "SKELEMANCER (Skeleton Summoner) Necromancer Build (UBERS DONE). IDEAL for SSF",
           "url": "https://www.pathofexile.com/forum/view-thread/2192730",
           "video": "https://www.youtube.com/watch?v=K1bbILxeXLI",
@@ -3120,12 +3163,12 @@
         },
         {
           "title": "Skeleton Mages League Starter",
-          "url": "https://www.youtube.com/watch?v=o3hB2DdfiY4",
-          "video": "https://www.youtube.com/watch?v=o3hB2DdfiY4",
+          "url": "https://www.youtube.com/watch?v=Jc_e6j5ctqU",
+          "video": "https://www.youtube.com/watch?v=Jc_e6j5ctqU",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/o3hB2DdfiY4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/o3hB2DdfiY4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/o3hB2DdfiY4/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/Jc_e6j5ctqU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Jc_e6j5ctqU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Jc_e6j5ctqU/maxresdefault.jpg"
           },
           "versions": [
             "3.16"
@@ -3134,12 +3177,12 @@
         },
         {
           "title": "Stone Golems Necromancer League Starter",
-          "url": "https://www.youtube.com/watch?v=VpLzKhscoKw",
-          "video": "https://www.youtube.com/watch?v=VpLzKhscoKw",
+          "url": "https://www.youtube.com/watch?v=p7-hfNyxTgw",
+          "video": "https://www.youtube.com/watch?v=p7-hfNyxTgw",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/VpLzKhscoKw/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/VpLzKhscoKw/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/VpLzKhscoKw/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/p7-hfNyxTgw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/p7-hfNyxTgw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/p7-hfNyxTgw/maxresdefault.jpg"
           },
           "versions": [
             "3.16"
@@ -3214,22 +3257,59 @@
             "3.15",
             "3.16"
           ],
-          "author": "GhazzyTV"
+          "author": "GhazzyTV",
+          "skip": true
         },
         {
           "title": "The Spectre Summoner Build Guide",
           "url": "https://www.poe-vault.com/guides/the-spectre-summoner-build-guide",
-          "video": "https://www.youtube.com/watch?v=blPGK5wGTfk",
+          "video": "https://www.youtube.com/watch?v=KCrq3hVSC-M",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/blPGK5wGTfk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/blPGK5wGTfk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/blPGK5wGTfk/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/KCrq3hVSC-M/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/KCrq3hVSC-M/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/KCrq3hVSC-M/maxresdefault.jpg"
           },
           "versions": [
             "3.14",
-            "3.15"
+            "3.15",
+            "3.16"
           ],
-          "author": "GhazzyTV"
+          "author": "GhazzyTV",
+          "skip": true
+        },
+        {
+          "title": "Animate Weapon Necromancer",
+          "url": "https://www.poe-vault.com/guides/animate-weapon-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=JlncZqCw5Zs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JlncZqCw5Zs/hqdefault.jpg"
+          },
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "author": "GhazzyTV",
+          "skip": true
+        },
+        {
+          "title": "Dominating Blow Necromancer",
+          "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=yNm1bko7beI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/yNm1bko7beI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yNm1bko7beI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/yNm1bko7beI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "author": "GhazzyTV",
+          "skip": true
         },
         {
           "title": "Lich Queen Skeleton Summoner",
@@ -3243,9 +3323,11 @@
           "versions": [
             "3.13",
             "3.14",
-            "3.15"
+            "3.15",
+            "3.16"
           ],
-          "author": "GhazzyTV"
+          "author": "GhazzyTV",
+          "skip": true
         },
         {
           "title": "Cold Convert Golem Elementalist",
@@ -3270,36 +3352,6 @@
             "480w": "https://i.ytimg.com/vi/G2jYDqsstF4/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/G2jYDqsstF4/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/G2jYDqsstF4/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15"
-          ],
-          "author": "GhazzyTV"
-        },
-        {
-          "title": "Animate Weapon Necromancer",
-          "url": "https://www.poe-vault.com/guides/animate-weapon-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=JlncZqCw5Zs",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/JlncZqCw5Zs/hqdefault.jpg"
-          },
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15"
-          ],
-          "author": "GhazzyTV"
-        },
-        {
-          "title": "Dominating Blow Necromancer",
-          "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=yNm1bko7beI",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/yNm1bko7beI/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/yNm1bko7beI/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/yNm1bko7beI/maxresdefault.jpg"
           },
           "versions": [
             "3.13",
@@ -3347,6 +3399,20 @@
             "3.16"
           ],
           "author": "Navandis Gaming"
+        },
+        {
+          "title": "Which one of my starter build best suits you?",
+          "url": "https://www.youtube.com/watch?v=kuYoQ7-AR8E",
+          "video": "https://www.youtube.com/watch?v=kuYoQ7-AR8E",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/kuYoQ7-AR8E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/kuYoQ7-AR8E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/kuYoQ7-AR8E/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Path of Matth"
         },
         {
           "title": "My Top 3 Scourge League Starters",

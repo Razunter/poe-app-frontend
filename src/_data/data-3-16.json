@@ -118,6 +118,25 @@
           "skip": true
         },
         {
+          "title": "Konsta's Gladiator Double Strike Starter - Excellent DPS, good defenses. Starter.",
+          "url": "https://www.pathofexile.com/forum/view-thread/2702132",
+          "video": "https://www.youtube.com/watch?v=df760-W-72Y",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/df760-W-72Y/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/df760-W-72Y/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/df760-W-72Y/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.10",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "skip": true
+        },
+        {
           "title": "KissMeQuick's Gladiator Reave: REBORN — T19 100% Maps & A8 Sirus 1:19 Speedrun — Starter",
           "url": "https://www.pathofexile.com/forum/view-thread/2976624",
           "video": "https://www.youtube.com/watch?v=lp_RcSLaNBs",
@@ -522,23 +541,6 @@
           ]
         },
         {
-          "title": "Konsta's Gladiator Double Strike Starter - Excellent DPS, good defenses. Starter.",
-          "url": "https://www.pathofexile.com/forum/view-thread/2702132",
-          "video": "https://www.youtube.com/watch?v=df760-W-72Y",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/df760-W-72Y/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/df760-W-72Y/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/df760-W-72Y/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.10",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15"
-          ]
-        },
-        {
           "title": "Nightblade Flurry Assassin | Beginner's Guides | Boss Killer",
           "url": "https://www.pathofexile.com/forum/view-thread/2284176",
           "video": "https://www.youtube.com/watch?v=4IQYtLWqEWc",
@@ -669,6 +671,34 @@
             "3.15"
           ],
           "author": "kira1414"
+        },
+        {
+          "title": "GGeneral Cry Blade Flurry Berserker: Fast & BIG Damage",
+          "url": "https://www.youtube.com/watch?v=2BdsvolADnk",
+          "video": "https://www.youtube.com/watch?v=2BdsvolADnk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/2BdsvolADnk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/2BdsvolADnk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/2BdsvolADnk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Path of Matth"
+        },
+        {
+          "title": "MASSIVE Damage Scaling - Steel Champion",
+          "url": "https://www.youtube.com/watch?v=a4qEF31bxY0",
+          "video": "https://www.youtube.com/watch?v=a4qEF31bxY0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/a4qEF31bxY0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/a4qEF31bxY0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/a4qEF31bxY0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Big Ducks"
         },
         {
           "title": "INSANE DAMAGE with a 2-Button Build - General's Cry Shield Crush",
@@ -1350,7 +1380,21 @@
           "versions": [
             "3.16"
           ],
-          "author": " This is Badger"
+          "author": "This is Badger"
+        },
+        {
+          "title": "Armageddon Brand Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=WmYqjQGn3JA",
+          "video": "https://www.youtube.com/watch?v=WmYqjQGn3JA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/WmYqjQGn3JA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WmYqjQGn3JA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/WmYqjQGn3JA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "CatmasterOP"
         },
         {
           "title": "Bane Occultist BUFFED?! Most insane league starter",
@@ -1365,21 +1409,6 @@
             "3.16"
           ],
           "author": "subtractem"
-        },
-        {
-          "title": "Flame Wall Spellslinger Elementalist",
-          "url": "https://www.poe-vault.com/guides/flame-wall-spellslinger-elementalist-build-guide",
-          "video": "https://www.youtube.com/watch?v=jy1qXlTe6NA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/jy1qXlTe6NA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/jy1qXlTe6NA/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/jy1qXlTe6NA/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15"
-          ],
-          "author": "GhazzyTV"
         },
         {
           "title": "Blade Blast Bladefall Poison Assassin",
@@ -1946,6 +1975,20 @@
           "author": "Asmodeus"
         },
         {
+          "title": "Tornado Shot Poison Ballista Raider",
+          "url": "https://www.youtube.com/watch?v=Y8qfWUGETh4",
+          "video": "https://www.youtube.com/watch?v=Y8qfWUGETh4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Y8qfWUGETh4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Y8qfWUGETh4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Y8qfWUGETh4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Palsteron"
+        },
+        {
           "title": "Toxic Rain Raider",
           "url": "https://www.youtube.com/watch?v=y6CqHo7v5GQ",
           "video": "https://www.youtube.com/watch?v=y6CqHo7v5GQ",
@@ -2303,12 +2346,40 @@
             "3.7",
             "3.11"
           ]
+        },
+        {
+          "title": "Righteous Fire Inquisitor Early Gearing Template",
+          "url": "https://www.youtube.com/watch?v=0Xd9wz6YiM0",
+          "video": "https://www.youtube.com/watch?v=0Xd9wz6YiM0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/0Xd9wz6YiM0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/0Xd9wz6YiM0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/0Xd9wz6YiM0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Pohx"
         }
       ]
     },
     {
       "type": "mines",
       "builds": [
+        {
+          "title": "LL Blazing Salvo Mines Saboteur",
+          "url": "https://www.pathofexile.com/forum/view-thread/3128489",
+          "video": "https://www.youtube.com/watch?v=F-YapLXisRA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/F-YapLXisRA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/F-YapLXisRA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/F-YapLXisRA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Qosmoz"
+        },
         {
           "title": "THE PURIFYING FLAME MINER | LEAGUE STARTER | A8 AWAKENER DOWN!",
           "url": "https://www.pathofexile.com/forum/view-thread/2686206",
@@ -2493,6 +2564,20 @@
           "author": "BalorMage"
         },
         {
+          "title": "Reap Mines: Insane Clear & GIGA DPS for \"Free\"?!",
+          "url": "https://www.youtube.com/watch?v=txP1sFBks-g",
+          "video": "https://www.youtube.com/watch?v=txP1sFBks-g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/txP1sFBks-g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/txP1sFBks-g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/txP1sFBks-g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Path of Matth"
+        },
+        {
           "title": "Eye of Winter: HUGE Damage on a Budget & Solid Clear Speed",
           "url": "https://www.youtube.com/watch?v=kAWdJhHwqAc",
           "video": "https://www.youtube.com/watch?v=kAWdJhHwqAc",
@@ -2504,7 +2589,7 @@
           "versions": [
             "3.16"
           ],
-          "author": " Path of Matth"
+          "author": "Path of Matth"
         },
         {
           "title": "The Most COMFORTABLE Bossing Build: Seismic Trap",
@@ -2518,7 +2603,33 @@
           "versions": [
             "3.16"
           ],
-          "author": " Path of Matth"
+          "author": "Path of Matth"
+        },
+        {
+          "title": "Freeze and Annihilate Bosses | Icicle Mine Saboteur All Content Build",
+          "url": "https://www.youtube.com/watch?v=7NYSIjKxbh8",
+          "video": "https://www.youtube.com/watch?v=7NYSIjKxbh8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7NYSIjKxbh8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7NYSIjKxbh8/sddefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Jaamon"
+        },
+        {
+          "title": "Highest Damage Trap Build In POE History",
+          "url": "https://www.youtube.com/watch?v=LGWF3KF6LbA",
+          "video": "https://www.youtube.com/watch?v=LGWF3KF6LbA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/LGWF3KF6LbA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/LGWF3KF6LbA/sddefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Jaamon"
         },
         {
           "title": "Ice Trap Saboteur is INSANE - Freeze Bosses ONE BUTTON",
@@ -2589,6 +2700,14 @@
           "author": "Jaamon"
         },
         {
+          "title": "LL Eye of Winter Mines Saboteur",
+          "url": "https://www.pathofexile.com/forum/view-thread/3155974",
+          "versions": [
+            "3.16"
+          ],
+          "author": "Qosmoz"
+        },
+        {
           "title": "Ball Lightning/Arc Mines Saboteur",
           "url": "https://balormage.com/build-guides/ball-lightning-mines/",
           "versions": [
@@ -2641,6 +2760,20 @@
             "3.11",
             "3.12",
             "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ]
+        },
+        {
+          "title": "SRS Bomber | League Start to Endgame | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
+          "video": "https://www.youtube.com/watch?v=mu0P-eNITDA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/mu0P-eNITDA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
+          },
+          "versions": [
             "3.14",
             "3.15",
             "3.16"
@@ -2791,19 +2924,6 @@
           ]
         },
         {
-          "title": "SRS Bomber | League Start to Endgame | All Content",
-          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
-          "video": "https://www.youtube.com/watch?v=mu0P-eNITDA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/mu0P-eNITDA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15"
-          ]
-        },
-        {
           "title": "Cold ANIMATE WEAPON Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
           "url": "https://www.pathofexile.com/forum/view-thread/2780128",
           "video": "https://www.youtube.com/watch?v=tVK-DqG0i3E",
@@ -2911,7 +3031,21 @@
           "versions": [
             "3.16"
           ],
-          "author": " TheGAM3Report1"
+          "author": "TheGAM3Report1"
+        },
+        {
+          "title": "Spectres Nerfed? Skeleton Mages Say Otherwise.",
+          "url": "https://www.youtube.com/watch?v=IaaWta1DOFQ",
+          "video": "https://www.youtube.com/watch?v=IaaWta1DOFQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/IaaWta1DOFQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/IaaWta1DOFQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/IaaWta1DOFQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "BalorMage"
         },
         {
           "title": "Skeleton Mages League Starter",
@@ -2997,6 +3131,21 @@
           "author": "Von Vikton"
         },
         {
+          "title": "Dark Pact Necromancer",
+          "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=JhpLVOXKop0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JhpLVOXKop0/hqdefault.jpg"
+          },
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "author": "GhazzyTV"
+        },
+        {
           "title": "The Spectre Summoner Build Guide",
           "url": "https://www.poe-vault.com/guides/the-spectre-summoner-build-guide",
           "video": "https://www.youtube.com/watch?v=blPGK5wGTfk",
@@ -3073,20 +3222,6 @@
           "author": "GhazzyTV"
         },
         {
-          "title": "Dark Pact Necromancer",
-          "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=JhpLVOXKop0",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/JhpLVOXKop0/hqdefault.jpg"
-          },
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15"
-          ],
-          "author": "GhazzyTV"
-        },
-        {
           "title": "Dominating Blow Necromancer",
           "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
           "video": "https://www.youtube.com/watch?v=yNm1bko7beI",
@@ -3126,7 +3261,35 @@
           "versions": [
             "3.16"
           ],
-          "author": " CaptainLance9"
+          "author": "CaptainLance9"
+        },
+        {
+          "title": "My Top 3 Scourge League Starters",
+          "url": "https://www.youtube.com/watch?v=GOIxZCrdqiY",
+          "video": "https://www.youtube.com/watch?v=GOIxZCrdqiY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GOIxZCrdqiY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/GOIxZCrdqiY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/GOIxZCrdqiY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "This is Badger"
+        },
+        {
+          "title": "Scourge League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=WSxb3Cu5qY8",
+          "video": "https://www.youtube.com/watch?v=WSxb3Cu5qY8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/WSxb3Cu5qY8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WSxb3Cu5qY8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/WSxb3Cu5qY8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Navandis Gaming"
         },
         {
           "title": "Esoro's Best League Starter Builds!",

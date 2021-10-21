@@ -167,6 +167,29 @@
           "skip": true
         },
         {
+          "title": "For Slayer / Champion - Ngamahu Cyclone / Consecrated Path / Tectonic Slam (All Content)",
+          "url": "https://www.pathofexile.com/forum/view-thread/1819239",
+          "video": "https://www.youtube.com/watch?v=ArAg-dhVemg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ArAg-dhVemg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ArAg-dhVemg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ArAg-dhVemg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "author": "kira1414"
+        },
+        {
           "title": "Storm to the Limit - Lightning Strike | All content viable",
           "url": "https://www.pathofexile.com/forum/view-thread/2082900",
           "video": "https://www.youtube.com/watch?v=tQdLpZsqw6c",
@@ -631,28 +654,6 @@
           "author": "kira1414"
         },
         {
-          "title": "For Slayer / Champion - Ngamahu Cyclone / Consecrated Path / Tectonic Slam (All Content)",
-          "url": "https://www.pathofexile.com/forum/view-thread/1819239",
-          "video": "https://www.youtube.com/watch?v=ArAg-dhVemg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ArAg-dhVemg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/ArAg-dhVemg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/ArAg-dhVemg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.7",
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15"
-          ],
-          "author": "kira1414"
-        },
-        {
           "title": "For Marauder - Ngamahu's Flame Cyclone / Consecrated Path / Tectonic Slam Build",
           "url": "https://www.pathofexile.com/forum/view-thread/2092338",
           "video": "https://www.youtube.com/watch?v=VCueqRvsVpY",
@@ -673,18 +674,18 @@
           "author": "kira1414"
         },
         {
-          "title": "GGeneral Cry Blade Flurry Berserker: Fast & BIG Damage",
-          "url": "https://www.youtube.com/watch?v=2BdsvolADnk",
-          "video": "https://www.youtube.com/watch?v=2BdsvolADnk",
+          "title": "The BEST Melee build for Scourge! - Quantrik's Earthshatter Berserker",
+          "url": "https://www.youtube.com/watch?v=dWdLqby6m0I",
+          "video": "https://www.youtube.com/watch?v=dWdLqby6m0I",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/2BdsvolADnk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/2BdsvolADnk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/2BdsvolADnk/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/dWdLqby6m0I/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dWdLqby6m0I/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dWdLqby6m0I/maxresdefault.jpg"
           },
           "versions": [
             "3.16"
           ],
-          "author": "Path of Matth"
+          "author": "Zizaran"
         },
         {
           "title": "MASSIVE Damage Scaling - Steel Champion",
@@ -713,6 +714,34 @@
             "3.16"
           ],
           "author": "Navandis Gaming"
+        },
+        {
+          "title": "GGeneral Cry Blade Flurry Berserker: Fast & BIG Damage",
+          "url": "https://www.youtube.com/watch?v=2BdsvolADnk",
+          "video": "https://www.youtube.com/watch?v=2BdsvolADnk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/2BdsvolADnk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/2BdsvolADnk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/2BdsvolADnk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Path of Matth"
+        },
+        {
+          "title": "General Cry Shield Crush Guide League Start Cheap, Tanky, Fast, and Fun",
+          "url": "https://www.youtube.com/watch?v=hrYUcWpl9kk",
+          "video": "https://www.youtube.com/watch?v=hrYUcWpl9kk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/hrYUcWpl9kk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/hrYUcWpl9kk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/hrYUcWpl9kk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Tripolar Bear"
         },
         {
           "title": "Zizaran - E Q J U G G - Thick and Slammy Leaguestarter!",
@@ -1369,20 +1398,6 @@
           "author": "Brittleknee"
         },
         {
-          "title": "One-Shotting Bosses with Discharge Elementalist!",
-          "url": "https://www.youtube.com/watch?v=lMhjfk1JXPg",
-          "video": "https://www.youtube.com/watch?v=lMhjfk1JXPg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/lMhjfk1JXPg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/lMhjfk1JXPg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/lMhjfk1JXPg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "This is Badger"
-        },
-        {
           "title": "Armageddon Brand Ignite Elementalist",
           "url": "https://www.youtube.com/watch?v=WmYqjQGn3JA",
           "video": "https://www.youtube.com/watch?v=WmYqjQGn3JA",
@@ -1409,6 +1424,20 @@
             "3.16"
           ],
           "author": "subtractem"
+        },
+        {
+          "title": "One-Shotting Bosses with Discharge Elementalist!",
+          "url": "https://www.youtube.com/watch?v=lMhjfk1JXPg",
+          "video": "https://www.youtube.com/watch?v=lMhjfk1JXPg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lMhjfk1JXPg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lMhjfk1JXPg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/lMhjfk1JXPg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "This is Badger"
         },
         {
           "title": "Blade Blast Bladefall Poison Assassin",
@@ -1920,6 +1949,20 @@
           ]
         },
         {
+          "title": "Possibly the STRONGEST STARTER for Scourge - Lightee's Toxic Rain Champion",
+          "url": "https://www.youtube.com/watch?v=5nNguBo4JjQ",
+          "video": "https://www.youtube.com/watch?v=5nNguBo4JjQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5nNguBo4JjQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5nNguBo4JjQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5nNguBo4JjQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Zizaran"
+        },
+        {
           "title": "Become Cpt America! - Steelmage's Bleed Spectral Shield Throw",
           "url": "https://www.youtube.com/watch?v=a8u-53dcWq8",
           "video": "https://www.youtube.com/watch?v=a8u-53dcWq8",
@@ -1973,6 +2016,34 @@
             "3.16"
           ],
           "author": "Asmodeus"
+        },
+        {
+          "title": "Softcore Toxic Rain Champion: Harder, Better, Faster, Stronger, Immortal",
+          "url": "https://www.youtube.com/watch?v=jnEQ_29-mhs",
+          "video": "https://www.youtube.com/watch?v=jnEQ_29-mhs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jnEQ_29-mhs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jnEQ_29-mhs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jnEQ_29-mhs/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "BalorMage"
+        },
+        {
+          "title": "Tornado Shot Occultist",
+          "url": "https://www.youtube.com/watch?v=xbphxzSEyU4",
+          "video": "https://www.youtube.com/watch?v=xbphxzSEyU4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xbphxzSEyU4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xbphxzSEyU4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/xbphxzSEyU4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Fyregrass"
         },
         {
           "title": "Tornado Shot Poison Ballista Raider",
@@ -2564,6 +2635,32 @@
           "author": "BalorMage"
         },
         {
+          "title": "Freeze and Annihilate Bosses | Icicle Mine Saboteur All Content Build",
+          "url": "https://www.youtube.com/watch?v=7NYSIjKxbh8",
+          "video": "https://www.youtube.com/watch?v=7NYSIjKxbh8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7NYSIjKxbh8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7NYSIjKxbh8/sddefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Jaamon"
+        },
+        {
+          "title": "Highest Damage Trap Build In POE History",
+          "url": "https://www.youtube.com/watch?v=LGWF3KF6LbA",
+          "video": "https://www.youtube.com/watch?v=LGWF3KF6LbA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/LGWF3KF6LbA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/LGWF3KF6LbA/sddefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Jaamon"
+        },
+        {
           "title": "Reap Mines: Insane Clear & GIGA DPS for \"Free\"?!",
           "url": "https://www.youtube.com/watch?v=txP1sFBks-g",
           "video": "https://www.youtube.com/watch?v=txP1sFBks-g",
@@ -2604,32 +2701,6 @@
             "3.16"
           ],
           "author": "Path of Matth"
-        },
-        {
-          "title": "Freeze and Annihilate Bosses | Icicle Mine Saboteur All Content Build",
-          "url": "https://www.youtube.com/watch?v=7NYSIjKxbh8",
-          "video": "https://www.youtube.com/watch?v=7NYSIjKxbh8",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/7NYSIjKxbh8/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/7NYSIjKxbh8/sddefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "Jaamon"
-        },
-        {
-          "title": "Highest Damage Trap Build In POE History",
-          "url": "https://www.youtube.com/watch?v=LGWF3KF6LbA",
-          "video": "https://www.youtube.com/watch?v=LGWF3KF6LbA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/LGWF3KF6LbA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/LGWF3KF6LbA/sddefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "Jaamon"
         },
         {
           "title": "Ice Trap Saboteur is INSANE - Freeze Bosses ONE BUTTON",
@@ -3020,20 +3091,6 @@
           "author": "BalorMage"
         },
         {
-          "title": "My top summoner skeleton league starter",
-          "url": "https://www.youtube.com/watch?v=nFe-14FctK4",
-          "video": "https://www.youtube.com/watch?v=nFe-14FctK4",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/nFe-14FctK4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/nFe-14FctK4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/nFe-14FctK4/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "TheGAM3Report1"
-        },
-        {
           "title": "Spectres Nerfed? Skeleton Mages Say Otherwise.",
           "url": "https://www.youtube.com/watch?v=IaaWta1DOFQ",
           "video": "https://www.youtube.com/watch?v=IaaWta1DOFQ",
@@ -3046,6 +3103,20 @@
             "3.16"
           ],
           "author": "BalorMage"
+        },
+        {
+          "title": "My top summoner skeleton league starter",
+          "url": "https://www.youtube.com/watch?v=nFe-14FctK4",
+          "video": "https://www.youtube.com/watch?v=nFe-14FctK4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/nFe-14FctK4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/nFe-14FctK4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/nFe-14FctK4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "TheGAM3Report1"
         },
         {
           "title": "Skeleton Mages League Starter",
@@ -3264,20 +3335,6 @@
           "author": "CaptainLance9"
         },
         {
-          "title": "My Top 3 Scourge League Starters",
-          "url": "https://www.youtube.com/watch?v=GOIxZCrdqiY",
-          "video": "https://www.youtube.com/watch?v=GOIxZCrdqiY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/GOIxZCrdqiY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/GOIxZCrdqiY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/GOIxZCrdqiY/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "This is Badger"
-        },
-        {
           "title": "Scourge League Starter Builds",
           "url": "https://www.youtube.com/watch?v=WSxb3Cu5qY8",
           "video": "https://www.youtube.com/watch?v=WSxb3Cu5qY8",
@@ -3290,6 +3347,20 @@
             "3.16"
           ],
           "author": "Navandis Gaming"
+        },
+        {
+          "title": "My Top 3 Scourge League Starters",
+          "url": "https://www.youtube.com/watch?v=GOIxZCrdqiY",
+          "video": "https://www.youtube.com/watch?v=GOIxZCrdqiY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GOIxZCrdqiY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/GOIxZCrdqiY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/GOIxZCrdqiY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "This is Badger"
         },
         {
           "title": "Esoro's Best League Starter Builds!",

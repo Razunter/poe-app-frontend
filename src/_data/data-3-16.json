@@ -1110,6 +1110,20 @@
           "author": "Velyna"
         },
         {
+          "title": "Scourge's EXPLOSIVE Leaguestarter! - @ds lily Detonate Dead Necromancer",
+          "url": "https://www.youtube.com/watch?v=5E8WACqRSzQ",
+          "video": "https://www.youtube.com/watch?v=5E8WACqRSzQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5E8WACqRSzQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5E8WACqRSzQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5E8WACqRSzQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Zizaran"
+        },
+        {
           "title": "It's BACK and it's... STRONGER?! - ED/Contagion Trickster",
           "url": "https://www.youtube.com/watch?v=Iu3CxWrgQ_Y",
           "video": "https://www.youtube.com/watch?v=Iu3CxWrgQ_Y",
@@ -1134,20 +1148,6 @@
           },
           "versions": [
             "3.16"
-          ],
-          "author": "Zizaran"
-        },
-        {
-          "title": "Yet again, the BEST ALL-ROUNDER - Essence Drain Contagion Trickster",
-          "url": "https://www.youtube.com/watch?v=rLWeiFylw_w",
-          "video": "https://www.youtube.com/watch?v=rLWeiFylw_w",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/rLWeiFylw_w/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/rLWeiFylw_w/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/rLWeiFylw_w/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.15"
           ],
           "author": "Zizaran"
         },
@@ -1285,6 +1285,20 @@
           ]
         },
         {
+          "title": "Yet again, the BEST ALL-ROUNDER - Essence Drain Contagion Trickster",
+          "url": "https://www.youtube.com/watch?v=rLWeiFylw_w",
+          "video": "https://www.youtube.com/watch?v=rLWeiFylw_w",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/rLWeiFylw_w/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/rLWeiFylw_w/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/rLWeiFylw_w/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.15"
+          ],
+          "author": "Zizaran"
+        },
+        {
           "title": "New Player Build - Creeping Frost Occultist League Start Guide",
           "url": "https://www.youtube.com/watch?v=v8fv_N08Cbg",
           "video": "https://www.youtube.com/watch?v=v8fv_N08Cbg",
@@ -1405,6 +1419,21 @@
             "3.11",
             "3.12",
             "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ]
+        },
+        {
+          "title": "Lancing Steel Raider - Not HC viable- From leveling to 70 million dps guide",
+          "url": "https://www.pathofexile.com/forum/view-thread/3077253",
+          "video": "https://www.youtube.com/watch?v=lpZGDkspRGg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lpZGDkspRGg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lpZGDkspRGg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/lpZGDkspRGg/maxresdefault.jpg"
+          },
+          "versions": [
             "3.14",
             "3.15",
             "3.16"
@@ -1558,20 +1587,6 @@
           ]
         },
         {
-          "title": "Lancing Steel Raider - Not HC viable- From leveling to 70 million dps guide",
-          "url": "https://www.pathofexile.com/forum/view-thread/3077253",
-          "video": "https://www.youtube.com/watch?v=lpZGDkspRGg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/lpZGDkspRGg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/lpZGDkspRGg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/lpZGDkspRGg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15"
-          ]
-        },
-        {
           "title": "The Raining Tempest. *Deadeye* 4M+ DPS - Dual Curse",
           "url": "https://www.pathofexile.com/forum/view-thread/3147861",
           "video": "https://www.youtube.com/watch?v=mB3PnCGNbmU",
@@ -1581,6 +1596,20 @@
           "versions": [
             "3.15"
           ]
+        },
+        {
+          "title": "The MOST PROMISING new skill! - @nugiyen 's Poisonous Concoction Pathfinder",
+          "url": "https://www.youtube.com/watch?v=7AdlErLh5cU",
+          "video": "https://www.youtube.com/watch?v=7AdlErLh5cU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7AdlErLh5cU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7AdlErLh5cU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7AdlErLh5cU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Zizaran"
         },
         {
           "title": "Possibly the STRONGEST STARTER for Scourge - Lightee's Toxic Rain Champion",
@@ -2213,6 +2242,20 @@
           "author": "Path of Matth"
         },
         {
+          "title": "LL Blazing Salvo Mines Saboteur",
+          "url": "https://www.pathofexile.com/forum/view-thread/3128489",
+          "video": "https://www.youtube.com/watch?v=F-YapLXisRA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/F-YapLXisRA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/F-YapLXisRA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/F-YapLXisRA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Qosmoz"
+        },
+        {
           "title": "Ice Trap League Starter Build Guide - All Map Mods And Bosses On Low Budget",
           "url": "https://www.youtube.com/watch?v=370c-7mqbnE",
           "video": "https://www.youtube.com/watch?v=370c-7mqbnE",
@@ -2238,20 +2281,6 @@
             "3.15"
           ],
           "author": "Brittleknee"
-        },
-        {
-          "title": "LL Blazing Salvo Mines Saboteur",
-          "url": "https://www.pathofexile.com/forum/view-thread/3128489",
-          "video": "https://www.youtube.com/watch?v=F-YapLXisRA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/F-YapLXisRA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/F-YapLXisRA/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/F-YapLXisRA/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "Qosmoz"
         },
         {
           "title": "LL Eye of Winter Mines Saboteur",

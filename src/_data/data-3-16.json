@@ -150,6 +150,28 @@
           ]
         },
         {
+          "title": "Nightblade Flurry Assassin | Beginner's Guides | Boss Killer",
+          "url": "https://www.pathofexile.com/forum/view-thread/2284176",
+          "video": "https://www.youtube.com/watch?v=4IQYtLWqEWc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4IQYtLWqEWc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4IQYtLWqEWc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4IQYtLWqEWc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "skip": true
+        },
+        {
           "title": "KissMeQuick's Gladiator Reave: REBORN — T19 100% Maps & A8 Sirus 1:19 Speedrun — Starter",
           "url": "https://www.pathofexile.com/forum/view-thread/2976624",
           "video": "https://www.youtube.com/watch?v=lp_RcSLaNBs",
@@ -454,26 +476,6 @@
             "1280w": "https://i.ytimg.com/vi/uKRTqKhqoj0/maxresdefault.jpg"
           },
           "versions": [
-            "3.13",
-            "3.14",
-            "3.15"
-          ]
-        },
-        {
-          "title": "Nightblade Flurry Assassin | Beginner's Guides | Boss Killer",
-          "url": "https://www.pathofexile.com/forum/view-thread/2284176",
-          "video": "https://www.youtube.com/watch?v=4IQYtLWqEWc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/4IQYtLWqEWc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/4IQYtLWqEWc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/4IQYtLWqEWc/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
             "3.13",
             "3.14",
             "3.15"
@@ -883,6 +885,21 @@
           "author": "Velyna"
         },
         {
+          "title": "Cold Reap Elementalist | Leaguestart | Ez 3 Button Gameplay | Freeze Everything",
+          "url": "https://www.pathofexile.com/forum/view-thread/3147415",
+          "video": "https://www.youtube.com/watch?v=qcQ9DacgrPk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qcQ9DacgrPk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/qcQ9DacgrPk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/qcQ9DacgrPk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.15",
+            "3.16"
+          ],
+          "author": "Velyna"
+        },
+        {
           "title": "Aziire's Kinetic Bolt Elementalist - Thor and the Golem Gang! | League Starter",
           "url": "https://www.pathofexile.com/forum/view-thread/2785064",
           "video": "https://www.youtube.com/watch?v=0Fy61mXmvtQ",
@@ -1094,20 +1111,6 @@
             "3.15"
           ],
           "author": "Taake"
-        },
-        {
-          "title": "Cold Reap Elementalist | Leaguestart | Ez 3 Button Gameplay | Freeze Everything",
-          "url": "https://www.pathofexile.com/forum/view-thread/3147415",
-          "video": "https://www.youtube.com/watch?v=qcQ9DacgrPk",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/qcQ9DacgrPk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/qcQ9DacgrPk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/qcQ9DacgrPk/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.15"
-          ],
-          "author": "Velyna"
         },
         {
           "title": "Scourge's EXPLOSIVE Leaguestarter! - @ds lily Detonate Dead Necromancer",
@@ -1596,6 +1599,20 @@
           "versions": [
             "3.15"
           ]
+        },
+        {
+          "title": "A build for the @CohhCarnage community! - Poison Spectral Helix Occultist",
+          "url": "https://www.youtube.com/watch?v=ynuOLZ62848",
+          "video": "https://www.youtube.com/watch?v=ynuOLZ62848",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ynuOLZ62848/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ynuOLZ62848/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ynuOLZ62848/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Zizaran"
         },
         {
           "title": "The MOST PROMISING new skill! - @nugiyen 's Poisonous Concoction Pathfinder",
@@ -2875,6 +2892,14 @@
             "3.15",
             "3.16"
           ]
+        },
+        {
+          "title": "Compiled List of Streamer Starter Builds for Scourge League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/qdkugg/compiled_list_of_streamer_starter_builds_for/",
+          "versions": [
+            "3.16"
+          ],
+          "author": "/u/Ryant12"
         },
         {
           "title": "u/irondraconis - Streamer/Content creator's league starter suggestions",

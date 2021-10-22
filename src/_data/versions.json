@@ -17,7 +17,7 @@
     {
       "version": "3.16",
       "name": "Scourge",
-      "wip": true,
+      "wip": false,
       "url": "https://www.pathofexile.com/scourge",
       "note": "New passives tree, old builds won't work!",
       "skiprf": true

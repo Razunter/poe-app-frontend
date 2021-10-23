@@ -1443,6 +1443,28 @@
           ]
         },
         {
+          "title": "Caustic Arrow Raider, DoT Focused | Tanky | 6k+ Health",
+          "url": "https://www.pathofexile.com/forum/view-thread/2077932",
+          "video": "https://www.youtube.com/watch?v=kxT3wKfuJZM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/kxT3wKfuJZM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/kxT3wKfuJZM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/kxT3wKfuJZM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ]
+        },
+        {
           "title": "Lightning Strike Raider",
           "url": "https://www.pathofexile.com/forum/view-thread/3186978",
           "video": "https://www.youtube.com/watch?v=9qsgkDwuoFM",
@@ -1544,27 +1566,6 @@
             "1280w": "https://i.ytimg.com/vi/GVTM01-jbBg/maxresdefault.jpg"
           },
           "versions": [
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15"
-          ]
-        },
-        {
-          "title": "Caustic Arrow Raider, DoT Focused | 6k+ Health | All Content | In-depth",
-          "url": "https://www.pathofexile.com/forum/view-thread/2077932",
-          "video": "https://www.youtube.com/watch?v=kxT3wKfuJZM",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/kxT3wKfuJZM/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/kxT3wKfuJZM/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/kxT3wKfuJZM/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.7",
             "3.8",
             "3.9",
             "3.10",
@@ -1696,20 +1697,6 @@
             "3.16"
           ],
           "author": "BalorMage"
-        },
-        {
-          "title": "Tornado Shot Occultist",
-          "url": "https://www.youtube.com/watch?v=xbphxzSEyU4",
-          "video": "https://www.youtube.com/watch?v=xbphxzSEyU4",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/xbphxzSEyU4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/xbphxzSEyU4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/xbphxzSEyU4/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "Fyregrass"
         },
         {
           "title": "Tornado Shot Poison Ballista Raider",
@@ -2892,6 +2879,15 @@
             "3.15",
             "3.16"
           ]
+        },
+        {
+          "title": "Path of Exile 3.16 Scourge build compilation, with notes",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/qdk3za/path_of_exile_316_scourge_build_compilation_with/",
+          "video": "https://www.reddit.com/r/PathOfExileBuilds/comments/qdk3za/path_of_exile_316_scourge_build_compilation_with/",
+          "versions": [
+            "3.16"
+          ],
+          "author": "u/CaneCraft"
         },
         {
           "title": "Compiled List of Streamer Starter Builds for Scourge League",

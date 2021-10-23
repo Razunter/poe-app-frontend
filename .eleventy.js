@@ -1,5 +1,3 @@
-const fs = require("fs/promises");
-const path = require("path");
 const svgSprite = require('./utils/svgsprite.js')
 const htmlmin = require("html-minifier")
 const purgeCssPlugin = require("eleventy-plugin-purgecss");

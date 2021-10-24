@@ -597,20 +597,6 @@
           "author": "Navandis Gaming"
         },
         {
-          "title": "Cyclone Pillar Champion",
-          "url": "https://www.youtube.com/watch?v=laabDKkssdM",
-          "video": "https://www.youtube.com/watch?v=laabDKkssdM",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/laabDKkssdM/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/laabDKkssdM/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/laabDKkssdM/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "Palsteron"
-        },
-        {
           "title": "GGeneral Cry Blade Flurry Berserker: Fast & BIG Damage",
           "url": "https://www.youtube.com/watch?v=2BdsvolADnk",
           "video": "https://www.youtube.com/watch?v=2BdsvolADnk",
@@ -1699,20 +1685,6 @@
           "author": "BalorMage"
         },
         {
-          "title": "Tornado Shot Poison Ballista Raider",
-          "url": "https://www.youtube.com/watch?v=Y8qfWUGETh4",
-          "video": "https://www.youtube.com/watch?v=Y8qfWUGETh4",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Y8qfWUGETh4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Y8qfWUGETh4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Y8qfWUGETh4/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "Palsteron"
-        },
-        {
           "title": "FASTEST and SAFEST Clearing Build - Toxic Rain Raider",
           "url": "https://www.youtube.com/watch?v=VwYklZElKBQ",
           "video": "https://www.youtube.com/watch?v=VwYklZElKBQ",
@@ -1996,6 +1968,20 @@
           ]
         },
         {
+          "title": "LL Blazing Salvo Mines Saboteur",
+          "url": "https://www.pathofexile.com/forum/view-thread/3128489",
+          "video": "https://www.youtube.com/watch?v=F-YapLXisRA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/F-YapLXisRA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/F-YapLXisRA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/F-YapLXisRA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Qosmoz"
+        },
+        {
           "title": "Doomfletch Split Arrow Mines - Starter Viable - End Game Capable - High Damage, Low Budget",
           "url": "https://www.pathofexile.com/forum/view-thread/2784747",
           "video": "https://www.youtube.com/watch?v=9JBhsYGjt_o",
@@ -2244,20 +2230,6 @@
             "3.16"
           ],
           "author": "Path of Matth"
-        },
-        {
-          "title": "LL Blazing Salvo Mines Saboteur",
-          "url": "https://www.pathofexile.com/forum/view-thread/3128489",
-          "video": "https://www.youtube.com/watch?v=F-YapLXisRA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/F-YapLXisRA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/F-YapLXisRA/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/F-YapLXisRA/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16"
-          ],
-          "author": "Qosmoz"
         },
         {
           "title": "Ice Trap League Starter Build Guide - All Map Mods And Bosses On Low Budget",
@@ -2881,21 +2853,20 @@
           ]
         },
         {
-          "title": "Path of Exile 3.16 Scourge build compilation, with notes",
-          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/qdk3za/path_of_exile_316_scourge_build_compilation_with/",
-          "video": "https://www.reddit.com/r/PathOfExileBuilds/comments/qdk3za/path_of_exile_316_scourge_build_compilation_with/",
-          "versions": [
-            "3.16"
-          ],
-          "author": "u/CaneCraft"
-        },
-        {
           "title": "Compiled List of Streamer Starter Builds for Scourge League",
           "url": "https://www.reddit.com/r/pathofexile/comments/qdkugg/compiled_list_of_streamer_starter_builds_for/",
           "versions": [
             "3.16"
           ],
-          "author": "/u/Ryant12"
+          "author": "u/Ryant12"
+        },
+        {
+          "title": "Path of Exile 3.16 Scourge build compilation, with notes",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/qdk3za/path_of_exile_316_scourge_build_compilation_with/",
+          "versions": [
+            "3.16"
+          ],
+          "author": "u/CaneCraft"
         },
         {
           "title": "u/irondraconis - Streamer/Content creator's league starter suggestions",

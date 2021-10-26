@@ -19,7 +19,7 @@
     "develop:parcel": "parcel watch --no-cache",
     "build": "cross-env NODE_ENV=production npm-run-all clean prod:parcel prod:eleventy",
     "prod:eleventy": "eleventy --quiet",
-    "prod:parcel": "parcel build --no-source-maps --no-cache",
+    "prod:parcel": "parcel build --no-source-maps",
     "serve": "eleventy --quiet --serve"
   },
   "browserslist": [

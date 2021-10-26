@@ -2536,6 +2536,20 @@
           "author": "BalorMage"
         },
         {
+          "title": "Frost Auto-Scout Necromancer - Zoom Zoom Mapper",
+          "url": "https://www.youtube.com/watch?v=9l-dby3-Ig0",
+          "video": "https://www.youtube.com/watch?v=9l-dby3-Ig0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9l-dby3-Ig0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9l-dby3-Ig0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9l-dby3-Ig0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Kuroboros"
+        },
+        {
           "title": "My top summoner skeleton league starter",
           "url": "https://www.youtube.com/watch?v=nFe-14FctK4",
           "video": "https://www.youtube.com/watch?v=nFe-14FctK4",
@@ -2853,20 +2867,20 @@
           ]
         },
         {
-          "title": "Compiled List of Streamer Starter Builds for Scourge League",
-          "url": "https://www.reddit.com/r/pathofexile/comments/qdkugg/compiled_list_of_streamer_starter_builds_for/",
-          "versions": [
-            "3.16"
-          ],
-          "author": "u/Ryant12"
-        },
-        {
           "title": "Path of Exile 3.16 Scourge build compilation, with notes",
           "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/qdk3za/path_of_exile_316_scourge_build_compilation_with/",
           "versions": [
             "3.16"
           ],
           "author": "u/CaneCraft"
+        },
+        {
+          "title": "Compiled List of Streamer Starter Builds for Scourge League",
+          "url": "https://www.reddit.com/r/pathofexile/comments/qdkugg/compiled_list_of_streamer_starter_builds_for/",
+          "versions": [
+            "3.16"
+          ],
+          "author": "u/Ryant12"
         },
         {
           "title": "u/irondraconis - Streamer/Content creator's league starter suggestions",

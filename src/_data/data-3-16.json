@@ -431,24 +431,6 @@
           ]
         },
         {
-          "title": "Bergerbrush's Impale Cyclone Champion - League Starter & Beginner Friendly!",
-          "url": "https://www.pathofexile.com/forum/view-thread/2775438",
-          "video": "https://www.youtube.com/watch?v=bHiX7G7hsiY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/bHiX7G7hsiY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/bHiX7G7hsiY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/bHiX7G7hsiY/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15"
-          ]
-        },
-        {
           "title": "1h Impale Cyclone Slayer. All content viable with cheap gear. No required items.",
           "url": "https://www.pathofexile.com/forum/view-thread/2591825",
           "video": "https://www.youtube.com/watch?v=6Lyrhk_q4iU",
@@ -1685,6 +1667,20 @@
           "author": "BalorMage"
         },
         {
+          "title": "Poisonous Concoction Pathfinder",
+          "url": "https://www.youtube.com/watch?v=Nzi7MLNLkhs",
+          "video": "https://www.youtube.com/watch?v=Nzi7MLNLkhs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Nzi7MLNLkhs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Nzi7MLNLkhs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Nzi7MLNLkhs/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16"
+          ],
+          "author": "Palsteron"
+        },
+        {
           "title": "FASTEST and SAFEST Clearing Build - Toxic Rain Raider",
           "url": "https://www.youtube.com/watch?v=VwYklZElKBQ",
           "video": "https://www.youtube.com/watch?v=VwYklZElKBQ",
@@ -1771,6 +1767,19 @@
           ]
         },
         {
+          "title": "Bergerbrush's Budget & Beginner Divine Ire Totem Hierophant",
+          "url": "https://www.pathofexile.com/forum/view-thread/3104194",
+          "video": "https://www.youtube.com/watch?v=wQz_68eiKwU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/wQz_68eiKwU/hqdefault.jpg"
+          },
+          "versions": [
+            "3.15",
+            "3.16"
+          ],
+          "skip": true
+        },
+        {
           "title": "Wallach's Hierophant Holy Flame Totems",
           "url": "https://www.pathofexile.com/forum/view-thread/2784985",
           "video": "https://www.youtube.com/watch?v=GDBmAMpR_g0",
@@ -1811,17 +1820,6 @@
           "versions": [
             "3.13",
             "3.14",
-            "3.15"
-          ]
-        },
-        {
-          "title": "Bergerbrush's Budget & Beginner Divine Ire Totem Hierophant",
-          "url": "https://www.pathofexile.com/forum/view-thread/3104194",
-          "video": "https://www.youtube.com/watch?v=wQz_68eiKwU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/wQz_68eiKwU/hqdefault.jpg"
-          },
-          "versions": [
             "3.15"
           ]
         },

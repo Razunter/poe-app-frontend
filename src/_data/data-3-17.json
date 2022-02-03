@@ -52,6 +52,22 @@
           "author": ""
         },
         {
+          "title": "Devon's Blooming Flicker | Most content viable | Decent starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/2874747",
+          "video": "https://www.youtube.com/watch?v=UzApjFcugsc",
+          "versions": [
+            "3.15",
+            "3.16",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/UzApjFcugsc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UzApjFcugsc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UzApjFcugsc/maxresdefault.jpg"
+          },
+          "author": ""
+        },
+        {
           "title": "Double Strike / Flicker Assassin ~ League starter and ender! U-Elder and U-Atziri deathless!",
           "url": "https://www.pathofexile.com/forum/view-thread/2650714",
           "video": "https://www.youtube.com/watch?v=b8v5mY7rGTI",
@@ -311,21 +327,6 @@
           },
           "author": "",
           "skip": true
-        },
-        {
-          "title": "Devon's Blooming Flicker | Most content viable | Decent starter",
-          "url": "https://www.pathofexile.com/forum/view-thread/2874747",
-          "video": "https://www.youtube.com/watch?v=UzApjFcugsc",
-          "versions": [
-            "3.15",
-            "3.16"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/UzApjFcugsc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/UzApjFcugsc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/UzApjFcugsc/maxresdefault.jpg"
-          },
-          "author": ""
         },
         {
           "title": "Nightblade Flurry Assassin | Beginner's Guides | Boss Killer",
@@ -599,6 +600,28 @@
       "type": "caster",
       "builds": [
         {
+          "title": "ShakCentral's Cold DoT Occultist For Everyone",
+          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
+          "video": "https://www.youtube.com/watch?v=S6BGE8jnhf0",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/S6BGE8jnhf0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/S6BGE8jnhf0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/S6BGE8jnhf0/maxresdefault.jpg"
+          },
+          "author": null,
+          "pin": true
+        },
+        {
           "title": "Storm Brand Occultist | 5M+ DPS Leaguestart | All Content | Brands Freeze Everything",
           "url": "https://www.pathofexile.com/forum/view-thread/3079363",
           "video": "https://www.youtube.com/watch?v=b0LatvSwFws",
@@ -732,27 +755,6 @@
             "640w": "https://i.ytimg.com/vi/o-n3cUVNi5Q/sddefault.jpg"
           },
           "author": "",
-          "pin": true
-        },
-        {
-          "title": "The COOLEST Starter for Scourge - @ShakCentral 's Cold DoT Occultist",
-          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
-          "video": "https://www.youtube.com/watch?v=S6BGE8jnhf0",
-          "versions": [
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/S6BGE8jnhf0/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/S6BGE8jnhf0/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/S6BGE8jnhf0/maxresdefault.jpg"
-          },
-          "author": "Zizaran",
           "pin": true
         },
         {
@@ -1012,6 +1014,15 @@
           },
           "author": "GhazzyTV",
           "skip": false
+        },
+        {
+          "title": "Enki's Arc Witch - a beginner-friendly Caster",
+          "url": "https://www.pathofexile.com/forum/view-thread/1147951/page/1",
+          "video": "",
+          "versions": [
+            "3.17"
+          ],
+          "author": null
         },
         {
           "title": "SSF Friendly Poison BF/BB Assassin Levelling Guide | Blast Through Levelling",
@@ -1798,6 +1809,21 @@
           "author": ""
         },
         {
+          "title": "Holy Relics Necromancer",
+          "url": "https://www.pathofexile.com/forum/view-thread/3002453",
+          "video": "https://www.youtube.com/watch?v=Xv2N2w8mprA",
+          "versions": [
+            "3.16",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Xv2N2w8mprA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Xv2N2w8mprA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Xv2N2w8mprA/maxresdefault.jpg"
+          },
+          "author": ""
+        },
+        {
           "title": "Angry Roleplayer - SOULWREST PHANTASM NECROMANCER",
           "url": "https://www.pathofexile.com/forum/view-thread/2866966",
           "video": "https://www.youtube.com/watch?v=e5XwreajgZU",
@@ -1878,20 +1904,6 @@
           "author": ""
         },
         {
-          "title": "Holy Relics Necromancer",
-          "url": "https://www.pathofexile.com/forum/view-thread/3002453",
-          "video": "https://www.youtube.com/watch?v=Xv2N2w8mprA",
-          "versions": [
-            "3.16"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Xv2N2w8mprA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Xv2N2w8mprA/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Xv2N2w8mprA/maxresdefault.jpg"
-          },
-          "author": ""
-        },
-        {
           "title": "SRS Bomber | League Start to Endgame | All Content",
           "url": "https://www.pathofexile.com/forum/view-thread/2995833",
           "video": "https://www.youtube.com/watch?v=mu0P-eNITDA",
@@ -1905,6 +1917,30 @@
             "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
           },
           "author": ""
+        },
+        {
+          "title": "This build has KRIPP's seal of approval! - Absolution Necromancer",
+          "url": "https://www.youtube.com/watch?v=5ajQP-ty4lI",
+          "video": "https://www.youtube.com/watch?v=5ajQP-ty4lI",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5ajQP-ty4lI/hqdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
+          "title": "The BEST MINION BUILD for 3.17! - @GhazzyTV 's Skeleton Mages Necromancer",
+          "url": "https://www.youtube.com/watch?v=Sptv3AyOO5Q",
+          "video": "https://www.youtube.com/watch?v=Sptv3AyOO5Q",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Sptv3AyOO5Q/hqdefault.jpg"
+          },
+          "author": "Zizaran"
         },
         {
           "title": "Absolution Necromancer, Cheap And EASY",
@@ -1973,6 +2009,30 @@
             "1280w": "https://i.ytimg.com/vi/w8AbUs1clUA/maxresdefault.jpg"
           },
           "author": "The British Exile"
+        },
+        {
+          "title": "Carrion Golem + Zombie + Skeleton League Starter",
+          "url": "https://www.youtube.com/watch?v=52sq1O54fTE",
+          "video": "https://www.youtube.com/watch?v=52sq1O54fTE",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/52sq1O54fTE/hqdefault.jpg"
+          },
+          "author": "TheGAM3Report1"
+        },
+        {
+          "title": "Summon Raging Spirits \"Popcorn\" League Starter",
+          "url": "https://www.youtube.com/watch?v=vLSment7dbo",
+          "video": "https://www.youtube.com/watch?v=vLSment7dbo",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/vLSment7dbo/hqdefault.jpg"
+          },
+          "author": "Von Vikton"
         },
         {
           "title": "Stone and Carrion Golems League Starter",

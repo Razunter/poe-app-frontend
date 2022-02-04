@@ -28,7 +28,7 @@
       "wip": true,
       "url": "https://www.pathofexile.com/siege",
       "note": "",
-      "skiprf": true
+      "skiprf": false
     }
   ]
 }

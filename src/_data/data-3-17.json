@@ -68,6 +68,20 @@
           "author": ""
         },
         {
+          "title": "Donkster5' The Bright Knight - VLS Champ. SSF/HC",
+          "url": "https://www.pathofexile.com/forum/view-thread/3145653",
+          "video": "https://www.youtube.com/watch?v=uumr8B8MIcI",
+          "versions": [
+            "3.15",
+            "3.16",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/uumr8B8MIcI/hqdefault.jpg"
+          },
+          "author": ""
+        },
+        {
           "title": "Double Strike / Flicker Assassin ~ League starter and ender! U-Elder and U-Atziri deathless!",
           "url": "https://www.pathofexile.com/forum/view-thread/2650714",
           "video": "https://www.youtube.com/watch?v=b8v5mY7rGTI",
@@ -367,19 +381,6 @@
           "author": ""
         },
         {
-          "title": "Donkster5' The Bright Knight - VLS Champ. SSF/HC",
-          "url": "https://www.pathofexile.com/forum/view-thread/3145653",
-          "video": "https://www.youtube.com/watch?v=uumr8B8MIcI",
-          "versions": [
-            "3.15",
-            "3.16"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/uumr8B8MIcI/hqdefault.jpg"
-          },
-          "author": ""
-        },
-        {
           "title": "For Slayer / Champion - Ngamahu Cyclone / Consecrated Path / Tectonic Slam (All Content)",
           "url": "https://www.pathofexile.com/forum/view-thread/1819239",
           "video": "https://www.youtube.com/watch?v=ArAg-dhVemg",
@@ -602,7 +603,7 @@
         {
           "title": "ShakCentral's Cold DoT Occultist For Everyone",
           "url": "https://www.pathofexile.com/forum/view-thread/2661120",
-          "video": "https://www.youtube.com/watch?v=S6BGE8jnhf0",
+          "video": "https://www.youtube.com/watch?v=Eaeuo3Dgi_Q",
           "versions": [
             "3.10",
             "3.11",
@@ -614,11 +615,11 @@
             "3.17"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/S6BGE8jnhf0/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/S6BGE8jnhf0/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/S6BGE8jnhf0/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/maxresdefault.jpg"
           },
-          "author": null,
+          "author": "",
           "pin": true
         },
         {
@@ -1022,7 +1023,7 @@
           "versions": [
             "3.17"
           ],
-          "author": null
+          "author": ""
         },
         {
           "title": "SSF Friendly Poison BF/BB Assassin Levelling Guide | Blast Through Levelling",
@@ -1209,6 +1210,18 @@
           "author": "Brittleknee"
         },
         {
+          "title": "Bleedbow Rupture Deadeye",
+          "url": "https://www.youtube.com/watch?v=nTNplVyk3RQ",
+          "video": "https://www.youtube.com/watch?v=nTNplVyk3RQ",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/nTNplVyk3RQ/hqdefault.jpg"
+          },
+          "author": "Incommodious"
+        },
+        {
           "title": "TANKING GOD - Poisonous Concoction Champion",
           "url": "https://www.youtube.com/watch?v=yfM_e_LMOw8",
           "video": "https://www.youtube.com/watch?v=yfM_e_LMOw8",
@@ -1260,6 +1273,14 @@
             "1280w": "https://i.ytimg.com/vi/Nzi7MLNLkhs/maxresdefault.jpg"
           },
           "author": "Palsteron"
+        },
+        {
+          "title": "fezz's Toxic Rain Champion - Step-by-Step PoE Build Guide for Beginners & Casuals",
+          "url": "https://www.pathofexile.com/forum/view-thread/3229622",
+          "video": "",
+          "versions": [
+            "3.17"
+          ]
         }
       ]
     },
@@ -1267,9 +1288,45 @@
       "type": "totems",
       "builds": [
         {
-          "title": "Wallach's Hierophant Freezing Pulse Totems",
+          "title": "The Warchief | [Facebreaker] Ancestral Warchief | Uber Boss Farmer | Beginner -> Expert",
+          "url": "https://www.pathofexile.com/forum/view-thread/1694250",
+          "video": "https://www.youtube.com/watch?v=-UQnZ7fHcow",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-UQnZ7fHcow/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-UQnZ7fHcow/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-UQnZ7fHcow/maxresdefault.jpg"
+          },
+          "author": ""
+        },
+        {
+          "title": "Siege Ballista Hierophant",
+          "url": "https://www.pathofexile.com/forum/view-thread/3210813",
+          "video": "https://www.youtube.com/watch?v=_6TDOR87dHE",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_6TDOR87dHE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_6TDOR87dHE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_6TDOR87dHE/maxresdefault.jpg"
+          },
+          "author": "Wallach"
+        },
+        {
+          "title": "Hierophant Freezing Pulse Totems",
           "url": "https://www.pathofexile.com/forum/view-thread/2685450",
-          "video": "https://www.youtube.com/watch?v=K8ZDMNoUl1w",
+          "video": "https://www.youtube.com/watch?v=JeOrmERNclA",
           "versions": [
             "3.9",
             "3.10",
@@ -1281,11 +1338,11 @@
             "3.17"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/K8ZDMNoUl1w/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/K8ZDMNoUl1w/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/K8ZDMNoUl1w/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/JeOrmERNclA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JeOrmERNclA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/JeOrmERNclA/maxresdefault.jpg"
           },
-          "author": ""
+          "author": "Wallach"
         },
         {
           "title": "Elemental Hit Ballista Totem Hiero | Budget Friendly | No 6/5 Links | League Start to Endgame",
@@ -1331,27 +1388,6 @@
             "1280w": "https://i.ytimg.com/vi/wxLohWMLDEE/maxresdefault.jpg"
           },
           "author": "Angry Roleplayer"
-        },
-        {
-          "title": "The Warchief | [Facebreaker] Ancestral Warchief | Uber Boss Farmer | Beginner -> Expert",
-          "url": "https://www.pathofexile.com/forum/view-thread/1694250",
-          "video": "https://www.youtube.com/watch?v=-UQnZ7fHcow",
-          "versions": [
-            "3.7",
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/-UQnZ7fHcow/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/-UQnZ7fHcow/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/-UQnZ7fHcow/maxresdefault.jpg"
-          },
-          "author": ""
         },
         {
           "title": "Donkster5' The Toxic Tank! SSF/HC",
@@ -1646,6 +1682,20 @@
             "1280w": "https://i.ytimg.com/vi/xDqHszYvGfg/maxresdefault.jpg"
           },
           "author": "Big Ducks"
+        },
+        {
+          "title": "My 3.17 Leaguestart - Explosive Trap",
+          "url": "https://www.youtube.com/watch?v=VmG4r53K8SQ",
+          "video": "https://www.youtube.com/watch?v=VmG4r53K8SQ",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/VmG4r53K8SQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/VmG4r53K8SQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/VmG4r53K8SQ/maxresdefault.jpg"
+          },
+          "author": "Brittleknee"
         },
         {
           "title": "Seismic Traps are STILL King of Bossing",

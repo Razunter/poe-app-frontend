@@ -289,25 +289,16 @@ a {
 
   h3 {
     margin-bottom: 0;
+    font-size: 1.2rem;
+
+    @media screen and (min-width: 1200px) {
+      font-size: 1.5rem;
+    }
   }
 
   a {
-    font-size: 1.2rem;
     display: block;
     width: 100%;
-
-    @media screen and (min-width: 920px) {
-      //@include limit-lines(3);
-
-      //height: 1.2rem * 1.4 * 3;
-    }
-
-    @media screen and (min-width: 1200px) {
-      //@include limit-lines(3);
-
-      font-size: 1.5rem;
-      //height: 1.5rem * 1.4 * 2;
-    }
   }
 }
 
@@ -347,4 +338,18 @@ footer {
   vertical-align: top;
   width: 0.75em;
   height: 0.75em;
+}
+
+.build--novideo {
+  font-size: 1.2rem;
+
+  @media screen and (min-width: 1200px) {
+    font-size: 1.5rem;
+  }
+
+  ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+  }
 }

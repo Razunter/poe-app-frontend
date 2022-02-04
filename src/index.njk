@@ -65,11 +65,36 @@ permalink: "{% if version.version == versions.currentVersion %}index{% else %}ol
         </h2>
         <div class="builds-collection">
           {% set buildList = data.buildList | selectAttrEq("type", typekey) | first %}
+          {% set noVideoBuilds = [] %}
           {% for build in buildList.builds %}
             {% if (build.versions | select("equalto", thisVersion) | length != 0) and not build.skip %}
-              {{ macros.video(build.title, build.url, build.video, build.videothumb, build.author) }}
+              {% if build.videothumb['480w'] %}
+                {{ macros.video(build.title, build.url, build.video, build.videothumb, build.author) }}
+              {% else %}
+                {% set noVideoBuilds = (noVideoBuilds.push(build), noVideoBuilds) %}
+              {% endif %}
             {% endif %}
           {% endfor %}
+          {% if noVideoBuilds | length > 0 %}
+            <div class="build build--novideo">
+              <div class="build-title">
+                <h3>
+                  No video
+                </h3>
+              </div>
+              <ul>
+                {% for build in noVideoBuilds %}
+                  <li>
+                    <a class="build-link"
+                       href="{{ build.url }}"
+                       target="_blank" rel="noopener">
+                      {% if build.author %}<span class="build-author">{{ build.author }}</span> - {% endif %}{{ build.title }}
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
         </div>
       </section>
     {% endif %}

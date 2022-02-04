@@ -24,7 +24,8 @@
             "480w": "https://i.ytimg.com/vi/rtHzFC83Uag/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/rtHzFC83Uag/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/rtHzFC83Uag/maxresdefault.jpg"
-          }
+          },
+          "author": ""
         },
         {
           "title": "The Warbringer Slaming Serker [League Starter | Cheap | Smash the Atlas | Prismatic GOD]",
@@ -646,7 +647,8 @@
             "480w": "https://i.ytimg.com/vi/LjQYtD6s7I8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/LjQYtD6s7I8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/LjQYtD6s7I8/maxresdefault.jpg"
-          }
+          },
+          "author": ""
         },
         {
           "title": "Bladefall Blade Blast Chieftain All Arounder",
@@ -657,7 +659,8 @@
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/ZiEUPlkoShQ/hqdefault.jpg"
-          }
+          },
+          "author": ""
         },
         {
           "title": "Ice Dancing Queen - Icestorm/Cyclone/CI - Viable For Everything",
@@ -904,6 +907,34 @@
           "skip": true
         },
         {
+          "title": "The FASTEST Mapping build for 3.17! - Ruetoo's Corrupting Fever Champion",
+          "url": "https://www.youtube.com/watch?v=p-hMYe6YA2Q",
+          "video": "https://www.youtube.com/watch?v=p-hMYe6YA2Q",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/p-hMYe6YA2Q/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/p-hMYe6YA2Q/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/p-hMYe6YA2Q/maxresdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
+          "title": "A build for the Cohhilition! - Spark Inquisitor League Starter",
+          "url": "https://www.youtube.com/watch?v=p8tklONwd0w",
+          "video": "https://www.youtube.com/watch?v=p8tklONwd0w",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/p8tklONwd0w/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/p8tklONwd0w/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/p8tklONwd0w/maxresdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
           "title": "It's BACK and it's... STRONGER?! - ED/Contagion Trickster",
           "url": "https://www.youtube.com/watch?v=Iu3CxWrgQ_Y",
           "video": "https://www.youtube.com/watch?v=Iu3CxWrgQ_Y",
@@ -1060,7 +1091,8 @@
           "video": "",
           "versions": [
             "3.17"
-          ]
+          ],
+          "author": ""
         },
         {
           "title": "Enki's Arc Witch - a beginner-friendly Caster",
@@ -1077,7 +1109,8 @@
           "video": "",
           "versions": [
             "3.17"
-          ]
+          ],
+          "author": ""
         },
         {
           "title": "SSF Friendly Poison BF/BB Assassin Levelling Guide | Blast Through Levelling",
@@ -1105,7 +1138,8 @@
             "480w": "https://i.ytimg.com/vi/Uml2Xe-wbKI/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/Uml2Xe-wbKI/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/Uml2Xe-wbKI/maxresdefault.jpg"
-          }
+          },
+          "author": ""
         },
         {
           "title": "Lightning Strike Raider",
@@ -1247,6 +1281,18 @@
             "640w": "https://i.ytimg.com/vi/Eu0dAdsMhzk/sddefault.jpg"
           },
           "author": ""
+        },
+        {
+          "title": "This build is ALMOST IMMORTAL when mapping! - Poisonous Concoction Pathfinder",
+          "url": "https://www.youtube.com/watch?v=23danGZ17b0",
+          "video": "https://www.youtube.com/watch?v=23danGZ17b0",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/23danGZ17b0/hqdefault.jpg"
+          },
+          "author": "Zizaran"
         },
         {
           "title": "The MOST PROMISING new skill! - @nugiyen 's Poisonous Concoction Pathfinder",
@@ -1588,7 +1634,8 @@
           "video": "",
           "versions": [
             "3.17"
-          ]
+          ],
+          "author": ""
         }
       ]
     },
@@ -1606,7 +1653,8 @@
             "480w": "https://i.ytimg.com/vi/L-zyf_3ChaY/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/L-zyf_3ChaY/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/L-zyf_3ChaY/maxresdefault.jpg"
-          }
+          },
+          "author": ""
         },
         {
           "title": "The SIMPLEST Mapping Build for 3.17! - Pohx's Righteous Fire Inquisitor",

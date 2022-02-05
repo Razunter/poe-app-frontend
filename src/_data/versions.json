@@ -25,7 +25,7 @@
     {
       "version": "3.17",
       "name": "Siege of the Atlas & Archnemesis",
-      "wip": true,
+      "wip": false,
       "url": "https://www.pathofexile.com/siege",
       "note": "",
       "skiprf": false

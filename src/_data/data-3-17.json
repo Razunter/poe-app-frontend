@@ -346,30 +346,6 @@
           "author": ""
         },
         {
-          "title": "Hybrid's Molten Strike Jugg - Hold right click to TANK anything | MELT the Atlas",
-          "url": "https://www.pathofexile.com/forum/view-thread/2211489",
-          "video": "https://www.youtube.com/watch?v=iZSe8RTxJgQ",
-          "versions": [
-            "3.7",
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/iZSe8RTxJgQ/maxresdefault.jpg"
-          },
-          "author": "",
-          "skip": true
-        },
-        {
           "title": "The BLOCKMAN endgame farming build. All content farming (Cheap and tanky) League starter",
           "url": "https://www.pathofexile.com/forum/view-thread/2775490",
           "video": "https://www.youtube.com/watch?v=uZlGIbIoOcw",
@@ -1119,6 +1095,29 @@
           "author": ""
         },
         {
+          "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, tanky, fun to play, beginner friendly",
+          "url": "https://www.pathofexile.com/forum/view-thread/2551841",
+          "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
+          "versions": [
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dS-gx4lgU7s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dS-gx4lgU7s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dS-gx4lgU7s/maxresdefault.jpg"
+          },
+          "author": ""
+        },
+        {
           "title": "Lightning Strike Raider",
           "url": "https://www.pathofexile.com/forum/view-thread/3186978",
           "video": "https://www.youtube.com/watch?v=9qsgkDwuoFM",
@@ -1198,28 +1197,6 @@
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/mB3PnCGNbmU/hqdefault.jpg"
-          },
-          "author": ""
-        },
-        {
-          "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, tanky, fun to play, beginner friendly",
-          "url": "https://www.pathofexile.com/forum/view-thread/2551841",
-          "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
-          "versions": [
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/dS-gx4lgU7s/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/dS-gx4lgU7s/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/dS-gx4lgU7s/maxresdefault.jpg"
           },
           "author": ""
         },
@@ -2001,6 +1978,22 @@
           "author": ""
         },
         {
+          "title": "SRS Bomber | League Start to Endgame | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
+          "video": "https://www.youtube.com/watch?v=mu0P-eNITDA",
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/mu0P-eNITDA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
+          },
+          "author": ""
+        },
+        {
           "title": "Angry Roleplayer - SOULWREST PHANTASM NECROMANCER",
           "url": "https://www.pathofexile.com/forum/view-thread/2866966",
           "video": "https://www.youtube.com/watch?v=e5XwreajgZU",
@@ -2077,21 +2070,6 @@
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/UmDB8sI9u5Q/hqdefault.jpg"
-          },
-          "author": ""
-        },
-        {
-          "title": "SRS Bomber | League Start to Endgame | All Content",
-          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
-          "video": "https://www.youtube.com/watch?v=mu0P-eNITDA",
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/mu0P-eNITDA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
           },
           "author": ""
         },

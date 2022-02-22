@@ -1747,6 +1747,25 @@
           "author": ""
         },
         {
+          "title": "The Fortified Summoner: CwC Raging Spirit Champion [All affixes! Sirus/Mapping Vids]",
+          "url": "https://www.pathofexile.com/forum/view-thread/2663727",
+          "video": "https://www.youtube.com/watch?v=qsEFWt9t4z0",
+          "versions": [
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qsEFWt9t4z0/hqdefault.jpg"
+          },
+          "author": ""
+        },
+        {
           "title": "Brain-dead Dominating Blow Guardian - 2mil DPS on 20c budget, 5mil+ with investment",
           "url": "https://www.pathofexile.com/forum/view-thread/3106152",
           "video": "https://www.youtube.com/watch?v=8_OSPW45_VY",
@@ -1774,24 +1793,6 @@
             "480w": "https://i.ytimg.com/vi/K1bbILxeXLI/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/K1bbILxeXLI/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/K1bbILxeXLI/maxresdefault.jpg"
-          },
-          "author": ""
-        },
-        {
-          "title": "The Fortified Summoner: CwC Raging Spirit Champion [All affixes! Sirus/Mapping Vids]",
-          "url": "https://www.pathofexile.com/forum/view-thread/2663727",
-          "video": "https://www.youtube.com/watch?v=qsEFWt9t4z0",
-          "versions": [
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/qsEFWt9t4z0/hqdefault.jpg"
           },
           "author": ""
         },
@@ -2098,6 +2099,21 @@
     {
       "type": "misc",
       "builds": [
+        {
+          "title": "The Top ENDGAME Builds Of Siege Of The Atlas",
+          "url": "https://www.youtube.com/watch?v=iu8HcwIq6IE",
+          "video": "https://www.youtube.com/watch?v=iu8HcwIq6IE",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iu8HcwIq6IE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iu8HcwIq6IE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iu8HcwIq6IE/maxresdefault.jpg"
+          },
+          "author": "Grimro",
+          "pin": true
+        },
         {
           "title": "Starter builds I've made for the Archnemesis league",
           "url": "https://www.youtube.com/watch?v=OeyXIAoU5FM",

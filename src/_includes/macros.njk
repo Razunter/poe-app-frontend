@@ -14,7 +14,7 @@
       <h3>
         <a class="build-link"
            href="{{ url }}"
-           target="_blank" rel="noopener">
+           target="_blank" rel="noopener noreferrer">
           {% if author %}<span class="build-author">{{ author }}</span> - {% endif %}{{ title }}&#8288;{{ externalIcon(url) }}
         </a>
       </h3>
@@ -46,7 +46,7 @@
              data-video="{{ videoid }}" class='{{ class }} thumb lazy' />
       </div>
     {% else %}
-      <a class="novideo" href="{{ url }}" target="_blank" rel="noopener">No video</a>
+      <a class="novideo" href="{{ url }}" target="_blank" rel="noopener noreferrer">No video</a>
     {% endif %}
   </figure>
 {% endmacro %}

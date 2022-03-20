@@ -38,7 +38,7 @@ permalink: "{% if version.version == versions.currentVersion %}index{% else %}ol
   <h1>
     Path of Exile
     {% if version.url %}
-      <a href="{{ version.url }}" target="_blank" rel="noopener">{{ thisVersion }} {{ version.name }}</a>
+      <a href="{{ version.url }}" target="_blank" rel="noopener noreferrer">{{ thisVersion }} {{ version.name }}</a>
     {% else %}
       {{ thisVersion }} {{ version.name }}
     {% endif %}

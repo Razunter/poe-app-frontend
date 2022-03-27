@@ -2100,6 +2100,19 @@
       "type": "misc",
       "builds": [
         {
+          "title": "The 5 BEST BUILDS to reach level 90 in the Gauntlet!",
+          "url": "https://www.youtube.com/watch?v=PEwl_1UbXCw",
+          "video": "https://www.youtube.com/watch?v=PEwl_1UbXCw",
+          "versions": [
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/PEwl_1UbXCw/hqdefault.jpg"
+          },
+          "author": "Zizaran",
+          "pin": true
+        },
+        {
           "title": "The Top ENDGAME Builds Of Siege Of The Atlas",
           "url": "https://www.youtube.com/watch?v=iu8HcwIq6IE",
           "video": "https://www.youtube.com/watch?v=iu8HcwIq6IE",

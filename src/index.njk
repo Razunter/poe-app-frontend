@@ -67,7 +67,7 @@ permalink: "{% if version.version == versions.currentVersion %}index{% else %}ol
           {% set buildList = data.buildList | selectAttrEq("type", typekey) | first %}
           {% set noVideoBuilds = [] %}
           {% for build in buildList.builds %}
-            {% if (build.versions | select("equalto", thisVersion) | length != 0) and not build.skip %}
+            {% if isBuildCurrent(build.versions, thisVersion, versions.versions) and not build.skip %}
               {% if build.videothumb['480w'] %}
                 {{ macros.video(build.title, build.url, build.video, build.videothumb, build.author) }}
               {% else %}

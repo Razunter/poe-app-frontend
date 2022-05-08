@@ -548,6 +548,18 @@
           "author": "Velyna"
         },
         {
+          "title": "Bane Occultist, My #1 League Starter",
+          "url": "https://www.youtube.com/watch?v=6wkarBO1h9E",
+          "video": "https://www.youtube.com/watch?v=6wkarBO1h9E",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6wkarBO1h9E/hqdefault.jpg"
+          },
+          "author": "subtractem"
+        },
+        {
           "title": "ShakCentral's Cold DoT Occultist For Everyone",
           "url": "https://www.pathofexile.com/forum/view-thread/2661120",
           "video": "https://www.youtube.com/watch?v=Eaeuo3Dgi_Q",
@@ -733,20 +745,6 @@
             "1280w": "https://i.ytimg.com/vi/FlxhIfyKpm0/maxresdefault.jpg"
           },
           "author": "CaptainLance9"
-        },
-        {
-          "title": "Bane Occultist, My #1 League Starter is BETTER",
-          "url": "https://www.youtube.com/watch?v=GVyr9t8RpCY",
-          "video": "https://www.youtube.com/watch?v=GVyr9t8RpCY",
-          "versions": [
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/GVyr9t8RpCY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/GVyr9t8RpCY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/GVyr9t8RpCY/maxresdefault.jpg"
-          },
-          "author": "subtractem"
         },
         {
           "title": "Enki's Archmage Hierophant | Arc & Ball Lightning | beginner- & leaguestart-friendly",
@@ -1415,6 +1413,21 @@
       "type": "rf",
       "builds": [
         {
+          "title": "Righteous Fire Inquisitor League Starter",
+          "url": "https://www.youtube.com/watch?v=4BZh76xKLpI",
+          "video": "https://www.youtube.com/watch?v=4BZh76xKLpI",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4BZh76xKLpI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4BZh76xKLpI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4BZh76xKLpI/maxresdefault.jpg"
+          },
+          "author": "Pohx",
+          "pin": true
+        },
+        {
           "title": "Megachonk RF Jugg | Ultra Tanky + Endgame Viable + Very good starter",
           "url": "https://www.pathofexile.com/forum/view-thread/3209778",
           "video": "https://www.youtube.com/watch?v=L-zyf_3ChaY",
@@ -1462,6 +1475,20 @@
             "1280w": "https://i.ytimg.com/vi/VEySBJ3m83o/maxresdefault.jpg"
           },
           "author": ""
+        },
+        {
+          "title": "Seismic Traps are STILL King of Bossing - 3.18 Sentinel League Starter",
+          "url": "https://www.youtube.com/watch?v=1hq9dt-7UUs",
+          "video": "https://www.youtube.com/watch?v=1hq9dt-7UUs",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/1hq9dt-7UUs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/1hq9dt-7UUs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/1hq9dt-7UUs/maxresdefault.jpg"
+          },
+          "author": "Path of Matth"
         },
         {
           "title": "The Frozen Garden - Elementalist Permafreeze Arc Mines",
@@ -1521,20 +1548,6 @@
             "1280w": "https://i.ytimg.com/vi/VmG4r53K8SQ/maxresdefault.jpg"
           },
           "author": "Brittleknee"
-        },
-        {
-          "title": "Seismic Traps are STILL King of Bossing",
-          "url": "https://www.youtube.com/watch?v=0HPdMEx7Dzc",
-          "video": "https://www.youtube.com/watch?v=0HPdMEx7Dzc",
-          "versions": [
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/0HPdMEx7Dzc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/0HPdMEx7Dzc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/0HPdMEx7Dzc/maxresdefault.jpg"
-          },
-          "author": "Path of Matth"
         },
         {
           "title": "Big Buffed BOSSING - Ice Trap Saboteur",
@@ -1659,6 +1672,32 @@
       "type": "minions",
       "builds": [
         {
+          "title": "Kay's Summoner + Skeletons / SRS / Spectres / Spiders / Golems / Sentinels / Animate Weapon",
+          "url": "https://www.pathofexile.com/forum/view-thread/3179145",
+          "video": "https://www.youtube.com/watch?v=zGwjky6bR60",
+          "versions": [
+            "3.7",
+            "3.8",
+            "3.9",
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/zGwjky6bR60/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/zGwjky6bR60/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/zGwjky6bR60/maxresdefault.jpg"
+          },
+          "author": "",
+          "pin": true
+        },
+        {
           "title": "Holy Relics Necromancer",
           "url": "https://www.pathofexile.com/forum/view-thread/3002453",
           "video": "https://www.youtube.com/watch?v=Xv2N2w8mprA",
@@ -1690,31 +1729,6 @@
             "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
           },
           "author": ""
-        },
-        {
-          "title": "Kay's Summoner + Skeletons / SRS / Spectres / Spiders / Golems / Sentinels / Animate Weapon",
-          "url": "https://www.pathofexile.com/forum/view-thread/3179145",
-          "video": "https://www.youtube.com/watch?v=zGwjky6bR60",
-          "versions": [
-            "3.7",
-            "3.8",
-            "3.9",
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/zGwjky6bR60/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/zGwjky6bR60/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/zGwjky6bR60/maxresdefault.jpg"
-          },
-          "author": "",
-          "pin": true
         },
         {
           "title": "Elemental ANIMATE WEAPON Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
@@ -2122,6 +2136,20 @@
             "1280w": "https://i.ytimg.com/vi/QhNENQo-ELQ/maxresdefault.jpg"
           },
           "author": "Big Ducks"
+        },
+        {
+          "title": "Top 5 Meta Builds in Sentinel - How to Choose Your League Starter",
+          "url": "https://www.youtube.com/watch?v=4rYueVBx0VU",
+          "video": "https://www.youtube.com/watch?v=4rYueVBx0VU",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4rYueVBx0VU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4rYueVBx0VU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4rYueVBx0VU/maxresdefault.jpg"
+          },
+          "author": "KobeBlackMamba"
         },
         {
           "title": "The 5 BEST BUILDS to reach level 90 in the Gauntlet!",

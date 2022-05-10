@@ -69,6 +69,21 @@
           "author": ""
         },
         {
+          "title": "Donkster5' The Bright Knight - VLS Champ. SSF/HC",
+          "url": "https://www.pathofexile.com/forum/view-thread/3145653",
+          "video": "https://www.youtube.com/watch?v=uumr8B8MIcI",
+          "versions": [
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/uumr8B8MIcI/hqdefault.jpg"
+          },
+          "author": ""
+        },
+        {
           "title": "Lightning Strike Raider - Full Detailed League Start Guide",
           "url": "https://www.youtube.com/watch?v=GMlxr1d0b3k",
           "video": "https://www.youtube.com/watch?v=GMlxr1d0b3k",
@@ -93,20 +108,6 @@
             "480w": "https://i.ytimg.com/vi/UzApjFcugsc/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/UzApjFcugsc/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/UzApjFcugsc/maxresdefault.jpg"
-          },
-          "author": ""
-        },
-        {
-          "title": "Donkster5' The Bright Knight - VLS Champ. SSF/HC",
-          "url": "https://www.pathofexile.com/forum/view-thread/3145653",
-          "video": "https://www.youtube.com/watch?v=uumr8B8MIcI",
-          "versions": [
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/uumr8B8MIcI/hqdefault.jpg"
           },
           "author": ""
         },
@@ -206,18 +207,6 @@
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/agUTdUf5xQ8/hqdefault.jpg"
-          },
-          "author": "KobeBlackMamba"
-        },
-        {
-          "title": "Lightning Strike Berserker",
-          "url": "https://www.youtube.com/watch?v=A97ZvIsU9y8",
-          "video": "https://www.youtube.com/watch?v=A97ZvIsU9y8",
-          "versions": [
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/A97ZvIsU9y8/hqdefault.jpg"
           },
           "author": "KobeBlackMamba"
         },
@@ -577,6 +566,26 @@
           "author": "Velyna"
         },
         {
+          "title": "Blade Blast Bladefall Poison Assassin",
+          "url": "https://www.poe-vault.com/guides/blade-blast-bladefall-poison-assassin-build-guide",
+          "video": "https://www.youtube.com/watch?v=QU_A2yQz-14",
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QU_A2yQz-14/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QU_A2yQz-14/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QU_A2yQz-14/maxresdefault.jpg"
+          },
+          "author": "GhazzyTV",
+          "skip": false
+        },
+        {
           "title": "The best build for 3.18 is Detonate Dead... again",
           "url": "https://www.youtube.com/watch?v=e11Zi5AZYd8",
           "video": "https://www.youtube.com/watch?v=e11Zi5AZYd8",
@@ -655,28 +664,6 @@
           "author": "subtractem"
         },
         {
-          "title": "ShakCentral's Cold DoT Occultist For Everyone",
-          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
-          "video": "https://www.youtube.com/watch?v=Eaeuo3Dgi_Q",
-          "versions": [
-            "3.10",
-            "3.11",
-            "3.12",
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/maxresdefault.jpg"
-          },
-          "author": "",
-          "pin": true
-        },
-        {
           "title": "Tsus Exsanguinate Scion - all content done",
           "url": "https://www.pathofexile.com/forum/view-thread/3114598",
           "video": "https://www.youtube.com/watch?v=LjQYtD6s7I8",
@@ -731,6 +718,28 @@
           "author": ""
         },
         {
+          "title": "Cold DoT Occultist For Everyone",
+          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
+          "video": "https://www.youtube.com/watch?v=Eaeuo3Dgi_Q",
+          "versions": [
+            "3.10",
+            "3.11",
+            "3.12",
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Eaeuo3Dgi_Q/maxresdefault.jpg"
+          },
+          "author": "ShakCentral",
+          "pin": true
+        },
+        {
           "title": "Cold Snap Vortex Occultist",
           "url": "https://www.poe-vault.com/guides/cold-snap-vortex-occultist-build-guide",
           "video": "https://www.youtube.com/watch?v=5cKJO79J_mQ",
@@ -743,25 +752,6 @@
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/5cKJO79J_mQ/hqdefault.jpg"
-          },
-          "author": "GhazzyTV",
-          "skip": false
-        },
-        {
-          "title": "Blade Blast Bladefall Poison Assassin",
-          "url": "https://www.poe-vault.com/guides/blade-blast-bladefall-poison-assassin-build-guide",
-          "video": "https://www.youtube.com/watch?v=QU_A2yQz-14",
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/QU_A2yQz-14/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/QU_A2yQz-14/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/QU_A2yQz-14/maxresdefault.jpg"
           },
           "author": "GhazzyTV",
           "skip": false
@@ -1801,7 +1791,7 @@
         {
           "title": "Kay's Summoner + Skeletons / SRS / Spectres / Spiders / Golems / Sentinels / Animate Weapon",
           "url": "https://www.pathofexile.com/forum/view-thread/3179145",
-          "video": "https://www.youtube.com/watch?v=zGwjky6bR60",
+          "video": "https://www.youtube.com/watch?v=VsTvn5MLKCY",
           "versions": [
             "3.7",
             "3.8",
@@ -1817,9 +1807,9 @@
             "3.18"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/zGwjky6bR60/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/zGwjky6bR60/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/zGwjky6bR60/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/VsTvn5MLKCY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/VsTvn5MLKCY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/VsTvn5MLKCY/maxresdefault.jpg"
           },
           "author": "",
           "pin": true
@@ -1856,6 +1846,64 @@
             "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
           },
           "author": ""
+        },
+        {
+          "title": "Lich Queen Skeleton Summoner",
+          "url": "https://www.poe-vault.com/guides/lich-queen-skeleton-summoner-build-guide",
+          "video": "https://www.youtube.com/watch?v=NKQzqgbA-C8",
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/NKQzqgbA-C8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/NKQzqgbA-C8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/NKQzqgbA-C8/maxresdefault.jpg"
+          },
+          "author": "GhazzyTV",
+          "skip": false
+        },
+        {
+          "title": "Summon Raging Spirits Necromancer",
+          "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=G2jYDqsstF4",
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/G2jYDqsstF4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/G2jYDqsstF4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/G2jYDqsstF4/maxresdefault.jpg"
+          },
+          "author": "GhazzyTV",
+          "skip": false
+        },
+        {
+          "title": "Dark Pact Necromancer",
+          "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=JhpLVOXKop0",
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JhpLVOXKop0/hqdefault.jpg"
+          },
+          "author": "GhazzyTV",
+          "skip": false
         },
         {
           "title": "Elemental ANIMATE WEAPON Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
@@ -1915,44 +1963,6 @@
             "480w": "https://i.ytimg.com/vi/qsEFWt9t4z0/hqdefault.jpg"
           },
           "author": ""
-        },
-        {
-          "title": "Lich Queen Skeleton Summoner",
-          "url": "https://www.poe-vault.com/guides/lich-queen-skeleton-summoner-build-guide",
-          "video": "https://www.youtube.com/watch?v=NKQzqgbA-C8",
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/NKQzqgbA-C8/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/NKQzqgbA-C8/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/NKQzqgbA-C8/maxresdefault.jpg"
-          },
-          "author": "GhazzyTV",
-          "skip": false
-        },
-        {
-          "title": "Summon Raging Spirits Necromancer",
-          "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=G2jYDqsstF4",
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/G2jYDqsstF4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/G2jYDqsstF4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/G2jYDqsstF4/maxresdefault.jpg"
-          },
-          "author": "GhazzyTV",
-          "skip": false
         },
         {
           "title": "Animate Weapon Necromancer",
@@ -2022,23 +2032,6 @@
             "480w": "https://i.ytimg.com/vi/s7jYuX0gUmM/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/s7jYuX0gUmM/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/s7jYuX0gUmM/maxresdefault.jpg"
-          },
-          "author": "GhazzyTV",
-          "skip": false
-        },
-        {
-          "title": "Dark Pact Necromancer",
-          "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=JhpLVOXKop0",
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/JhpLVOXKop0/hqdefault.jpg"
           },
           "author": "GhazzyTV",
           "skip": false
@@ -2295,6 +2288,32 @@
             "1280w": "https://i.ytimg.com/vi/4rYueVBx0VU/maxresdefault.jpg"
           },
           "author": "KobeBlackMamba"
+        },
+        {
+          "title": "Sentinel League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=F8-zcqNTiqg",
+          "video": "https://www.youtube.com/watch?v=F8-zcqNTiqg",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/F8-zcqNTiqg/hqdefault.jpg"
+          },
+          "author": "Navandis Gaming"
+        },
+        {
+          "title": "Class Builds For Everyone",
+          "url": "https://www.youtube.com/watch?v=Bd6LWrs28_E",
+          "video": "https://www.youtube.com/watch?v=Bd6LWrs28_E",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Bd6LWrs28_E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Bd6LWrs28_E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Bd6LWrs28_E/maxresdefault.jpg"
+          },
+          "author": "ShakCentral"
         },
         {
           "title": "The 5 BEST BUILDS to reach level 90 in the Gauntlet!",

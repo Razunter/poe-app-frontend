@@ -819,6 +819,16 @@
           "author": "Taake"
         },
         {
+          "title": "Enki's Arc Witch - a beginner-friendly Caster",
+          "url": "https://www.pathofexile.com/forum/view-thread/1147951/page/1",
+          "video": "",
+          "versions": [
+            "3.17",
+            "3.18"
+          ],
+          "author": ""
+        },
+        {
           "title": "Build Guides for Newbies: Wintertide-Vortex Inquisitor",
           "url": "https://www.pathofexile.com/forum/view-thread/3225890",
           "video": "",
@@ -830,15 +840,6 @@
         {
           "title": "Galvanic Arrow Deadeye",
           "url": "https://www.pathofexile.com/forum/view-thread/3229587/page/1",
-          "video": "",
-          "versions": [
-            "3.17"
-          ],
-          "author": ""
-        },
-        {
-          "title": "Enki's Arc Witch - a beginner-friendly Caster",
-          "url": "https://www.pathofexile.com/forum/view-thread/1147951/page/1",
           "video": "",
           "versions": [
             "3.17"
@@ -1013,15 +1014,6 @@
       "type": "totems",
       "builds": [
         {
-          "title": "Hierophant Siege Ballista - Destroy Endgame Bosses on a Low Budget!",
-          "url": "https://www.youtube.com/watch?v=lenOa5yiFO0",
-          "video": "https://www.youtube.com/watch?v=lenOa5yiFO0",
-          "versions": [
-            "3.18"
-          ],
-          "author": "KleptoManiac"
-        },
-        {
           "title": "Ice Spear Freezing Pulse Totem Hierophant",
           "url": "https://www.poe-vault.com/guides/ice-spear-freezing-pulse-totem-hierophant-build-guide",
           "video": "https://www.youtube.com/watch?v=KBmAc1mFslk",
@@ -1050,6 +1042,20 @@
             "480w": "https://i.ytimg.com/vi/7G-p8qacplk/hqdefault.jpg"
           },
           "author": "Zizaran"
+        },
+        {
+          "title": "Hierophant Siege Ballista - Destroy Endgame Bosses on a Low Budget!",
+          "url": "https://www.youtube.com/watch?v=lenOa5yiFO0",
+          "video": "https://www.youtube.com/watch?v=lenOa5yiFO0",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lenOa5yiFO0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lenOa5yiFO0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/lenOa5yiFO0/maxresdefault.jpg"
+          },
+          "author": "KleptoManiac"
         },
         {
           "title": "Explosive Arrow Ballista - My BEST 3.18 Leaguestarter, Full Build Guide",
@@ -1265,24 +1271,6 @@
       "type": "mines",
       "builds": [
         {
-          "title": "One of the TOP BOSS-KILLER Builds! Poison Seismic Traps Saboteur",
-          "url": "https://www.youtube.com/watch?v=XukKk_6RsbA",
-          "video": "https://www.youtube.com/watch?v=XukKk_6RsbA",
-          "versions": [
-            "3.18"
-          ],
-          "author": "Zizaran"
-        },
-        {
-          "title": "3.18 Petrified Blood LL Ice Trap Sab | My Sentinel League Starter",
-          "url": "https://www.youtube.com/watch?v=4ICDK0bZApk",
-          "video": "https://www.youtube.com/watch?v=4ICDK0bZApk",
-          "versions": [
-            "3.18"
-          ],
-          "author": "Tarke Cat"
-        },
-        {
           "title": "BattleTrapper 2021 by DissentXTV",
           "url": "https://www.pathofexile.com/forum/view-thread/2661748",
           "video": "https://www.youtube.com/watch?v=VEySBJ3m83o",
@@ -1297,6 +1285,20 @@
             "1280w": "https://i.ytimg.com/vi/VEySBJ3m83o/maxresdefault.jpg"
           },
           "author": ""
+        },
+        {
+          "title": "One of the TOP BOSS-KILLER Builds! Poison Seismic Traps Saboteur",
+          "url": "https://www.youtube.com/watch?v=XukKk_6RsbA",
+          "video": "https://www.youtube.com/watch?v=XukKk_6RsbA",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/XukKk_6RsbA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/XukKk_6RsbA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/XukKk_6RsbA/maxresdefault.jpg"
+          },
+          "author": "Zizaran"
         },
         {
           "title": "Best Bosser for 3.18 League Start - Poison Seismic Trap Sabotuer",
@@ -1323,6 +1325,20 @@
             "1280w": "https://i.ytimg.com/vi/1hq9dt-7UUs/maxresdefault.jpg"
           },
           "author": "Path of Matth"
+        },
+        {
+          "title": "3.18 Petrified Blood LL Ice Trap Sab | My Sentinel League Starter",
+          "url": "https://www.youtube.com/watch?v=4ICDK0bZApk",
+          "video": "https://www.youtube.com/watch?v=4ICDK0bZApk",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4ICDK0bZApk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4ICDK0bZApk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4ICDK0bZApk/maxresdefault.jpg"
+          },
+          "author": "Tarke Cat"
         },
         {
           "title": "It's a LIGHTNING Trap! Strong 3.18 All Content Starter Build",
@@ -1656,6 +1672,26 @@
           "skip": false
         },
         {
+          "title": "Dominating Blow Necromancer",
+          "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=yNm1bko7beI",
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/yNm1bko7beI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yNm1bko7beI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/yNm1bko7beI/maxresdefault.jpg"
+          },
+          "author": "GhazzyTV",
+          "skip": false
+        },
+        {
           "title": "Skeleton Mages 3.18 League Start, End Game and Min Max'd Build Guides - 3 Guides in 1",
           "url": "https://www.youtube.com/watch?v=ZvoZSOBx8f8",
           "video": "https://www.youtube.com/watch?v=ZvoZSOBx8f8",
@@ -1708,25 +1744,6 @@
             "480w": "https://i.ytimg.com/vi/qsEFWt9t4z0/hqdefault.jpg"
           },
           "author": ""
-        },
-        {
-          "title": "Dominating Blow Necromancer",
-          "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=yNm1bko7beI",
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/yNm1bko7beI/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/yNm1bko7beI/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/yNm1bko7beI/maxresdefault.jpg"
-          },
-          "author": "GhazzyTV",
-          "skip": false
         },
         {
           "title": "The BEST MINION BUILD for 3.17! - @GhazzyTV 's Skeleton Mages Necromancer",

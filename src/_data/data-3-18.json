@@ -223,18 +223,6 @@
           "author": "Jungroan"
         },
         {
-          "title": "Berserker Lightning Strike",
-          "url": "https://www.youtube.com/watch?v=agUTdUf5xQ8",
-          "video": "https://www.youtube.com/watch?v=agUTdUf5xQ8",
-          "versions": [
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/agUTdUf5xQ8/hqdefault.jpg"
-          },
-          "author": "KobeBlackMamba"
-        },
-        {
           "title": "SPIN2WIN is BACK! 3.17 Cyclone Slayer Build Guide",
           "url": "https://www.youtube.com/watch?v=aF8-A4PAMjs",
           "video": "https://www.youtube.com/watch?v=aF8-A4PAMjs",
@@ -1025,6 +1013,15 @@
       "type": "totems",
       "builds": [
         {
+          "title": "Hierophant Siege Ballista - Destroy Endgame Bosses on a Low Budget!",
+          "url": "https://www.youtube.com/watch?v=lenOa5yiFO0",
+          "video": "https://www.youtube.com/watch?v=lenOa5yiFO0",
+          "versions": [
+            "3.18"
+          ],
+          "author": "KleptoManiac"
+        },
+        {
           "title": "Ice Spear Freezing Pulse Totem Hierophant",
           "url": "https://www.poe-vault.com/guides/ice-spear-freezing-pulse-totem-hierophant-build-guide",
           "video": "https://www.youtube.com/watch?v=KBmAc1mFslk",
@@ -1267,6 +1264,24 @@
     {
       "type": "mines",
       "builds": [
+        {
+          "title": "One of the TOP BOSS-KILLER Builds! Poison Seismic Traps Saboteur",
+          "url": "https://www.youtube.com/watch?v=XukKk_6RsbA",
+          "video": "https://www.youtube.com/watch?v=XukKk_6RsbA",
+          "versions": [
+            "3.18"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "3.18 Petrified Blood LL Ice Trap Sab | My Sentinel League Starter",
+          "url": "https://www.youtube.com/watch?v=4ICDK0bZApk",
+          "video": "https://www.youtube.com/watch?v=4ICDK0bZApk",
+          "versions": [
+            "3.18"
+          ],
+          "author": "Tarke Cat"
+        },
         {
           "title": "BattleTrapper 2021 by DissentXTV",
           "url": "https://www.pathofexile.com/forum/view-thread/2661748",

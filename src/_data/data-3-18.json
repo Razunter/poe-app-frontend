@@ -14,6 +14,19 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Versatile Combatant Impale Shield Crush Duelist",
+          "url": "https://www.pathofexile.com/forum/view-thread/3148278",
+          "video": "https://www.youtube.com/watch?v=H14GrlSblog",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/H14GrlSblog/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/H14GrlSblog/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/H14GrlSblog/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Boneshatter Jugg - Cheap to start with room to grow",
           "url": "https://www.pathofexile.com/forum/view-thread/3187291",
           "video": "https://www.youtube.com/watch?v=rtHzFC83Uag",
@@ -84,6 +97,30 @@
           "author": ""
         },
         {
+          "title": "Shockwave Cyclone Build (League Starter) | Slayer",
+          "url": "https://www.pathofexile.com/forum/view-thread/3229063",
+          "video": "https://www.youtube.com/watch?v=uZsTDfwECLg",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/uZsTDfwECLg/hqdefault.jpg"
+          },
+          "author": "wishdropper"
+        },
+        {
+          "title": "Shockwave Cyclone Build (League Starter) | Champion",
+          "url": "https://www.pathofexile.com/forum/view-thread/3264757",
+          "video": "https://www.youtube.com/watch?v=rwaW9OuGN3o",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/rwaW9OuGN3o/hqdefault.jpg"
+          },
+          "author": "wishdropper"
+        },
+        {
           "title": "FAST AND TANKY - Spectral Helix/Lightning Strike Champion",
           "url": "https://www.youtube.com/watch?v=bzeTPQBo_6s",
           "video": "https://www.youtube.com/watch?v=bzeTPQBo_6s",
@@ -118,6 +155,20 @@
             "480w": "https://i.ytimg.com/vi/m48ZbHMGbEk/hqdefault.jpg"
           },
           "author": "Goratha"
+        },
+        {
+          "title": "Lightning Strike Berserker Detailed Leveling Guide",
+          "url": "https://www.youtube.com/watch?v=OIigxeseD0Y",
+          "video": "https://www.youtube.com/watch?v=OIigxeseD0Y",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OIigxeseD0Y/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OIigxeseD0Y/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OIigxeseD0Y/maxresdefault.jpg"
+          },
+          "author": "KobeBlackMamba"
         },
         {
           "title": "Devon's Blooming Flicker | Most content viable | Decent starter",
@@ -440,6 +491,19 @@
           "author": ""
         },
         {
+          "title": "Bladefall Blade Blast Chieftain All Arounder",
+          "url": "https://www.pathofexile.com/forum/view-thread/3229283",
+          "video": "https://www.youtube.com/watch?v=ZiEUPlkoShQ",
+          "versions": [
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ZiEUPlkoShQ/hqdefault.jpg"
+          },
+          "author": ""
+        },
+        {
           "title": "Cold DoT Occultist For Everyone",
           "url": "https://www.pathofexile.com/forum/view-thread/2661120",
           "video": "https://www.youtube.com/watch?v=Eaeuo3Dgi_Q",
@@ -463,58 +527,40 @@
           "pin": true
         },
         {
-          "title": "Storm Brand Guardian | Leaguestart Section | Freezing Brands | All Content",
-          "url": "https://www.pathofexile.com/forum/view-thread/2890856",
-          "video": "https://www.youtube.com/watch?v=n1ORNpgjDMA",
+          "title": "Wave of Conviction Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/3264134",
+          "video": "https://www.youtube.com/watch?v=UTSZ_WcPQwE",
           "versions": [
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
             "3.18"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/n1ORNpgjDMA/hqdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/UTSZ_WcPQwE/hqdefault.jpg"
           },
-          "author": "Velyna"
+          "author": "wishdropper"
         },
         {
-          "title": "Storm Brand Occultist | 5M+ DPS Leaguestart | All Content | Brands Freeze Everything",
-          "url": "https://www.pathofexile.com/forum/view-thread/3079363",
-          "video": "https://www.youtube.com/watch?v=pUxBVoUdcqs",
+          "title": "Self Cast Ice Nova Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/3264658",
+          "video": "https://www.youtube.com/watch?v=n06BiXh2jkU",
           "versions": [
-            "3.15",
-            "3.16",
-            "3.17",
             "3.18"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/pUxBVoUdcqs/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/pUxBVoUdcqs/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/pUxBVoUdcqs/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/n06BiXh2jkU/hqdefault.jpg"
           },
-          "author": "Velyna"
+          "author": "wishdropper"
         },
         {
-          "title": "Blade Blast Bladefall Poison Assassin",
-          "url": "https://www.poe-vault.com/guides/blade-blast-bladefall-poison-assassin-build-guide",
-          "video": "https://www.youtube.com/watch?v=QU_A2yQz-14",
+          "title": "Vortex & Cold Snap Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/3265161",
+          "video": "https://www.youtube.com/watch?v=1olYl-BM7UI",
           "versions": [
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
             "3.18"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/QU_A2yQz-14/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/QU_A2yQz-14/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/QU_A2yQz-14/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/1olYl-BM7UI/hqdefault.jpg"
           },
-          "author": "GhazzyTV",
-          "skip": false
+          "author": "wishdropper"
         },
         {
           "title": "Cold Snap Vortex Occultist",
@@ -548,6 +594,26 @@
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/RQiScIHBaIs/hqdefault.jpg"
+          },
+          "author": "GhazzyTV",
+          "skip": false
+        },
+        {
+          "title": "Blade Blast Bladefall Poison Assassin",
+          "url": "https://www.poe-vault.com/guides/blade-blast-bladefall-poison-assassin-build-guide",
+          "video": "https://www.youtube.com/watch?v=QU_A2yQz-14",
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QU_A2yQz-14/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QU_A2yQz-14/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QU_A2yQz-14/maxresdefault.jpg"
           },
           "author": "GhazzyTV",
           "skip": false
@@ -633,6 +699,18 @@
           "author": "Navandis Gaming"
         },
         {
+          "title": "The STRONGEST BUILD for Sentinel! Ignite Detonate Dead Necromancer",
+          "url": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
+          "video": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Y0J2OKBruWY/hqdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
           "title": "Bane Occultist, My #1 League Starter",
           "url": "https://www.youtube.com/watch?v=6wkarBO1h9E",
           "video": "https://www.youtube.com/watch?v=6wkarBO1h9E",
@@ -669,18 +747,6 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/qLAT_iurj2A/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/qLAT_iurj2A/sddefault.jpg"
-          },
-          "author": ""
-        },
-        {
-          "title": "Bladefall Blade Blast Chieftain All Arounder",
-          "url": "https://www.pathofexile.com/forum/view-thread/3229283",
-          "video": "https://www.youtube.com/watch?v=ZiEUPlkoShQ",
-          "versions": [
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ZiEUPlkoShQ/hqdefault.jpg"
           },
           "author": ""
         },
@@ -1014,6 +1080,65 @@
       "type": "totems",
       "builds": [
         {
+          "title": "Donkster5' The Toxic Tank! SSF/HC",
+          "url": "https://www.pathofexile.com/forum/view-thread/3078246",
+          "video": "https://www.youtube.com/watch?v=c5JsMnrSbF4",
+          "versions": [
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/c5JsMnrSbF4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/c5JsMnrSbF4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/c5JsMnrSbF4/maxresdefault.jpg"
+          },
+          "author": ""
+        },
+        {
+          "title": "Siege Ballista Hierophant",
+          "url": "https://www.pathofexile.com/forum/view-thread/3210813",
+          "video": "https://www.youtube.com/watch?v=_6TDOR87dHE",
+          "versions": [
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_6TDOR87dHE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_6TDOR87dHE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_6TDOR87dHE/maxresdefault.jpg"
+          },
+          "author": "Wallach"
+        },
+        {
+          "title": "Armageddon Brand Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/3229636",
+          "video": "https://www.youtube.com/watch?v=GGhAzo2DVXY",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GGhAzo2DVXY/hqdefault.jpg"
+          },
+          "author": "wishdropper"
+        },
+        {
+          "title": "Explosive Arrow Ballista",
+          "url": "https://docs.google.com/document/d/1GXY_npMDW1TkAXbCalfN6ePQzhLe0pxS8QTMysKd0Iw/preview?pru=AAABfs_eGZI*gkwv_lildqT6XN3UvTXWeQ#",
+          "video": "https://www.youtube.com/watch?v=xavBzP777OE",
+          "versions": [
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xavBzP777OE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xavBzP777OE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/xavBzP777OE/maxresdefault.jpg"
+          },
+          "author": "Crouching_Tuna"
+        },
+        {
           "title": "Ice Spear Freezing Pulse Totem Hierophant",
           "url": "https://www.poe-vault.com/guides/ice-spear-freezing-pulse-totem-hierophant-build-guide",
           "video": "https://www.youtube.com/watch?v=KBmAc1mFslk",
@@ -1070,22 +1195,6 @@
           "author": "Palsteron"
         },
         {
-          "title": "Donkster5' The Toxic Tank! SSF/HC",
-          "url": "https://www.pathofexile.com/forum/view-thread/3078246",
-          "video": "https://www.youtube.com/watch?v=c5JsMnrSbF4",
-          "versions": [
-            "3.15",
-            "3.16",
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/c5JsMnrSbF4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/c5JsMnrSbF4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/c5JsMnrSbF4/maxresdefault.jpg"
-          },
-          "author": ""
-        },
-        {
           "title": "The Warchief | [Facebreaker] Ancestral Warchief | Uber Boss Farmer | Beginner -> Expert",
           "url": "https://www.pathofexile.com/forum/view-thread/1694250",
           "video": "https://www.youtube.com/watch?v=-UQnZ7fHcow",
@@ -1108,20 +1217,6 @@
           "author": ""
         },
         {
-          "title": "Siege Ballista Hierophant",
-          "url": "https://www.pathofexile.com/forum/view-thread/3210813",
-          "video": "https://www.youtube.com/watch?v=_6TDOR87dHE",
-          "versions": [
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/_6TDOR87dHE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/_6TDOR87dHE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/_6TDOR87dHE/maxresdefault.jpg"
-          },
-          "author": "Wallach"
-        },
-        {
           "title": "Hierophant Freezing Pulse Totems",
           "url": "https://www.pathofexile.com/forum/view-thread/2685450",
           "video": "https://www.youtube.com/watch?v=JeOrmERNclA",
@@ -1141,18 +1236,6 @@
             "1280w": "https://i.ytimg.com/vi/JeOrmERNclA/maxresdefault.jpg"
           },
           "author": "Wallach"
-        },
-        {
-          "title": "Explosive Arrow Ballista",
-          "url": "https://docs.google.com/document/d/1GXY_npMDW1TkAXbCalfN6ePQzhLe0pxS8QTMysKd0Iw/preview?pru=AAABfs_eGZI*gkwv_lildqT6XN3UvTXWeQ#",
-          "video": "https://www.youtube.com/watch?v=R2kLVUbzy-c",
-          "versions": [
-            "3.17"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/R2kLVUbzy-c/hqdefault.jpg"
-          },
-          "author": "Crouching_Tuna"
         },
         {
           "title": "Best Totem Starters - Flameblast, Storm Burst, Ball Lightning - Cheap and Strong!",
@@ -2016,6 +2099,15 @@
             "3.18"
           ],
           "author": ""
+        },
+        {
+          "title": "Sentinel's Build Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/ujb93e/318_sentinels_build_index/",
+          "video": "",
+          "versions": [
+            "3.18"
+          ],
+          "author": "u/NzLawless"
         },
         {
           "title": "Path of Exile 3.16 Scourge build compilation, with notes",

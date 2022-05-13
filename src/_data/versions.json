@@ -33,7 +33,7 @@
     {
       "version": "3.18",
       "name": "Sentinel",
-      "wip": true,
+      "wip": false,
       "url": "https://www.pathofexile.com/sentinel",
       "note": "Builds are compatible with 3.17",
       "compatible": [

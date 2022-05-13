@@ -24,7 +24,8 @@
             "480w": "https://i.ytimg.com/vi/H14GrlSblog/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/H14GrlSblog/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/H14GrlSblog/maxresdefault.jpg"
-          }
+          },
+          "author": ""
         },
         {
           "title": "Boneshatter Jugg - Cheap to start with room to grow",
@@ -476,6 +477,22 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Enki's Arc Witch - a beginner-friendly Caster",
+          "url": "https://www.pathofexile.com/forum/view-thread/1147951/page/1",
+          "video": "https://www.youtube.com/watch?v=XdKWazrx0m0",
+          "versions": [
+            "3.17",
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/XdKWazrx0m0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/XdKWazrx0m0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/XdKWazrx0m0/maxresdefault.jpg"
+          },
+          "author": "",
+          "pin": true
+        },
+        {
           "title": "Ice Dancing Queen - Icestorm/Cyclone/CI - Viable For Everything",
           "url": "https://www.pathofexile.com/forum/view-thread/2628295",
           "video": "https://www.youtube.com/watch?v=C9SSg8rhPJ0",
@@ -619,6 +636,18 @@
           "skip": false
         },
         {
+          "title": "The STRONGEST BUILD for Sentinel! Ignite Detonate Dead Necromancer",
+          "url": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
+          "video": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Y0J2OKBruWY/hqdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
           "title": "Blade Vortex 3.18 League Starter Build Guide",
           "url": "https://www.youtube.com/watch?v=vqmhQtO-XoE",
           "video": "https://www.youtube.com/watch?v=vqmhQtO-XoE",
@@ -697,18 +726,6 @@
             "1280w": "https://i.ytimg.com/vi/QKyeH6febcE/maxresdefault.jpg"
           },
           "author": "Navandis Gaming"
-        },
-        {
-          "title": "The STRONGEST BUILD for Sentinel! Ignite Detonate Dead Necromancer",
-          "url": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
-          "video": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Y0J2OKBruWY/hqdefault.jpg"
-          },
-          "author": "Zizaran"
         },
         {
           "title": "Bane Occultist, My #1 League Starter",
@@ -885,16 +902,6 @@
           "author": "Taake"
         },
         {
-          "title": "Enki's Arc Witch - a beginner-friendly Caster",
-          "url": "https://www.pathofexile.com/forum/view-thread/1147951/page/1",
-          "video": "",
-          "versions": [
-            "3.17",
-            "3.18"
-          ],
-          "author": ""
-        },
-        {
           "title": "Build Guides for Newbies: Wintertide-Vortex Inquisitor",
           "url": "https://www.pathofexile.com/forum/view-thread/3225890",
           "video": "",
@@ -965,6 +972,18 @@
             "1280w": "https://i.ytimg.com/vi/9qsgkDwuoFM/maxresdefault.jpg"
           },
           "author": "Fuzzy Duckzy"
+        },
+        {
+          "title": "Ultimate Guide To Corrupting Fever - League Start Viable Speed Mapper",
+          "url": "https://docs.google.com/spreadsheets/d/1YDlORd42-AVP_Pcbrz496nrlHLiVuK5CQYeWf0nv_J8/edit#gid=1653693120",
+          "video": "https://www.youtube.com/watch?v=ezJRhx2Klzc",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ezJRhx2Klzc/hqdefault.jpg"
+          },
+          "author": "Grimro"
         },
         {
           "title": "This build is ALMOST IMMORTAL when mapping! - Poisonous Concoction Pathfinder",
@@ -1552,7 +1571,8 @@
           "video": "",
           "versions": [
             "3.16",
-            "3.17"
+            "3.17",
+            "3.18"
           ],
           "author": "Qosmoz"
         }

@@ -55,39 +55,12 @@
           "author": ""
         },
         {
-          "title": "Donkster5' The Bright Knight - VLS Champ. SSF/HC",
-          "url": "https://www.pathofexile.com/forum/view-thread/3145653",
-          "video": "https://www.youtube.com/watch?v=uumr8B8MIcI",
-          "versions": [
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.19"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/uumr8B8MIcI/hqdefault.jpg"
-          },
-          "author": ""
-        },
-        {
-          "title": "Poison Molten Strike Build Guide",
-          "url": "https://www.youtube.com/watch?v=W2a1eBhBvHA",
-          "video": "https://www.youtube.com/watch?v=W2a1eBhBvHA",
-          "versions": [
-            "3.19"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/W2a1eBhBvHA/hqdefault.jpg"
-          },
-          "author": "Goratha"
-        },
-        {
           "title": "Versatile Combatant Impale Shield Crush Duelist",
           "url": "https://www.pathofexile.com/forum/view-thread/3148278",
           "video": "https://www.youtube.com/watch?v=H14GrlSblog",
           "versions": [
-            "3.18"
+            "3.18",
+            "3.19"
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/H14GrlSblog/hqdefault.jpg",
@@ -104,13 +77,80 @@
             "3.15",
             "3.16",
             "3.17",
-            "3.18"
+            "3.18",
+            "3.19"
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/K3ObLKn6Fhg/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/K3ObLKn6Fhg/sddefault.jpg"
           },
           "author": ""
+        },
+        {
+          "title": "Donkster5' The Bright Knight - VLS Champ. SSF/HC",
+          "url": "https://www.pathofexile.com/forum/view-thread/3145653",
+          "video": "https://www.youtube.com/watch?v=uumr8B8MIcI",
+          "versions": [
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/uumr8B8MIcI/hqdefault.jpg"
+          },
+          "author": ""
+        },
+        {
+          "title": "Shockwave Cyclone Build (League Starter) | Slayer",
+          "url": "https://www.pathofexile.com/forum/view-thread/3229063",
+          "video": "https://www.youtube.com/watch?v=uZsTDfwECLg",
+          "versions": [
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/uZsTDfwECLg/hqdefault.jpg"
+          },
+          "author": "wishdropper"
+        },
+        {
+          "title": "Shockwave Cyclone Build (League Starter) | Champion",
+          "url": "https://www.pathofexile.com/forum/view-thread/3264757",
+          "video": "https://www.youtube.com/watch?v=rwaW9OuGN3o",
+          "versions": [
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/rwaW9OuGN3o/hqdefault.jpg"
+          },
+          "author": "wishdropper"
+        },
+        {
+          "title": "Spectral Helix Lightning Strike Champion",
+          "url": "https://poe.maxroll.gg/build-guides/spectral-helix-lightning-strike-champion",
+          "video": "https://www.youtube.com/watch?v=46kdyNVkRfI",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/46kdyNVkRfI/hqdefault.jpg"
+          },
+          "author": "Crouching_Tuna"
+        },
+        {
+          "title": "Poison Molten Strike Build Guide",
+          "url": "https://www.youtube.com/watch?v=W2a1eBhBvHA",
+          "video": "https://www.youtube.com/watch?v=W2a1eBhBvHA",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/W2a1eBhBvHA/hqdefault.jpg"
+          },
+          "author": "Goratha"
         },
         {
           "title": "Devon's Blooming Flicker | Most content viable | Decent starter",
@@ -149,42 +189,6 @@
           "skip": true
         },
         {
-          "title": "Shockwave Cyclone Build (League Starter) | Slayer",
-          "url": "https://www.pathofexile.com/forum/view-thread/3229063",
-          "video": "https://www.youtube.com/watch?v=uZsTDfwECLg",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/uZsTDfwECLg/hqdefault.jpg"
-          },
-          "author": "wishdropper"
-        },
-        {
-          "title": "Shockwave Cyclone Build (League Starter) | Champion",
-          "url": "https://www.pathofexile.com/forum/view-thread/3264757",
-          "video": "https://www.youtube.com/watch?v=rwaW9OuGN3o",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/rwaW9OuGN3o/hqdefault.jpg"
-          },
-          "author": "wishdropper"
-        },
-        {
-          "title": "FAST AND TANKY - Spectral Helix/Lightning Strike Champion",
-          "url": "https://www.youtube.com/watch?v=bzeTPQBo_6s",
-          "video": "https://www.youtube.com/watch?v=bzeTPQBo_6s",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/bzeTPQBo_6s/hqdefault.jpg"
-          },
-          "author": "Crouching_Tuna"
-        },
-        {
           "title": "The FASTEST Clearspeed Melee Leaguestarter! - Shield Crush Gladiator",
           "url": "https://www.youtube.com/watch?v=HBeWC8evfJ0",
           "video": "https://www.youtube.com/watch?v=HBeWC8evfJ0",
@@ -209,6 +213,18 @@
             "1280w": "https://i.ytimg.com/vi/wT50E05_w94/maxresdefault.jpg"
           },
           "author": "Zizaran"
+        },
+        {
+          "title": "FAST AND TANKY - Spectral Helix/Lightning Strike Champion",
+          "url": "https://www.youtube.com/watch?v=bzeTPQBo_6s",
+          "video": "https://www.youtube.com/watch?v=bzeTPQBo_6s",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/bzeTPQBo_6s/hqdefault.jpg"
+          },
+          "author": "Crouching_Tuna"
         },
         {
           "title": "Lightning Strike Raider - Full Detailed League Start Guide",
@@ -513,6 +529,23 @@
             "1280w": "https://i.ytimg.com/vi/QQfXxi4ouUc/maxresdefault.jpg"
           },
           "author": "Angry Roleplayer"
+        },
+        {
+          "title": "Jungroan's Poison Spectral Helix Assassin, /u/PaleoclassicalPants's version",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/wprx65/jungroans_poison_spectral_helix_assassin_tree/",
+          "video": "",
+          "versions": [
+            "3.19"
+          ]
+        },
+        {
+          "title": "Boneshatter Slayer",
+          "url": "https://poe.maxroll.gg/build-guides/boneshatter-slayer",
+          "video": "",
+          "versions": [
+            "3.19"
+          ],
+          "author": "Tripolar Bear"
         }
       ]
     },
@@ -542,6 +575,18 @@
           },
           "author": "ShakCentral",
           "pin": true
+        },
+        {
+          "title": "Bladefall / Blade Blast Occultist",
+          "url": "https://poe.maxroll.gg/build-guides/bladefall-bladeblast-occultist-league-starter-guide",
+          "video": "https://www.youtube.com/watch?v=PZMM2LDvs2g",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/PZMM2LDvs2g/hqdefault.jpg"
+          },
+          "author": "Tripolar Bear"
         },
         {
           "title": "Corrupting Fever CwC Exsanguinate Gladiator",
@@ -1100,6 +1145,18 @@
           "author": "The British Exile"
         },
         {
+          "title": "My League Start Build - Lightning Arrow Deadeye",
+          "url": "https://www.youtube.com/watch?v=S7-Z8uI6I5U",
+          "video": "https://www.youtube.com/watch?v=S7-Z8uI6I5U",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/S7-Z8uI6I5U/hqdefault.jpg"
+          },
+          "author": "BalorMage"
+        },
+        {
           "title": "EA Raider - My Favourite All Rounder League Start Build",
           "url": "https://www.youtube.com/watch?v=ApOJkvGdV_E",
           "video": "https://www.youtube.com/watch?v=ApOJkvGdV_E",
@@ -1110,6 +1167,20 @@
             "480w": "https://i.ytimg.com/vi/ApOJkvGdV_E/hqdefault.jpg"
           },
           "author": "BalorMage"
+        },
+        {
+          "title": "Explosive Arrow Ballista Elementalist - A Safe Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=2152CGDS6d4",
+          "video": "https://www.youtube.com/watch?v=2152CGDS6d4",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/2152CGDS6d4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/2152CGDS6d4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/2152CGDS6d4/maxresdefault.jpg"
+          },
+          "author": "Palsteron"
         },
         {
           "title": "Ultimate Guide To Corrupting Fever - League Start Viable Speed Mapper",
@@ -1231,6 +1302,24 @@
             "3.19"
           ],
           "author": ""
+        },
+        {
+          "title": "Corrupting Fever Gladiator",
+          "url": "https://poe.maxroll.gg/build-guides/corrupting-fever-gladiator-league-starter-guide",
+          "video": "",
+          "versions": [
+            "3.19"
+          ],
+          "author": "Grimro"
+        },
+        {
+          "title": "Poisonous Concoction Pathfinder",
+          "url": "https://poe.maxroll.gg/build-guides/poisonous-concoction-pathfinder-league-starter-guide",
+          "video": "",
+          "versions": [
+            "3.19"
+          ],
+          "author": "Palsteron"
         }
       ]
     },
@@ -1800,9 +1889,27 @@
           "author": ""
         },
         {
-          "title": "Animate Weapon Necromancer",
+          "title": "SRS Bomber | League Start to Endgame | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
+          "video": "https://www.youtube.com/watch?v=mu0P-eNITDA",
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/mu0P-eNITDA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
+          },
+          "author": ""
+        },
+        {
+          "title": "Poison Animate Weapon Necromancer",
           "url": "https://www.poe-vault.com/guides/animate-weapon-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=JlncZqCw5Zs",
+          "video": "https://www.youtube.com/watch?v=pef1Jk-CZn8",
           "versions": [
             "3.13",
             "3.14",
@@ -1813,7 +1920,50 @@
             "3.19"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/JlncZqCw5Zs/hqdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/pef1Jk-CZn8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pef1Jk-CZn8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pef1Jk-CZn8/maxresdefault.jpg"
+          },
+          "author": "GhazzyTV",
+          "skip": false
+        },
+        {
+          "title": "Summon Raging Spirits Necromancer",
+          "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=G2jYDqsstF4",
+          "versions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/G2jYDqsstF4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/G2jYDqsstF4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/G2jYDqsstF4/maxresdefault.jpg"
+          },
+          "author": "GhazzyTV",
+          "skip": false
+        },
+        {
+          "title": "Physical Golem Necromancer",
+          "url": "https://www.poe-vault.com/guides/physical-golem-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=s7jYuX0gUmM",
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/s7jYuX0gUmM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/s7jYuX0gUmM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/s7jYuX0gUmM/maxresdefault.jpg"
           },
           "author": "GhazzyTV",
           "skip": false
@@ -1861,23 +2011,6 @@
           "author": ""
         },
         {
-          "title": "SRS Bomber | League Start to Endgame | All Content",
-          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
-          "video": "https://www.youtube.com/watch?v=mu0P-eNITDA",
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/mu0P-eNITDA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
-          },
-          "author": ""
-        },
-        {
           "title": "Lich Queen Skeleton Summoner",
           "url": "https://www.poe-vault.com/guides/lich-queen-skeleton-summoner-build-guide",
           "video": "https://www.youtube.com/watch?v=NKQzqgbA-C8",
@@ -1893,26 +2026,6 @@
             "480w": "https://i.ytimg.com/vi/NKQzqgbA-C8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/NKQzqgbA-C8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/NKQzqgbA-C8/maxresdefault.jpg"
-          },
-          "author": "GhazzyTV",
-          "skip": false
-        },
-        {
-          "title": "Summon Raging Spirits Necromancer",
-          "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=G2jYDqsstF4",
-          "versions": [
-            "3.13",
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/G2jYDqsstF4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/G2jYDqsstF4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/G2jYDqsstF4/maxresdefault.jpg"
           },
           "author": "GhazzyTV",
           "skip": false
@@ -1950,25 +2063,6 @@
             "480w": "https://i.ytimg.com/vi/KCrq3hVSC-M/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/KCrq3hVSC-M/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/KCrq3hVSC-M/maxresdefault.jpg"
-          },
-          "author": "GhazzyTV",
-          "skip": false
-        },
-        {
-          "title": "Physical Golem Necromancer",
-          "url": "https://www.poe-vault.com/guides/physical-golem-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=s7jYuX0gUmM",
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/s7jYuX0gUmM/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/s7jYuX0gUmM/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/s7jYuX0gUmM/maxresdefault.jpg"
           },
           "author": "GhazzyTV",
           "skip": false
@@ -2145,6 +2239,20 @@
     {
       "type": "misc",
       "builds": [
+        {
+          "title": "Top 5 League Starters for Lake of Kalandra",
+          "url": "https://www.youtube.com/watch?v=EpJCWRISmUw",
+          "video": "https://www.youtube.com/watch?v=EpJCWRISmUw",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/EpJCWRISmUw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/EpJCWRISmUw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/EpJCWRISmUw/maxresdefault.jpg"
+          },
+          "author": "KobeBlackMamba"
+        },
         {
           "title": "Best Softcore Sentinel League Start Build Guides",
           "url": "https://www.youtube.com/watch?v=WpIB79f4HZ8",

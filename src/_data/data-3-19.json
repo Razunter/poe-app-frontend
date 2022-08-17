@@ -536,7 +536,8 @@
           "video": "",
           "versions": [
             "3.19"
-          ]
+          ],
+          "author": ""
         },
         {
           "title": "Boneshatter Slayer",
@@ -577,6 +578,32 @@
           "pin": true
         },
         {
+          "title": "Self Cast Ice Nova Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/3264658",
+          "video": "https://www.youtube.com/watch?v=n06BiXh2jkU",
+          "versions": [
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/n06BiXh2jkU/hqdefault.jpg"
+          },
+          "author": "wishdropper"
+        },
+        {
+          "title": "Vortex & Cold Snap Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/3265161",
+          "video": "https://www.youtube.com/watch?v=1olYl-BM7UI",
+          "versions": [
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/1olYl-BM7UI/hqdefault.jpg"
+          },
+          "author": "wishdropper"
+        },
+        {
           "title": "Bladefall / Blade Blast Occultist",
           "url": "https://poe.maxroll.gg/build-guides/bladefall-bladeblast-occultist-league-starter-guide",
           "video": "https://www.youtube.com/watch?v=PZMM2LDvs2g",
@@ -587,20 +614,6 @@
             "480w": "https://i.ytimg.com/vi/PZMM2LDvs2g/hqdefault.jpg"
           },
           "author": "Tripolar Bear"
-        },
-        {
-          "title": "Corrupting Fever CwC Exsanguinate Gladiator",
-          "url": "https://www.youtube.com/watch?v=oj649EaQ7Qg",
-          "video": "https://www.youtube.com/watch?v=oj649EaQ7Qg",
-          "versions": [
-            "3.19"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/oj649EaQ7Qg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/oj649EaQ7Qg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/oj649EaQ7Qg/maxresdefault.jpg"
-          },
-          "author": "AtrejuDakah"
         },
         {
           "title": "Blade Vortex POE 3.19 League Starter Build Guide",
@@ -650,6 +663,32 @@
             "480w": "https://i.ytimg.com/vi/S5RxAy_1ssw/hqdefault.jpg"
           },
           "author": "Incommodious"
+        },
+        {
+          "title": "I'm Leaguestarting THIS!! - Xai's Lightning Conduit Elementalist Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=GGnpVhm-8dU",
+          "video": "https://www.youtube.com/watch?v=GGnpVhm-8dU",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GGnpVhm-8dU/hqdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
+          "title": "Corrupting Fever CwC Exsanguinate Gladiator",
+          "url": "https://www.youtube.com/watch?v=oj649EaQ7Qg",
+          "video": "https://www.youtube.com/watch?v=oj649EaQ7Qg",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/oj649EaQ7Qg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/oj649EaQ7Qg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/oj649EaQ7Qg/maxresdefault.jpg"
+          },
+          "author": "AtrejuDakah"
         },
         {
           "title": "TANKY SPARK INQUISITOR LEAGUESTARTER! SSF VIABLE!",
@@ -731,30 +770,6 @@
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/UTSZ_WcPQwE/hqdefault.jpg"
-          },
-          "author": "wishdropper"
-        },
-        {
-          "title": "Self Cast Ice Nova Build",
-          "url": "https://www.pathofexile.com/forum/view-thread/3264658",
-          "video": "https://www.youtube.com/watch?v=n06BiXh2jkU",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/n06BiXh2jkU/hqdefault.jpg"
-          },
-          "author": "wishdropper"
-        },
-        {
-          "title": "Vortex & Cold Snap Build",
-          "url": "https://www.pathofexile.com/forum/view-thread/3265161",
-          "video": "https://www.youtube.com/watch?v=1olYl-BM7UI",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/1olYl-BM7UI/hqdefault.jpg"
           },
           "author": "wishdropper"
         },
@@ -1327,6 +1342,19 @@
       "type": "totems",
       "builds": [
         {
+          "title": "Armageddon Brand Build",
+          "url": "https://www.pathofexile.com/forum/view-thread/3229636",
+          "video": "https://www.youtube.com/watch?v=GGhAzo2DVXY",
+          "versions": [
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GGhAzo2DVXY/hqdefault.jpg"
+          },
+          "author": "wishdropper"
+        },
+        {
           "title": "Donkster5' The Toxic Tank! SSF/HC",
           "url": "https://www.pathofexile.com/forum/view-thread/3078246",
           "video": "https://www.youtube.com/watch?v=c5JsMnrSbF4",
@@ -1357,18 +1385,6 @@
             "1280w": "https://i.ytimg.com/vi/_6TDOR87dHE/maxresdefault.jpg"
           },
           "author": "Wallach"
-        },
-        {
-          "title": "Armageddon Brand Build",
-          "url": "https://www.pathofexile.com/forum/view-thread/3229636",
-          "video": "https://www.youtube.com/watch?v=GGhAzo2DVXY",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/GGhAzo2DVXY/hqdefault.jpg"
-          },
-          "author": "wishdropper"
         },
         {
           "title": "Explosive Arrow Ballista",
@@ -1846,7 +1862,7 @@
           "author": ""
         },
         {
-          "title": "Elemental ANIMATE WEAPON Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
+          "title": "Elemental Animate Weapon Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
           "url": "https://www.pathofexile.com/forum/view-thread/2780128",
           "video": "https://www.youtube.com/watch?v=tVK-DqG0i3E",
           "versions": [
@@ -1905,6 +1921,20 @@
             "640w": "https://i.ytimg.com/vi/mu0P-eNITDA/sddefault.jpg"
           },
           "author": ""
+        },
+        {
+          "title": "Absolution Necromancer - insane bosskiller for 3.19",
+          "url": "https://www.poe-vault.com/guides/absolution-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=-OMiuuJTT6E",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-OMiuuJTT6E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-OMiuuJTT6E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-OMiuuJTT6E/maxresdefault.jpg"
+          },
+          "author": "GhazzyTV"
         },
         {
           "title": "Poison Animate Weapon Necromancer",

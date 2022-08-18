@@ -131,12 +131,12 @@
         {
           "title": "Spectral Helix Lightning Strike Champion",
           "url": "https://poe.maxroll.gg/build-guides/spectral-helix-lightning-strike-champion",
-          "video": "https://www.youtube.com/watch?v=46kdyNVkRfI",
+          "video": "https://www.youtube.com/watch?v=T06OhIN2mqo",
           "versions": [
             "3.19"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/46kdyNVkRfI/hqdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/T06OhIN2mqo/hqdefault.jpg"
           },
           "author": "Crouching_Tuna"
         },
@@ -871,6 +871,56 @@
           "skip": false
         },
         {
+          "title": "The STRONGEST BUILD for Sentinel! Ignite Detonate Dead Necromancer",
+          "url": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
+          "video": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Y0J2OKBruWY/hqdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
+          "title": "Blade Vortex 3.18 League Starter Build Guide",
+          "url": "https://www.youtube.com/watch?v=vqmhQtO-XoE",
+          "video": "https://www.youtube.com/watch?v=vqmhQtO-XoE",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/vqmhQtO-XoE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/vqmhQtO-XoE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/vqmhQtO-XoE/maxresdefault.jpg"
+          },
+          "author": "Chronic_Painless"
+        },
+        {
+          "title": "The best build for 3.18 is Detonate Dead... again",
+          "url": "https://www.youtube.com/watch?v=e11Zi5AZYd8",
+          "video": "https://www.youtube.com/watch?v=e11Zi5AZYd8",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/e11Zi5AZYd8/hqdefault.jpg"
+          },
+          "author": "ds_lily"
+        },
+        {
+          "title": "Spark Inquisitor - Surprisingly Good Build!",
+          "url": "https://www.youtube.com/watch?v=4R13434xxGU",
+          "video": "https://www.youtube.com/watch?v=4R13434xxGU",
+          "versions": [
+            "3.18"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4R13434xxGU/hqdefault.jpg"
+          },
+          "author": "ds_lily"
+        },
+        {
           "title": "Inquis SPARK League Starter",
           "url": "https://www.youtube.com/watch?v=fWCkk7U0PiM",
           "video": "https://www.youtube.com/watch?v=fWCkk7U0PiM",
@@ -923,56 +973,6 @@
             "480w": "https://i.ytimg.com/vi/6wkarBO1h9E/hqdefault.jpg"
           },
           "author": "subtractem"
-        },
-        {
-          "title": "The STRONGEST BUILD for Sentinel! Ignite Detonate Dead Necromancer",
-          "url": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
-          "video": "https://www.youtube.com/watch?v=Y0J2OKBruWY",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Y0J2OKBruWY/hqdefault.jpg"
-          },
-          "author": "Zizaran"
-        },
-        {
-          "title": "Blade Vortex 3.18 League Starter Build Guide",
-          "url": "https://www.youtube.com/watch?v=vqmhQtO-XoE",
-          "video": "https://www.youtube.com/watch?v=vqmhQtO-XoE",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/vqmhQtO-XoE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/vqmhQtO-XoE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/vqmhQtO-XoE/maxresdefault.jpg"
-          },
-          "author": "Chronic_Painless"
-        },
-        {
-          "title": "The best build for 3.18 is Detonate Dead... again",
-          "url": "https://www.youtube.com/watch?v=e11Zi5AZYd8",
-          "video": "https://www.youtube.com/watch?v=e11Zi5AZYd8",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/e11Zi5AZYd8/hqdefault.jpg"
-          },
-          "author": "ds_lily"
-        },
-        {
-          "title": "Spark Inquisitor - Surprisingly Good Build!",
-          "url": "https://www.youtube.com/watch?v=4R13434xxGU",
-          "video": "https://www.youtube.com/watch?v=4R13434xxGU",
-          "versions": [
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/4R13434xxGU/hqdefault.jpg"
-          },
-          "author": "ds_lily"
         },
         {
           "title": "Havoc209's Low Life Occultist | Essence Drain",
@@ -1213,6 +1213,18 @@
           "author": "The British Exile"
         },
         {
+          "title": "Poisonous Concoction Pathfinder",
+          "url": "https://www.youtube.com/watch?v=30eBAGJvB84",
+          "video": "https://www.youtube.com/watch?v=30eBAGJvB84",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/30eBAGJvB84/hqdefault.jpg"
+          },
+          "author": "Asmodeus"
+        },
+        {
           "title": "My League Start Build - Lightning Arrow Deadeye",
           "url": "https://www.youtube.com/watch?v=S7-Z8uI6I5U",
           "video": "https://www.youtube.com/watch?v=S7-Z8uI6I5U",
@@ -1235,6 +1247,18 @@
             "480w": "https://i.ytimg.com/vi/ApOJkvGdV_E/hqdefault.jpg"
           },
           "author": "BalorMage"
+        },
+        {
+          "title": "CA Ballista Leveling Guide",
+          "url": "https://www.youtube.com/watch?v=GUzEwyXHBKo",
+          "video": "https://www.youtube.com/watch?v=GUzEwyXHBKo",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GUzEwyXHBKo/hqdefault.jpg"
+          },
+          "author": "Palsteron"
         },
         {
           "title": "Explosive Arrow Ballista Elementalist - A Safe Leaguestarter",
@@ -1613,6 +1637,36 @@
       "type": "rf",
       "builds": [
         {
+          "title": "Megachonk RF Jugg | Ultra Tanky + Endgame Viable + Very good starter",
+          "url": "https://www.pathofexile.com/forum/view-thread/3209778",
+          "video": "https://www.youtube.com/watch?v=L-zyf_3ChaY",
+          "versions": [
+            "3.17",
+            "3.18",
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/L-zyf_3ChaY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/L-zyf_3ChaY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/L-zyf_3ChaY/maxresdefault.jpg"
+          },
+          "author": ""
+        },
+        {
+          "title": "Nerf? What nerf? - Pohx Righteous Fire Inquisitor Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=6sVhs7VpVX8",
+          "video": "https://www.youtube.com/watch?v=6sVhs7VpVX8",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6sVhs7VpVX8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6sVhs7VpVX8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6sVhs7VpVX8/maxresdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
           "title": "Righteous Fire Inquisitor League Starter",
           "url": "https://www.youtube.com/watch?v=1_MZMwcPtIs",
           "video": "https://www.youtube.com/watch?v=1_MZMwcPtIs",
@@ -1625,21 +1679,6 @@
             "1280w": "https://i.ytimg.com/vi/1_MZMwcPtIs/maxresdefault.jpg"
           },
           "author": "Pohx"
-        },
-        {
-          "title": "Megachonk RF Jugg | Ultra Tanky + Endgame Viable + Very good starter",
-          "url": "https://www.pathofexile.com/forum/view-thread/3209778",
-          "video": "https://www.youtube.com/watch?v=L-zyf_3ChaY",
-          "versions": [
-            "3.17",
-            "3.18"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/L-zyf_3ChaY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/L-zyf_3ChaY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/L-zyf_3ChaY/maxresdefault.jpg"
-          },
-          "author": ""
         },
         {
           "title": "The SMOOTHEST Mapping Build! Pohx Righteous Fire Inquisitor Leaguestarter",
@@ -1694,7 +1733,8 @@
           "versions": [
             "3.16",
             "3.17",
-            "3.18"
+            "3.18",
+            "3.19"
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/VEySBJ3m83o/hqdefault.jpg",
@@ -1710,7 +1750,8 @@
           "versions": [
             "3.16",
             "3.17",
-            "3.18"
+            "3.18",
+            "3.19"
           ],
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/F-YapLXisRA/hqdefault.jpg",
@@ -1888,7 +1929,8 @@
           "versions": [
             "3.16",
             "3.17",
-            "3.18"
+            "3.18",
+            "3.19"
           ],
           "author": "Qosmoz"
         }
@@ -2039,9 +2081,9 @@
           "skip": false
         },
         {
-          "title": "Summon Raging Spirits Necromancer",
+          "title": "Tanky minion league starter - SRS Necromancer",
           "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=G2jYDqsstF4",
+          "video": "https://www.youtube.com/watch?v=UQlYuQl_5gY",
           "versions": [
             "3.13",
             "3.14",
@@ -2052,9 +2094,9 @@
             "3.19"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/G2jYDqsstF4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/G2jYDqsstF4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/G2jYDqsstF4/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/UQlYuQl_5gY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UQlYuQl_5gY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UQlYuQl_5gY/maxresdefault.jpg"
           },
           "author": "GhazzyTV",
           "skip": false

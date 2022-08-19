@@ -44,7 +44,7 @@
     {
       "version": "3.19",
       "name": "Lake of Kalandra",
-      "wip": true,
+      "wip": false,
       "url": "https://www.pathofexile.com/kalandra",
       "note": "",
       "skiprf": false

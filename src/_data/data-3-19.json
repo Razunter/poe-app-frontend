@@ -216,6 +216,20 @@
           "author": "Tripolar Bear"
         },
         {
+          "title": "One of THE BEST All Rounders I've Played! - 3.19 Steel Champ",
+          "url": "https://www.youtube.com/watch?v=Iay9dOD536U",
+          "video": "https://www.youtube.com/watch?v=Iay9dOD536U",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Iay9dOD536U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Iay9dOD536U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Iay9dOD536U/maxresdefault.jpg"
+          },
+          "author": "Big Ducks"
+        },
+        {
           "title": "Poison Molten Strike Build Guide",
           "url": "https://www.youtube.com/watch?v=W2a1eBhBvHA",
           "video": "https://www.youtube.com/watch?v=W2a1eBhBvHA",
@@ -240,6 +254,18 @@
             "1280w": "https://i.ytimg.com/vi/FvmDib20aVs/maxresdefault.jpg"
           },
           "author": "Incommodious"
+        },
+        {
+          "title": "Lightning Strike Berserker",
+          "url": "https://www.youtube.com/watch?v=eo9ZDPsPUgU",
+          "video": "https://www.youtube.com/watch?v=eo9ZDPsPUgU",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/eo9ZDPsPUgU/hqdefault.jpg"
+          },
+          "author": "KobeBlackMamba"
         },
         {
           "title": "Venom Gyre Deadeye League Start Guide",
@@ -597,6 +623,18 @@
           "author": "anime princess"
         },
         {
+          "title": "I'm Leaguestarting THIS!! - Xai's Lightning Conduit Elementalist Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=GGnpVhm-8dU",
+          "video": "https://www.youtube.com/watch?v=GGnpVhm-8dU",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GGnpVhm-8dU/hqdefault.jpg"
+          },
+          "author": "Zizaran"
+        },
+        {
           "title": "Corrupting Fever CwC Exsanguinate Gladiator",
           "url": "https://www.youtube.com/watch?v=oj649EaQ7Qg",
           "video": "https://www.youtube.com/watch?v=oj649EaQ7Qg",
@@ -682,18 +720,6 @@
             "480w": "https://i.ytimg.com/vi/X6Bfr6UZ3Ks/hqdefault.jpg"
           },
           "author": "the real James Humphrey"
-        },
-        {
-          "title": "I'm Leaguestarting THIS!! - Xai's Lightning Conduit Elementalist Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=GGnpVhm-8dU",
-          "video": "https://www.youtube.com/watch?v=GGnpVhm-8dU",
-          "versions": [
-            "3.19"
-          ],
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/GGnpVhm-8dU/hqdefault.jpg"
-          },
-          "author": "Zizaran"
         },
         {
           "title": "Tsus Exsanguinate Scion - all content done",
@@ -1807,7 +1833,7 @@
         {
           "title": "Dark Pact Necromancer",
           "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=JhpLVOXKop0",
+          "video": "https://www.youtube.com/watch?v=_i1puM8R8ig",
           "versions": [
             "3.13",
             "3.14",
@@ -1818,7 +1844,9 @@
             "3.19"
           ],
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/JhpLVOXKop0/hqdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/_i1puM8R8ig/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_i1puM8R8ig/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_i1puM8R8ig/maxresdefault.jpg"
           },
           "author": "GhazzyTV",
           "skip": false
@@ -1848,6 +1876,30 @@
             "480w": "https://i.ytimg.com/vi/2UkwoaBxN_s/hqdefault.jpg"
           },
           "author": "BalorMage"
+        },
+        {
+          "title": "Summon Raging Spirit Necromancer",
+          "url": "https://www.youtube.com/watch?v=KvHSIZtZilA",
+          "video": "https://www.youtube.com/watch?v=KvHSIZtZilA",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/KvHSIZtZilA/hqdefault.jpg"
+          },
+          "author": "TheGAM3Report1"
+        },
+        {
+          "title": "Summon Raging Spirits Minion Instability",
+          "url": "https://www.youtube.com/watch?v=I5a5lS5b5iw",
+          "video": "https://www.youtube.com/watch?v=I5a5lS5b5iw",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/I5a5lS5b5iw/hqdefault.jpg"
+          },
+          "author": "Von Vikton"
         },
         {
           "title": "Flame Golem Elementalist - With Trade Links",

@@ -2090,6 +2090,18 @@
       "type": "misc",
       "builds": [
         {
+          "title": "Top 5 Builds to Guarantee an AMAZING League Start!",
+          "url": "https://www.youtube.com/watch?v=DwJaGI89HDE",
+          "video": "https://www.youtube.com/watch?v=DwJaGI89HDE",
+          "versions": [
+            "3.19"
+          ],
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/DwJaGI89HDE/hqdefault.jpg"
+          },
+          "author": "Big Ducks"
+        },
+        {
           "title": "Top 5 League Starters for Lake of Kalandra",
           "url": "https://www.youtube.com/watch?v=EpJCWRISmUw",
           "video": "https://www.youtube.com/watch?v=EpJCWRISmUw",

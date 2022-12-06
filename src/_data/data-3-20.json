@@ -14,6 +14,15 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Vaal Venom Gyre Pathfinder",
+          "url": "https://www.youtube.com/watch?v=-x0QYojxo7U",
+          "video": "https://www.youtube.com/watch?v=-x0QYojxo7U",
+          "versions": [
+            "3.20"
+          ],
+          "author": "CaptainLance9"
+        },
+        {
           "title": "The Warbringer Slaming Serker",
           "url": "https://www.pathofexile.com/forum/view-thread/2618769",
           "video": "https://www.youtube.com/watch?v=WRwc39QPbq4",
@@ -507,6 +516,51 @@
     {
       "type": "caster",
       "builds": [
+        {
+          "title": "Hydrosphere Occultist Build Guide",
+          "url": "https://www.youtube.com/watch?v=xftz0ftz_Og",
+          "video": "https://www.youtube.com/watch?v=xftz0ftz_Og",
+          "versions": [
+            "3.20"
+          ],
+          "author": "aer0"
+        },
+        {
+          "title": "Blade Blast Occultist",
+          "url": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
+          "video": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
+          "versions": [
+            "3.20"
+          ],
+          "author": "ds_lily"
+        },
+        {
+          "title": "Wave of Conviction Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=AduKLOHYkBk",
+          "video": "https://www.youtube.com/watch?v=AduKLOHYkBk",
+          "versions": [
+            "3.20"
+          ],
+          "author": "the real James Humphrey"
+        },
+        {
+          "title": "Wave of Conviction Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
+          "video": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
+          "versions": [
+            "3.20"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "Cold DoT Trickster Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
+          "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
+          "versions": [
+            "3.20"
+          ],
+          "author": "Zizaran"
+        },
         {
           "title": "Cold DoT Occultist For Everyone",
           "url": "https://www.pathofexile.com/forum/view-thread/2661120",
@@ -1118,8 +1172,8 @@
         },
         {
           "title": "My League Starter Rain of Arrows Raider",
-          "url": "https://www.youtube.com/watch?v=bb0aD5q8EHA",
-          "video": "https://www.youtube.com/watch?v=bb0aD5q8EHA",
+          "url": "https://www.youtube.com/watch?v=TOkGAm_esss",
+          "video": "https://www.youtube.com/watch?v=TOkGAm_esss",
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/bb0aD5q8EHA/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/bb0aD5q8EHA/sddefault.jpg",
@@ -1938,9 +1992,9 @@
           "skip": true
         },
         {
-          "title": "Absolution Necromancer - insane bosskiller for 3.19",
+          "title": "Absolution Necromancer",
           "url": "https://www.poe-vault.com/guides/absolution-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=-OMiuuJTT6E",
+          "video": "https://www.youtube.com/watch?v=561EG6Vou1U",
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/-OMiuuJTT6E/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/-OMiuuJTT6E/sddefault.jpg",

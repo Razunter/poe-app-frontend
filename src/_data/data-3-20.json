@@ -14,15 +14,6 @@
       "type": "melee",
       "builds": [
         {
-          "title": "Vaal Venom Gyre Pathfinder",
-          "url": "https://www.youtube.com/watch?v=-x0QYojxo7U",
-          "video": "https://www.youtube.com/watch?v=-x0QYojxo7U",
-          "versions": [
-            "3.20"
-          ],
-          "author": "CaptainLance9"
-        },
-        {
           "title": "The Warbringer Slaming Serker",
           "url": "https://www.pathofexile.com/forum/view-thread/2618769",
           "video": "https://www.youtube.com/watch?v=WRwc39QPbq4",
@@ -81,6 +72,20 @@
             "3.20"
           ],
           "author": ""
+        },
+        {
+          "title": "Vaal Venom Gyre Pathfinder",
+          "url": "https://www.youtube.com/watch?v=-x0QYojxo7U",
+          "video": "https://www.youtube.com/watch?v=-x0QYojxo7U",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-x0QYojxo7U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-x0QYojxo7U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-x0QYojxo7U/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "CaptainLance9"
         },
         {
           "title": "Frost Blades Berserker",
@@ -517,51 +522,6 @@
       "type": "caster",
       "builds": [
         {
-          "title": "Hydrosphere Occultist Build Guide",
-          "url": "https://www.youtube.com/watch?v=xftz0ftz_Og",
-          "video": "https://www.youtube.com/watch?v=xftz0ftz_Og",
-          "versions": [
-            "3.20"
-          ],
-          "author": "aer0"
-        },
-        {
-          "title": "Blade Blast Occultist",
-          "url": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
-          "video": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
-          "versions": [
-            "3.20"
-          ],
-          "author": "ds_lily"
-        },
-        {
-          "title": "Wave of Conviction Ignite Elementalist",
-          "url": "https://www.youtube.com/watch?v=AduKLOHYkBk",
-          "video": "https://www.youtube.com/watch?v=AduKLOHYkBk",
-          "versions": [
-            "3.20"
-          ],
-          "author": "the real James Humphrey"
-        },
-        {
-          "title": "Wave of Conviction Ignite Elementalist",
-          "url": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
-          "video": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
-          "versions": [
-            "3.20"
-          ],
-          "author": "Zizaran"
-        },
-        {
-          "title": "Cold DoT Trickster Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
-          "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
-          "versions": [
-            "3.20"
-          ],
-          "author": "Zizaran"
-        },
-        {
           "title": "Cold DoT Occultist For Everyone",
           "url": "https://www.pathofexile.com/forum/view-thread/2661120",
           "video": "https://www.youtube.com/watch?v=Eaeuo3Dgi_Q",
@@ -602,6 +562,62 @@
           "author": "Velyna"
         },
         {
+          "title": "Blade Vortex 3.20 League Starter Build Guide",
+          "url": "https://www.youtube.com/watch?v=5d_RxWDlinE",
+          "video": "https://www.youtube.com/watch?v=5d_RxWDlinE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5d_RxWDlinE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5d_RxWDlinE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5d_RxWDlinE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Chronic_Painless"
+        },
+        {
+          "title": "Wave of Conviction Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
+          "video": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "Cold DoT Trickster Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
+          "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/UJfWk11D98k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UJfWk11D98k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UJfWk11D98k/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "Hydrosphere Occultist Build Guide",
+          "url": "https://www.youtube.com/watch?v=xftz0ftz_Og",
+          "video": "https://www.youtube.com/watch?v=xftz0ftz_Og",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xftz0ftz_Og/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xftz0ftz_Og/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/xftz0ftz_Og/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "aer0"
+        },
+        {
           "title": "Spark Leaguestart Guide - Softcore Trade",
           "url": "https://www.youtube.com/watch?v=3kRdgefVrCk",
           "video": "https://www.youtube.com/watch?v=3kRdgefVrCk",
@@ -616,18 +632,17 @@
           "author": "anime princess"
         },
         {
-          "title": "Blade Vortex 3.20 League Starter Build Guide",
-          "url": "https://www.youtube.com/watch?v=5d_RxWDlinE",
-          "video": "https://www.youtube.com/watch?v=5d_RxWDlinE",
+          "title": "Blade Blast Occultist",
+          "url": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
+          "video": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/5d_RxWDlinE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/5d_RxWDlinE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/5d_RxWDlinE/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/WO1xqxPPvhc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WO1xqxPPvhc/sddefault.jpg"
           },
           "versions": [
             "3.20"
           ],
-          "author": "Chronic_Painless"
+          "author": "ds_lily"
         },
         {
           "title": "Bane Occultist League Starter",
@@ -1175,9 +1190,9 @@
           "url": "https://www.youtube.com/watch?v=TOkGAm_esss",
           "video": "https://www.youtube.com/watch?v=TOkGAm_esss",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/bb0aD5q8EHA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/bb0aD5q8EHA/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/bb0aD5q8EHA/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/TOkGAm_esss/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/TOkGAm_esss/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/TOkGAm_esss/maxresdefault.jpg"
           },
           "versions": [
             "3.20"
@@ -1996,9 +2011,9 @@
           "url": "https://www.poe-vault.com/guides/absolution-necromancer-build-guide",
           "video": "https://www.youtube.com/watch?v=561EG6Vou1U",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/-OMiuuJTT6E/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/-OMiuuJTT6E/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/-OMiuuJTT6E/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/561EG6Vou1U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/561EG6Vou1U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/561EG6Vou1U/maxresdefault.jpg"
           },
           "versions": [
             "3.19"

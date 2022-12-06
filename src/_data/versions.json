@@ -55,7 +55,7 @@
       "wip": true,
       "url": "https://www.pathofexile.com/sanctum",
       "note": "",
-      "skiprf": true
+      "skiprf": false
     }
   ]
 }

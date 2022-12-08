@@ -524,6 +524,23 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Ice Dancing Queen - Icestorm/Cyclone/CI - Viable For Everything",
+          "url": "https://www.pathofexile.com/forum/view-thread/2628295",
+          "video": "https://www.youtube.com/watch?v=C9SSg8rhPJ0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/C9SSg8rhPJ0/hqdefault.jpg"
+          },
+          "versions": [
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20"
+          ],
+          "author": ""
+        },
+        {
           "title": "Cold DoT Occultist For Everyone",
           "url": "https://www.pathofexile.com/forum/view-thread/2661120",
           "video": "https://www.youtube.com/watch?v=Eaeuo3Dgi_Q",
@@ -562,20 +579,6 @@
             "3.20"
           ],
           "author": "Velyna"
-        },
-        {
-          "title": "Wave of Conviction Ignite Elementalist",
-          "url": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
-          "video": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.20"
-          ],
-          "author": "Zizaran"
         },
         {
           "title": "Cold DoT Trickster Leaguestarter",
@@ -674,6 +677,34 @@
           "author": "ds_lily"
         },
         {
+          "title": "Cold DoT Elementalist - Top Softcore All-Round Starter",
+          "url": "https://www.youtube.com/watch?v=1vFxwYDCpZE",
+          "video": "https://www.youtube.com/watch?v=1vFxwYDCpZE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/1vFxwYDCpZE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/1vFxwYDCpZE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/1vFxwYDCpZE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Jungroan"
+        },
+        {
+          "title": "Wave of Conviction Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
+          "video": "https://www.youtube.com/watch?v=nqxl8UsO5Cc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/nqxl8UsO5Cc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Zizaran"
+        },
+        {
           "title": "Bane Occultist League Starter",
           "url": "https://www.youtube.com/watch?v=OwkA7KYCDNo",
           "video": "https://www.youtube.com/watch?v=OwkA7KYCDNo",
@@ -695,22 +726,6 @@
             "480w": "https://i.ytimg.com/vi/exedNaTsF4Q/hqdefault.jpg"
           },
           "versions": [
-            "3.19"
-          ],
-          "author": ""
-        },
-        {
-          "title": "Ice Dancing Queen - Icestorm/Cyclone/CI - Viable For Everything",
-          "url": "https://www.pathofexile.com/forum/view-thread/2628295",
-          "video": "https://www.youtube.com/watch?v=C9SSg8rhPJ0",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/C9SSg8rhPJ0/hqdefault.jpg"
-          },
-          "versions": [
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18",
             "3.19"
           ],
           "author": ""
@@ -1817,6 +1832,20 @@
           "author": "Zizaran"
         },
         {
+          "title": "#1 League Starter Poison Seismic Trap Saboteur",
+          "url": "https://www.youtube.com/watch?v=PfDqogjBdxo",
+          "video": "https://www.youtube.com/watch?v=PfDqogjBdxo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/PfDqogjBdxo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/PfDqogjBdxo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/PfDqogjBdxo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Tripolar Bear"
+        },
+        {
           "title": "BattleTrapper 2022 by DissentXTV",
           "url": "https://www.pathofexile.com/forum/view-thread/2661748",
           "video": "https://www.youtube.com/watch?v=kjfWVs4thZU",
@@ -2104,6 +2133,34 @@
           ],
           "author": "GhazzyTV",
           "skip": false
+        },
+        {
+          "title": "Insane Ignite Damage Maw of Mischief Elementalist Bossing League Starter",
+          "url": "https://www.youtube.com/watch?v=kYprS6wMyns",
+          "video": "https://www.youtube.com/watch?v=kYprS6wMyns",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/kYprS6wMyns/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/kYprS6wMyns/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/kYprS6wMyns/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Tripolar Bear"
+        },
+        {
+          "title": "Summon Raging Spirits - Top Meta Minion Build",
+          "url": "https://www.youtube.com/watch?v=hPF8q8Cq22Y",
+          "video": "https://www.youtube.com/watch?v=hPF8q8Cq22Y",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/hPF8q8Cq22Y/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/hPF8q8Cq22Y/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/hPF8q8Cq22Y/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Von Vikton"
         },
         {
           "title": "Elemental Animate Weapon Summoner | League-Start & Leveling Guide | Low Budget, High DPS!",
@@ -2406,6 +2463,20 @@
       "type": "misc",
       "builds": [
         {
+          "title": "Which Builds Are Going To Be The Best League Starters For 3.20 The Forbidden Sanctum?",
+          "url": "https://www.youtube.com/watch?v=D7_mTGmc2fA",
+          "video": "https://www.youtube.com/watch?v=D7_mTGmc2fA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/D7_mTGmc2fA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/D7_mTGmc2fA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/D7_mTGmc2fA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Asmodeus"
+        },
+        {
           "title": "The top 10 builds in PoE 3.20 Forbidden Sanctum expansion",
           "url": "https://www.youtube.com/watch?v=wDEnybdDhZE",
           "video": "https://www.youtube.com/watch?v=wDEnybdDhZE",
@@ -2418,6 +2489,34 @@
             "3.20"
           ],
           "author": "Crouching_Tuna"
+        },
+        {
+          "title": "Top 3 League Starters for Bossing in Forbidden Sanctum - EASY UBERS",
+          "url": "https://www.youtube.com/watch?v=L7jwXGH0sCs",
+          "video": "https://www.youtube.com/watch?v=L7jwXGH0sCs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/L7jwXGH0sCs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/L7jwXGH0sCs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/L7jwXGH0sCs/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "KobeBlackMamba"
+        },
+        {
+          "title": "TOP 10 League Starter Builds for Forbidden Sanctum",
+          "url": "https://www.youtube.com/watch?v=O8LP5Cr80Jw",
+          "video": "https://www.youtube.com/watch?v=O8LP5Cr80Jw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/O8LP5Cr80Jw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/O8LP5Cr80Jw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/O8LP5Cr80Jw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Palsteron"
         },
         {
           "title": "Top 5 Builds to Guarantee an AMAZING League Start!",

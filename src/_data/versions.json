@@ -52,7 +52,7 @@
     {
       "version": "3.20",
       "name": "The Forbidden Sanctum",
-      "wip": true,
+      "wip": false,
       "url": "https://www.pathofexile.com/sanctum",
       "note": "",
       "skiprf": false

@@ -148,6 +148,34 @@
           "author": "Eliteish"
         },
         {
+          "title": "Volcanic Fissure Champion w/@Goratha",
+          "url": "https://www.youtube.com/watch?v=DSBdlq_3cg4",
+          "video": "https://www.youtube.com/watch?v=DSBdlq_3cg4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/DSBdlq_3cg4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/DSBdlq_3cg4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/DSBdlq_3cg4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Zizaran"
+        },
+        {
+          "title": "Vaal Venom Gyre Pathfinder",
+          "url": "https://www.youtube.com/watch?v=-x0QYojxo7U",
+          "video": "https://www.youtube.com/watch?v=-x0QYojxo7U",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-x0QYojxo7U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-x0QYojxo7U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-x0QYojxo7U/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "CaptainLance9"
+        },
+        {
           "title": "Boneshatter Juggernaut",
           "url": "https://www.youtube.com/watch?v=NcvA47mISyI",
           "video": "https://www.youtube.com/watch?v=NcvA47mISyI",
@@ -188,34 +216,6 @@
             "3.20"
           ],
           "author": "Palsteron"
-        },
-        {
-          "title": "Volcanic Fissure Champion w/@Goratha",
-          "url": "https://www.youtube.com/watch?v=DSBdlq_3cg4",
-          "video": "https://www.youtube.com/watch?v=DSBdlq_3cg4",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/DSBdlq_3cg4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/DSBdlq_3cg4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/DSBdlq_3cg4/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.20"
-          ],
-          "author": "Zizaran"
-        },
-        {
-          "title": "Vaal Venom Gyre Pathfinder",
-          "url": "https://www.youtube.com/watch?v=-x0QYojxo7U",
-          "video": "https://www.youtube.com/watch?v=-x0QYojxo7U",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/-x0QYojxo7U/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/-x0QYojxo7U/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/-x0QYojxo7U/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.20"
-          ],
-          "author": "CaptainLance9"
         },
         {
           "title": "Frost Blades Berserker",
@@ -2131,6 +2131,20 @@
             "3.20"
           ],
           "author": "Asmodeus"
+        },
+        {
+          "title": "BEST and SAFEST League Starters for 3.20 The Forbidden Sanctum",
+          "url": "https://www.youtube.com/watch?v=q2ujvuKujro",
+          "video": "https://www.youtube.com/watch?v=q2ujvuKujro",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/q2ujvuKujro/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/q2ujvuKujro/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/q2ujvuKujro/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Big Ducks"
         },
         {
           "title": "The top 10 builds in PoE 3.20 Forbidden Sanctum expansion",

@@ -4,8 +4,8 @@ pagination:
     data: versions.versions
     size: 1
     alias: version
-renderData:
-  title: Path of Exile {{ version.version }} {{ version.name }} starter builds collection (Razunter's picks)
+eleventyComputed:
+  title: Path of Exile {{ version.version }} «{{ version.name }}» starter builds collection (Razunter's picks)
   description: Quick preview of starter builds for Path of Exile v{{ version.version }} {{ version.name }}, collected by Razunter
 permalink: "{% if version.version == versions.currentVersion %}index{% else %}old-{{ version.version | slug }}{% endif %}.html"
 # @formatter:on
@@ -40,7 +40,7 @@ permalink: "{% if version.version == versions.currentVersion %}index{% else %}ol
     {% if version.url %}
       <a href="{{ version.url }}" target="_blank" rel="noopener noreferrer">{{ thisVersion }} {{ version.name }}</a>
     {% else %}
-      {{ thisVersion }} {{ version.name }}
+      {{ thisVersion }} «{{ version.name }}»
     {% endif %}
     starter builds collection (Razunter's picks)
   </h1>

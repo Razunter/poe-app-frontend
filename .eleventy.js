@@ -3,6 +3,8 @@ const htmlmin = require("html-minifier")
 const purgeCssPlugin = require("eleventy-plugin-purgecss")
 const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster')
 const _ = require('lodash')
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 const INPUT_DIR = "src"
 const OUTPUT_DIR = "_site"
@@ -78,14 +80,15 @@ module.exports = function (eleventyConfig) {
   // eleventyConfig.addWatchTarget("./src/js/*.js")
   // eleventyConfig.addWatchTarget("./src/assets/css/*.css")
 
-  eleventyConfig.setBrowserSyncConfig({
+  eleventyConfig.setServerOptions({
     files: ['_site/**/*'],
-    open: true,
   })
 
   // STATIC FILES
   eleventyConfig.addPassthroughCopy({ './src/static/': '/' })
   // eleventyConfig.addPassthroughCopy({'./src/js/': '/assets/'});
+
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   if (process.env.NODE_ENV === "production") {
     eleventyConfig.addPlugin(purgeCssPlugin, {
@@ -110,6 +113,8 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPlugin(cacheBuster({}))
   }
+
+  eleventyConfig.addPlugin(UpgradeHelper);
 
   return {
     templateFormats: ["njk"],

@@ -2,7 +2,6 @@ const svgSprite = require('./utils/svgsprite.js')
 const htmlmin = require("html-minifier")
 const purgeCssPlugin = require("eleventy-plugin-purgecss")
 const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster')
-const _ = require('lodash')
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 const INPUT_DIR = "src"
@@ -11,6 +10,9 @@ const OUTPUT_DIR = "_site"
 // This will change both Eleventy's pathPrefix, and the one output by the
 // vite-related shortcodes below. Double-check if you change this, as this is only a demo :)
 const PATH_PREFIX = "/"
+
+const intersection = (arr, ...args) =>
+  arr.filter(item => args.every(arr => arr.includes(item)))
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("selectAttrEq", function (input, attr, value) {
@@ -67,7 +69,8 @@ module.exports = function (eleventyConfig) {
           return version.version === thisPageVersion
         })
         if (versionData?.compatible && Array.isArray(versionData.compatible)) {
-          return _.intersection(versionData.compatible, buildVersions).length > 0
+          const inter = intersection(versionData.compatible, buildVersions)
+          return inter.length > 0
         }
       }
     }

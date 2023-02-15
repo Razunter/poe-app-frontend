@@ -4,7 +4,6 @@ const purgeCssPlugin = require("eleventy-plugin-purgecss")
 const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster')
 const _ = require('lodash')
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 const INPUT_DIR = "src"
 const OUTPUT_DIR = "_site"
@@ -113,8 +112,6 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPlugin(cacheBuster({}))
   }
-
-  eleventyConfig.addPlugin(UpgradeHelper);
 
   return {
     templateFormats: ["njk"],

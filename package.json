@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
+  "license": "MIT",
   "source": [
     "src/js/index.js",
     "src/css/index.scss"

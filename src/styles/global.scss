@@ -203,6 +203,9 @@ a {
   box-shadow: 0 0 3px rgba(lighten($background-color, 10%), 0.7), 0 0 14px rgba(lighten($background-color, 10%), 0.3);
   transition: background-color 0.2s ease-in-out;
 
+  // Experimental
+  contain: content;
+
   &:hover,
   &:focus-within {
     background: lighten($background-color, 6%);

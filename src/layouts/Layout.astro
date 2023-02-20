@@ -1,9 +1,19 @@
+---
+  import metadata from 'src/data/metadata.json'
+  import 'src/styles/global.scss'
+
+  let {title, description} = Astro.props
+  title ??= metadata.title
+  description ??= metadata.description
+  const currentUrl = Astro.url
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title or (renderData and renderData.title) or metadata.title }}</title>
+  <title>{title}</title>
   <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png?v=M46dyAmWwq">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=M46dyAmWwq">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=M46dyAmWwq">
@@ -12,19 +22,18 @@
   <link rel="shortcut icon" href="/favicon.ico?v=M46dyAmWwq">
   <meta name="msapplication-TileColor" content="#1ba2a8">
   <meta name="theme-color" content="#1ba2a8">
-  <meta name="author" content="{{ metadata.author.name }}">
+  <meta name="author" content={metadata.author.name}>
   <meta name="robots" content="index,follow">
-  <meta name="description" content="{{ description or (renderData and renderData.description) }}" />
-  <meta name="generator" content="{{ eleventy.generator }}" />
-  <meta property="og:site_name" content="{{ metadata.title }}" />
-  <meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
-  <meta name="twitter:creator" content="{{ metadata.author.twitter }}">
-  <link rel="stylesheet" href="{{ "/assets/css/index.css" | url }}">
-  <script async src="{{ "/assets/js/index.js" | url }}"></script>
-  {% if build.env == 'production' %}
+  <meta name="description" content={description} />
+  <meta property="og:site_name" content={ metadata.title } />
+  <meta property="og:url" content={ currentUrl } />
+  <meta name="twitter:creator" content={ metadata.author.twitter }>
+    <script async src="/src/js/index.ts"></script>
+  {import.meta.env.MODE === 'production' &&
+    <>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-19H84XW4N1"></script>
-    <script>
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-19H84XW4N1"></script>
+    <script is:inline>
         window.dataLayer = window.dataLayer || [];
 
         function gtag() {
@@ -35,24 +44,21 @@
 
         gtag('config', 'G-19H84XW4N1');
     </script>
-  {% endif %}
+    </>
+  }
 </head>
 <body>
 <div class="main">
-  {% block nav %}
-  {% endblock nav %}
+  <slot name="nav"></slot>
   <div class="main-content">
     <header class="main-header">
-      {% block header %}
-      {% endblock %}
+      <slot name="header" />
     </header>
     <main>
-      {% block content %}
-      {% endblock %}
+      <slot />
     </main>
     <footer>
-      {% block footer %}
-      {% endblock %}
+      <slot name="footer" />
     </footer>
   </div>
 </div>

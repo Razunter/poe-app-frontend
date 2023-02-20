@@ -15,13 +15,9 @@
   },
   "scripts": {
     "clean": "rimraf _site",
-    "dev": "cross-env NODE_ENV=development npm-run-all clean --parallel develop:*",
-    "develop:eleventy": "eleventy --quiet --serve --watch",
-    "develop:parcel": "parcel watch --no-cache",
-    "build": "cross-env NODE_ENV=production npm-run-all clean prod:parcel prod:eleventy",
-    "prod:eleventy": "eleventy --quiet",
-    "prod:parcel": "parcel build --no-source-maps --log-level verbose",
-    "serve": "eleventy --quiet --serve"
+    "dev": "cross-env NODE_ENV=development astro dev",
+    "build": "cross-env NODE_ENV=production astro build",
+    "preview": "astro preview"
   },
   "browserslist": [
     "> 0.2%",
@@ -32,44 +28,43 @@
     "not dead"
   ],
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0",
-    "@mightyplow/eleventy-plugin-cache-buster": "^1.1.3",
-    "@parcel/transformer-sass": "^2.7.0",
     "@ronilaukkarinen/stylelint-a11y": "^1.2.7",
+    "@types/node": "^18.14.0",
+    "@types/svg-sprite": "^0.0.34",
+    "@types/vinyl": "^2.0.7",
+    "@types/yt-player": "^3.5.1",
+    "@typescript-eslint/parser": "^5.52.0",
+    "astro-compress": "^1.1.33",
+    "astro-robots-txt": "^0.4.0",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.1.14",
-    "eleventy-plugin-purgecss": "^0.3.0",
     "eslint": "^8.34.0",
-    "events": "^3.3.0",
-    "glob": "^8.1.0",
-    "html-minifier": "^4.0.0",
+    "eslint-config-canonical": "^40.0.7",
+    "eslint-plugin-astro": "^0.23.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "fast-glob": "^3.2.12",
     "lightningcss": "^1.19.0",
     "npm-run-all": "^4.1.5",
-    "parcel": "2.7.*",
     "postcss": "^8.4.21",
-    "postcss-cli": "^10.1.0",
+    "postcss-html": "^1.5.0",
     "postcss-preset-env": "^8.0.1",
     "postcss-sort-media-queries": "^4.3.0",
-    "rimraf": "^4.1.2",
-    "sass": "^1.58.1",
+    "sass": "^1.58.3",
     "stylelint": "^15.1.0",
+    "stylelint-config-html": "^1.1.0",
     "stylelint-config-standard": "^30.0.1",
     "stylelint-config-standard-scss": "^7.0.1",
     "stylelint-scss": "^4.4.0",
     "svg-sprite": "^2.0.2",
     "svgo": "^3.0.2",
-    "vinyl": "^3.0.0"
+    "typescript": "^4.9.5",
+    "vite-plugin-lightningcss": "^0.0.5"
   },
   "dependencies": {
+    "astro": "^2.0.14",
     "modern-normalize": "^1.1.0",
     "rfs": "^9.0.6",
     "simple-scrollspy": "^2.3.4",
     "vanilla-lazyload": "^17.8.3",
     "yt-player": "^3.6.1"
-  },
-  "overrides": {
-    "browser-sync": {
-      "qs": ">=6.2.4"
-    }
   }
 }

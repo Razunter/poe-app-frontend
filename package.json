@@ -27,6 +27,9 @@
     "not dead"
   ],
   "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "@rollup/plugin-babel": "^6.0.3",
     "@ronilaukkarinen/stylelint-a11y": "^1.2.7",
     "@trivago/prettier-plugin-sort-imports": "^4.0.0",
     "@types/node": "^18.14.0",
@@ -65,6 +68,7 @@
   "dependencies": {
     "astro": "^2.0.14",
     "astro-purgecss": "^2.0.0",
+    "core-js": "^3.28.0",
     "modern-normalize": "^1.1.0",
     "rfs": "^9.0.6",
     "simple-scrollspy": "^2.3.4",

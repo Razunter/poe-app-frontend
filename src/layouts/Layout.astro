@@ -47,6 +47,7 @@ const currentUrl = Astro.url
     <meta property="og:site_name" content={metadata.title} />
     <meta property="og:url" content={currentUrl} />
     <meta name="twitter:creator" content={metadata.author.twitter} />
+    <meta name="generator" content={Astro.generator} />
     {import.meta.env.MODE === 'production' && <GoogleAnalytics />}
   </head>
   <body>

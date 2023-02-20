@@ -1,5 +1,6 @@
-import {defineConfig} from 'astro/config'
+import { defineConfig } from 'astro/config'
 import compress from 'astro-compress'
+import purgecss from 'astro-purgecss'
 import robotsTxt from 'astro-robots-txt'
 import path from 'path'
 import lightningcss from 'vite-plugin-lightningcss'
@@ -9,6 +10,9 @@ export default defineConfig({
   integrations: [
     robotsTxt({
       sitemap: false,
+    }),
+    purgecss({
+      safelist: ['iframe'],
     }),
     compress(),
   ],

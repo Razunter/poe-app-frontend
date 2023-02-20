@@ -1,4 +1,5 @@
 ---
+import BuildList from '@src/components/BuildList.astro'
 import type {GetStaticPathsItem} from 'astro'
 import sprite from 'src/components/svgsprite'
 import versionsData from 'src/data/versions.json'
@@ -6,20 +7,25 @@ import Layout from 'src/layouts/Layout.astro'
 
 // eslint-disable-next-line func-style
 export async function getStaticPaths() {
-  return structuredClone(versionsData.versions).reverse().map((mapVersion) => {
-    return {
-      params: {
-        version: mapVersion.version === versionsData.currentVersion ? undefined : 'old-' + mapVersion.version + '.html',
-      },
-      props: {
-        currentVersionData: mapVersion
-      }
-    } as GetStaticPathsItem
-  })
+  return structuredClone(versionsData.versions)
+    .reverse()
+    .map((mapVersion) => {
+      return {
+        params: {
+          version:
+            mapVersion.version === versionsData.currentVersion
+              ? undefined
+              : 'old-' + mapVersion.version + '.html',
+        },
+        props: {
+          currentVersionData: mapVersion,
+        },
+      } as GetStaticPathsItem
+    })
 }
 
 const {currentVersionData: version} = Astro.props as {
-  currentVersionData: (typeof versionsData)['versions'][number]
+  currentVersionData: VersionType
 }
 
 const thisVersionNumber = version.version
@@ -31,6 +37,11 @@ const data = (await import(
 )) as VersionDataType
 const currentTypes = Object.entries(data.types)
 const svgSprite = await sprite()
+
+let pageHeaderVersion = `${thisVersionNumber} «${version.name}»`
+if (version.url) {
+  pageHeaderVersion = `<a href="${version.url}" target="_blank" rel="noopener noreferrer">${pageHeaderVersion}</a>`
+}
 ---
 
 <Layout title={title} description={description}>
@@ -60,21 +71,7 @@ const svgSprite = await sprite()
   </Fragment>
 
   <Fragment slot="header">
-    <h1>
-      Path of Exile
-      {
-        version.url ? (
-          <a href={version.url} target="_blank" rel="noopener noreferrer">
-            {thisVersionNumber} {version.name}
-          </a>
-        ) : (
-          <>
-            {thisVersionNumber} «{version.name}»
-          </>
-        )
-      }
-      <>starter builds collection (Razunter's picks)</>
-    </h1>
+  <h1>Path of Exile <Fragment set:html={pageHeaderVersion} /> starter builds collection (Razunter's picks)</h1>
     {
       version.wip ||
         (version.note && (
@@ -106,40 +103,13 @@ const svgSprite = await sprite()
                 {typename}
               </h2>
               <div class="builds-collection">
-                {/* {% set buildList = data.buildList | selectAttrEq("type", typekey) | first %}*/}
-                {/* {% set noVideoBuilds = [] %}*/}
-                {/* {% for build in buildList.builds %}*/}
-                {/* {% if isBuildCurrent(build.versions, thisVersionNumber, versions.versions) and not build.skip %}*/}
-                {/* {% if build.videothumb['480w'] %}*/}
-                {/* {{macros.video(build.title, build.url, build.video, build.videothumb, build.author)}}*/}
-                {/* {% else %}*/}
-                {/* {% set noVideoBuilds = (noVideoBuilds.push(build), noVideoBuilds) %}*/}
-                {/* {% endif %}*/}
-                {/* {% endif %}*/}
-                {/* {% endfor %}*/}
-                {/* {% if noVideoBuilds | length > 0 %}*/}
-                {/* <div class="build build--novideo">*/}
-                {/*    <div class="build-title">*/}
-                {/*        <h3>*/}
-                {/*            No video*/}
-                {/*        </h3>*/}
-                {/*    </div>*/}
-                {/*    <ul>*/}
-                {/*        {% for build in noVideoBuilds %}*/}
-                {/*        <li>*/}
-                {/*            <a class="build-link"*/}
-                {/*               href="{{ build.url }}"*/}
-                {/*               target="_blank" rel="noopener">*/}
-                {/*                {% if build.author %}<span class="build-author">{{build.author}}</span> - {% endif %}{{*/}
-                {/*                build*/}
-                {/*                .title*/}
-                {/*            }}*/}
-                {/*            </a>*/}
-                {/*        </li>*/}
-                {/*        {% endfor %}*/}
-                {/*    </ul>*/}
-                {/* </div>*/}
-                {/* {% endif %}*/}
+                <BuildList
+                  collection={data.buildList.find((item) => {
+                    return item.type === typekey
+                  })}
+                  currentVersionNumber={thisVersionNumber}
+                  allVersionsData={versionsData.versions}
+                />
               </div>
             </section>
           )}

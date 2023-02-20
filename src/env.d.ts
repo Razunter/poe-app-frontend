@@ -21,4 +21,15 @@ type BuildDataType = {
   };
   versions: string[];
   author?: string;
+  skip?: boolean;
+}
+
+type VersionType = {
+  name: string;
+  version: string;
+  wip?: boolean;
+  url?: string;
+  note?: string;
+  skiprf?: boolean;
+  compatible?: string[];
 }

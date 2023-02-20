@@ -16,8 +16,7 @@ const pauseVideos = () => {
 const process = () => {
   let YTcounter = 0
 
-  // eslint-disable-next-line no-new
-  new LazyLoad({})
+  void new LazyLoad({})
 
   // NAV
   scrollSpy('.mainnav ul', {
@@ -35,7 +34,7 @@ const process = () => {
       pauseVideos()
       const url = target.getAttribute('data-video')
       if (url && target.classList.contains('YouTubeThumb')) {
-        target.outerHTML = `<div id="ytvid-${YTcounter}"></div>`
+        target.outerHTML = `<div id="ytvid-${YTcounter}" class="videoWrap"></div>`
         const player = new YTPlayer('#ytvid-' + YTcounter, {
           width: 640,
           height: 360,
@@ -44,7 +43,7 @@ const process = () => {
         player.load(url, true)
         YTvids.push(player)
         YTcounter++
-      } else if (target.classList.contains('twitchclipThumb') || target.classList.contains('twitchThumb')) {
+      } else if (target.classList.contains('TwitchClipThumb') || target.classList.contains('TwitchThumb')) {
         target.setAttribute('hidden', '')
         target.outerHTML = `<iframe src="https://player.twitch.tv/?video=v${url}&parent=${domain}" allowfullscreen="true" width="640" height="360" class="videoframe videoframe--twitch" frameborder="0"></iframe>`
       }

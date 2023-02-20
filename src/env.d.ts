@@ -15,6 +15,7 @@ type BuildDataType = {
   url: string;
   video?: string;
   videothumb?: {
+    [key: string]: string;
     '480w'?: string;
     '640w'?: string;
     '1280w'?: string;

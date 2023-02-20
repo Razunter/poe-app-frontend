@@ -1,0 +1,21 @@
+---
+type Props = {
+  url: string
+}
+
+const {url} = Astro.props as Props
+---
+
+{
+  !url.includes('youtube.com') && (
+    <svg
+      class="icon-external"
+      role="img"
+      aria-hidden="true"
+      width="1em"
+      height="1em"
+    >
+      <use xlink:href="#icon-external" />
+    </svg>
+  )
+}

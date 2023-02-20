@@ -1,0 +1,100 @@
+---
+import IconExternal from 'src/components/IconExternal.astro'
+
+type Props = {
+  build: BuildDataType
+}
+
+const {build} = Astro.props as Props
+
+type VideoType = 'novideo' | 'Twitch' | 'YouTube'
+
+const getVideoType = (input: string | undefined): VideoType => {
+  if (!input) {
+    return 'novideo'
+  }
+
+  let type: VideoType = 'novideo'
+  if (input.includes('youtube.com')) {
+    type = 'YouTube'
+  } else if (input.includes('twitch.tv')) {
+    type = 'Twitch'
+  }
+
+  return type
+}
+
+const getVideoID = (input: string | undefined, type: VideoType) => {
+  if (!input) {
+    return input
+  }
+
+  if (type === 'YouTube') {
+    return input.slice(Math.max(0, input.lastIndexOf('?v=') + 3))
+  } else if (type === 'Twitch') {
+    return input.slice(Math.max(0, input.lastIndexOf('/') + 1))
+  }
+
+  return input
+}
+
+const videoType = getVideoType(build?.video)
+const videoID = getVideoID(build.video, videoType)
+
+const makeWebP = (url: string, videoTypeLocal: VideoType) => {
+  if (videoTypeLocal !== 'YouTube') {
+    return url
+  }
+
+  return url.replaceAll('/vi/', '/vi_webp/').replaceAll('.jpg', '.webp')
+}
+
+let dataSRC = ''
+const dataSRCset: string[] = []
+
+if (build.videothumb?.['480w']) {
+  dataSRC = makeWebP(build.videothumb['480w'], videoType)
+
+  for (const size in build.videothumb) {
+    if (Object.hasOwn(build.videothumb, size)) {
+      dataSRCset.push(makeWebP(build.videothumb[size], videoType) + ' ' + size)
+    }
+  }
+}
+---
+
+<figure class="build">
+  <figcaption class="build-title">
+    <h3>
+      <a
+        class="build-link"
+        href={build.url}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {
+          build.author && (
+            <>
+              <span class="build-author">{build.author}</span> -
+            </>
+          )
+        }{build.title}&#8288;
+        <IconExternal url={build.url} />
+      </a>
+    </h3>
+  </figcaption>
+  <div class="video-wrap">
+    <img
+      width="640"
+      height="480"
+      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 360 '%3E%3C/svg%3E"
+      data-src={dataSRC}
+      data-srcset={dataSRCset}
+      alt={build.title}
+      tabindex="0"
+      role="button"
+      data-video={videoID}
+      class={videoType + 'Thumb thumb lazy'}
+    />
+  </div>
+</figure>

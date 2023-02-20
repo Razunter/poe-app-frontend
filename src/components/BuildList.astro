@@ -1,4 +1,6 @@
 ---
+import Build from 'src/components/Build.astro'
+
 type Props = {
   collection: VersionDataType['buildList'][number] | undefined
   currentVersionNumber: string
@@ -6,10 +8,6 @@ type Props = {
 }
 
 const {collection, currentVersionNumber, allVersionsData} = Astro.props as Props
-
-if (!collection) {
-    return
-}
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const intersection = (array: any[], ...args: any[]) => {
@@ -44,15 +42,17 @@ const isBuildCurrent = (
 
 const filteredBuilds: BuildDataType[] = []
 const filteredBuildsNoVideo: BuildDataType[] = []
-for (const build of collection.builds) {
-  if (
-    !build.skip &&
-    isBuildCurrent(build.versions, currentVersionNumber, allVersionsData)
-  ) {
-    if (build.videothumb?.['480w']) {
-      filteredBuilds.push(build)
-    } else {
-      filteredBuildsNoVideo.push(build)
+if (collection) {
+  for (const build of collection.builds) {
+    if (
+      !build.skip &&
+      isBuildCurrent(build.versions, currentVersionNumber, allVersionsData)
+    ) {
+      if (build.videothumb?.['480w']) {
+        filteredBuilds.push(build)
+      } else {
+        filteredBuildsNoVideo.push(build)
+      }
     }
   }
 }
@@ -60,14 +60,7 @@ for (const build of collection.builds) {
 
 {
   filteredBuilds.map((build) => {
-    return build.title
-    // return macros.video(
-    //   build.title,
-    //   build.url,
-    //   build.video,
-    //   build.videothumb,
-    //   build.author
-    // )
+    return <Build build={build} />
   })
 }
 
@@ -83,7 +76,7 @@ for (const build of collection.builds) {
             <li>
               <a
                 class="build-link"
-                href="{{ build.url }}"
+                href={build.url}
                 target="_blank"
                 rel="noopener"
               >

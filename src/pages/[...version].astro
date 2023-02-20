@@ -1,6 +1,7 @@
 ---
 import BuildList from '@src/components/BuildList.astro'
 import type {GetStaticPathsItem} from 'astro'
+import FooterNav from 'src/components/FooterNav.astro'
 import sprite from 'src/components/svgsprite'
 import versionsData from 'src/data/versions.json'
 import Layout from 'src/layouts/Layout.astro'
@@ -71,7 +72,10 @@ if (version.url) {
   </Fragment>
 
   <Fragment slot="header">
-  <h1>Path of Exile <Fragment set:html={pageHeaderVersion} /> starter builds collection (Razunter's picks)</h1>
+    <h1>
+      Path of Exile <Fragment set:html={pageHeaderVersion} /> starter builds collection
+      (Razunter's picks)
+    </h1>
     {
       version.wip ||
         (version.note && (
@@ -119,25 +123,10 @@ if (version.url) {
   }
 
   <Fragment slot="footer">
-    <ul class="previous-links">
-      <li class="nav-description">Version:</li>
-      {/* {% for v in versions.versions | limit(3) | reverse %}*/}
-      {/* {% if v.version == thisVersionNumber %}*/}
-      {/* <li class="active">*/}
-      {/*    {% else %}*/}
-      {/* <li>*/}
-      {/*    {% endif %}*/}
-      {/*    {% if loop.first %}*/}
-      {/*    <a href="index.html">Current ({{v.version}})</a>*/}
-      {/*    {% else %}*/}
-      {/*    <a href="old-{{ v.version }}.html">{{v.version}}</a>*/}
-      {/*    {% endif %}*/}
-      {/* </li>*/}
-      {/* {% if not loop.last %}*/}
-      {/* <li class="separator">|</li>*/}
-      {/* {% endif %}*/}
-      {/* {% endfor %}*/}
-    </ul>
+    <FooterNav
+      versions={versionsData.versions}
+      thisVersionNumber={thisVersionNumber}
+    />
     <ul class="footer-links">
       <li>
         <a href="https://www.pathofexile.com/" target="_blank" rel="noopener"

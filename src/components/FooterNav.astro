@@ -1,0 +1,54 @@
+---
+type Props = {
+  versions: VersionType[]
+  thisVersionNumber: string
+}
+
+const {versions, thisVersionNumber} = Astro.props as Props
+
+const maxLinks = 3
+const cutVersions = structuredClone(versions).reverse().slice(0, maxLinks)
+
+let counter = 0
+const navLinks = cutVersions.map((version) => {
+  counter += 1
+
+  if (version.version === thisVersionNumber) {
+    return {
+      class: 'active',
+      url: '/index.html',
+      text: 'Current (' + version.version + ')',
+      separator: true,
+    }
+  }
+
+  return {
+    class: '',
+    url: '/old-' + version.version + '.html',
+    text: version.version,
+    separator: counter < maxLinks,
+  }
+})
+---
+
+<nav class="previous-links" role="navigation">
+  <div class="nav-description">Version:</div>
+  <ul>
+    {
+      navLinks.map((navLink) => {
+        return (
+          <>
+            <li class={navLink.class}>
+              <a href={navLink.url}>{navLink.text}</a>
+            </li>
+            {navLink.separator && (
+              <li class="separator" aria-hidden="true">
+                |
+              </li>
+            )}
+          </>
+        )
+      })
+    }
+  </ul>
+</nav>

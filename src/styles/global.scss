@@ -215,8 +215,7 @@ a {
   iframe,
   img,
   .novideo,
-  .videoWrap
-  {
+  .videoWrap {
     width: 100%;
     height: auto;
     aspect-ratio: 16/9;
@@ -327,6 +326,14 @@ footer {
   .previous-links {
     @include rfs.margin-bottom($spacer * 0.25);
 
+    display: flex;
+
+    .nav-description {
+      padding: 0 0.3rem;
+    }
+  }
+
+  .previous-links, .previous-links ul {
     justify-content: flex-start;
     flex-wrap: wrap;
   }

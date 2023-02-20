@@ -14,7 +14,6 @@
     }
   },
   "scripts": {
-    "clean": "rimraf _site",
     "dev": "cross-env NODE_ENV=development astro dev",
     "build": "cross-env NODE_ENV=production astro build",
     "preview": "astro preview"
@@ -29,6 +28,7 @@
   ],
   "devDependencies": {
     "@ronilaukkarinen/stylelint-a11y": "^1.2.7",
+    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
     "@types/node": "^18.14.0",
     "@types/svg-sprite": "^0.0.34",
     "@types/vinyl": "^2.0.7",
@@ -39,6 +39,7 @@
     "cross-env": "^7.0.3",
     "eslint": "^8.34.0",
     "eslint-config-canonical": "^40.0.7",
+    "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-astro": "^0.23.0",
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "fast-glob": "^3.2.12",
@@ -48,6 +49,8 @@
     "postcss-html": "^1.5.0",
     "postcss-preset-env": "^8.0.1",
     "postcss-sort-media-queries": "^4.3.0",
+    "prettier": "^2.8.4",
+    "prettier-plugin-astro": "^0.8.0",
     "sass": "^1.58.3",
     "stylelint": "^15.1.0",
     "stylelint-config-html": "^1.1.0",

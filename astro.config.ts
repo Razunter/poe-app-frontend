@@ -6,7 +6,12 @@ import lightningcss from 'vite-plugin-lightningcss'
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [robotsTxt(), compress()],
+  integrations: [
+    robotsTxt({
+      sitemap: false,
+    }),
+    compress(),
+  ],
   site: 'https://raz-poebuilds.netlify.app',
   vite: {
     resolve: {

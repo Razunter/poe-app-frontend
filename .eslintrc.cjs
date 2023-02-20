@@ -61,6 +61,7 @@ module.exports = {
   extends: [
     'canonical',
     'plugin:astro/recommended',
+    'prettier',
     'plugin:astro/jsx-a11y-strict',
   ],
   rules: generalJS,
@@ -113,7 +114,7 @@ module.exports = {
       files: '*.graphql',
     },
     {
-      extends: ['canonical/typescript'],
+      extends: ['canonical/typescript', 'prettier'],
 
       // Define the configuration for `.astro` file.
       files: ['*.astro'],

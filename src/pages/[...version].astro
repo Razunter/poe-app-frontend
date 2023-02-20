@@ -1,19 +1,26 @@
 ---
-import type {Page, PaginateFunction} from 'astro'
+import type {GetStaticPathsItem} from 'astro'
 import sprite from 'src/components/svgsprite'
 import versionsData from 'src/data/versions.json'
 import Layout from 'src/layouts/Layout.astro'
 
 // eslint-disable-next-line func-style
-export async function getStaticPaths({paginate}: {paginate: PaginateFunction}) {
-  const reverseVersionsData = structuredClone(versionsData.versions).reverse()
-  return paginate(reverseVersionsData, {pageSize: 1})
+export async function getStaticPaths() {
+  return structuredClone(versionsData.versions).reverse().map((mapVersion) => {
+    return {
+      params: {
+        version: mapVersion.version === versionsData.currentVersion ? undefined : 'old-' + mapVersion.version + '.html',
+      },
+      props: {
+        currentVersionData: mapVersion
+      }
+    } as GetStaticPathsItem
+  })
 }
 
-const {page} = Astro.props as {
-  page: Page<(typeof versionsData)['versions'][number]>
+const {currentVersionData: version} = Astro.props as {
+  currentVersionData: (typeof versionsData)['versions'][number]
 }
-const version = page.data[0]
 
 const thisVersionNumber = version.version
 const title = `Path of Exile ${thisVersionNumber} «${version.name}» starter builds collection (Razunter's picks)`

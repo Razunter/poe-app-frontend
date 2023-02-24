@@ -361,14 +361,3 @@ footer {
     text-align: left;
   }
 }
-
-.video-button {
-  all: unset;
-  display: block;
-  cursor: pointer;
-
-  &:hover,
-  &:focus {
-    box-shadow: var(--link-color-transparent) 0 0 5px;
-  }
-}

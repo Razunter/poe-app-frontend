@@ -13,8 +13,6 @@ const pauseVideos = () => {
 }
 
 const process = () => {
-  let YTcounter = 0
-
   // NAV
   scrollSpy('.mainnav ul', {
     offset: 100,
@@ -23,10 +21,10 @@ const process = () => {
 
   // THUMBS
   const buttons = document.querySelectorAll('.video-button')
-  let index = buttons.length
-  while (index--) {
-    // eslint-disable-next-line @typescript-eslint/no-loop-func
-    buttons[index].addEventListener('click', (event) => {
+  for (const button of buttons) {
+    let YTcounter = 0
+
+    button.addEventListener('click', (event) => {
       const target = event.currentTarget as HTMLElement
       pauseVideos()
       const url = target.getAttribute('data-video')

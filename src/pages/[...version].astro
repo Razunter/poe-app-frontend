@@ -1,5 +1,6 @@
 ---
 import BuildList from '@src/components/BuildList.astro'
+import SvgIconLink from '@src/components/SvgIconLink.astro'
 import type {GetStaticPathsItem} from 'astro'
 import FooterNav from 'src/components/FooterNav.astro'
 import sprite from 'src/components/svgsprite'
@@ -57,9 +58,7 @@ if (version.url) {
                 {(typekey !== 'rf' || !version.skiprf) && (
                   <li>
                     <a href={'#' + typekey} title={typename}>
-                      <svg class="icon" role="img" aria-hidden="true">
-                        <use xlink:href={'#icon-' + typekey} />
-                      </svg>
+                      <SvgIconLink icon={typekey} />
                     </a>
                   </li>
                 )}
@@ -101,9 +100,7 @@ if (version.url) {
           {(typekey !== 'rf' || !version.skiprf) && (
             <section id={typekey} class="section">
               <h2 class="section-title">
-                <svg class="icon" role="img" aria-hidden="true">
-                  <use />
-                </svg>
+                <SvgIconLink icon={typekey} />
                 {typename}
               </h2>
               <div class="builds-collection">

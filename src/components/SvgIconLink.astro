@@ -1,0 +1,11 @@
+---
+type Props = {
+  icon: string
+}
+
+const {icon} = Astro.props as Props
+---
+
+<svg class="icon" role="img" aria-hidden="true">
+  <use xlink:href={'#icon-' + icon}></use>
+</svg>

@@ -13,10 +13,10 @@ export default defineConfig({
     robotsTxt({
       sitemap: false,
     }),
-    purgecss({
+    production ? purgecss({
       safelist: ['iframe'],
-    }),
-    compress(),
+    }) : [],
+    production ? compress() : [],
   ],
   site: 'https://raz-poebuilds.netlify.app',
   vite: {
@@ -57,7 +57,7 @@ export default defineConfig({
               ],
             ],
             exclude: [/\/core-js\//u, 'node_modules/**'],
-          }) : null,
+          }) : [],
         ],
       },
     },

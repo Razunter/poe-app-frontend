@@ -11,61 +11,62 @@ const currentUrl = Astro.url
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>{title}</title>
     <link
-      rel="apple-touch-icon"
-      sizes="152x152"
-      href="/apple-touch-icon.png?v=M46dyAmWwq"
+            rel="apple-touch-icon"
+            sizes="152x152"
+            href="/apple-touch-icon.png?v=M46dyAmWwq"
     />
     <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="/favicon-32x32.png?v=M46dyAmWwq"
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/favicon-32x32.png?v=M46dyAmWwq"
     />
     <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="/favicon-16x16.png?v=M46dyAmWwq"
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/favicon-16x16.png?v=M46dyAmWwq"
     />
-    <link rel="manifest" href="/site.webmanifest?v=M46dyAmWwq" />
+    <link rel="manifest" href="/site.webmanifest?v=M46dyAmWwq"/>
     <link
-      rel="mask-icon"
-      href="/safari-pinned-tab.svg?v=M46dyAmWwq"
-      color="#1ba2a8"
+            rel="mask-icon"
+            href="/safari-pinned-tab.svg?v=M46dyAmWwq"
+            color="#1ba2a8"
     />
-    <link rel="shortcut icon" href="/favicon.ico?v=M46dyAmWwq" />
-    <meta name="msapplication-TileColor" content="#1ba2a8" />
-    <meta name="theme-color" content="#1ba2a8" />
-    <meta name="author" content={metadata.author.name} />
-    <meta name="robots" content="index,follow" />
-    <meta name="description" content={description} />
-    <meta property="og:site_name" content={metadata.title} />
-    <meta property="og:url" content={currentUrl} />
-    <meta name="twitter:creator" content={metadata.author.twitter} />
-    <meta name="generator" content={Astro.generator} />
-    {import.meta.env.MODE === 'production' && <GoogleAnalytics />}
-  </head>
-  <body>
-    <div class="main">
-      <slot name="nav" />
-      <div class="main-content">
+    <link rel="shortcut icon" href="/favicon.ico?v=M46dyAmWwq"/>
+    <meta name="msapplication-TileColor" content="#1ba2a8"/>
+    <meta name="theme-color" content="#1ba2a8"/>
+    <meta name="author" content={metadata.author.name}/>
+    <meta name="robots" content="index,follow"/>
+    <meta name="description" content={description}/>
+    <meta property="og:site_name" content={metadata.title}/>
+    <meta property="og:url" content={currentUrl}/>
+    <meta name="twitter:creator" content={metadata.author.twitter}/>
+    <meta name="generator" content={Astro.generator}/>
+  {import.meta.env.NODE_ENV === 'production' &&
+          <GoogleAnalytics/>}
+</head>
+<body>
+<div class="main">
+    <slot name="nav"/>
+    <div class="main-content">
         <header class="main-header">
-          <slot name="header" />
+            <slot name="header"/>
         </header>
         <main>
-          <slot />
+            <slot/>
         </main>
         <footer>
-          <slot name="footer" />
+            <slot name="footer"/>
         </footer>
-      </div>
     </div>
-  </body>
+</div>
+</body>
 </html>
 
 <script src="../js/index.ts"></script>

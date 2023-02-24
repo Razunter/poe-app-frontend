@@ -3,7 +3,7 @@ import {defineConfig} from 'astro/config'
 import compress from 'astro-compress'
 import purgecss from 'astro-purgecss'
 import robotsTxt from 'astro-robots-txt'
-import path from 'path'
+import tsconfigPaths from 'vite-tsconfig-paths'
 
 const production = process.env.NODE_ENV === 'production'
 
@@ -19,14 +19,7 @@ export default defineConfig({
   ],
   site: 'https://raz-poebuilds.netlify.app',
   vite: {
-    resolve: {
-      alias: {
-        '@css/': `${path.resolve('./src/styles')}/`,
-        '@layouts/': `${path.resolve('./src/layouts')}/`,
-        '@src/': `${path.resolve('./src')}/`,
-        '@img/': `${path.resolve('./src/images')}/`,
-      },
-    },
+    plugins: [tsconfigPaths()],
     optimizeDeps: {
       exclude: ['@resvg'],
     },

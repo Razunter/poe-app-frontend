@@ -15,6 +15,7 @@
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development astro dev",
+    "build-dev": "cross-env NODE_ENV=development astro build",
     "build": "cross-env NODE_ENV=production astro build",
     "preview": "astro preview"
   },
@@ -31,12 +32,12 @@
     "@babel/preset-env": "^7.20.2",
     "@rollup/plugin-babel": "^6.0.3",
     "@ronilaukkarinen/stylelint-a11y": "^1.2.7",
-    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
-    "@types/node": "^18.14.0",
+    "@trivago/prettier-plugin-sort-imports": "^4.1.0",
+    "@types/node": "^18.14.1",
     "@types/svg-sprite": "^0.0.34",
     "@types/vinyl": "^2.0.7",
     "@types/yt-player": "^3.5.1",
-    "@typescript-eslint/parser": "^5.52.0",
+    "@typescript-eslint/parser": "^5.53.0",
     "astro-compress": "^1.1.33",
     "astro-robots-txt": "^0.4.0",
     "cross-env": "^7.0.3",
@@ -55,7 +56,7 @@
     "prettier": "^2.8.4",
     "prettier-plugin-astro": "^0.8.0",
     "sass": "^1.58.3",
-    "stylelint": "^15.1.0",
+    "stylelint": "^15.2.0",
     "stylelint-config-html": "^1.1.0",
     "stylelint-config-standard": "^30.0.1",
     "stylelint-config-standard-scss": "^7.0.1",
@@ -66,12 +67,12 @@
     "vite-plugin-lightningcss": "^0.0.5"
   },
   "dependencies": {
-    "astro": "^2.0.14",
+    "astro": "^2.0.15",
     "astro-purgecss": "^2.0.0",
     "core-js": "^3.28.0",
     "modern-normalize": "^1.1.0",
     "rfs": "^9.0.6",
-    "simple-scrollspy": "^2.3.4",
+    "simple-scrollspy": "^2.3.6",
     "vanilla-lazyload": "^17.8.3",
     "yt-player": "^3.6.1"
   }

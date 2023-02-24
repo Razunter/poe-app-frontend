@@ -4,7 +4,6 @@ import compress from 'astro-compress'
 import purgecss from 'astro-purgecss'
 import robotsTxt from 'astro-robots-txt'
 import path from 'path'
-import lightningcss from 'vite-plugin-lightningcss'
 
 const production = process.env.NODE_ENV === 'production'
 
@@ -27,11 +26,6 @@ export default defineConfig({
         '@img/': `${path.resolve('./src/images')}/`,
       },
     },
-    plugins: [
-      lightningcss({
-        minify: production,
-      }),
-    ],
     optimizeDeps: {
       exclude: ['@resvg'],
     },

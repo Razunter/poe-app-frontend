@@ -20,11 +20,9 @@
     "preview": "astro preview"
   },
   "browserslist": [
-    "> 0.2%",
+    "> 0.02%",
     "last 2 versions",
     "Firefox ESR",
-    "not IE < 12",
-    "not ie_mob < 12",
     "not dead"
   ],
   "devDependencies": {
@@ -42,6 +40,7 @@
     "astro-compress": "^1.1.33",
     "astro-purgecss": "^2.0.0",
     "astro-robots-txt": "^0.4.0",
+    "browserslist": "^4.21.5",
     "cross-env": "^7.0.3",
     "eslint": "^8.34.0",
     "eslint-config-canonical": "^40.0.7",
@@ -53,6 +52,7 @@
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.21",
     "postcss-html": "^1.5.0",
+    "postcss-lightningcss": "^0.6.0",
     "postcss-preset-env": "^8.0.1",
     "postcss-sort-media-queries": "^4.3.0",
     "prettier": "^2.8.4",
@@ -65,8 +65,7 @@
     "stylelint-scss": "^4.4.0",
     "svg-sprite": "^2.0.2",
     "svgo": "^3.0.2",
-    "typescript": "^4.9.5",
-    "vite-plugin-lightningcss": "^0.0.5"
+    "typescript": "^4.9.5"
   },
   "dependencies": {
     "astro": "^2.0.15",

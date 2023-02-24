@@ -64,11 +64,12 @@
     "svg-sprite": "^2.0.2",
     "svgo": "^3.0.2",
     "typescript": "^4.9.5",
-    "vite-plugin-lightningcss": "^0.0.5"
+    "vite-plugin-lightningcss": "^0.0.5",
+    "@astrojs/compiler": "^1.1.2",
+    "astro-purgecss": "^2.0.0"
   },
   "dependencies": {
     "astro": "^2.0.15",
-    "astro-purgecss": "^2.0.0",
     "core-js": "^3.28.0",
     "modern-normalize": "^1.1.0",
     "rfs": "^9.0.6",

@@ -1,7 +1,6 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-expect-error
 import scrollSpy from 'simple-scrollspy'
-import LazyLoad from 'vanilla-lazyload'
 import YTPlayer from 'yt-player'
 
 const domain = 'raz-poebuilds.netlify.app'
@@ -15,8 +14,6 @@ const pauseVideos = () => {
 
 const process = () => {
   let YTcounter = 0
-
-  void new LazyLoad({})
 
   // NAV
   scrollSpy('.mainnav ul', {

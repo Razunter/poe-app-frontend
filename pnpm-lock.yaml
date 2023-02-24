@@ -44,7 +44,6 @@ specifiers:
   svg-sprite: ^2.0.2
   svgo: ^3.0.2
   typescript: ^4.9.5
-  vanilla-lazyload: ^17.8.3
   vite-plugin-lightningcss: ^0.0.5
   yt-player: ^3.6.1
 
@@ -54,7 +53,6 @@ dependencies:
   modern-normalize: 1.1.0
   rfs: 9.0.6
   simple-scrollspy: 2.3.6
-  vanilla-lazyload: 17.8.3
   yt-player: 3.6.1
 
 devDependencies:
@@ -9295,10 +9293,6 @@ packages:
     resolution: {integrity: sha512-Z6Uz+TYwEqE7ZN50gwn+1LCVo9ZVrpxRPOhOLnncYkY1ZzOYtrX8Fwf/rFktZ8R5mJms6EZf5TqNOMeZmnPq9Q==}
     engines: {node: '>=12'}
     dev: true
-
-  /vanilla-lazyload/17.8.3:
-    resolution: {integrity: sha512-0eYjhkSkfP/JCDIzVpmgnh9I3XKAA8/i/6FpRrH8qjcC+nHv5mYZ6DQZUIGU16TqJei23hHl0J/Zuv/zmCC2Zw==}
-    dev: false
 
   /vfile-location/4.1.0:
     resolution: {integrity: sha512-YF23YMyASIIJXpktBa4vIGLJ5Gs88UB/XePgqPmTa7cDA+JeO3yclbpheQYCHjVHBn/yePzrXuygIL+xbvRYHw==}

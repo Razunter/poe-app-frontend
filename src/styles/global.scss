@@ -1,3 +1,4 @@
+@use 'sass:color';
 @use 'modern-normalize/modern-normalize.css';
 @use "rfs/scss.scss" as rfs with (
   $rfs-base-value: 1rem,
@@ -16,13 +17,16 @@
 
 $gutter: 40px;
 $spacer: 40px;
-$link-color: lighten(#20a4f3, 5%);
+$link-color: color.adjust(#20a4f3, $lightness: 5%);
 $background-color: #03191e;
 $text-color: #dae7f2;
 $icon-size: 60px;
 
 :root {
   font-size: 16px;
+
+  --link-color: #{$link-color};
+  --link-color-transparent: #{rgba($link-color, 0.5)};
 }
 
 h2,
@@ -69,7 +73,7 @@ body {
 }
 
 a {
-  color: $link-color;
+  color: var(--link-color);
   transition: color 0.2s ease-in-out;
   text-decoration: none;
 
@@ -79,7 +83,7 @@ a {
 
   &:hover,
   &:focus {
-    color: lighten($link-color, 20%);
+    color: color.adjust($link-color, $lightness: 20%);
   }
 
   &:focus {
@@ -135,7 +139,7 @@ a {
     }
 
     li a.active {
-      color: lighten($link-color, 30%);
+      color: color.adjust(#20a4f3, $lightness: 30%);
     }
 
     a {
@@ -262,13 +266,8 @@ a {
   }
 
   img {
-    cursor: pointer;
+    display: block;
     object-fit: cover;
-
-    &:hover,
-    &:focus {
-      box-shadow: rgba($link-color, 0.5) 0 0 5px;
-    }
   }
 
   .novideo {
@@ -323,7 +322,7 @@ footer {
 
   li.active a {
     text-decoration: underline;
-    color: desaturate($link-color, 50%);
+    color: color.adjust($link-color, $saturation: -50%);
   }
 
   .previous-links {

@@ -84,18 +84,34 @@ if (build.videothumb?.['480w']) {
     </h3>
   </figcaption>
   <div class="video-wrap">
-    <img
-      width="640"
-      height="480"
-      sizes="(min-width: 1800px) 790px, (min-width: 1500px) 640px, (min-width: 920px) 480px, 90vw"
-      src={dataSRC}
-      srcset={dataSRCset}
-      loading="lazy"
-      alt={build.title}
-      tabindex="0"
-      role="button"
+    <button
+      class={`video-button video-button--${videoType}`}
       data-video={videoID}
-      class={videoType + 'Thumb thumb'}
-    />
+      title={build.title}
+    >
+      <img
+        width="640"
+        height="480"
+        sizes="(min-width: 1800px) 790px, (min-width: 1500px) 640px, (min-width: 920px) 480px, 90vw"
+        src={dataSRC}
+        srcset={dataSRCset}
+        loading="lazy"
+        alt={build.title}
+        class="thumb"
+      />
+    </button>
   </div>
 </figure>
+
+<style lang="scss">
+  .video-button {
+    all: unset;
+    display: block;
+    cursor: pointer;
+
+    &:hover,
+    &:focus {
+      box-shadow: var(--link-color-transparent) 0 0 5px;
+    }
+  }
+</style>

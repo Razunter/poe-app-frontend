@@ -22,6 +22,7 @@ export default defineConfig({
     resolve: {
       alias: {
         '@css/': `${path.resolve('./src/styles')}/`,
+        '@layouts/': `${path.resolve('./src/layouts')}/`,
         '@src/': `${path.resolve('./src')}/`,
         '@img/': `${path.resolve('./src/images')}/`,
       },

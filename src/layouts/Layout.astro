@@ -1,7 +1,7 @@
 ---
-import 'src/styles/global.scss'
-import GoogleAnalytics from 'src/components/GoogleAnalytics.astro'
-import metadata from 'src/data/metadata.json'
+import '@css/global.scss'
+import GoogleAnalytics from '@src/components/GoogleAnalytics.astro'
+import metadata from '@src/data/metadata.json'
 
 let {title, description} = Astro.props
 title ??= metadata.title

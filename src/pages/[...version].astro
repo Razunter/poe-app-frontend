@@ -1,11 +1,11 @@
 ---
+import Layout from '@layouts/Layout.astro'
 import BuildList from '@src/components/BuildList.astro'
+import FooterNav from '@src/components/FooterNav.astro'
 import SvgIconLink from '@src/components/SvgIconLink.astro'
+import sprite from '@src/components/svgsprite'
+import versionsData from '@src/data/versions.json'
 import type {GetStaticPathsItem} from 'astro'
-import FooterNav from 'src/components/FooterNav.astro'
-import sprite from 'src/components/svgsprite'
-import versionsData from 'src/data/versions.json'
-import Layout from 'src/layouts/Layout.astro'
 
 // eslint-disable-next-line func-style
 export async function getStaticPaths() {

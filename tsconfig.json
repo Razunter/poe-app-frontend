@@ -26,6 +26,7 @@
     "checkJs": true,
     "paths": {
       "@src/*": ["./src/*"],
+      "@layouts/*": ["./src/layouts/*"],
       "@css/*": ["./src/styles/*"],
       "@img/*": ["./src/images/*"]
     }

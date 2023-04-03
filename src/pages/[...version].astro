@@ -37,13 +37,77 @@ const reformattedVersionNumber = thisVersionNumber.replaceAll('.', '-')
 const data = (await import(
   `../data/data-${reformattedVersionNumber}.json`
 )) as VersionDataType
-const currentTypes = Object.entries(data.types)
+let currentTypes = Object.entries(data.types)
 const svgSprite = await sprite()
 
 let pageHeaderVersion = `${thisVersionNumber} «${version.name}»`
 if (version.url) {
   pageHeaderVersion = `<a href="${version.url}" target="_blank" rel="noopener noreferrer">${pageHeaderVersion}</a>`
 }
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const intersection = (array: any[], ...args: any[]) => {
+  return array.filter((item) => {
+    return args.every((array_) => {
+      return array_.includes(item)
+    })
+  })
+}
+
+const isBuildCurrent = (
+  buildVersions: string[],
+  thisPageVersion: string,
+  allVersions: VersionType[]
+) => {
+  if (buildVersions !== undefined && Array.isArray(buildVersions)) {
+    if (buildVersions.includes(thisPageVersion)) {
+      return true
+    } else {
+      const versionData = allVersions.find((version_) => {
+        return version_.version === thisPageVersion
+      })
+      if (versionData?.compatible && Array.isArray(versionData.compatible)) {
+        const inter = intersection(versionData.compatible, buildVersions)
+        return inter.length > 0
+      }
+    }
+  }
+
+  return false
+}
+
+const filterVersionData = () => {
+  const emptyCategories: string[] = []
+
+  for (const type of currentTypes) {
+    const buildCategoryIndex = data.buildList.findIndex((item) => {
+      return item.type === type[0]
+    })
+
+    if (buildCategoryIndex !== -1) {
+      data.buildList[buildCategoryIndex].builds = data.buildList[
+        buildCategoryIndex
+      ].builds.filter((build) => {
+        return (
+          !build.skip &&
+          isBuildCurrent(build.versions, version.version, versionsData.versions)
+        )
+      })
+
+      if (data.buildList[buildCategoryIndex].builds.length === 0) {
+        emptyCategories.push(data.buildList[buildCategoryIndex].type)
+      }
+    }
+  }
+
+  if (emptyCategories.length > 0) {
+    currentTypes = currentTypes.filter((type) => {
+      return !emptyCategories.includes(type[0])
+    })
+  }
+}
+
+filterVersionData()
 ---
 
 <Layout title={title} description={description}>
@@ -54,15 +118,11 @@ if (version.url) {
         {
           currentTypes.map(([typekey, typename]) => {
             return (
-              <>
-                {(typekey !== 'rf' || !version.skiprf) && (
-                  <li>
-                    <a href={'#' + typekey} title={typename}>
-                      <SvgIconLink icon={typekey} />
-                    </a>
-                  </li>
-                )}
-              </>
+              <li>
+                <a href={'#' + typekey} title={typename}>
+                  <SvgIconLink icon={typekey} />
+                </a>
+              </li>
             )
           })
         }
@@ -76,13 +136,12 @@ if (version.url) {
       (Razunter's picks)
     </h1>
     {
-      version.wip ||
-        (version.note && (
-          <div class="subtitle">
-            {version.wip && 'Work in Progress!'}
-            {version.note && version.note}
-          </div>
-        ))
+      (version.wip || version.note) && (
+        <div class="subtitle">
+          {version.wip && 'Work in Progress!'}
+          {version.note && version.note}
+        </div>
+      )
     }
     {
       thisVersionNumber !== versionsData.currentVersion && (
@@ -96,25 +155,19 @@ if (version.url) {
   {
     currentTypes.map(([typekey, typename]) => {
       return (
-        <>
-          {(typekey !== 'rf' || !version.skiprf) && (
-            <section id={typekey} class="section">
-              <h2 class="section-title">
-                <SvgIconLink icon={typekey} />
-                {typename}
-              </h2>
-              <div class="builds-collection">
-                <BuildList
-                  collection={data.buildList.find((item) => {
-                    return item.type === typekey
-                  })}
-                  currentVersionNumber={thisVersionNumber}
-                  allVersionsData={versionsData.versions}
-                />
-              </div>
-            </section>
-          )}
-        </>
+        <section id={typekey} class="section">
+          <h2 class="section-title">
+            <SvgIconLink icon={typekey} />
+            {typename}
+          </h2>
+          <div class="builds-collection">
+            <BuildList
+              collection={data.buildList.find((item) => {
+                return item.type === typekey
+              })}
+            />
+          </div>
+        </section>
       )
     })
   }

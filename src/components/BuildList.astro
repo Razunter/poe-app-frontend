@@ -3,56 +3,18 @@ import Build from 'src/components/Build.astro'
 
 type Props = {
   collection: VersionDataType['buildList'][number] | undefined
-  currentVersionNumber: string
-  allVersionsData: VersionType[]
 }
 
-const {collection, currentVersionNumber, allVersionsData} = Astro.props as Props
-
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-const intersection = (array: any[], ...args: any[]) => {
-  return array.filter((item) => {
-    return args.every((array_) => {
-      return array_.includes(item)
-    })
-  })
-}
-
-const isBuildCurrent = (
-  buildVersions: string[],
-  thisPageVersion: string,
-  allVersions: VersionType[]
-) => {
-  if (buildVersions !== undefined && Array.isArray(buildVersions)) {
-    if (buildVersions.includes(thisPageVersion)) {
-      return true
-    } else {
-      const versionData = allVersions.find((version) => {
-        return version.version === thisPageVersion
-      })
-      if (versionData?.compatible && Array.isArray(versionData.compatible)) {
-        const inter = intersection(versionData.compatible, buildVersions)
-        return inter.length > 0
-      }
-    }
-  }
-
-  return false
-}
+const {collection} = Astro.props as Props
 
 const filteredBuilds: BuildDataType[] = []
 const filteredBuildsNoVideo: BuildDataType[] = []
 if (collection) {
   for (const build of collection.builds) {
-    if (
-      !build.skip &&
-      isBuildCurrent(build.versions, currentVersionNumber, allVersionsData)
-    ) {
-      if (build.videothumb?.['480w']) {
-        filteredBuilds.push(build)
-      } else {
-        filteredBuildsNoVideo.push(build)
-      }
+    if (build.videothumb?.['480w']) {
+      filteredBuilds.push(build)
+    } else {
+      filteredBuildsNoVideo.push(build)
     }
   }
 }

@@ -94,7 +94,7 @@ if (build.videothumb?.['480w']) {
         height="480"
         sizes="(min-width: 1800px) 790px, (min-width: 1500px) 640px, (min-width: 920px) 480px, 90vw"
         src={dataSRC}
-        srcset={dataSRCset}
+        srcset={dataSRCset.join(', ')}
         loading="lazy"
         alt={build.title}
         class="thumb"

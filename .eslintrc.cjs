@@ -36,6 +36,8 @@ const generalJS = {
       objects: 'always-multiline',
     },
   ],
+  // disable Prettier rules
+  'prettier/prettier': ['off']
 }
 
 const ts = {
@@ -46,6 +48,11 @@ const ts = {
   'canonical/import-specifier-newline': 'off',
   'canonical/prefer-inline-type-import': 'off',
   '@typescript-eslint/no-extra-parens': 'off',
+  '@typescript-eslint/space-before-function-paren': ["error", {
+    "anonymous": "always",
+    "named": "never",
+    "asyncArrow": "always"
+  }],
   '@typescript-eslint/member-delimiter-style': [
     'error',
     {
@@ -58,8 +65,9 @@ const ts = {
 }
 
 module.exports = {
+  root: true,
   extends: [
-    'canonical',
+    'canonical/auto',
     'plugin:astro/recommended',
     'prettier',
     'plugin:astro/jsx-a11y-strict',
@@ -74,7 +82,7 @@ module.exports = {
   overrides: [
     {
       extends: ['canonical/typescript'],
-      files: '*.ts',
+      files: ['*.ts'],
       parserOptions: {
         project: './tsconfig.json',
       },
@@ -82,36 +90,6 @@ module.exports = {
         ...generalJS,
         ...ts,
       },
-    },
-    {
-      extends: [
-        'canonical/react',
-        'canonical/jsx-a11y',
-        'canonical/typescript',
-      ],
-      files: '*.tsx',
-      parserOptions: {
-        project: './tsconfig.json',
-      },
-    },
-    {
-      extends: ['canonical/jest'],
-      files: '*.test.{ts,tsx}',
-      parserOptions: {
-        project: './tsconfig.json',
-      },
-    },
-    {
-      extends: ['canonical/json'],
-      files: '*.json',
-    },
-    {
-      extends: ['canonical/yaml'],
-      files: '*.yaml',
-    },
-    {
-      extends: ['canonical/graphql'],
-      files: '*.graphql',
     },
     {
       extends: ['canonical/typescript', 'prettier'],
@@ -141,5 +119,4 @@ module.exports = {
       },
     },
   ],
-  root: true,
 }

@@ -1,10 +1,10 @@
 ---
 type Props = {
   versions: VersionType[]
-  thisVersionNumber: string
+  currentVersionNumber: string
 }
 
-const {versions, thisVersionNumber} = Astro.props as Props
+const {versions, currentVersionNumber} = Astro.props as Props
 
 const maxLinks = 3
 const cutVersions = structuredClone(versions).reverse().slice(0, maxLinks)
@@ -13,7 +13,7 @@ let counter = 0
 const navLinks = cutVersions.map((version) => {
   counter += 1
 
-  if (version.version === thisVersionNumber) {
+  if (version.version === currentVersionNumber) {
     return {
       class: 'active',
       url: '/index.html',

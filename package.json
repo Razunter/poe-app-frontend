@@ -4,15 +4,7 @@
   "description": "",
   "private": true,
   "license": "MIT",
-  "source": [
-    "src/js/index.js",
-    "src/css/index.scss"
-  ],
-  "targets": {
-    "default": {
-      "distDir": "./_site/assets"
-    }
-  },
+  "packageManager": "pnpm@8.1.0",
   "scripts": {
     "dev": "cross-env NODE_ENV=development astro dev",
     "build-dev": "cross-env NODE_ENV=development astro build",

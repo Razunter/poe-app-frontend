@@ -1,10 +1,13 @@
 {
-  "currentVersion": "3.20",
+  "currentVersion": "3.21",
   "versions": [
     {
       "name": "Ultimatum",
       "version": "3.14",
-      "wip": false
+      "wip": false,
+      "compatible": [],
+      "note": "",
+      "url": ""
     },
     {
       "version": "3.15",
@@ -12,7 +15,8 @@
       "wip": false,
       "url": "https://www.pathofexile.com/expedition",
       "note": "Extreme balance changes, be wary!",
-      "skiprf": true
+      "skiprf": true,
+      "compatible": []
     },
     {
       "version": "3.16",
@@ -20,7 +24,8 @@
       "wip": false,
       "url": "https://www.pathofexile.com/scourge",
       "note": "New passives tree, old builds won't work!",
-      "skiprf": true
+      "skiprf": true,
+      "compatible": []
     },
     {
       "version": "3.17",
@@ -28,7 +33,8 @@
       "wip": false,
       "url": "https://www.pathofexile.com/siege",
       "note": "",
-      "skiprf": false
+      "skiprf": false,
+      "compatible": []
     },
     {
       "version": "3.18",
@@ -47,7 +53,8 @@
       "wip": false,
       "url": "https://www.pathofexile.com/kalandra",
       "note": "",
-      "skiprf": false
+      "skiprf": false,
+      "compatible": []
     },
     {
       "version": "3.20",
@@ -55,7 +62,16 @@
       "wip": false,
       "url": "https://www.pathofexile.com/sanctum",
       "note": "",
-      "skiprf": false
+      "skiprf": false,
+      "compatible": []
+    },
+    {
+      "version": "3.21",
+      "name": "Crucible",
+      "compatible": [],
+      "note": "",
+      "wip": true,
+      "url": "https://www.pathofexile.com/crucible"
     }
   ]
 }

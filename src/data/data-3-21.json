@@ -1155,6 +1155,22 @@
           "author": null,
           "pin": false,
           "skip": false
+        },
+        {
+          "title": "Yep, still one of the STRONGEST BUILDS for everything! - Explosive Arrow Champion",
+          "url": "https://www.youtube.com/watch?v=jMNk4sq6lx0",
+          "video": "https://www.youtube.com/watch?v=jMNk4sq6lx0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jMNk4sq6lx0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jMNk4sq6lx0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jMNk4sq6lx0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
         }
       ]
     },
@@ -1191,7 +1207,8 @@
             "3.17",
             "3.18",
             "3.19",
-            "3.20"
+            "3.20",
+            "3.21"
           ],
           "author": ""
         },
@@ -1615,6 +1632,38 @@
             "3.19"
           ],
           "author": ""
+        },
+        {
+          "title": "Holy Relic Ascendant",
+          "url": "https://www.youtube.com/watch?v=E4NhdJhX_ZY",
+          "video": "https://www.youtube.com/watch?v=E4NhdJhX_ZY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "CaptainLance9",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Poison SRS",
+          "url": "https://www.youtube.com/watch?v=u0gscwxHa84",
+          "video": "https://www.youtube.com/watch?v=u0gscwxHa84",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/u0gscwxHa84/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/u0gscwxHa84/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/u0gscwxHa84/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false
         }
       ]
     },

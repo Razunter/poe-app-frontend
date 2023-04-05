@@ -50,6 +50,22 @@
           "author": ""
         },
         {
+          "title": "Frostblades Trickster",
+          "url": "https://www.youtube.com/watch?v=WWCsK5ZJzQM",
+          "video": "https://www.youtube.com/watch?v=WWCsK5ZJzQM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/WWCsK5ZJzQM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WWCsK5ZJzQM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/WWCsK5ZJzQM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Behind Eyes Gaming",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Boneshatter JUGG",
           "url": "https://www.youtube.com/watch?v=u86_1qW8AZQ",
           "video": "https://www.youtube.com/watch?v=u86_1qW8AZQ",
@@ -365,6 +381,39 @@
           "pin": true
         },
         {
+          "title": "Cold Conversion Blade Vortex Elementalist / Occultist",
+          "url": "https://www.pathofexile.com/forum/view-thread/3324373",
+          "video": "https://www.youtube.com/watch?v=5d_RxWDlinE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5d_RxWDlinE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5d_RxWDlinE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5d_RxWDlinE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20",
+            "3.21"
+          ],
+          "author": "Chronic_Painless",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Poison Blade Vortex Occultist",
+          "url": "https://maxroll.gg/poe/build-guides/poison-blade-vortex-occultist-league-starter-guide",
+          "video": "https://www.youtube.com/watch?v=Uw5qQjSpmIs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Uw5qQjSpmIs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Uw5qQjSpmIs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Uw5qQjSpmIs/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "The COOLEST Leaguestarter for Crucible! - Cold DoT Elementalist",
           "url": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
           "video": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
@@ -443,6 +492,20 @@
             "3.20"
           ],
           "author": "Velyna"
+        },
+        {
+          "title": "Cold DoT Trickster Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
+          "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/UJfWk11D98k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UJfWk11D98k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UJfWk11D98k/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Zizaran"
         },
         {
           "title": "Hydrosphere Occultist Build Guide",
@@ -525,20 +588,6 @@
             "3.20"
           ],
           "author": "Jungroan"
-        },
-        {
-          "title": "Cold DoT Trickster Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
-          "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/UJfWk11D98k/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/UJfWk11D98k/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/UJfWk11D98k/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.20"
-          ],
-          "author": "Zizaran"
         },
         {
           "title": "Bane Occultist League Starter",
@@ -773,6 +822,22 @@
           "author": ""
         },
         {
+          "title": "Rain of Arrows Raider",
+          "url": "https://docs.google.com/document/d/1oAeAQTrZrplblEsarJdRUyktA5ijNeVFqLFSgq18VIA/edit",
+          "video": "https://www.youtube.com/watch?v=8C2QsAHjCO0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/8C2QsAHjCO0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/8C2QsAHjCO0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/8C2QsAHjCO0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Fuzzy Duckzy",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "MY LEAGUESTARTER For Crucible! - Toxic Rain Pathfinder",
           "url": "https://www.youtube.com/watch?v=W20G6bZJqR4",
           "video": "https://www.youtube.com/watch?v=W20G6bZJqR4",
@@ -924,7 +989,8 @@
           "title": "Poisonous Concoction Pathfinder",
           "url": "https://poe.maxroll.gg/build-guides/poisonous-concoction-pathfinder-league-starter-guide",
           "versions": [
-            "3.19"
+            "3.19",
+            "3.20"
           ],
           "author": "Palsteron"
         }
@@ -933,6 +999,22 @@
     {
       "type": "totems",
       "builds": [
+        {
+          "title": "EA Ballista Elementalist 3.21 Build Update & Defensive Revamp",
+          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
+          "video": "https://www.youtube.com/watch?v=x2U0lKR1HvQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/x2U0lKR1HvQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/x2U0lKR1HvQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/x2U0lKR1HvQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "Artillery Ballista Raider Guide",
           "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSH98xy8uDeiROTF7rH732Ssp5bzoYdlI16-nzTBU9RHQfJFLIO3ABNehwawob7RgdK0ht4wAsTQGn5/pubhtml",
@@ -946,6 +1028,22 @@
             "3.21"
           ],
           "author": "The British Exile",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Yep, still one of the STRONGEST BUILDS for everything! - Explosive Arrow Champion",
+          "url": "https://www.youtube.com/watch?v=jMNk4sq6lx0",
+          "video": "https://www.youtube.com/watch?v=jMNk4sq6lx0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jMNk4sq6lx0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jMNk4sq6lx0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jMNk4sq6lx0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -1155,45 +1253,12 @@
           "author": null,
           "pin": false,
           "skip": false
-        },
-        {
-          "title": "Yep, still one of the STRONGEST BUILDS for everything! - Explosive Arrow Champion",
-          "url": "https://www.youtube.com/watch?v=jMNk4sq6lx0",
-          "video": "https://www.youtube.com/watch?v=jMNk4sq6lx0",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/jMNk4sq6lx0/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/jMNk4sq6lx0/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/jMNk4sq6lx0/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
         }
       ]
     },
     {
       "type": "rf",
       "builds": [
-        {
-          "title": "Righteous Fire Jugg",
-          "url": "https://www.pohx.net/",
-          "video": "https://www.youtube.com/watch?v=Ji0CqE8F3wU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Ji0CqE8F3wU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Ji0CqE8F3wU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Ji0CqE8F3wU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.20",
-            "3.21"
-          ],
-          "author": "Pohx",
-          "pin": true,
-          "skip": false
-        },
         {
           "title": "Megachonk RF Jugg | Ultra Tanky + Endgame Viable + Very good starter",
           "url": "https://www.pathofexile.com/forum/view-thread/3209778",
@@ -1211,6 +1276,23 @@
             "3.21"
           ],
           "author": ""
+        },
+        {
+          "title": "Righteous Fire Jugg",
+          "url": "https://www.pohx.net/",
+          "video": "https://www.youtube.com/watch?v=Ji0CqE8F3wU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Ji0CqE8F3wU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Ji0CqE8F3wU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Ji0CqE8F3wU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20",
+            "3.21"
+          ],
+          "author": "Pohx",
+          "pin": true,
+          "skip": false
         },
         {
           "title": "RF Trickster League Starter Plan",
@@ -1389,6 +1471,38 @@
             "3.21"
           ],
           "author": "GhazzyTV",
+          "skip": false
+        },
+        {
+          "title": "Poison SRS",
+          "url": "https://www.youtube.com/watch?v=u0gscwxHa84",
+          "video": "https://www.youtube.com/watch?v=u0gscwxHa84",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/u0gscwxHa84/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/u0gscwxHa84/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/u0gscwxHa84/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Holy Relic Ascendant",
+          "url": "https://www.youtube.com/watch?v=E4NhdJhX_ZY",
+          "video": "https://www.youtube.com/watch?v=E4NhdJhX_ZY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "CaptainLance9",
+          "pin": false,
           "skip": false
         },
         {
@@ -1632,44 +1746,28 @@
             "3.19"
           ],
           "author": ""
-        },
-        {
-          "title": "Holy Relic Ascendant",
-          "url": "https://www.youtube.com/watch?v=E4NhdJhX_ZY",
-          "video": "https://www.youtube.com/watch?v=E4NhdJhX_ZY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/E4NhdJhX_ZY/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21"
-          ],
-          "author": "CaptainLance9",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Poison SRS",
-          "url": "https://www.youtube.com/watch?v=u0gscwxHa84",
-          "video": "https://www.youtube.com/watch?v=u0gscwxHa84",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/u0gscwxHa84/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/u0gscwxHa84/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/u0gscwxHa84/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21"
-          ],
-          "author": "BalorMage",
-          "pin": false,
-          "skip": false
         }
       ]
     },
     {
       "type": "misc",
       "builds": [
+        {
+          "title": "Top 3 League Starters for Min-Max Scaling in Crucible - Fast Mapping and Ubers",
+          "url": "https://www.youtube.com/watch?v=U4gqjQB9sPg",
+          "video": "https://www.youtube.com/watch?v=U4gqjQB9sPg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/U4gqjQB9sPg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/U4gqjQB9sPg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/U4gqjQB9sPg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "KobeBlackMamba",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "What's The Best \"Budget\" Crucible Starter? (Featuring @ShakCentral)",
           "url": "https://www.youtube.com/watch?v=du6yLv7V0s0",

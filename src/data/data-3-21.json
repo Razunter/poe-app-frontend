@@ -56,6 +56,22 @@
           "skip": false
         },
         {
+          "title": "BEST Melee Build Boneshatter Slayer",
+          "url": "https://maxroll.gg/poe/build-guides/boneshatter-slayer-league-starter-guide",
+          "video": "https://www.youtube.com/watch?v=uLsBQxkI4W8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/uLsBQxkI4W8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/uLsBQxkI4W8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/uLsBQxkI4W8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Tripolar Bear",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Frostblades Trickster",
           "url": "https://www.youtube.com/watch?v=WWCsK5ZJzQM",
           "video": "https://www.youtube.com/watch?v=WWCsK5ZJzQM",
@@ -298,18 +314,6 @@
           "author": "Fuzzy Duckzy"
         },
         {
-          "title": "Boneshatter Slayer - Fast Melee Mapper",
-          "url": "https://poe.maxroll.gg/build-guides/boneshatter-slayer",
-          "video": "https://www.youtube.com/watch?v=RmVn75RJDMA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/RmVn75RJDMA/hqdefault.jpg"
-          },
-          "versions": [
-            "3.19"
-          ],
-          "author": "Tripolar Bear"
-        },
-        {
           "title": "Lightning Strike Berserker",
           "url": "https://www.youtube.com/watch?v=eo9ZDPsPUgU",
           "video": "https://www.youtube.com/watch?v=eo9ZDPsPUgU",
@@ -427,6 +431,22 @@
             "480w": "https://i.ytimg.com/vi/Uw5qQjSpmIs/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/Uw5qQjSpmIs/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/Uw5qQjSpmIs/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Impending Doom Occultist",
+          "url": "https://maxroll.gg/poe/build-guides/impending-doom-occultist",
+          "video": "https://www.youtube.com/watch?v=pPw0Yalmznw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pPw0Yalmznw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pPw0Yalmznw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pPw0Yalmznw/maxresdefault.jpg"
           },
           "versions": [
             "3.21"
@@ -565,32 +585,6 @@
           "author": ""
         },
         {
-          "title": "A Solid All-Rounder League Starter - Vortex Occultist",
-          "url": "https://www.youtube.com/watch?v=f5O5B7oL-is",
-          "video": "https://www.youtube.com/watch?v=f5O5B7oL-is",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/f5O5B7oL-is/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/f5O5B7oL-is/sddefault.jpg"
-          },
-          "versions": [
-            "3.20"
-          ],
-          "author": "ds_lily"
-        },
-        {
-          "title": "Blade Blast Occultist",
-          "url": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
-          "video": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/WO1xqxPPvhc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/WO1xqxPPvhc/sddefault.jpg"
-          },
-          "versions": [
-            "3.20"
-          ],
-          "author": "ds_lily"
-        },
-        {
           "title": "Cold DoT Trickster Leaguestarter",
           "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
           "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
@@ -631,6 +625,32 @@
             "3.20"
           ],
           "author": "Chronic_Painless"
+        },
+        {
+          "title": "A Solid All-Rounder League Starter - Vortex Occultist",
+          "url": "https://www.youtube.com/watch?v=f5O5B7oL-is",
+          "video": "https://www.youtube.com/watch?v=f5O5B7oL-is",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/f5O5B7oL-is/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/f5O5B7oL-is/sddefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "ds_lily"
+        },
+        {
+          "title": "Blade Blast Occultist",
+          "url": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
+          "video": "https://www.youtube.com/watch?v=WO1xqxPPvhc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/WO1xqxPPvhc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WO1xqxPPvhc/sddefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "ds_lily"
         },
         {
           "title": "Lightning Conduit Elementalist",
@@ -833,9 +853,20 @@
           "versions": [
             "3.17",
             "3.19",
-            "3.20"
+            "3.20",
+            "3.21"
           ],
           "author": ""
+        },
+        {
+          "title": "HC SSF Forbidden Rite Pathfinder League Starter",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/12dxzmb/hc_ssf_forbidden_rite_pathfinder_league_starter/",
+          "versions": [
+            "3.21"
+          ],
+          "author": "u/Blazefire878",
+          "pin": false,
+          "skip": false
         },
         {
           "title": "Volatile Dead - CwC - Cyclone / Beginner Friendly Guide / Good Clear Speed / All Mods",
@@ -898,6 +929,22 @@
           "skip": false
         },
         {
+          "title": "Bleed Bow Champ/Glad - Too Much Fun!!! - All Content Viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/3320348",
+          "video": "https://www.youtube.com/watch?v=9TiBS7sI_Nw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Mr9Lives",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "MY LEAGUESTARTER For Crucible! - Toxic Rain Pathfinder",
           "url": "https://www.youtube.com/watch?v=W20G6bZJqR4",
           "video": "https://www.youtube.com/watch?v=W20G6bZJqR4",
@@ -910,6 +957,38 @@
             "3.21"
           ],
           "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "This BOW build is gonna be INSANE! - Lightning Arrow Champion w/ @Goratha",
+          "url": "https://www.youtube.com/watch?v=4d8mmEf0xLc",
+          "video": "https://www.youtube.com/watch?v=4d8mmEf0xLc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4d8mmEf0xLc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4d8mmEf0xLc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4d8mmEf0xLc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "My VAAL ICE SHOT League Starter",
+          "url": "https://www.youtube.com/watch?v=XjqBVCjpo0U",
+          "video": "https://www.youtube.com/watch?v=XjqBVCjpo0U",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/XjqBVCjpo0U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/XjqBVCjpo0U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/XjqBVCjpo0U/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "aer0",
           "pin": false,
           "skip": false
         },
@@ -1843,6 +1922,22 @@
       "type": "misc",
       "builds": [
         {
+          "title": "PoE Crucible - Top 10 Strongest Leaguestarter Builds",
+          "url": "https://www.youtube.com/watch?v=VC7yZ0HyNTk",
+          "video": "https://www.youtube.com/watch?v=VC7yZ0HyNTk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/VC7yZ0HyNTk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/VC7yZ0HyNTk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/VC7yZ0HyNTk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Top 3 League Starters for Min-Max Scaling in Crucible - Fast Mapping and Ubers",
           "url": "https://www.youtube.com/watch?v=U4gqjQB9sPg",
           "video": "https://www.youtube.com/watch?v=U4gqjQB9sPg",
@@ -1855,6 +1950,22 @@
             "3.21"
           ],
           "author": "KobeBlackMamba",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "POE 3.21 League Start Build Ideas - My Picks",
+          "url": "https://www.youtube.com/watch?v=_Ljo5w7Cl8M",
+          "video": "https://www.youtube.com/watch?v=_Ljo5w7Cl8M",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_Ljo5w7Cl8M/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_Ljo5w7Cl8M/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_Ljo5w7Cl8M/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "sirgog",
           "pin": false,
           "skip": false
         },

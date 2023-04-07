@@ -488,22 +488,6 @@
           "skip": false
         },
         {
-          "title": "The COOLEST Leaguestarter for Crucible! - Cold DoT Elementalist",
-          "url": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
-          "video": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/WHAUGGhJY4w/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/WHAUGGhJY4w/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/WHAUGGhJY4w/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Hydrosphere is BACK and is BETTER than EVER!",
           "url": "https://www.youtube.com/watch?v=YnBfQ2T1xoA",
           "video": "https://www.youtube.com/watch?v=YnBfQ2T1xoA",
@@ -532,6 +516,22 @@
             "3.21"
           ],
           "author": "anime princess",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The COOLEST Leaguestarter for Crucible! - Cold DoT Elementalist",
+          "url": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
+          "video": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/WHAUGGhJY4w/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WHAUGGhJY4w/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/WHAUGGhJY4w/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -585,20 +585,6 @@
           "author": ""
         },
         {
-          "title": "Cold DoT Trickster Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
-          "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/UJfWk11D98k/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/UJfWk11D98k/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/UJfWk11D98k/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.20"
-          ],
-          "author": "Zizaran"
-        },
-        {
           "title": "Hydrosphere Occultist Build Guide",
           "url": "https://www.youtube.com/watch?v=xftz0ftz_Og",
           "video": "https://www.youtube.com/watch?v=xftz0ftz_Og",
@@ -611,6 +597,20 @@
             "3.20"
           ],
           "author": "aer0"
+        },
+        {
+          "title": "Cold DoT Trickster Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
+          "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/UJfWk11D98k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UJfWk11D98k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UJfWk11D98k/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "Zizaran"
         },
         {
           "title": "Blade Vortex 3.20 League Starter Build Guide",
@@ -906,6 +906,22 @@
           "skip": false
         },
         {
+          "title": "Bleed Bow Champ/Glad - Too Much Fun!!! - All Content Viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/3320348",
+          "video": "https://www.youtube.com/watch?v=9TiBS7sI_Nw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Mr9Lives",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, fun to play",
           "url": "https://www.pathofexile.com/forum/view-thread/2551841",
           "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
@@ -925,22 +941,6 @@
             "3.21"
           ],
           "author": "thedeathbeam",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Bleed Bow Champ/Glad - Too Much Fun!!! - All Content Viable",
-          "url": "https://www.pathofexile.com/forum/view-thread/3320348",
-          "video": "https://www.youtube.com/watch?v=9TiBS7sI_Nw",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21"
-          ],
-          "author": "Mr9Lives",
           "pin": false,
           "skip": false
         },
@@ -1140,6 +1140,22 @@
     {
       "type": "totems",
       "builds": [
+        {
+          "title": "Lightning Arrow League Start Build",
+          "url": "https://docs.google.com/spreadsheets/d/10xT036rzBedf-49AAKoFVlJBwAnpksOeYs6kwef8naA/htmlview?usp=sharing",
+          "video": "https://www.youtube.com/watch?v=F28yrWqkAQ0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/F28yrWqkAQ0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/F28yrWqkAQ0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/F28yrWqkAQ0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Grimro",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "EA Ballista Elementalist 3.21 Build Update & Defensive Revamp",
           "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
@@ -1774,6 +1790,22 @@
           "skip": false
         },
         {
+          "title": "COMMAND AN ARMY with this build! - Dominating Blow Necromancer w/ @GhazzyTV",
+          "url": "https://www.youtube.com/watch?v=3WRf0NmZHes",
+          "video": "https://www.youtube.com/watch?v=3WRf0NmZHes",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3WRf0NmZHes/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3WRf0NmZHes/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3WRf0NmZHes/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Kay's Summoner + SRS Bomber / Melee SRS / Spiders / Sentinels / Animate Guardian",
           "url": "https://www.pathofexile.com/forum/view-thread/3179145",
           "video": "https://www.youtube.com/watch?v=EntDk7PVxVs",
@@ -1904,9 +1936,12 @@
           "title": "Summon Homing Missiles (SRS) Necromancer",
           "url": "https://www.pathofexile.com/forum/view-thread/3294531",
           "versions": [
-            "3.19"
+            "3.19",
+            "3.21"
           ],
-          "author": ""
+          "author": "ACGIFT",
+          "pin": false,
+          "skip": false
         },
         {
           "title": "Odif's Build Guides for Newbies: Stone Golem Elementalist",
@@ -1921,6 +1956,22 @@
     {
       "type": "misc",
       "builds": [
+        {
+          "title": "Top 10 VERY BEST League Start Builds",
+          "url": "https://www.youtube.com/watch?v=34QZ_laJbPE",
+          "video": "https://www.youtube.com/watch?v=34QZ_laJbPE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/34QZ_laJbPE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/34QZ_laJbPE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/34QZ_laJbPE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Big Ducks",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "PoE Crucible - Top 10 Strongest Leaguestarter Builds",
           "url": "https://www.youtube.com/watch?v=VC7yZ0HyNTk",

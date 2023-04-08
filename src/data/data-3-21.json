@@ -88,6 +88,22 @@
           "skip": false
         },
         {
+          "title": "The Biggest Frost Blades Trickster Buff EVER",
+          "url": "https://www.youtube.com/watch?v=NcZb860huFg",
+          "video": "https://www.youtube.com/watch?v=NcZb860huFg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/NcZb860huFg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/NcZb860huFg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/NcZb860huFg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Behind Eyes Gaming",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Boneshatter JUGG",
           "url": "https://www.youtube.com/watch?v=u86_1qW8AZQ",
           "video": "https://www.youtube.com/watch?v=u86_1qW8AZQ",
@@ -504,6 +520,22 @@
           "skip": false
         },
         {
+          "title": "The COOLEST Leaguestarter for Crucible! - Cold DoT Elementalist",
+          "url": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
+          "video": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/WHAUGGhJY4w/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WHAUGGhJY4w/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/WHAUGGhJY4w/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "3.21 CRIT SPARK",
           "url": "https://www.youtube.com/watch?v=Dz82t89F5GQ",
           "video": "https://www.youtube.com/watch?v=Dz82t89F5GQ",
@@ -520,18 +552,16 @@
           "skip": false
         },
         {
-          "title": "The COOLEST Leaguestarter for Crucible! - Cold DoT Elementalist",
-          "url": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
-          "video": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
+          "title": "Detonate Dead Elementalist",
+          "url": "https://www.youtube.com/watch?v=uJSc3OIa2RI",
+          "video": "https://www.youtube.com/watch?v=uJSc3OIa2RI",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/WHAUGGhJY4w/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/WHAUGGhJY4w/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/WHAUGGhJY4w/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/uJSc3OIa2RI/hqdefault.jpg"
           },
           "versions": [
             "3.21"
           ],
-          "author": "Zizaran",
+          "author": "ds_lily",
           "pin": false,
           "skip": false
         },
@@ -585,20 +615,6 @@
           "author": ""
         },
         {
-          "title": "Hydrosphere Occultist Build Guide",
-          "url": "https://www.youtube.com/watch?v=xftz0ftz_Og",
-          "video": "https://www.youtube.com/watch?v=xftz0ftz_Og",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/xftz0ftz_Og/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/xftz0ftz_Og/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/xftz0ftz_Og/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.20"
-          ],
-          "author": "aer0"
-        },
-        {
           "title": "Cold DoT Trickster Leaguestarter",
           "url": "https://www.youtube.com/watch?v=UJfWk11D98k",
           "video": "https://www.youtube.com/watch?v=UJfWk11D98k",
@@ -611,6 +627,20 @@
             "3.20"
           ],
           "author": "Zizaran"
+        },
+        {
+          "title": "Hydrosphere Occultist Build Guide",
+          "url": "https://www.youtube.com/watch?v=xftz0ftz_Og",
+          "video": "https://www.youtube.com/watch?v=xftz0ftz_Og",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xftz0ftz_Og/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xftz0ftz_Og/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/xftz0ftz_Og/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20"
+          ],
+          "author": "aer0"
         },
         {
           "title": "Blade Vortex 3.20 League Starter Build Guide",
@@ -856,7 +886,9 @@
             "3.20",
             "3.21"
           ],
-          "author": ""
+          "author": "CantripN",
+          "pin": false,
+          "skip": false
         },
         {
           "title": "HC SSF Forbidden Rite Pathfinder League Starter",
@@ -1141,6 +1173,17 @@
       "type": "totems",
       "builds": [
         {
+          "title": "f1rstborn's Shockwave Totem Inquisitor",
+          "url": "https://www.pathofexile.com/forum/view-thread/3281501",
+          "video": "https://youtu.be/dlAdEqMMFFo",
+          "versions": [
+            "3.19",
+            "3.20",
+            "3.21"
+          ],
+          "author": ""
+        },
+        {
           "title": "Lightning Arrow League Start Build",
           "url": "https://docs.google.com/spreadsheets/d/10xT036rzBedf-49AAKoFVlJBwAnpksOeYs6kwef8naA/htmlview?usp=sharing",
           "video": "https://www.youtube.com/watch?v=F28yrWqkAQ0",
@@ -1251,16 +1294,6 @@
           "author": "Von Vikton",
           "pin": false,
           "skip": false
-        },
-        {
-          "title": "f1rstborn's Shockwave Totem Inquisitor",
-          "url": "https://www.pathofexile.com/forum/view-thread/3281501",
-          "video": "https://youtu.be/dlAdEqMMFFo",
-          "versions": [
-            "3.19",
-            "3.20"
-          ],
-          "author": ""
         },
         {
           "title": "Artillery Ballista Raider Build Guide",
@@ -1633,11 +1666,11 @@
         {
           "title": "Dark Pact Necromancer",
           "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=XtO34CMuOkU",
+          "video": "https://www.youtube.com/watch?v=5pShdfiBxU0",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/XtO34CMuOkU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/XtO34CMuOkU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/XtO34CMuOkU/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/5pShdfiBxU0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5pShdfiBxU0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5pShdfiBxU0/maxresdefault.jpg"
           },
           "versions": [
             "3.14",
@@ -1650,6 +1683,7 @@
             "3.21"
           ],
           "author": "GhazzyTV",
+          "pin": false,
           "skip": false
         },
         {

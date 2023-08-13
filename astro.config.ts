@@ -38,7 +38,7 @@ export default defineConfig({
                   useBuiltIns: 'usage',
                   bugfixes: true,
                   corejs: {
-                    version: '3.29.1',
+                    version: '3.32.0',
                     proposals: true,
                   },
                 },

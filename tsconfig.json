@@ -10,15 +10,18 @@
       "DOM.Iterable"
     ],
     "baseUrl": ".",
-    "moduleResolution": "Node",
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
     "strict": true,
     "sourceMap": true,
     "resolveJsonModule": true,
     "importsNotUsedAsValues": "remove",
     "isolatedModules": true,
+    "verbatimModuleSyntax": true,
     "esModuleInterop": true,
     "noEmit": true,
     "noUnusedLocals": true,
+    "noFallthroughCasesInSwitch": true,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "skipLibCheck": true,
@@ -34,10 +37,10 @@
   "include": [
     "*.ts",
     "*.d.ts",
-    "./src/**/*.d.ts",
-    "./src/**/*.ts",
-    "./src/**/*.js",
-    "./src/**/*.astro"
+    "src/**/*.d.ts",
+    "src/**/*.ts",
+    "src/**/*.js",
+    "src/**/*.astro"
   ],
   "exclude": [
     "node_modules/*"

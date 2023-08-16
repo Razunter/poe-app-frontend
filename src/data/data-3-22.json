@@ -108,6 +108,22 @@
           "skip": false
         },
         {
+          "title": "My FASTEST BUILD for league start! - Boneshatter Juggernaut",
+          "url": "https://www.youtube.com/watch?v=6umedIdvgQc",
+          "video": "https://www.youtube.com/watch?v=6umedIdvgQc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6umedIdvgQc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6umedIdvgQc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6umedIdvgQc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Boneshatter Slayer Guide",
           "url": "https://www.youtube.com/watch?v=ATfD7vfcmzc",
           "video": "https://www.youtube.com/watch?v=ATfD7vfcmzc",
@@ -212,18 +228,6 @@
             "3.19"
           ],
           "author": ""
-        },
-        {
-          "title": "Spectral Helix Lightning Strike Champion",
-          "url": "https://maxroll.gg/poe/build-guides/spectral-helix-lightning-strike-champion",
-          "video": "https://www.youtube.com/watch?v=T06OhIN2mqo",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/T06OhIN2mqo/hqdefault.jpg"
-          },
-          "versions": [
-            "3.19"
-          ],
-          "author": "Crouching_Tuna"
         },
         {
           "title": "Lightning Strike Berserker",
@@ -380,18 +384,18 @@
           "skip": false
         },
         {
-          "title": "The MOST EFFICIENT Boss Killer! - Detonate Dead Elementalist",
-          "url": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
-          "video": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
+          "title": "My League Starter - Hydrosphere Occultist",
+          "url": "https://www.youtube.com/watch?v=geDoQxGWBsI",
+          "video": "https://www.youtube.com/watch?v=geDoQxGWBsI",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/YchQ3xKvhUg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/YchQ3xKvhUg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/YchQ3xKvhUg/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/geDoQxGWBsI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/geDoQxGWBsI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/geDoQxGWBsI/maxresdefault.jpg"
           },
           "versions": [
             "3.22"
           ],
-          "author": "Zizaran",
+          "author": "aer0",
           "pin": false,
           "skip": false
         },
@@ -409,23 +413,6 @@
             "3.22"
           ],
           "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Hydrosphere is BACK and is BETTER than EVER!",
-          "url": "https://www.youtube.com/watch?v=YnBfQ2T1xoA",
-          "video": "https://www.youtube.com/watch?v=YnBfQ2T1xoA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/YnBfQ2T1xoA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/YnBfQ2T1xoA/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/YnBfQ2T1xoA/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "aer0",
           "pin": false,
           "skip": false
         },
@@ -523,6 +510,22 @@
             "3.22"
           ],
           "author": "Mr9Lives",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The MOST EFFICIENT Boss Killer! - Detonate Dead Elementalist",
+          "url": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
+          "video": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/YchQ3xKvhUg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/YchQ3xKvhUg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/YchQ3xKvhUg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -684,7 +687,8 @@
             "3.17",
             "3.19",
             "3.20",
-            "3.21"
+            "3.21",
+            "3.22"
           ],
           "author": "CantripN",
           "pin": false,
@@ -787,23 +791,6 @@
           "skip": false
         },
         {
-          "title": "This BOW build is gonna be INSANE! - Lightning Arrow Champion w/ @Goratha",
-          "url": "https://www.youtube.com/watch?v=4d8mmEf0xLc",
-          "video": "https://www.youtube.com/watch?v=4d8mmEf0xLc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/4d8mmEf0xLc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/4d8mmEf0xLc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/4d8mmEf0xLc/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "THE COMFIEST Mapping Build! - Toxic Rain Pathfinder",
           "url": "https://www.youtube.com/watch?v=IQcoPRj5X1Q",
           "video": "https://www.youtube.com/watch?v=IQcoPRj5X1Q",
@@ -832,6 +819,38 @@
             "3.22"
           ],
           "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Lightning Arrow Deadeye",
+          "url": "https://www.youtube.com/watch?v=73OHVuAfIqs",
+          "video": "https://www.youtube.com/watch?v=73OHVuAfIqs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/73OHVuAfIqs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/73OHVuAfIqs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/73OHVuAfIqs/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Champion Lightning Arrow League Starter",
+          "url": "https://www.youtube.com/watch?v=JXyKhRktAVI",
+          "video": "https://www.youtube.com/watch?v=JXyKhRktAVI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JXyKhRktAVI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JXyKhRktAVI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/JXyKhRktAVI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Goratha",
           "pin": false,
           "skip": false
         },
@@ -1225,6 +1244,22 @@
       "type": "mines",
       "builds": [
         {
+          "title": "BLOW UP Bosses with this build!! - @Palsteron 's Hexblast Mines",
+          "url": "https://www.youtube.com/watch?v=duthvbnuNu8",
+          "video": "https://www.youtube.com/watch?v=duthvbnuNu8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/duthvbnuNu8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/duthvbnuNu8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/duthvbnuNu8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "WoC ignite leveling guide - low budget - how to level fire witch",
           "url": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
           "video": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
@@ -1356,11 +1391,11 @@
         {
           "title": "Tanky minion league starter - SRS Necromancer",
           "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=UQlYuQl_5gY",
+          "video": "https://www.youtube.com/watch?v=_n6G7nzvqUY",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/UQlYuQl_5gY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/UQlYuQl_5gY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/UQlYuQl_5gY/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/_n6G7nzvqUY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_n6G7nzvqUY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_n6G7nzvqUY/maxresdefault.jpg"
           },
           "versions": [
             "3.14",
@@ -1672,6 +1707,54 @@
             "3.22"
           ],
           "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "TOP 10 Minion League Starter Builds for 3.22",
+          "url": "https://www.youtube.com/watch?v=w77FmjvKLVg",
+          "video": "https://www.youtube.com/watch?v=w77FmjvKLVg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/w77FmjvKLVg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/w77FmjvKLVg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/w77FmjvKLVg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "My Top 10 Leaguestarters for 3.22 Ancestors League",
+          "url": "https://www.youtube.com/watch?v=luVnp_wuSXo",
+          "video": "https://www.youtube.com/watch?v=luVnp_wuSXo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/luVnp_wuSXo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/luVnp_wuSXo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/luVnp_wuSXo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Top 10 Best League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=0WN-HH-77ew",
+          "video": "https://www.youtube.com/watch?v=0WN-HH-77ew",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/0WN-HH-77ew/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/0WN-HH-77ew/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/0WN-HH-77ew/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Rhykker",
           "pin": false,
           "skip": false
         },

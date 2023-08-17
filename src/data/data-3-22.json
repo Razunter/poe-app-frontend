@@ -125,12 +125,12 @@
         },
         {
           "title": "Boneshatter Slayer Guide",
-          "url": "https://www.youtube.com/watch?v=ATfD7vfcmzc",
-          "video": "https://www.youtube.com/watch?v=ATfD7vfcmzc",
+          "url": "https://www.youtube.com/watch?v=9acnoIrNhfY",
+          "video": "https://www.youtube.com/watch?v=9acnoIrNhfY",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ATfD7vfcmzc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/ATfD7vfcmzc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/ATfD7vfcmzc/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/9acnoIrNhfY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9acnoIrNhfY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9acnoIrNhfY/maxresdefault.jpg"
           },
           "versions": [
             "3.22",
@@ -331,8 +331,24 @@
           "skip": false
         },
         {
+          "title": "Impending Doom Pathfinder",
+          "url": "https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter",
+          "video": "https://www.youtube.com/watch?v=aB7wL9A3hpk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/aB7wL9A3hpk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/aB7wL9A3hpk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/aB7wL9A3hpk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Storm Brand Inquisitor",
-          "url": "https://www.poe-vault.com/guides/storm-brand-inquisitor-passive-skill-tree-gem-links",
+          "url": "https://www.poe-vault.com/guides/velynas-storm-brand-inquisitor-build-guide",
           "video": "https://www.youtube.com/watch?v=I4wN7tr88HQ",
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/I4wN7tr88HQ/hqdefault.jpg",
@@ -384,18 +400,34 @@
           "skip": false
         },
         {
-          "title": "My League Starter - Hydrosphere Occultist",
-          "url": "https://www.youtube.com/watch?v=geDoQxGWBsI",
-          "video": "https://www.youtube.com/watch?v=geDoQxGWBsI",
+          "title": "The COOLEST All-Rounder Spellcaster Leaguestarter! - Cold DoT Hierophant",
+          "url": "https://www.youtube.com/watch?v=qURR5YGJEpw",
+          "video": "https://www.youtube.com/watch?v=qURR5YGJEpw",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/geDoQxGWBsI/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/geDoQxGWBsI/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/geDoQxGWBsI/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/qURR5YGJEpw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/qURR5YGJEpw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/qURR5YGJEpw/maxresdefault.jpg"
           },
           "versions": [
             "3.22"
           ],
-          "author": "aer0",
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The MOST EFFICIENT Boss Killer! - Detonate Dead Elementalist",
+          "url": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
+          "video": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/YchQ3xKvhUg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/YchQ3xKvhUg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/YchQ3xKvhUg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -413,6 +445,22 @@
             "3.22"
           ],
           "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "My League Starter - Hydrosphere Occultist",
+          "url": "https://www.youtube.com/watch?v=geDoQxGWBsI",
+          "video": "https://www.youtube.com/watch?v=geDoQxGWBsI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/geDoQxGWBsI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/geDoQxGWBsI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/geDoQxGWBsI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "aer0",
           "pin": false,
           "skip": false
         },
@@ -467,10 +515,11 @@
         },
         {
           "title": "Detonate Dead Elementalist",
-          "url": "https://www.youtube.com/watch?v=uJSc3OIa2RI",
-          "video": "https://www.youtube.com/watch?v=uJSc3OIa2RI",
+          "url": "https://www.youtube.com/watch?v=FWIqIe1YQGs",
+          "video": "https://www.youtube.com/watch?v=FWIqIe1YQGs",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/uJSc3OIa2RI/hqdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/FWIqIe1YQGs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/FWIqIe1YQGs/sddefault.jpg"
           },
           "versions": [
             "3.21",
@@ -510,22 +559,6 @@
             "3.22"
           ],
           "author": "Mr9Lives",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "The MOST EFFICIENT Boss Killer! - Detonate Dead Elementalist",
-          "url": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
-          "video": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/YchQ3xKvhUg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/YchQ3xKvhUg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/YchQ3xKvhUg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -855,12 +888,43 @@
           "skip": false
         },
         {
+          "title": "Lightning Arrow Deadeye",
+          "url": "https://www.youtube.com/watch?v=EHU7n4qOyMk",
+          "video": "https://www.youtube.com/watch?v=EHU7n4qOyMk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/EHU7n4qOyMk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/EHU7n4qOyMk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/EHU7n4qOyMk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "KobeBlackMamba",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Poison Tornado Shot",
           "url": "https://www.youtube.com/watch?v=Ss_cpQNQgaw",
           "video": "https://www.youtube.com/watch?v=Ss_cpQNQgaw",
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/Ss_cpQNQgaw/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/Ss_cpQNQgaw/sddefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "SnooBAE85",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Explosive Concoction Pathfinder",
+          "url": "https://www.youtube.com/watch?v=L42eT5UncYM",
+          "video": "https://www.youtube.com/watch?v=L42eT5UncYM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/L42eT5UncYM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/L42eT5UncYM/sddefault.jpg"
           },
           "versions": [
             "3.22"
@@ -958,7 +1022,12 @@
         {
           "title": "f1rstborn's Shockwave Totem Inquisitor",
           "url": "https://www.pathofexile.com/forum/view-thread/3281501",
-          "video": "https://youtu.be/dlAdEqMMFFo",
+          "video": "https://www.youtube.com/watch?v=dlAdEqMMFFo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dlAdEqMMFFo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dlAdEqMMFFo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dlAdEqMMFFo/maxresdefault.jpg"
+          },
           "versions": [
             "3.19",
             "3.20",
@@ -1004,6 +1073,23 @@
           "skip": false
         },
         {
+          "title": "Toxic Rain Ballista Pathfinder",
+          "url": "https://maxroll.gg/poe/build-guides/toxic-rain-ballista-pathfinder",
+          "video": "https://www.youtube.com/watch?v=KAcrchacF8g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/KAcrchacF8g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/KAcrchacF8g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/KAcrchacF8g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Artillery Ballista Raider Guide",
           "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSH98xy8uDeiROTF7rH732Ssp5bzoYdlI16-nzTBU9RHQfJFLIO3ABNehwawob7RgdK0ht4wAsTQGn5/pubhtml",
           "video": "https://www.youtube.com/watch?v=9QuAhakW64s",
@@ -1033,23 +1119,6 @@
             "3.22"
           ],
           "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Toxic Rain Ballista Pathfinder",
-          "url": "https://www.youtube.com/watch?v=KAcrchacF8g",
-          "video": "https://www.youtube.com/watch?v=KAcrchacF8g",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/KAcrchacF8g/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/KAcrchacF8g/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/KAcrchacF8g/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "Palsteron",
           "pin": false,
           "skip": false
         },
@@ -1413,30 +1482,13 @@
           "skip": false
         },
         {
-          "title": "MAGE SKELLIES ARE BACK!! - Mage Skeleton Necro Build Guide",
-          "url": "https://www.poe-vault.com/guides/mage-skeleton-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=D3hMg1BXNOo",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/D3hMg1BXNOo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/D3hMg1BXNOo/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/D3hMg1BXNOo/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "GhazzyTV",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Dark Pact Necromancer",
           "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=5pShdfiBxU0",
+          "video": "https://www.youtube.com/watch?v=maY4IiGEr2E",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/5pShdfiBxU0/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/5pShdfiBxU0/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/5pShdfiBxU0/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/maY4IiGEr2E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/maY4IiGEr2E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/maY4IiGEr2E/maxresdefault.jpg"
           },
           "versions": [
             "3.14",
@@ -1497,13 +1549,13 @@
           "skip": false
         },
         {
-          "title": "Dominating Blow Necromancer",
+          "title": "CHEAPEST STARTER EVER! - Dominating Blow Necromancer",
           "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=yNm1bko7beI",
+          "video": "https://www.youtube.com/watch?v=7MXQqbcTKXo",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/yNm1bko7beI/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/yNm1bko7beI/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/yNm1bko7beI/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/7MXQqbcTKXo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7MXQqbcTKXo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7MXQqbcTKXo/maxresdefault.jpg"
           },
           "versions": [
             "3.14",
@@ -1599,6 +1651,22 @@
             "3.22"
           ],
           "author": "CaptainLance9",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "MAGE SKELLIES ARE BACK!! - Mage Skeleton Necro Build Guide",
+          "url": "https://www.poe-vault.com/guides/mage-skeleton-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=D3hMg1BXNOo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/D3hMg1BXNOo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/D3hMg1BXNOo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/D3hMg1BXNOo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21"
+          ],
+          "author": "GhazzyTV",
           "pin": false,
           "skip": false
         },

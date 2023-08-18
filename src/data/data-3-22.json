@@ -14,6 +14,22 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Cobra Lash League Start BUFFED!",
+          "url": "https://maxroll.gg/poe/build-guides/cobra-lash-deadeye",
+          "video": "https://www.youtube.com/watch?v=LAWV_Ndl-Vo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/LAWV_Ndl-Vo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/LAWV_Ndl-Vo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/LAWV_Ndl-Vo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "The Warbringer Slaming Serker",
           "url": "https://www.pathofexile.com/forum/view-thread/2618769",
           "video": "https://www.youtube.com/watch?v=WRwc39QPbq4",
@@ -91,23 +107,6 @@
           "skip": false
         },
         {
-          "title": "Boneshatter JUGG",
-          "url": "https://www.youtube.com/watch?v=u86_1qW8AZQ",
-          "video": "https://www.youtube.com/watch?v=u86_1qW8AZQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/u86_1qW8AZQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/u86_1qW8AZQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/u86_1qW8AZQ/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "Goratha",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "My FASTEST BUILD for league start! - Boneshatter Juggernaut",
           "url": "https://www.youtube.com/watch?v=6umedIdvgQc",
           "video": "https://www.youtube.com/watch?v=6umedIdvgQc",
@@ -120,6 +119,38 @@
             "3.22"
           ],
           "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "(untested) DEFINITELY NOT A BAIT BUILD! Glacial Hammer Trauma... thing?",
+          "url": "https://www.youtube.com/watch?v=Om_cp2kEA2Y",
+          "video": "https://www.youtube.com/watch?v=Om_cp2kEA2Y",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Om_cp2kEA2Y/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Om_cp2kEA2Y/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Om_cp2kEA2Y/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Boneshatter Juggernaut",
+          "url": "https://www.youtube.com/watch?v=gYWeg5m9cHg",
+          "video": "https://www.youtube.com/watch?v=gYWeg5m9cHg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/gYWeg5m9cHg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/gYWeg5m9cHg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/gYWeg5m9cHg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Goratha",
           "pin": false,
           "skip": false
         },
@@ -559,6 +590,22 @@
             "3.22"
           ],
           "author": "Mr9Lives",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "NO BRAINER LEAGUE STARTER - Cold DoT Elementalist",
+          "url": "https://www.youtube.com/watch?v=htChHwCNBEI",
+          "video": "https://www.youtube.com/watch?v=htChHwCNBEI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/htChHwCNBEI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/htChHwCNBEI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/htChHwCNBEI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Ventrua",
           "pin": false,
           "skip": false
         },
@@ -1291,6 +1338,22 @@
           "skip": false
         },
         {
+          "title": "Just play this build already. - Righteous Fire Inquisitor by @PohxKappa",
+          "url": "https://www.youtube.com/watch?v=IcPxpJjHUA4",
+          "video": "https://www.youtube.com/watch?v=IcPxpJjHUA4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/IcPxpJjHUA4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/IcPxpJjHUA4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/IcPxpJjHUA4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "TANK and BURN EVERYTHING with this build! - @PohxKappa 's Righteous Fire Juggernaut",
           "url": "https://www.pohx.net/",
           "video": "https://www.youtube.com/watch?v=k12fp0v6g14",
@@ -1352,6 +1415,22 @@
             "480w": "https://i.ytimg.com/vi/cF3RYeF1riE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/cF3RYeF1riE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/cF3RYeF1riE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "CaptainLance9",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Pyroclast Saboteur",
+          "url": "https://www.youtube.com/watch?v=Y4PPrr_z7Qo",
+          "video": "https://www.youtube.com/watch?v=Y4PPrr_z7Qo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Y4PPrr_z7Qo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Y4PPrr_z7Qo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Y4PPrr_z7Qo/maxresdefault.jpg"
           },
           "versions": [
             "3.22"
@@ -1508,11 +1587,11 @@
         {
           "title": "Absolution Necromancer",
           "url": "https://www.poe-vault.com/guides/absolution-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=561EG6Vou1U",
+          "video": "https://www.youtube.com/watch?v=U4U3QNL1LMI",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/561EG6Vou1U/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/561EG6Vou1U/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/561EG6Vou1U/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/U4U3QNL1LMI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/U4U3QNL1LMI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/U4U3QNL1LMI/maxresdefault.jpg"
           },
           "versions": [
             "3.19",
@@ -1827,6 +1906,22 @@
           "skip": false
         },
         {
+          "title": "3.22: Which 3.21 Successful League Starters Will Still Do Well?",
+          "url": "https://www.youtube.com/watch?v=81Mw3oimCI4",
+          "video": "https://www.youtube.com/watch?v=81Mw3oimCI4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/81Mw3oimCI4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/81Mw3oimCI4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/81Mw3oimCI4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "sirgog",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Top 10 League Start Builds for Ancestor League (In My Opinion!)",
           "url": "https://www.youtube.com/watch?v=Nv4hDwiDEPc",
           "video": "https://www.youtube.com/watch?v=Nv4hDwiDEPc",
@@ -1834,6 +1929,22 @@
             "480w": "https://i.ytimg.com/vi/Nv4hDwiDEPc/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/Nv4hDwiDEPc/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/Nv4hDwiDEPc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Tenkiei",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "What's the Best Off-Meta Starter Build? (In My Opinion)",
+          "url": "https://www.youtube.com/watch?v=EE42Z_ByJNo",
+          "video": "https://www.youtube.com/watch?v=EE42Z_ByJNo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/EE42Z_ByJNo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/EE42Z_ByJNo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/EE42Z_ByJNo/maxresdefault.jpg"
           },
           "versions": [
             "3.22"

@@ -527,6 +527,22 @@
           "skip": false
         },
         {
+          "title": "WoC ignite leveling guide - low budget - how to level fire witch",
+          "url": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
+          "video": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/XHIeMS0uo7A/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/XHIeMS0uo7A/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/XHIeMS0uo7A/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Asmodeus",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "My League Starter - Hydrosphere Occultist",
           "url": "https://www.youtube.com/watch?v=geDoQxGWBsI",
           "video": "https://www.youtube.com/watch?v=geDoQxGWBsI",
@@ -1444,22 +1460,6 @@
             "3.22"
           ],
           "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "WoC ignite leveling guide - low budget - how to level fire witch",
-          "url": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
-          "video": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/XHIeMS0uo7A/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/XHIeMS0uo7A/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/XHIeMS0uo7A/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Asmodeus",
           "pin": false,
           "skip": false
         },

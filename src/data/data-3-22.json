@@ -123,6 +123,22 @@
           "skip": false
         },
         {
+          "title": "The BEST Melee League Start Build - Boneshatter Juggernaut",
+          "url": "https://www.youtube.com/watch?v=dibij0n-oiY",
+          "video": "https://www.youtube.com/watch?v=dibij0n-oiY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dibij0n-oiY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dibij0n-oiY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dibij0n-oiY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Big Ducks",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "(untested) DEFINITELY NOT A BAIT BUILD! Glacial Hammer Trauma... thing?",
           "url": "https://www.youtube.com/watch?v=Om_cp2kEA2Y",
           "video": "https://www.youtube.com/watch?v=Om_cp2kEA2Y",
@@ -473,6 +489,22 @@
           },
           "versions": [
             "3.21",
+            "3.22"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The BEST CHAOS DEGEN leaguestarter! - Impending Doom Pathfinder ft. @CrouchingTuna",
+          "url": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
+          "video": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/IwPOxiWdkZU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/IwPOxiWdkZU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/IwPOxiWdkZU/maxresdefault.jpg"
+          },
+          "versions": [
             "3.22"
           ],
           "author": "Zizaran",
@@ -852,6 +884,22 @@
             "3.22"
           ],
           "author": "thedeathbeam",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Bergerbrush's Beginner Friendly Toxic Rain Raider",
+          "url": "https://www.pathofexile.com/forum/view-thread/3357165",
+          "video": "https://www.youtube.com/watch?v=CIMjEU5UdlU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CIMjEU5UdlU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CIMjEU5UdlU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CIMjEU5UdlU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "BergerBrush",
           "pin": false,
           "skip": false
         },
@@ -1354,6 +1402,17 @@
           "skip": false
         },
         {
+          "title": "Bergerbrush's Beginner Friendly Death's Oath Occultist",
+          "url": "https://www.youtube.com/watch?v=q9twvSvEOQI",
+          "video": "https://www.pathofexile.com/forum/view-thread/3293805",
+          "versions": [
+            "3.22"
+          ],
+          "author": "BergerBrush",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "TANK and BURN EVERYTHING with this build! - @PohxKappa 's Righteous Fire Juggernaut",
           "url": "https://www.pohx.net/",
           "video": "https://www.youtube.com/watch?v=k12fp0v6g14",
@@ -1730,6 +1789,22 @@
             "3.22"
           ],
           "author": "CaptainLance9",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Become an UNDEAD ARMY COMMANDER! - Zoomancer Necromancer Summoner ft. @GhazzyTV",
+          "url": "https://www.youtube.com/watch?v=W75OKhd6PG0",
+          "video": "https://www.youtube.com/watch?v=W75OKhd6PG0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/W75OKhd6PG0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/W75OKhd6PG0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/W75OKhd6PG0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },

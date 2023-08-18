@@ -78,7 +78,7 @@
       "name": "Trial of the Ancestors",
       "compatible": [],
       "note": "Most builds are compatible with 3.21 with minor adjustments",
-      "wip": true,
+      "wip": false,
       "url": "https://www.pathofexile.com/ancestor"
     }
   ]

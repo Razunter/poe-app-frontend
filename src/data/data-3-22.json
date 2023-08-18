@@ -123,6 +123,38 @@
           "skip": false
         },
         {
+          "title": "The ULTIMATE Strike Skill Bait! - Glacial Hammer Juggernaut ft. @Goratha",
+          "url": "https://www.youtube.com/watch?v=e7uC8BQoSJY",
+          "video": "https://www.youtube.com/watch?v=e7uC8BQoSJY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/e7uC8BQoSJY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/e7uC8BQoSJY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/e7uC8BQoSJY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "An ACTUALLY NEW BUILD for leaguestart! - Corrupting Cry Champion",
+          "url": "https://www.youtube.com/watch?v=pThj9EH2gv8",
+          "video": "https://www.youtube.com/watch?v=pThj9EH2gv8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pThj9EH2gv8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pThj9EH2gv8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pThj9EH2gv8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "The BEST Melee League Start Build - Boneshatter Juggernaut",
           "url": "https://www.youtube.com/watch?v=dibij0n-oiY",
           "video": "https://www.youtube.com/watch?v=dibij0n-oiY",
@@ -479,23 +511,6 @@
           "skip": false
         },
         {
-          "title": "The COOLEST Leaguestarter for Crucible! - Cold DoT Elementalist",
-          "url": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
-          "video": "https://www.youtube.com/watch?v=WHAUGGhJY4w",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/WHAUGGhJY4w/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/WHAUGGhJY4w/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/WHAUGGhJY4w/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "The BEST CHAOS DEGEN leaguestarter! - Impending Doom Pathfinder ft. @CrouchingTuna",
           "url": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
           "video": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
@@ -524,23 +539,6 @@
             "3.22"
           ],
           "author": "aer0",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "3.21 CRIT SPARK",
-          "url": "https://www.youtube.com/watch?v=Dz82t89F5GQ",
-          "video": "https://www.youtube.com/watch?v=Dz82t89F5GQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Dz82t89F5GQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Dz82t89F5GQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Dz82t89F5GQ/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "anime princess",
           "pin": false,
           "skip": false
         },
@@ -830,6 +828,22 @@
       "type": "ranged",
       "builds": [
         {
+          "title": "Bergerbrush's Beginner Friendly Toxic Rain Raider",
+          "url": "https://www.pathofexile.com/forum/view-thread/3357165",
+          "video": "https://www.youtube.com/watch?v=CIMjEU5UdlU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CIMjEU5UdlU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CIMjEU5UdlU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CIMjEU5UdlU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "BergerBrush",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Rain of Arrows Raider",
           "url": "https://docs.google.com/document/d/1oAeAQTrZrplblEsarJdRUyktA5ijNeVFqLFSgq18VIA/edit",
           "video": "https://www.youtube.com/watch?v=8C2QsAHjCO0",
@@ -884,22 +898,6 @@
             "3.22"
           ],
           "author": "thedeathbeam",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Bergerbrush's Beginner Friendly Toxic Rain Raider",
-          "url": "https://www.pathofexile.com/forum/view-thread/3357165",
-          "video": "https://www.youtube.com/watch?v=CIMjEU5UdlU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/CIMjEU5UdlU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/CIMjEU5UdlU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/CIMjEU5UdlU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "BergerBrush",
           "pin": false,
           "skip": false
         },
@@ -1235,16 +1233,15 @@
           "skip": false
         },
         {
-          "title": "Ice Spear + Freezing Pulse Totems",
-          "url": "https://www.youtube.com/watch?v=cQGlSS7AQVQ",
-          "video": "https://www.youtube.com/watch?v=cQGlSS7AQVQ",
+          "title": "Ice Spear Freezing Pulse Totems",
+          "url": "https://www.youtube.com/watch?v=uA6ATfMkWBM",
+          "video": "https://www.youtube.com/watch?v=uA6ATfMkWBM",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/cQGlSS7AQVQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/cQGlSS7AQVQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/cQGlSS7AQVQ/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/uA6ATfMkWBM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/uA6ATfMkWBM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/uA6ATfMkWBM/maxresdefault.jpg"
           },
           "versions": [
-            "3.21",
             "3.22"
           ],
           "author": "Von Vikton",

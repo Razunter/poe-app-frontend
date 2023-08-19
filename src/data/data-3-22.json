@@ -393,39 +393,6 @@
           "skip": false
         },
         {
-          "title": "Impending Doom Occultist",
-          "url": "https://maxroll.gg/poe/build-guides/impending-doom-occultist",
-          "video": "https://www.youtube.com/watch?v=pPw0Yalmznw",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/pPw0Yalmznw/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/pPw0Yalmznw/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/pPw0Yalmznw/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "Crouching_Tuna",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Impending Doom Pathfinder",
-          "url": "https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter",
-          "video": "https://www.youtube.com/watch?v=aB7wL9A3hpk",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/aB7wL9A3hpk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/aB7wL9A3hpk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/aB7wL9A3hpk/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Crouching_Tuna",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Storm Brand Inquisitor",
           "url": "https://www.poe-vault.com/guides/velynas-storm-brand-inquisitor-build-guide",
           "video": "https://www.youtube.com/watch?v=I4wN7tr88HQ",
@@ -479,70 +446,6 @@
           "skip": false
         },
         {
-          "title": "The COOLEST All-Rounder Spellcaster Leaguestarter! - Cold DoT Hierophant",
-          "url": "https://www.youtube.com/watch?v=qURR5YGJEpw",
-          "video": "https://www.youtube.com/watch?v=qURR5YGJEpw",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/qURR5YGJEpw/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/qURR5YGJEpw/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/qURR5YGJEpw/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "The MOST EFFICIENT Boss Killer! - Detonate Dead Elementalist",
-          "url": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
-          "video": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/YchQ3xKvhUg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/YchQ3xKvhUg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/YchQ3xKvhUg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "The BEST CHAOS DEGEN leaguestarter! - Impending Doom Pathfinder ft. @CrouchingTuna",
-          "url": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
-          "video": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/IwPOxiWdkZU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/IwPOxiWdkZU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/IwPOxiWdkZU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "WoC ignite leveling guide - low budget - how to level fire witch",
-          "url": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
-          "video": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/XHIeMS0uo7A/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/XHIeMS0uo7A/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/XHIeMS0uo7A/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Asmodeus",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "My League Starter - Hydrosphere Occultist",
           "url": "https://www.youtube.com/watch?v=geDoQxGWBsI",
           "video": "https://www.youtube.com/watch?v=geDoQxGWBsI",
@@ -571,6 +474,54 @@
             "3.22"
           ],
           "author": "anime princess",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "WoC ignite leveling guide - low budget - how to level fire witch",
+          "url": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
+          "video": "https://www.youtube.com/watch?v=XHIeMS0uo7A",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/XHIeMS0uo7A/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/XHIeMS0uo7A/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/XHIeMS0uo7A/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Asmodeus",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The COOLEST All-Rounder Spellcaster Leaguestarter! - Cold DoT Hierophant",
+          "url": "https://www.youtube.com/watch?v=qURR5YGJEpw",
+          "video": "https://www.youtube.com/watch?v=qURR5YGJEpw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qURR5YGJEpw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/qURR5YGJEpw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/qURR5YGJEpw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The MOST EFFICIENT Boss Killer! - Detonate Dead Elementalist",
+          "url": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
+          "video": "https://www.youtube.com/watch?v=YchQ3xKvhUg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/YchQ3xKvhUg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/YchQ3xKvhUg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/YchQ3xKvhUg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -652,21 +603,6 @@
             "3.22"
           ],
           "author": "Ventrua",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Impending Doom Pathfinder",
-          "url": "https://www.youtube.com/watch?v=weOtadDsCYM",
-          "video": "https://www.youtube.com/watch?v=weOtadDsCYM",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/weOtadDsCYM/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/weOtadDsCYM/sddefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Void241",
           "pin": false,
           "skip": false
         },

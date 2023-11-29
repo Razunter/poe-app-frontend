@@ -32,7 +32,12 @@
       "@layouts/*": ["./src/layouts/*"],
       "@css/*": ["./src/styles/*"],
       "@img/*": ["./src/images/*"]
-    }
+    },
+    "plugins": [
+      {
+        "name": "@astrojs/ts-plugin"
+      },
+    ]
   },
   "include": [
     "*.ts",

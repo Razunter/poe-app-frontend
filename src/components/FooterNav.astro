@@ -1,10 +1,12 @@
 ---
+import { type VersionType } from '@src/types.ts'
+
 type Props = {
   versions: VersionType[]
   currentVersionNumber: string
 }
 
-const {versions, currentVersionNumber} = Astro.props as Props
+const { versions, currentVersionNumber } = Astro.props as Props
 
 const maxLinks = 3
 const cutVersions = structuredClone(versions).reverse().slice(0, maxLinks)
@@ -31,7 +33,10 @@ const navLinks = cutVersions.map((version) => {
 })
 ---
 
-<nav class="previous-links" role="navigation">
+<nav
+  class="previous-links"
+  role="navigation"
+>
   <div class="nav-description">Version:</div>
   <ul>
     {
@@ -42,7 +47,10 @@ const navLinks = cutVersions.map((version) => {
               <a href={navLink.url}>{navLink.text}</a>
             </li>
             {navLink.separator && (
-              <li class="separator" aria-hidden="true">
+              <li
+                class="separator"
+                aria-hidden="true"
+              >
                 |
               </li>
             )}

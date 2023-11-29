@@ -38,7 +38,10 @@ const process = () => {
         player.load(url, true)
         YTvids.push(player)
         YTcounter++
-      } else if (target.classList.contains('video-button--TwitchClip') || target.classList.contains('video-button--Twitch')) {
+      } else if (
+        target.classList.contains('video-button--TwitchClip') ||
+        target.classList.contains('video-button--Twitch')
+      ) {
         target.setAttribute('hidden', '')
         target.outerHTML = `<iframe src="https://player.twitch.tv/?video=v${url}&parent=${domain}" allowfullscreen="true" width="640" height="360" class="videoframe videoframe--twitch" frameborder="0"></iframe>`
       }

@@ -112,6 +112,7 @@ export default [
           rules: {
             ...generalJS,
             ...ts,
+            'canonical/filename-match-regex': 'off',
             'prettier/prettier': [
               2,
               {

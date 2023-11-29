@@ -1,11 +1,12 @@
 ---
-import Build from 'src/components/Build.astro'
+import Build from '@src/components/Build.astro'
+import { type BuildDataType, type VersionDataType } from '@src/types.ts'
 
 type Props = {
   collection: VersionDataType['buildList'][number] | undefined
 }
 
-const {collection} = Astro.props as Props
+const { collection } = Astro.props as Props
 
 const filteredBuilds: BuildDataType[] = []
 const filteredBuildsNoVideo: BuildDataType[] = []

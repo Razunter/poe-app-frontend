@@ -2,35 +2,3 @@
 /// <reference types="astro/client" />
 
 // eslint-disable-next-line unicorn/prevent-abbreviations
-type VersionDataType = {
-  types: Record<string, string>;
-  buildList: Array<{
-    type: string;
-    builds: BuildDataType[];
-  }>;
-}
-
-type BuildDataType = {
-  title: string;
-  url: string;
-  video?: string;
-  videothumb?: {
-    [key: string]: string;
-    '480w'?: string;
-    '640w'?: string;
-    '1280w'?: string;
-  };
-  versions: string[];
-  author?: string;
-  skip?: boolean;
-}
-
-type VersionType = {
-  name: string;
-  version: string;
-  wip?: boolean;
-  url?: string;
-  note?: string;
-  skiprf?: boolean;
-  compatible?: string[];
-}

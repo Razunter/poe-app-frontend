@@ -5,7 +5,8 @@ import FooterNav from '@src/components/FooterNav.astro'
 import SvgIconLink from '@src/components/SvgIconLink.astro'
 import sprite from '@src/components/svgsprite'
 import versionsData from '@src/data/versions.json'
-import type {GetStaticPathsItem} from 'astro'
+import { type VersionDataType, type VersionType } from '@src/types.ts'
+import { type GetStaticPathsItem } from 'astro'
 
 // eslint-disable-next-line func-style
 export async function getStaticPaths() {
@@ -15,9 +16,7 @@ export async function getStaticPaths() {
       return {
         params: {
           version:
-            mapVersion.version === versionsData.currentVersion
-              ? undefined
-              : 'old-' + mapVersion.version + '.html',
+            mapVersion.version === versionsData.currentVersion ? undefined : 'old-' + mapVersion.version + '.html',
         },
         props: {
           currentVersionData: mapVersion,
@@ -26,7 +25,7 @@ export async function getStaticPaths() {
     })
 }
 
-const {currentVersionData: version} = Astro.props as {
+const { currentVersionData: version } = Astro.props as {
   currentVersionData: VersionType
 }
 
@@ -34,9 +33,7 @@ const thisVersionNumber = version.version
 const title = `Path of Exile ${thisVersionNumber} «${version.name}» starter builds collection (Razunter's picks)`
 const description = `Quick preview of starter builds for Path of Exile v${thisVersionNumber} ${version.name}, collected by Razunter`
 const reformattedVersionNumber = thisVersionNumber.replaceAll('.', '-')
-const data = (await import(
-  `../data/data-${reformattedVersionNumber}.json`
-)) as VersionDataType
+const data = (await import(`../data/data-${reformattedVersionNumber}.json`)) as VersionDataType
 let currentTypes = Object.entries(data.types)
 const svgSprite = await sprite()
 
@@ -54,11 +51,7 @@ const intersection = (array: any[], ...args: any[]) => {
   })
 }
 
-const isBuildCurrent = (
-  buildVersions: string[],
-  thisPageVersion: string,
-  allVersions: VersionType[]
-) => {
+const isBuildCurrent = (buildVersions: string[], thisPageVersion: string, allVersions: VersionType[]) => {
   if (buildVersions !== undefined && Array.isArray(buildVersions)) {
     if (buildVersions.includes(thisPageVersion)) {
       return true
@@ -85,13 +78,8 @@ const filterVersionData = () => {
     })
 
     if (buildCategoryIndex !== -1) {
-      data.buildList[buildCategoryIndex].builds = data.buildList[
-        buildCategoryIndex
-      ].builds.filter((build) => {
-        return (
-          !build.skip &&
-          isBuildCurrent(build.versions, version.version, versionsData.versions)
-        )
+      data.buildList[buildCategoryIndex].builds = data.buildList[buildCategoryIndex].builds.filter((build) => {
+        return !build.skip && isBuildCurrent(build.versions, version.version, versionsData.versions)
       })
 
       if (data.buildList[buildCategoryIndex].builds.length === 0) {
@@ -110,16 +98,28 @@ const filterVersionData = () => {
 filterVersionData()
 ---
 
-<Layout title={title} description={description}>
+<Layout
+  title={title}
+  description={description}
+>
   <Fragment slot="nav">
-    <div hidden set:html={svgSprite} />
-    <nav class="mainnav" aria-label="Main navigation">
+    <div
+      hidden
+      set:html={svgSprite}
+    />
+    <nav
+      class="mainnav"
+      aria-label="Main navigation"
+    >
       <ul>
         {
           currentTypes.map(([typekey, typename]) => {
             return (
               <li>
-                <a href={'#' + typekey} title={typename}>
+                <a
+                  href={'#' + typekey}
+                  title={typename}
+                >
                   <SvgIconLink icon={typekey} />
                 </a>
               </li>
@@ -132,8 +132,7 @@ filterVersionData()
 
   <Fragment slot="header">
     <h1>
-      Path of Exile <Fragment set:html={pageHeaderVersion} /> starter builds collection
-      (Razunter's picks)
+      Path of Exile <Fragment set:html={pageHeaderVersion} /> starter builds collection (Razunter's picks)
     </h1>
     {
       (version.wip || version.note) && (
@@ -155,7 +154,10 @@ filterVersionData()
   {
     currentTypes.map(([typekey, typename]) => {
       return (
-        <section id={typekey} class="section">
+        <section
+          id={typekey}
+          class="section"
+        >
           <h2 class="section-title">
             <SvgIconLink icon={typekey} />
             {typename}
@@ -179,7 +181,10 @@ filterVersionData()
     />
     <ul class="footer-links">
       <li>
-        <a href="https://www.pathofexile.com/" target="_blank" rel="noopener"
+        <a
+          href="https://www.pathofexile.com/"
+          target="_blank"
+          rel="noopener"
           >Path of Exile</a
         >
       </li>
@@ -187,7 +192,8 @@ filterVersionData()
         Site created by Razunter. <a
           href="https://github.com/Razunter/poe-app-frontend"
           target="_blank"
-          rel="noopener">GitHub</a
+          rel="noopener"
+          >GitHub</a
         >
       </li>
     </ul>

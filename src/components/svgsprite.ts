@@ -1,8 +1,8 @@
+// eslint-disable-next-line import/no-named-as-default
 import glob from 'fast-glob'
-import fs from 'fs'
-import path from 'path'
-import type {Config} from 'svg-sprite'
-import SVGSprite from 'svg-sprite'
+import fs from 'node:fs'
+import path from 'node:path'
+import SVGSprite, { type Config } from 'svg-sprite'
 
 const cwd = path.resolve('./src/components/sprite-icons')
 const spriteConfig = {
@@ -30,16 +30,12 @@ export default async () => {
   const spriter = new SVGSprite(spriteConfig)
 
   // Get all SVG icon files in working directory
-  const files = await glob('**/*.svg', {cwd})
+  const files = await glob('**/*.svg', { cwd })
 
   // Add them all to the spriter
   for (const file of files) {
     const filePath = path.join(cwd, file)
-    spriter.add(
-      filePath,
-      null,
-      fs.readFileSync(filePath, 'utf8'),
-    )
+    spriter.add(filePath, null, fs.readFileSync(filePath, 'utf8'))
   }
 
   const compiledSprite: Map<string, Buffer> = new Map()
@@ -63,6 +59,12 @@ export default async () => {
   return compiledSprite?.get('symbol')?.toString()
 }
 
-type CompileResult = Record<string, Record<string, {
-  contents: Buffer;
-}>>
+type CompileResult = Record<
+  string,
+  Record<
+    string,
+    {
+      contents: Buffer
+    }
+  >
+>

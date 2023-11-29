@@ -56,7 +56,7 @@ h1 {
   .subtitle {
     @include rfs.font-size(2.5rem);
 
-    color: darken($text-color, 10%);
+    color: color.adjust($text-color, $lightness: -10%) ;
   }
 }
 
@@ -105,7 +105,7 @@ a {
   position: relative;
   display: flex;
 
-  @media screen and (max-height: 450px), screen and (max-width: 450px) {
+  @media screen and (height <= 450px), screen and (width <= 450px) {
     padding: 10px;
   }
 }
@@ -116,7 +116,7 @@ a {
   flex-shrink: 0;
   box-sizing: content-box;
 
-  @media screen and (max-height: 450px), screen and (max-width: 450px) {
+  @media screen and (height <= 450px), screen and (width <= 450px) {
     margin-right: 10px;
   }
 
@@ -147,7 +147,7 @@ a {
 
       display: block;
 
-      @media screen and (max-height: 450px), screen and (max-width: 450px) {
+      @media screen and (height <= 450px), screen and (width <= 450px) {
         padding: 5px;
       }
 
@@ -157,7 +157,7 @@ a {
 
         display: block;
 
-        @media screen and (max-height: 450px), screen and (max-width: 450px) {
+        @media screen and (height <= 450px), screen and (width <= 450px) {
           width: 20px;
           height: 20px;
         }
@@ -190,7 +190,7 @@ a {
   display: grid;
   grid-template-columns: 1fr;
 
-  @media screen and (min-width: 920px) {
+  @media screen and (width >= 920px) {
     grid-template-columns: 1fr 1fr;
   }
 }
@@ -203,8 +203,8 @@ a {
   height: 100%;
   display: flex;
   flex-direction: column;
-  background: lighten($background-color, 4%);
-  box-shadow: 0 0 3px rgba(lighten($background-color, 10%), 0.7), 0 0 14px rgba(lighten($background-color, 10%), 0.3);
+  background: color.adjust($background-color, $lightness: 4%);
+  box-shadow: 0 0 3px rgba(color.adjust($background-color, $lightness: 10%), 0.7), 0 0 14px rgba(color.adjust($background-color, $lightness: 10%), 0.3);
   transition: background-color 0.2s ease-in-out;
 
   // Experimental
@@ -212,7 +212,7 @@ a {
 
   &:hover,
   &:focus-within {
-    background: lighten($background-color, 6%);
+    background: color.adjust($background-color, $lightness: 6%);
   }
 
   @media screen and (prefers-reduced-motion: reduce) {
@@ -233,7 +233,7 @@ a {
     margin-top: auto;
   }
 
-  @supports not (aspect-ratio: 16/9) {
+  @supports not (aspect-ratio: 16 / 9) {
     .video-wrap {
       position: relative;
 
@@ -256,10 +256,7 @@ a {
       cursor: pointer;
       object-fit: cover;
       position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
+      inset: 0;
       width: 100%;
       height: 100%;
     }
@@ -278,7 +275,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid $text-color;
+    border: 1px solid #{$text-color};
   }
 }
 
@@ -291,7 +288,7 @@ a {
     margin-bottom: 0;
     font-size: 1.2rem;
 
-    @media screen and (min-width: 1200px) {
+    @media screen and (width >= 1200px) {
       font-size: 1.5rem;
     }
   }
@@ -351,7 +348,7 @@ footer {
 .build--novideo {
   font-size: 1.2rem;
 
-  @media screen and (min-width: 1200px) {
+  @media screen and (width >= 1200px) {
     font-size: 1.5rem;
   }
 

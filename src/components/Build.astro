@@ -1,11 +1,12 @@
 ---
+import { type BuildDataType } from '@src/types.ts'
 import IconExternal from 'src/components/IconExternal.astro'
 
 type Props = {
   build: BuildDataType
 }
 
-const {build} = Astro.props as Props
+const { build } = Astro.props as Props
 
 type VideoType = 'novideo' | 'Twitch' | 'YouTube'
 

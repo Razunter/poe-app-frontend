@@ -32,7 +32,7 @@
     "@types/vinyl": "^2.0.11",
     "@types/yt-player": "^3.5.4",
     "@typescript-eslint/parser": "^6.13.2",
-    "astro-compress": "^2.2.4",
+    "astro-compress": "2.2.3",
     "astro-purgecss": "^3.2.1",
     "astro-robots-txt": "^1.0.0",
     "browserslist": "^4.22.2",

@@ -39,13 +39,13 @@
           "skip": false
         },
         {
-          "title": "The BEST Cobra Lash Has EVER Been! League Start Massively BUFFED",
-          "url": "https://www.youtube.com/watch?v=CyqQhIvhqmg",
-          "video": "https://www.youtube.com/watch?v=CyqQhIvhqmg",
+          "title": "My BUFFED League Starter for 3.23 Affliction League! (Cobra Lash Deadeye)",
+          "url": "https://www.youtube.com/watch?v=--qxI9BQ4pQ",
+          "video": "https://www.youtube.com/watch?v=--qxI9BQ4pQ",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/CyqQhIvhqmg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/CyqQhIvhqmg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/CyqQhIvhqmg/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/--qxI9BQ4pQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/--qxI9BQ4pQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/--qxI9BQ4pQ/maxresdefault.jpg"
           },
           "versions": [
             "3.23"
@@ -344,22 +344,6 @@
             "3.19"
           ],
           "author": ""
-        },
-        {
-          "title": "My BUFFED League Starter for 3.23 Affliction League! (Cobra Lash Deadeye)",
-          "url": "https://www.youtube.com/watch?v=--qxI9BQ4pQ",
-          "video": "https://www.youtube.com/watch?v=--qxI9BQ4pQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/CyqQhIvhqmg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/CyqQhIvhqmg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/CyqQhIvhqmg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.23"
-          ],
-          "author": "aer0",
-          "pin": false,
-          "skip": false
         }
       ]
     },
@@ -382,6 +366,22 @@
             "3.23"
           ],
           "author": "Chronic_Painless",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Energy Blade CoC Inquisitor",
+          "url": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
+          "video": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/uBabE1RE8Ek/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/uBabE1RE8Ek/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/uBabE1RE8Ek/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "CaptainLance9",
           "pin": false,
           "skip": false
         },
@@ -885,17 +885,6 @@
             "3.19"
           ],
           "author": "Enki"
-        },
-        {
-          "title": "Energy Blade CoC Inquisitor",
-          "url": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
-          "video": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
-          "versions": [
-            "3.23"
-          ],
-          "author": "CaptainLance9",
-          "pin": false,
-          "skip": false
         }
       ]
     },
@@ -1223,6 +1212,22 @@
           "skip": false
         },
         {
+          "title": "This BUSTED BUILD is back! - Toxic Rain & Poison Artillery Ballista Pathfinder",
+          "url": "https://www.youtube.com/watch?v=LjF-NVzX1IA",
+          "video": "https://www.youtube.com/watch?v=LjF-NVzX1IA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/LjF-NVzX1IA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/LjF-NVzX1IA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/LjF-NVzX1IA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "f1rstborn's Shockwave Totem Inquisitor",
           "url": "https://www.pathofexile.com/forum/view-thread/3281501",
           "video": "https://www.youtube.com/watch?v=dlAdEqMMFFo",
@@ -1466,17 +1471,6 @@
           "author": "gui_orioli",
           "pin": false,
           "skip": false
-        },
-        {
-          "title": "This BUSTED BUILD is back! - Toxic Rain & Poison Artillery Ballista Pathfinder",
-          "url": "https://www.youtube.com/watch?v=LjF-NVzX1IA",
-          "video": "https://www.youtube.com/watch?v=LjF-NVzX1IA",
-          "versions": [
-            "3.23"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
         }
       ]
     },
@@ -1553,6 +1547,22 @@
     {
       "type": "mines",
       "builds": [
+        {
+          "title": "BLOW BOSSES UP on a budget! - Explosive Trap Trickster",
+          "url": "https://www.youtube.com/watch?v=LdFTo-YwUUg",
+          "video": "https://www.youtube.com/watch?v=LdFTo-YwUUg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/LdFTo-YwUUg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/LdFTo-YwUUg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/LdFTo-YwUUg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "BLOW UP Bosses with this build!! - @Palsteron 's Hexblast Mines",
           "url": "https://www.youtube.com/watch?v=duthvbnuNu8",
@@ -1685,6 +1695,22 @@
             "480w": "https://i.ytimg.com/vi/9n_MHJ8Y7dE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/9n_MHJ8Y7dE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/9n_MHJ8Y7dE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "RANGED Animate Weapon Necromancer",
+          "url": "https://www.youtube.com/watch?v=EbX8Ah-pB6k",
+          "video": "https://www.youtube.com/watch?v=EbX8Ah-pB6k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/EbX8Ah-pB6k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/EbX8Ah-pB6k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/EbX8Ah-pB6k/maxresdefault.jpg"
           },
           "versions": [
             "3.23"
@@ -2052,6 +2078,22 @@
       "type": "misc",
       "builds": [
         {
+          "title": "Nobody Knows the Top Affliction Starter Builds, here are my picks.",
+          "url": "https://www.youtube.com/watch?v=abhVPO1CHA4",
+          "video": "https://www.youtube.com/watch?v=abhVPO1CHA4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/abhVPO1CHA4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/abhVPO1CHA4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/abhVPO1CHA4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Tenkiei",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Day 3 Strongest And Most Popular League Starters",
           "url": "https://www.youtube.com/watch?v=uBhBs-EKoLQ",
           "video": "https://www.youtube.com/watch?v=uBhBs-EKoLQ",
@@ -2256,17 +2298,6 @@
             "3.21"
           ],
           "author": "u/MrMeltJr",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Nobody Knows the Top Affliction Starter Builds, here are my picks.",
-          "url": "https://www.youtube.com/watch?v=abhVPO1CHA4",
-          "video": "https://www.youtube.com/watch?v=abhVPO1CHA4",
-          "versions": [
-            "3.23"
-          ],
-          "author": "Tenkiei",
           "pin": false,
           "skip": false
         }

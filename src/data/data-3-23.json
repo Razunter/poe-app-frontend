@@ -344,6 +344,22 @@
             "3.19"
           ],
           "author": ""
+        },
+        {
+          "title": "My BUFFED League Starter for 3.23 Affliction League! (Cobra Lash Deadeye)",
+          "url": "https://www.youtube.com/watch?v=--qxI9BQ4pQ",
+          "video": "https://www.youtube.com/watch?v=--qxI9BQ4pQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CyqQhIvhqmg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CyqQhIvhqmg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CyqQhIvhqmg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false
         }
       ]
     },
@@ -869,6 +885,17 @@
             "3.19"
           ],
           "author": "Enki"
+        },
+        {
+          "title": "Energy Blade CoC Inquisitor",
+          "url": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
+          "video": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
+          "versions": [
+            "3.23"
+          ],
+          "author": "CaptainLance9",
+          "pin": false,
+          "skip": false
         }
       ]
     },
@@ -1437,6 +1464,17 @@
             "3.23"
           ],
           "author": "gui_orioli",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "This BUSTED BUILD is back! - Toxic Rain & Poison Artillery Ballista Pathfinder",
+          "url": "https://www.youtube.com/watch?v=LjF-NVzX1IA",
+          "video": "https://www.youtube.com/watch?v=LjF-NVzX1IA",
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         }
@@ -2218,6 +2256,17 @@
             "3.21"
           ],
           "author": "u/MrMeltJr",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Nobody Knows the Top Affliction Starter Builds, here are my picks.",
+          "url": "https://www.youtube.com/watch?v=abhVPO1CHA4",
+          "video": "https://www.youtube.com/watch?v=abhVPO1CHA4",
+          "versions": [
+            "3.23"
+          ],
+          "author": "Tenkiei",
           "pin": false,
           "skip": false
         }

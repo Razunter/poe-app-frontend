@@ -55,6 +55,22 @@
           "skip": false
         },
         {
+          "title": "The FASTEST leaguestarter got STRONGER?! - Boneshatter Slayer ft. @CARNDARAK",
+          "url": "https://www.youtube.com/watch?v=tEHduuJA69g",
+          "video": "https://www.youtube.com/watch?v=tEHduuJA69g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tEHduuJA69g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tEHduuJA69g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tEHduuJA69g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Cobra Lash League Start BUFFED!",
           "url": "https://maxroll.gg/poe/build-guides/cobra-lash-deadeye",
           "video": "https://www.youtube.com/watch?v=LAWV_Ndl-Vo",
@@ -1175,7 +1191,8 @@
             "3.19",
             "3.20",
             "3.21",
-            "3.22"
+            "3.22",
+            "3.23"
           ],
           "author": "fezz8386",
           "pin": false,
@@ -1688,6 +1705,158 @@
       "type": "minions",
       "builds": [
         {
+          "title": "Tanky minion league starter - SRS Necromancer",
+          "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=_n6G7nzvqUY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_n6G7nzvqUY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_n6G7nzvqUY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_n6G7nzvqUY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Dark Pact Necromancer",
+          "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=maY4IiGEr2E",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/maY4IiGEr2E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/maY4IiGEr2E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/maY4IiGEr2E/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Absolution Necromancer",
+          "url": "https://www.poe-vault.com/guides/absolution-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=U4U3QNL1LMI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/U4U3QNL1LMI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/U4U3QNL1LMI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/U4U3QNL1LMI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Poison Animate Weapon Necromancer",
+          "url": "https://www.poe-vault.com/guides/animate-weapon-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=pef1Jk-CZn8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pef1Jk-CZn8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pef1Jk-CZn8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pef1Jk-CZn8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "CHEAPEST STARTER EVER! - Dominating Blow Necromancer",
+          "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=7MXQqbcTKXo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7MXQqbcTKXo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7MXQqbcTKXo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7MXQqbcTKXo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "I'm Leaguestarting THIS! - Falling Zombies Guardian",
+          "url": "https://www.youtube.com/watch?v=ERg1CTw6WXw",
+          "video": "https://www.youtube.com/watch?v=ERg1CTw6WXw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ERg1CTw6WXw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ERg1CTw6WXw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ERg1CTw6WXw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "One of the FASTEST and SAFEST League Start Builds - Summon Raging Spirit Guardian",
+          "url": "https://www.youtube.com/watch?v=CiNz5Zo9tjc",
+          "video": "https://www.youtube.com/watch?v=CiNz5Zo9tjc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CiNz5Zo9tjc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CiNz5Zo9tjc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CiNz5Zo9tjc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Big Ducks",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Animate Weapon With BOWS?!",
           "url": "https://www.youtube.com/watch?v=9n_MHJ8Y7dE",
           "video": "https://www.youtube.com/watch?v=9n_MHJ8Y7dE",
@@ -1753,121 +1922,6 @@
             "3.22"
           ],
           "author": "Fire_Archer",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Tanky minion league starter - SRS Necromancer",
-          "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=_n6G7nzvqUY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/_n6G7nzvqUY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/_n6G7nzvqUY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/_n6G7nzvqUY/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "GhazzyTV",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Dark Pact Necromancer",
-          "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=maY4IiGEr2E",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/maY4IiGEr2E/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/maY4IiGEr2E/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/maY4IiGEr2E/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "GhazzyTV",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Absolution Necromancer",
-          "url": "https://www.poe-vault.com/guides/absolution-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=U4U3QNL1LMI",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/U4U3QNL1LMI/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/U4U3QNL1LMI/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/U4U3QNL1LMI/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "GhazzyTV",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Poison Animate Weapon Necromancer",
-          "url": "https://www.poe-vault.com/guides/animate-weapon-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=pef1Jk-CZn8",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/pef1Jk-CZn8/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/pef1Jk-CZn8/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/pef1Jk-CZn8/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "GhazzyTV",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "CHEAPEST STARTER EVER! - Dominating Blow Necromancer",
-          "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=7MXQqbcTKXo",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/7MXQqbcTKXo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/7MXQqbcTKXo/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/7MXQqbcTKXo/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "GhazzyTV",
           "pin": false,
           "skip": false
         },
@@ -2077,6 +2131,22 @@
     {
       "type": "misc",
       "builds": [
+        {
+          "title": "My Top 7 Leaguestarters for Path of Exile Affliction",
+          "url": "https://www.youtube.com/watch?v=w5MQclQBfCA",
+          "video": "https://www.youtube.com/watch?v=w5MQclQBfCA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/w5MQclQBfCA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/w5MQclQBfCA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/w5MQclQBfCA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "Nobody Knows the Top Affliction Starter Builds, here are my picks.",
           "url": "https://www.youtube.com/watch?v=abhVPO1CHA4",
@@ -2299,6 +2369,16 @@
           ],
           "author": "u/MrMeltJr",
           "pin": false,
+          "skip": false
+        },
+        {
+          "title": "3.23 Affliction League Start Build Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/18bqsnb/323_affliction_league_start_build_index/",
+          "versions": [
+            "3.23"
+          ],
+          "author": "u/NzLawless",
+          "pin": true,
           "skip": false
         }
       ]

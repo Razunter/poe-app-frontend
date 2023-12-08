@@ -85,26 +85,40 @@ if (build.videothumb?.['480w']) {
     </h3>
   </figcaption>
   <div class="video-wrap">
-    <button
-      class={`video-button video-button--${videoType}`}
-      data-video={videoID}
-      title={build.title}
-    >
-      <img
-        width="640"
-        height="480"
-        sizes="(min-width: 1800px) 790px, (min-width: 1500px) 640px, (min-width: 920px) 480px, 90vw"
-        src={dataSRC}
-        srcset={dataSRCset.join(', ')}
-        loading="lazy"
-        alt={build.title}
-        class="thumb"
-      />
-    </button>
+    {
+      videoType === 'YouTube' ? (
+        <lite-youtube
+          videoid={videoID}
+          playlabel={'Play: ' + build.title}
+          params="enablejsapi=1"
+        />
+      ) : (
+        <button
+          class={`video-button video-button--${videoType}`}
+          data-video={videoID}
+          title={build.title}
+        >
+          <img
+            width="640"
+            height="480"
+            sizes="(min-width: 1800px) 790px, (min-width: 1500px) 640px, (min-width: 920px) 480px, 90vw"
+            src={dataSRC}
+            srcset={dataSRCset.join(', ')}
+            loading="lazy"
+            alt={build.title}
+            class="thumb"
+          />
+        </button>
+      )
+    }
   </div>
 </figure>
 
 <style lang="scss">
+  lite-youtube {
+    max-width: 100%;
+  }
+
   .video-button {
     all: unset;
     display: block;

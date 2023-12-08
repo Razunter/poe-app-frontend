@@ -18,9 +18,9 @@ dependencies:
   core-js:
     specifier: ^3.34.0
     version: 3.34.0
-  events:
-    specifier: ^3.3.0
-    version: 3.3.0
+  lite-youtube-embed:
+    specifier: ^0.3.0
+    version: 0.3.0
   modern-normalize:
     specifier: ^2.0.0
     version: 2.0.0
@@ -30,9 +30,6 @@ dependencies:
   simple-scrollspy:
     specifier: ^2.4.1
     version: 2.4.1
-  yt-player:
-    specifier: ^3.6.1
-    version: 3.6.1
 
 devDependencies:
   '@astrojs/compiler':
@@ -68,9 +65,6 @@ devDependencies:
   '@types/vinyl':
     specifier: ^2.0.11
     version: 2.0.11
-  '@types/yt-player':
-    specifier: ^3.5.4
-    version: 3.5.4
   '@typescript-eslint/parser':
     specifier: ^6.13.2
     version: 6.13.2(eslint@8.55.0)(typescript@5.3.3)
@@ -3061,10 +3055,6 @@ packages:
   /@types/estree@1.0.0:
     resolution: {integrity: sha512-WulqXMDUTYAXCjZnk6JtIHPigp55cVtDgDrO2gHRwhyJto21+1zbVCtOYB2L1F9w4qCQ0rOGWBnBe0FNTiEJIQ==}
 
-  /@types/events@3.0.3:
-    resolution: {integrity: sha512-trOc4AAUThEz9hapPtSd7wf5tiQKvTtu5b371UxXdTuqzIh0ArcRspRP0i0Viu+LXstIQ1z96t1nsPxT9ol01g==}
-    dev: true
-
   /@types/expect@1.20.4:
     resolution: {integrity: sha512-Q5Vn3yjTDyCMV50TB6VRIbQNxSE4OmZR86VSbGaNpfUolm0iePBB4KdEEHmxoY5sT2+2DIvXW0rvMDP2nHZ4Mg==}
     dev: true
@@ -3151,12 +3141,6 @@ packages:
     resolution: {integrity: sha512-zdQDHKUgcX/zBc4GrwsE/7dVdAD8JR4EuiAXiiUhhfyIJXXb2+PrGshFyeXWQPMmmZ2XxgaqclgpIC7eTXc1mg==}
     dependencies:
       '@types/node': 20.10.4
-    dev: true
-
-  /@types/yt-player@3.5.4:
-    resolution: {integrity: sha512-iIW51YCC2O3yoFQm5otR/oAdWy2spNmqOTp4Hqiww+vXPb0e2mL1Ai2RTqu/2TlGfMTJgTO3AKYG/6k6G6iu6A==}
-    dependencies:
-      '@types/events': 3.0.3
     dev: true
 
   /@typescript-eslint/eslint-plugin@6.13.1(@typescript-eslint/parser@6.13.2)(eslint@8.55.0)(typescript@5.3.3):
@@ -5846,11 +5830,6 @@ packages:
   /eventemitter3@5.0.1:
     resolution: {integrity: sha512-GWkBvjiSZK87ELrYOSESUYeVIc9mvLLf/nXalMOS5dYrgZq9o5OVkbZAVM06CVxYsCwH9BDZFPlQTlPA1j4ahA==}
 
-  /events@3.3.0:
-    resolution: {integrity: sha512-mQw+2fkQbALzQ7V0MY0IqdnXNOeTtP4r0lN9z7AAawCXgqea7bDii20AYrIBrFd/Hx0M2Ocz6S111CaFkUcb0Q==}
-    engines: {node: '>=0.8.x'}
-    dev: false
-
   /execa@8.0.1:
     resolution: {integrity: sha512-VyhnebXciFV2DESc+p6B+y0LjSm0krU4OgJN44qFAhBY0TJ+1V61tYD2+wHusZ6F9n5K+vl8k0sTy7PEfV4qpg==}
     engines: {node: '>=16.17'}
@@ -7333,6 +7312,10 @@ packages:
     resolution: {integrity: sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==}
     dev: true
 
+  /lite-youtube-embed@0.3.0:
+    resolution: {integrity: sha512-3DUqE1C4s/+a8PVM4ik8anBsmHOW0zUavPyFQWugBulKyQpbZFE+/268Aq/pDNW7hRQJXkXpk4QjdSCpwf7Cvg==}
+    dev: false
+
   /load-json-file@4.0.0:
     resolution: {integrity: sha512-Kx8hMakjX03tiGTLAIdJ+lL0htKnXjEZN6hk/tozf/WOuYGdZBJrZ+rCJRbVCugsjB3jMLn9746NsQIf5VjBMw==}
     engines: {node: '>=4'}
@@ -7342,10 +7325,6 @@ packages:
       pify: 3.0.0
       strip-bom: 3.0.0
     dev: true
-
-  /load-script2@2.0.6:
-    resolution: {integrity: sha512-pyuw/AR+ycZkRKgkMyXOIf/o2OnRQPc9grjZ04wVOeoJ7SqX97WlcZahl+3/r5qi09L/5d0iCVZ0q4OqNT/v0Q==}
-    dev: false
 
   /load-yaml-file@0.2.0:
     resolution: {integrity: sha512-OfCBkGEw4nN6JLtgRidPX6QxjBQGQf72q3si2uvqyFEMbycSFFHwAZeXx6cJgFM9wmLrf9zBwCP3Ivqa+LLZPw==}
@@ -11042,12 +11021,6 @@ packages:
   /yocto-queue@1.0.0:
     resolution: {integrity: sha512-9bnSc/HEW2uRy67wc+T8UwauLuPJVn28jb+GtJY16iiKWyvmYJRXVT4UamsAEGQfPohgr2q4Tq0sQbQlxTfi1g==}
     engines: {node: '>=12.20'}
-
-  /yt-player@3.6.1:
-    resolution: {integrity: sha512-JzpR/rlB73QCSq1V7YmE0rNceuThbJhDrjb0dNSk+2QJsdFWuU6quMofUkuiiXu71P3wgzyhLuNl/Q0ZgQlbwA==}
-    dependencies:
-      load-script2: 2.0.6
-    dev: false
 
   /zod@3.22.4:
     resolution: {integrity: sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==}

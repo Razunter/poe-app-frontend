@@ -30,7 +30,6 @@
     "@types/node": "^20.10.4",
     "@types/svg-sprite": "^0.0.38",
     "@types/vinyl": "^2.0.11",
-    "@types/yt-player": "^3.5.4",
     "@typescript-eslint/parser": "^6.13.2",
     "astro-compress": "2.2.3",
     "astro-purgecss": "^4.0.0",
@@ -67,11 +66,10 @@
   "dependencies": {
     "astro": "4.0.3",
     "core-js": "^3.34.0",
-    "events": "^3.3.0",
+    "lite-youtube-embed": "^0.3.0",
     "modern-normalize": "^2.0.0",
     "rfs": "^10.0.0",
-    "simple-scrollspy": "^2.4.1",
-    "yt-player": "^3.6.1"
+    "simple-scrollspy": "^2.4.1"
   },
   "pnpm": {
     "overrides": {

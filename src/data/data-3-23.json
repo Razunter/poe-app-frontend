@@ -39,6 +39,22 @@
           "skip": false
         },
         {
+          "title": "Splitting Steel Champ",
+          "url": "https://www.pathofexile.com/forum/view-thread/3337868",
+          "video": "https://www.youtube.com/watch?v=SijqwZ6uyF0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SijqwZ6uyF0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SijqwZ6uyF0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SijqwZ6uyF0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "corosou",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "BEST Melee Build Boneshatter Slayer",
           "url": "https://maxroll.gg/poe/build-guides/boneshatter-slayer-league-starter-guide",
           "video": "https://www.youtube.com/watch?v=uLsBQxkI4W8",
@@ -236,6 +252,22 @@
     {
       "type": "caster",
       "builds": [
+        {
+          "title": "Eye of Winter Triggerbot Assassin",
+          "url": "https://www.pathofexile.com/forum/view-thread/3447790",
+          "video": "https://www.youtube.com/watch?v=m2yfXRlY1qY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/m2yfXRlY1qY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/m2yfXRlY1qY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/m2yfXRlY1qY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Atollo",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "Cold Conversion Blade Vortex Elementalist / Occultist",
           "url": "https://www.pathofexile.com/forum/view-thread/3324373",
@@ -1085,6 +1117,24 @@
       "type": "rf",
       "builds": [
         {
+          "title": "RF Inquisitor 3.23 League Starter",
+          "url": "https://www.pohx.net/",
+          "video": "https://www.youtube.com/watch?v=FLTaPLccrS8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/FLTaPLccrS8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/FLTaPLccrS8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/FLTaPLccrS8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.20",
+            "3.21",
+            "3.23"
+          ],
+          "author": "Pohx",
+          "pin": true,
+          "skip": false
+        },
+        {
           "title": "Megachonk RF Jugg | Ultra Tanky + Endgame Viable + Very good starter",
           "url": "https://www.pathofexile.com/forum/view-thread/3209778",
           "video": "https://www.youtube.com/watch?v=TAhaqmgxlWY",
@@ -1120,29 +1170,28 @@
           "author": "Zizaran",
           "pin": false,
           "skip": false
-        },
-        {
-          "title": "TANK and BURN EVERYTHING with this build! - @PohxKappa 's Righteous Fire Juggernaut",
-          "url": "https://www.pohx.net/",
-          "video": "https://www.youtube.com/watch?v=k12fp0v6g14",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/k12fp0v6g14/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/k12fp0v6g14/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/k12fp0v6g14/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.20",
-            "3.21"
-          ],
-          "author": "Pohx",
-          "pin": true,
-          "skip": false
         }
       ]
     },
     {
       "type": "mines",
       "builds": [
+        {
+          "title": "Icicle Mines / Eye of Winter Deadeye",
+          "url": "https://www.pathofexile.com/forum/view-thread/3359700",
+          "video": "https://www.youtube.com/watch?v=gDQYfbvRif8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/gDQYfbvRif8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/gDQYfbvRif8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/gDQYfbvRif8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "99prosorc",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "Hexblast Mines Saboteur",
           "url": "https://maxroll.gg/poe/build-guides/hexblast-mines-saboteur-league-starter",

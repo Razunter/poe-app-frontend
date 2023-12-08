@@ -85,8 +85,8 @@
       "version": "3.23",
       "name": "Affliction",
       "compatible": [],
-      "note": "",
-      "wip": true,
+      "note": "3.22 builds more or less compatible",
+      "wip": false,
       "url": "http://pathofexile.com/affliction"
     }
   ]

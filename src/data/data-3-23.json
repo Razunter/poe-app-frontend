@@ -656,6 +656,38 @@
           "skip": false
         },
         {
+          "title": "The FASTEST build for BLASTERS! - Lightning Arrow Deadeye ft @havoc616",
+          "url": "https://www.youtube.com/watch?v=80Zc4fuFAU4",
+          "video": "https://www.youtube.com/watch?v=80Zc4fuFAU4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/80Zc4fuFAU4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/80Zc4fuFAU4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/80Zc4fuFAU4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Another EXCELLENT Leaguestarter that got BUFFED! - Toxic Rain Pathfinder",
+          "url": "https://www.youtube.com/watch?v=GLGgnK91cYg",
+          "video": "https://www.youtube.com/watch?v=GLGgnK91cYg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GLGgnK91cYg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/GLGgnK91cYg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/GLGgnK91cYg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Bergerbrush's Beginner Friendly Toxic Rain Raider",
           "url": "https://www.pathofexile.com/forum/view-thread/3357165",
           "video": "https://www.youtube.com/watch?v=CIMjEU5UdlU",
@@ -803,6 +835,26 @@
       "type": "totems",
       "builds": [
         {
+          "title": "f1rstborn's Shockwave Totem Inquisitor",
+          "url": "https://www.pathofexile.com/forum/view-thread/3281501",
+          "video": "https://www.youtube.com/watch?v=dlAdEqMMFFo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dlAdEqMMFFo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dlAdEqMMFFo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dlAdEqMMFFo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23"
+          ],
+          "author": "",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Toxic Rain Ballista Pathfinder",
           "url": "https://maxroll.gg/poe/build-guides/toxic-rain-ballista-pathfinder",
           "video": "https://www.youtube.com/watch?v=KAcrchacF8g",
@@ -899,25 +951,6 @@
             "3.23"
           ],
           "author": "Tatiantel2",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "f1rstborn's Shockwave Totem Inquisitor",
-          "url": "https://www.pathofexile.com/forum/view-thread/3281501",
-          "video": "https://www.youtube.com/watch?v=dlAdEqMMFFo",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/dlAdEqMMFFo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/dlAdEqMMFFo/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/dlAdEqMMFFo/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "",
           "pin": false,
           "skip": false
         },
@@ -1181,6 +1214,28 @@
       "type": "minions",
       "builds": [
         {
+          "title": "Holy Relics Necromancer",
+          "url": "https://www.pathofexile.com/forum/view-thread/3002453",
+          "video": "https://www.youtube.com/watch?v=ZMpQxMQMCOo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23"
+          ],
+          "author": "Fire_Archer",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Poison Animate Weapon Necromancer",
           "url": "https://www.poe-vault.com/guides/animate-weapon-necromancer-build-guide",
           "video": "https://www.youtube.com/watch?v=pef1Jk-CZn8",
@@ -1301,6 +1356,31 @@
           "skip": false
         },
         {
+          "title": "SRS Bomber | League Start to Endgame | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
+          "video": "https://www.youtube.com/watch?v=iqB1mZ3Oh1E",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23"
+          ],
+          "author": "Weo_",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "I'm Leaguestarting THIS! - Falling Zombies Guardian",
           "url": "https://www.youtube.com/watch?v=ERg1CTw6WXw",
           "video": "https://www.youtube.com/watch?v=ERg1CTw6WXw",
@@ -1397,27 +1477,6 @@
           "skip": false
         },
         {
-          "title": "Holy Relics Necromancer",
-          "url": "https://www.pathofexile.com/forum/view-thread/3002453",
-          "video": "https://www.youtube.com/watch?v=ZMpQxMQMCOo",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "Fire_Archer",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Super solid league starter - Physical Carrion Golems",
           "url": "https://www.poe-vault.com/guides/physical-golem-necromancer-build-guide",
           "video": "https://www.youtube.com/watch?v=fYCBU_1yjzw",
@@ -1438,30 +1497,6 @@
             "3.22"
           ],
           "author": "GhazzyTV",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "SRS Bomber | League Start to Endgame | All Content",
-          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
-          "video": "https://www.youtube.com/watch?v=iqB1mZ3Oh1E",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "Weo_",
           "pin": false,
           "skip": false
         },
@@ -1545,6 +1580,22 @@
     {
       "type": "misc",
       "builds": [
+        {
+          "title": "The Top 5 BEST League Start Build Guides",
+          "url": "https://www.youtube.com/watch?v=df5q4aiFbsA",
+          "video": "https://www.youtube.com/watch?v=df5q4aiFbsA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/df5q4aiFbsA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/df5q4aiFbsA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/df5q4aiFbsA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Big Ducks",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "My Top 7 Leaguestarters for Path of Exile Affliction",
           "url": "https://www.youtube.com/watch?v=w5MQclQBfCA",

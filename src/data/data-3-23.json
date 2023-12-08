@@ -239,7 +239,7 @@
         {
           "title": "Cold Conversion Blade Vortex Elementalist / Occultist",
           "url": "https://www.pathofexile.com/forum/view-thread/3324373",
-          "video": "https://www.youtube.com/watch?v=k0bRyRn2A2M&t=77",
+          "video": "https://www.youtube.com/watch?v=k0bRyRn2A2M",
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/k0bRyRn2A2M/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/k0bRyRn2A2M/sddefault.jpg",
@@ -946,6 +946,22 @@
             "480w": "https://i.ytimg.com/vi/B7jyz5uFiXo/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/B7jyz5uFiXo/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/B7jyz5uFiXo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Tatiantel2",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Divine Ire Totems Guide with Leveling Guide - new Transfigured Gem is Extremely Powerful!",
+          "url": "https://www.youtube.com/watch?v=OSTsVbVIf4g",
+          "video": "https://www.youtube.com/watch?v=OSTsVbVIf4g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OSTsVbVIf4g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OSTsVbVIf4g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OSTsVbVIf4g/maxresdefault.jpg"
           },
           "versions": [
             "3.23"

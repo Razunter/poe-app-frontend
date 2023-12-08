@@ -67,6 +67,7 @@
   "dependencies": {
     "astro": "4.0.3",
     "core-js": "^3.34.0",
+    "events": "^3.3.0",
     "modern-normalize": "^2.0.0",
     "rfs": "^10.0.0",
     "simple-scrollspy": "^2.4.1",

@@ -14,6 +14,22 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Splitting Steel Champ",
+          "url": "https://www.pathofexile.com/forum/view-thread/3337868",
+          "video": "https://www.youtube.com/watch?v=SijqwZ6uyF0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SijqwZ6uyF0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SijqwZ6uyF0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SijqwZ6uyF0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "corosou",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "The Warbringer Slaming Serker",
           "url": "https://www.pathofexile.com/forum/view-thread/2618769",
           "video": "https://www.youtube.com/watch?v=WRwc39QPbq4",
@@ -39,18 +55,23 @@
           "skip": false
         },
         {
-          "title": "Splitting Steel Champ",
-          "url": "https://www.pathofexile.com/forum/view-thread/3337868",
-          "video": "https://www.youtube.com/watch?v=SijqwZ6uyF0",
+          "title": "Versatile Combatant Impale Shield Crush Slayer",
+          "url": "https://www.pathofexile.com/forum/view-thread/3148278",
+          "video": "https://www.youtube.com/watch?v=D1TdadlpDDw",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/SijqwZ6uyF0/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/SijqwZ6uyF0/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/SijqwZ6uyF0/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/D1TdadlpDDw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/D1TdadlpDDw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/D1TdadlpDDw/maxresdefault.jpg"
           },
           "versions": [
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
             "3.23"
           ],
-          "author": "corosou",
+          "author": "OMFGaTaco",
           "pin": false,
           "skip": false
         },
@@ -117,26 +138,6 @@
             "3.22"
           ],
           "author": "aer0",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Versatile Combatant Impale Shield Crush Slayer",
-          "url": "https://www.pathofexile.com/forum/view-thread/3148278",
-          "video": "https://www.youtube.com/watch?v=D1TdadlpDDw",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/D1TdadlpDDw/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/D1TdadlpDDw/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/D1TdadlpDDw/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.18",
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22"
-          ],
-          "author": "OMFGaTaco",
           "pin": false,
           "skip": false
         },
@@ -326,6 +327,22 @@
           "skip": false
         },
         {
+          "title": "This skill DELETES the early game! - Lightning Conduit Elementalist",
+          "url": "https://www.youtube.com/watch?v=8m3L8l0L730",
+          "video": "https://www.youtube.com/watch?v=8m3L8l0L730",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/8m3L8l0L730/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/8m3L8l0L730/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/8m3L8l0L730/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Energy Blade CoC Inquisitor",
           "url": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
           "video": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
@@ -342,20 +359,6 @@
           "skip": false
         },
         {
-          "title": "Vaal Flameblast Ignite (All-Rounder) Elementalist League Start Guide",
-          "url": "https://www.youtube.com/watch?v=owmCBZN9jjU",
-          "video": "https://www.youtube.com/watch?v=owmCBZN9jjU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/owmCBZN9jjU/hqdefault.jpg"
-          },
-          "versions": [
-            "3.23"
-          ],
-          "author": "jungroan",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Frostblink Ignite League Starter (update)",
           "url": "https://www.youtube.com/watch?v=g9R8H4IM2lk",
           "video": "https://www.youtube.com/watch?v=g9R8H4IM2lk",
@@ -368,6 +371,20 @@
             "3.23"
           ],
           "author": "subtractem",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Vaal Flameblast Ignite (All-Rounder) Elementalist League Start Guide",
+          "url": "https://www.youtube.com/watch?v=owmCBZN9jjU",
+          "video": "https://www.youtube.com/watch?v=owmCBZN9jjU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/owmCBZN9jjU/hqdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "jungroan",
           "pin": false,
           "skip": false
         },
@@ -463,6 +480,39 @@
           "skip": false
         },
         {
+          "title": "Blade Vortex",
+          "url": "https://www.youtube.com/watch?v=zOFwMf85pNU",
+          "video": "https://www.youtube.com/watch?v=zOFwMf85pNU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/zOFwMf85pNU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/zOFwMf85pNU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/zOFwMf85pNU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Chronic_Painless",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Goratha's SPARK Inquisitor",
+          "url": "https://www.youtube.com/watch?v=7gulkw3MquU",
+          "video": "https://www.youtube.com/watch?v=7gulkw3MquU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7gulkw3MquU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7gulkw3MquU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7gulkw3MquU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "The BEST CHAOS DEGEN leaguestarter! - Impending Doom Pathfinder ft. @CrouchingTuna",
           "url": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
           "video": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
@@ -507,39 +557,6 @@
             "3.22"
           ],
           "author": "anime princess",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Blade Vortex",
-          "url": "https://www.youtube.com/watch?v=zOFwMf85pNU",
-          "video": "https://www.youtube.com/watch?v=zOFwMf85pNU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/zOFwMf85pNU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/zOFwMf85pNU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/zOFwMf85pNU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Chronic_Painless",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Goratha's SPARK Inquisitor",
-          "url": "https://www.youtube.com/watch?v=7gulkw3MquU",
-          "video": "https://www.youtube.com/watch?v=7gulkw3MquU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/7gulkw3MquU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/7gulkw3MquU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/7gulkw3MquU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "Goratha",
           "pin": false,
           "skip": false
         },
@@ -711,6 +728,22 @@
             "480w": "https://i.ytimg.com/vi/GLGgnK91cYg/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/GLGgnK91cYg/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/GLGgnK91cYg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "This new POISON TECH is SO BUSTED! - Poison Caustic Arrow Pathfinder ft. @Goratha",
+          "url": "https://www.youtube.com/watch?v=C_3g3dmKEq8",
+          "video": "https://www.youtube.com/watch?v=C_3g3dmKEq8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/C_3g3dmKEq8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/C_3g3dmKEq8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/C_3g3dmKEq8/maxresdefault.jpg"
           },
           "versions": [
             "3.23"
@@ -1221,6 +1254,22 @@
             "3.23"
           ],
           "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "My League Starter: Exsang Mines",
+          "url": "https://www.youtube.com/watch?v=VzqFAPgq_hg",
+          "video": "https://www.youtube.com/watch?v=VzqFAPgq_hg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/VzqFAPgq_hg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/VzqFAPgq_hg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/VzqFAPgq_hg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Crouching_Tuna",
           "pin": false,
           "skip": false
         },

@@ -23,7 +23,8 @@
             "1280w": "https://i.ytimg.com/vi/SijqwZ6uyF0/maxresdefault.jpg"
           },
           "versions": [
-            "3.23"
+            "3.23",
+            "3.24"
           ],
           "author": "corosou",
           "pin": false,
@@ -142,6 +143,22 @@
           "skip": false
         },
         {
+          "title": "The ULTIMATE Strike Skill Bait! - Glacial Hammer Juggernaut ft. @Goratha",
+          "url": "https://www.youtube.com/watch?v=e7uC8BQoSJY",
+          "video": "https://www.youtube.com/watch?v=e7uC8BQoSJY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/e7uC8BQoSJY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/e7uC8BQoSJY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/e7uC8BQoSJY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Frost Blades Trickster",
           "url": "https://www.youtube.com/watch?v=sUNlD7RflHQ",
           "video": "https://www.youtube.com/watch?v=sUNlD7RflHQ",
@@ -170,22 +187,6 @@
             "3.22"
           ],
           "author": "Goratha",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "The ULTIMATE Strike Skill Bait! - Glacial Hammer Juggernaut ft. @Goratha",
-          "url": "https://www.youtube.com/watch?v=e7uC8BQoSJY",
-          "video": "https://www.youtube.com/watch?v=e7uC8BQoSJY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/e7uC8BQoSJY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/e7uC8BQoSJY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/e7uC8BQoSJY/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -253,6 +254,22 @@
     {
       "type": "caster",
       "builds": [
+        {
+          "title": "Wave of Conviction | Elementalist",
+          "url": "https://www.youtube.com/watch?v=K7e5daEax3Y",
+          "video": "https://www.youtube.com/watch?v=K7e5daEax3Y",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/K7e5daEax3Y/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/K7e5daEax3Y/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/K7e5daEax3Y/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "TheMehmetBozlak",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "Eye of Winter Triggerbot Assassin",
           "url": "https://www.pathofexile.com/forum/view-thread/3447790",
@@ -480,39 +497,6 @@
           "skip": false
         },
         {
-          "title": "Blade Vortex",
-          "url": "https://www.youtube.com/watch?v=zOFwMf85pNU",
-          "video": "https://www.youtube.com/watch?v=zOFwMf85pNU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/zOFwMf85pNU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/zOFwMf85pNU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/zOFwMf85pNU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Chronic_Painless",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Goratha's SPARK Inquisitor",
-          "url": "https://www.youtube.com/watch?v=7gulkw3MquU",
-          "video": "https://www.youtube.com/watch?v=7gulkw3MquU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/7gulkw3MquU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/7gulkw3MquU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/7gulkw3MquU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "Goratha",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "The BEST CHAOS DEGEN leaguestarter! - Impending Doom Pathfinder ft. @CrouchingTuna",
           "url": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
           "video": "https://www.youtube.com/watch?v=IwPOxiWdkZU",
@@ -557,6 +541,39 @@
             "3.22"
           ],
           "author": "anime princess",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Blade Vortex",
+          "url": "https://www.youtube.com/watch?v=zOFwMf85pNU",
+          "video": "https://www.youtube.com/watch?v=zOFwMf85pNU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/zOFwMf85pNU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/zOFwMf85pNU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/zOFwMf85pNU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Chronic_Painless",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Goratha's SPARK Inquisitor",
+          "url": "https://www.youtube.com/watch?v=7gulkw3MquU",
+          "video": "https://www.youtube.com/watch?v=7gulkw3MquU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7gulkw3MquU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7gulkw3MquU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7gulkw3MquU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22"
+          ],
+          "author": "Goratha",
           "pin": false,
           "skip": false
         },
@@ -637,17 +654,6 @@
             "3.21"
           ],
           "author": "u/Blazefire878",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Wave of Conviction | Elementalist",
-          "url": "https://www.youtube.com/watch?v=K7e5daEax3Y",
-          "video": "https://www.youtube.com/watch?v=K7e5daEax3Y",
-          "versions": [
-            "3.24"
-          ],
-          "author": "TheMehmetBozlak",
           "pin": false,
           "skip": false
         }
@@ -1149,7 +1155,8 @@
             "3.20",
             "3.21",
             "3.22",
-            "3.23"
+            "3.23",
+            "3.24"
           ],
           "author": "gui_orioli",
           "pin": false,
@@ -1230,7 +1237,8 @@
             "1280w": "https://i.ytimg.com/vi/gDQYfbvRif8/maxresdefault.jpg"
           },
           "versions": [
-            "3.23"
+            "3.23",
+            "3.24"
           ],
           "author": "99prosorc",
           "pin": false,

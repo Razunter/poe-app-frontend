@@ -1,10 +1,8 @@
-// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-// @ts-expect-error
 import scrollSpy from 'simple-scrollspy'
 
 const domain = 'raz-poebuilds.netlify.app'
 
-const pauseVideos = (clickedVideo) => {
+const pauseVideos = (clickedVideo: HTMLIFrameElement | null) => {
   const videos = document.querySelectorAll<HTMLIFrameElement>('lite-youtube iframe')
   for (const video of videos) {
     if (video !== clickedVideo) {

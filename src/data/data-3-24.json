@@ -49,9 +49,26 @@
             "3.20",
             "3.21",
             "3.22",
-            "3.23"
+            "3.23",
+            "3.24"
           ],
           "author": "frawrst",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Champion Lightning Strike",
+          "url": "https://www.youtube.com/watch?v=otbXbijalgw",
+          "video": "https://www.youtube.com/watch?v=otbXbijalgw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/otbXbijalgw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/otbXbijalgw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/otbXbijalgw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Fuzzy Duckzy",
           "pin": false,
           "skip": false
         },
@@ -255,6 +272,38 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Cold Blade Vortex Occultist",
+          "url": "https://www.youtube.com/watch?v=llD2TjohzRo",
+          "video": "https://www.youtube.com/watch?v=llD2TjohzRo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/llD2TjohzRo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/llD2TjohzRo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/llD2TjohzRo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Exiled Cat",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Blade Vortex Pathfinder",
+          "url": "https://www.youtube.com/watch?v=oUHcmqrrWsc",
+          "video": "https://www.youtube.com/watch?v=oUHcmqrrWsc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/oUHcmqrrWsc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/oUHcmqrrWsc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/oUHcmqrrWsc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Lolcohol",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Wave of Conviction | Elementalist",
           "url": "https://www.youtube.com/watch?v=K7e5daEax3Y",
           "video": "https://www.youtube.com/watch?v=K7e5daEax3Y",
@@ -344,22 +393,6 @@
           "skip": false
         },
         {
-          "title": "This skill DELETES the early game! - Lightning Conduit Elementalist",
-          "url": "https://www.youtube.com/watch?v=8m3L8l0L730",
-          "video": "https://www.youtube.com/watch?v=8m3L8l0L730",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/8m3L8l0L730/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/8m3L8l0L730/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/8m3L8l0L730/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.23"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Energy Blade CoC Inquisitor",
           "url": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
           "video": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
@@ -372,6 +405,22 @@
             "3.23"
           ],
           "author": "CaptainLance9",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "This skill DELETES the early game! - Lightning Conduit Elementalist",
+          "url": "https://www.youtube.com/watch?v=8m3L8l0L730",
+          "video": "https://www.youtube.com/watch?v=8m3L8l0L730",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/8m3L8l0L730/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/8m3L8l0L730/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/8m3L8l0L730/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -663,6 +712,22 @@
       "type": "ranged",
       "builds": [
         {
+          "title": "Lab/Heist Runner - Toxic Rain Pathfinder",
+          "url": "https://www.youtube.com/watch?v=kA14_BaTH7M",
+          "video": "https://www.youtube.com/watch?v=kA14_BaTH7M",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/kA14_BaTH7M/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/kA14_BaTH7M/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/kA14_BaTH7M/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Soro",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Lightning Arrow Deadeye",
           "url": "https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter",
           "video": "https://www.youtube.com/watch?v=d-lBTjQsUo4",
@@ -905,7 +970,8 @@
             "3.20",
             "3.21",
             "3.22",
-            "3.23"
+            "3.23",
+            "3.24"
           ],
           "author": "fezz8386",
           "pin": false,
@@ -916,6 +982,38 @@
     {
       "type": "totems",
       "builds": [
+        {
+          "title": "Hybrid MoM Storm Burst Hierophant",
+          "url": "https://www.youtube.com/watch?v=D-RdqZgpD-Q",
+          "video": "https://www.youtube.com/watch?v=D-RdqZgpD-Q",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/D-RdqZgpD-Q/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/D-RdqZgpD-Q/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/D-RdqZgpD-Q/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Raychich",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Toxic Rain Build",
+          "url": "https://www.youtube.com/watch?v=JuQ2r8HUpEY",
+          "video": "https://www.youtube.com/watch?v=JuQ2r8HUpEY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JuQ2r8HUpEY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JuQ2r8HUpEY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/JuQ2r8HUpEY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "TheMehmetBozlak",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "f1rstborn's Shockwave Totem Inquisitor",
           "url": "https://www.pathofexile.com/forum/view-thread/3281501",

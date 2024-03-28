@@ -93,22 +93,6 @@
           "skip": false
         },
         {
-          "title": "Splitting Steel Trickster",
-          "url": "https://www.youtube.com/watch?v=8qZPhvuXs-s",
-          "video": "https://www.youtube.com/watch?v=8qZPhvuXs-s",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/8qZPhvuXs-s/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/8qZPhvuXs-s/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/8qZPhvuXs-s/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.24"
-          ],
-          "author": "Allie",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Champion Lightning Strike",
           "url": "https://www.youtube.com/watch?v=otbXbijalgw",
           "video": "https://www.youtube.com/watch?v=otbXbijalgw",
@@ -229,6 +213,27 @@
     {
       "type": "caster",
       "builds": [
+        {
+          "title": "Storm Brand Inquisitor",
+          "url": "https://www.poe-vault.com/guides/velynas-storm-brand-inquisitor-build-guide",
+          "video": "https://www.youtube.com/watch?v=I4wN7tr88HQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/I4wN7tr88HQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/I4wN7tr88HQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/I4wN7tr88HQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "Velyna",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "The STRONGEST build got STRONGER! - Detonate Dead Leaguestarter ft. @imexile3332",
           "url": "https://www.youtube.com/watch?v=FdzzesMof4Y",
@@ -420,26 +425,6 @@
             "3.23"
           ],
           "author": "Chronic_Painless",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Storm Brand Inquisitor",
-          "url": "https://www.poe-vault.com/guides/velynas-storm-brand-inquisitor-build-guide",
-          "video": "https://www.youtube.com/watch?v=I4wN7tr88HQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/I4wN7tr88HQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/I4wN7tr88HQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/I4wN7tr88HQ/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22",
-            "3.23"
-          ],
-          "author": "Velyna",
           "pin": false,
           "skip": false
         },
@@ -1171,6 +1156,22 @@
           "skip": false
         },
         {
+          "title": "Ice Trap of Hollowness Trickster",
+          "url": "https://maxroll.gg/poe/build-guides/league-starter/ice-trap-trickster-league-starter",
+          "video": "https://www.youtube.com/watch?v=sTlQv2vyyD4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/sTlQv2vyyD4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/sTlQv2vyyD4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/sTlQv2vyyD4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Hexblast Mines Saboteur",
           "url": "https://maxroll.gg/poe/build-guides/hexblast-mines-saboteur-league-starter",
           "video": "https://www.youtube.com/watch?v=YajFdm6VdcM",
@@ -1184,6 +1185,22 @@
             "3.24"
           ],
           "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "OUTSTANDING Boss Damage without ANY uniques! - Explosive Trap Trickster",
+          "url": "https://www.youtube.com/watch?v=FqtAFfLVnn8",
+          "video": "https://www.youtube.com/watch?v=FqtAFfLVnn8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/FqtAFfLVnn8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/FqtAFfLVnn8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/FqtAFfLVnn8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -1215,6 +1232,22 @@
             "3.24"
           ],
           "author": "subtractem",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Hexblast Trickster",
+          "url": "https://www.youtube.com/watch?v=OkmlNkjsZTI",
+          "video": "https://www.youtube.com/watch?v=OkmlNkjsZTI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OkmlNkjsZTI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OkmlNkjsZTI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OkmlNkjsZTI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Ventrua",
           "pin": false,
           "skip": false
         },
@@ -1429,7 +1462,8 @@
             "3.20",
             "3.21",
             "3.22",
-            "3.23"
+            "3.23",
+            "3.24"
           ],
           "author": "GhazzyTV",
           "pin": false,

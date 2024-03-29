@@ -93,6 +93,22 @@
           "skip": false
         },
         {
+          "title": "Shad's Molten Strike Champion, A Melee Build League Starter I Actually Like",
+          "url": "https://www.youtube.com/watch?v=gP9UOdn6VWE",
+          "video": "https://www.youtube.com/watch?v=gP9UOdn6VWE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/gP9UOdn6VWE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/gP9UOdn6VWE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/gP9UOdn6VWE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Champion Lightning Strike",
           "url": "https://www.youtube.com/watch?v=otbXbijalgw",
           "video": "https://www.youtube.com/watch?v=otbXbijalgw",
@@ -121,6 +137,21 @@
             "3.24"
           ],
           "author": "Ronarray",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Rage Vortex Berserker",
+          "url": "https://www.youtube.com/watch?v=lY5HVssoC7g",
+          "video": "https://www.youtube.com/watch?v=lY5HVssoC7g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lY5HVssoC7g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lY5HVssoC7g/sddefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Taaki",
           "pin": false,
           "skip": false
         },
@@ -235,6 +266,25 @@
           "skip": false
         },
         {
+          "title": "Corrupting Fever Champion",
+          "url": "https://maxroll.gg/poe/build-guides/corrupting-fever-champion-league-starter-guide",
+          "video": "https://www.youtube.com/watch?v=HMFwMxY_4pg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/HMFwMxY_4pg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/HMFwMxY_4pg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/HMFwMxY_4pg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "Tripolar Bear",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "The STRONGEST build got STRONGER! - Detonate Dead Leaguestarter ft. @imexile3332",
           "url": "https://www.youtube.com/watch?v=FdzzesMof4Y",
           "video": "https://www.youtube.com/watch?v=FdzzesMof4Y",
@@ -242,6 +292,38 @@
             "480w": "https://i.ytimg.com/vi/FdzzesMof4Y/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/FdzzesMof4Y/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/FdzzesMof4Y/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "This build goes through maps LIKE BUTTER! - Wave of Conviction Elementalist",
+          "url": "https://www.youtube.com/watch?v=gKQ6nwRYEGU",
+          "video": "https://www.youtube.com/watch?v=gKQ6nwRYEGU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/gKQ6nwRYEGU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/gKQ6nwRYEGU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/gKQ6nwRYEGU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "HUGE DPS and TANKS EVERYTHING!! - Archmage Ice Nova of Frostbolts Hierophant ft. @Goratha",
+          "url": "https://www.youtube.com/watch?v=9lZmy1RmOZ4",
+          "video": "https://www.youtube.com/watch?v=9lZmy1RmOZ4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9lZmy1RmOZ4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9lZmy1RmOZ4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9lZmy1RmOZ4/maxresdefault.jpg"
           },
           "versions": [
             "3.24"
@@ -429,24 +511,6 @@
           "skip": false
         },
         {
-          "title": "Corrupting Fever Champion",
-          "url": "https://maxroll.gg/poe/build-guides/corrupting-fever-champion-league-starter-guide",
-          "video": "https://www.youtube.com/watch?v=HMFwMxY_4pg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/HMFwMxY_4pg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/HMFwMxY_4pg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/HMFwMxY_4pg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22",
-            "3.23"
-          ],
-          "author": "Tripolar Bear",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Energy Blade CoC Inquisitor",
           "url": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
           "video": "https://www.youtube.com/watch?v=uBabE1RE8Ek",
@@ -568,22 +632,6 @@
           "skip": false
         },
         {
-          "title": "The COOLEST All-Rounder Spellcaster Leaguestarter! - Cold DoT Hierophant",
-          "url": "https://www.youtube.com/watch?v=qURR5YGJEpw",
-          "video": "https://www.youtube.com/watch?v=qURR5YGJEpw",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/qURR5YGJEpw/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/qURR5YGJEpw/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/qURR5YGJEpw/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Blade Vortex",
           "url": "https://www.youtube.com/watch?v=zOFwMf85pNU",
           "video": "https://www.youtube.com/watch?v=zOFwMf85pNU",
@@ -596,6 +644,22 @@
             "3.22"
           ],
           "author": "Chronic_Painless",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The COOLEST All-Rounder Spellcaster Leaguestarter! - Cold DoT Hierophant",
+          "url": "https://www.youtube.com/watch?v=qURR5YGJEpw",
+          "video": "https://www.youtube.com/watch?v=qURR5YGJEpw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qURR5YGJEpw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/qURR5YGJEpw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/qURR5YGJEpw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -877,6 +941,25 @@
           "skip": false
         },
         {
+          "title": "Explosive Arrow Ballista Elementalist",
+          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
+          "video": "https://www.youtube.com/watch?v=wryibKVQ-6g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/wryibKVQ-6g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/wryibKVQ-6g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/wryibKVQ-6g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Explosive Arrow Champion",
           "url": "https://www.youtube.com/watch?v=7i4sJYUpU80",
           "video": "https://www.youtube.com/watch?v=7i4sJYUpU80",
@@ -905,6 +988,22 @@
             "3.24"
           ],
           "author": "Raychich",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Explosive Arrow Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=JXtvAleioLE",
+          "video": "https://www.youtube.com/watch?v=JXtvAleioLE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JXtvAleioLE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JXtvAleioLE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/JXtvAleioLE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Soro",
           "pin": false,
           "skip": false
         },
@@ -941,24 +1040,6 @@
             "3.23"
           ],
           "author": "",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Explosive Arrow Ballista Elementalist",
-          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
-          "video": "https://www.youtube.com/watch?v=wryibKVQ-6g",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/wryibKVQ-6g/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/wryibKVQ-6g/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/wryibKVQ-6g/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22",
-            "3.23"
-          ],
-          "author": "Palsteron",
           "pin": false,
           "skip": false
         },
@@ -1168,6 +1249,22 @@
             "3.24"
           ],
           "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Exsanguinate Miner Trickster",
+          "url": "https://maxroll.gg/poe/build-guides/exsanguinate-miner-trickster-league-starter",
+          "video": "https://www.youtube.com/watch?v=zTTixqnBUyc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/zTTixqnBUyc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/zTTixqnBUyc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/zTTixqnBUyc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Crouching_Tuna",
           "pin": false,
           "skip": false
         },
@@ -1470,6 +1567,22 @@
           "skip": false
         },
         {
+          "title": "Zoomancer Necromancer",
+          "url": "https://www.poe-vault.com/guides/zoomancer-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=0f2t3HARtWU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/0f2t3HARtWU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/0f2t3HARtWU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/0f2t3HARtWU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "SRS Bomber | League Start to Endgame | All Content",
           "url": "https://www.pathofexile.com/forum/view-thread/2995833",
           "video": "https://www.youtube.com/watch?v=iqB1mZ3Oh1E",
@@ -1488,9 +1601,26 @@
             "3.20",
             "3.21",
             "3.22",
-            "3.23"
+            "3.23",
+            "3.24"
           ],
           "author": "Weo_",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "ABSOLUTION Guardian League Starter Build IN DEPTH",
+          "url": "https://www.youtube.com/watch?v=iDlPkLObgg4",
+          "video": "https://www.youtube.com/watch?v=iDlPkLObgg4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iDlPkLObgg4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iDlPkLObgg4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iDlPkLObgg4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Ronarray",
           "pin": false,
           "skip": false
         },
@@ -1615,6 +1745,22 @@
       "type": "misc",
       "builds": [
         {
+          "title": "TOP 5 League Start Build Guides for Path of Exile 3.24 Necropolis League",
+          "url": "https://www.youtube.com/watch?v=4JLcckNeu6I",
+          "video": "https://www.youtube.com/watch?v=4JLcckNeu6I",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4JLcckNeu6I/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4JLcckNeu6I/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4JLcckNeu6I/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Big Ducks",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "5 GREAT League Starters Builds for Path of Exile 3.24 Necropolis",
           "url": "https://www.youtube.com/watch?v=yJ2wiSPwkaw",
           "video": "https://www.youtube.com/watch?v=yJ2wiSPwkaw",
@@ -1707,6 +1853,16 @@
             "3.21"
           ],
           "author": "sirgog",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Necropolis League Atlas Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1bqe50c/324_necropolis_league_atlas_index/",
+          "versions": [
+            "3.24"
+          ],
+          "author": "u/johnnylamerton",
           "pin": false,
           "skip": false
         },

@@ -632,22 +632,6 @@
           "skip": false
         },
         {
-          "title": "Blade Vortex",
-          "url": "https://www.youtube.com/watch?v=zOFwMf85pNU",
-          "video": "https://www.youtube.com/watch?v=zOFwMf85pNU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/zOFwMf85pNU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/zOFwMf85pNU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/zOFwMf85pNU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.22"
-          ],
-          "author": "Chronic_Painless",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "The COOLEST All-Rounder Spellcaster Leaguestarter! - Cold DoT Hierophant",
           "url": "https://www.youtube.com/watch?v=qURR5YGJEpw",
           "video": "https://www.youtube.com/watch?v=qURR5YGJEpw",
@@ -660,6 +644,22 @@
             "3.22"
           ],
           "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Blade Vortex",
+          "url": "https://www.youtube.com/watch?v=zOFwMf85pNU",
+          "video": "https://www.youtube.com/watch?v=zOFwMf85pNU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/zOFwMf85pNU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/zOFwMf85pNU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/zOFwMf85pNU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22"
+          ],
+          "author": "Chronic_Painless",
           "pin": false,
           "skip": false
         },
@@ -785,6 +785,22 @@
           "skip": false
         },
         {
+          "title": "The FASTEST Map Blaster Leaguestarter!! - Lightning Arrow Deadeye ft. @havoc616",
+          "url": "https://www.youtube.com/watch?v=5jNK3YyJmkc",
+          "video": "https://www.youtube.com/watch?v=5jNK3YyJmkc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5jNK3YyJmkc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5jNK3YyJmkc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5jNK3YyJmkc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Rain of Arrows Raider",
           "url": "https://docs.google.com/document/d/1chq-LRqHydYjkJCSPFmZtRLFyybWbe4jtr5MZL612OY/edit#heading=h.4gg1rl7jods7",
           "video": "https://www.youtube.com/watch?v=-Cp-THu-wio",
@@ -835,23 +851,6 @@
           "skip": false
         },
         {
-          "title": "Bleed Bow Champ/Glad - Too Much Fun!!! - All Content Viable",
-          "url": "https://www.pathofexile.com/forum/view-thread/3320348",
-          "video": "https://www.youtube.com/watch?v=9TiBS7sI_Nw",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22"
-          ],
-          "author": "Mr9Lives",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Rain of Arrows Raider",
           "url": "https://docs.google.com/document/d/1oAeAQTrZrplblEsarJdRUyktA5ijNeVFqLFSgq18VIA/edit",
           "video": "https://www.youtube.com/watch?v=8C2QsAHjCO0",
@@ -865,6 +864,23 @@
             "3.22"
           ],
           "author": "Fuzzy Duckzy",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Bleed Bow Champ/Glad - Too Much Fun!!! - All Content Viable",
+          "url": "https://www.pathofexile.com/forum/view-thread/3320348",
+          "video": "https://www.youtube.com/watch?v=9TiBS7sI_Nw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9TiBS7sI_Nw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22"
+          ],
+          "author": "Mr9Lives",
           "pin": false,
           "skip": false
         },

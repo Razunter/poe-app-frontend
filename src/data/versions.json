@@ -1,5 +1,5 @@
 {
-  "currentVersion": "3.24",
+  "currentVersion": "3.25",
   "versions": [
     {
       "name": "Ultimatum",
@@ -96,6 +96,13 @@
       "note": "",
       "wip": false,
       "url": "https://www.pathofexile.com/necropolis"
+    },
+    {
+      "version": "3.25",
+      "name": "Settlers of Kalguur",
+      "compatible": [],
+      "wip": true,
+      "url": "https://www.pathofexile.com/settlers"
     }
   ]
 }

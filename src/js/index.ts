@@ -1,4 +1,4 @@
-import scrollSpy from 'simple-scrollspy'
+import scrollSpy from 'simple-scrollspy/src/index'
 
 const domain = 'raz-poebuilds.netlify.app'
 

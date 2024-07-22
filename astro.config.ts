@@ -4,9 +4,41 @@ import compress from 'astro-compress'
 import purgecss from 'astro-purgecss'
 import robotsTxt from 'astro-robots-txt'
 import tsconfigPaths from 'vite-tsconfig-paths'
+import type { Logger } from 'sass'
 
-// eslint-disable-next-line n/no-process-env
 const production = process.env.NODE_ENV === 'production'
+
+const silenceSomeSassDeprecationWarnings = {
+  verbose: true,
+  logger: {
+    warn(message, options) {
+      const { stderr } = process;
+      const span = options.span ?? undefined;
+      const stack = (options.stack === 'null' ? undefined : options.stack) ?? undefined;
+
+      if (options.deprecation) {
+        if (message.startsWith('Sass\'s behavior for declarations that appear after nested')) {
+          // silences above deprecation warning
+          return;
+        }
+        stderr.write('DEPRECATION ');
+      }
+      stderr.write(`WARNING: ${message}\n`);
+
+      if (span !== undefined) {
+        // output the snippet that is causing this warning
+        stderr.write(`\n"${span.text}"\n`);
+      }
+
+      if (stack !== undefined) {
+        // indent each line of the stack
+        stderr.write(`    ${stack.toString().trimEnd().replace(/\n/gm, '\n    ')}\n`);
+      }
+
+      stderr.write('\n');
+    }
+  } satisfies Logger
+}
 
 export default defineConfig({
   integrations: [
@@ -26,6 +58,14 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ['@resvg'],
     },
+    css: {
+      preprocessorOptions: {
+        scss: {
+          ...silenceSomeSassDeprecationWarnings,
+          quietDeps: true,
+        },
+      },
+    },
     build: {
       rollupOptions: {
         plugins: [
@@ -42,7 +82,7 @@ export default defineConfig({
                       useBuiltIns: 'usage',
                       bugfixes: true,
                       corejs: {
-                        version: '3.36.1',
+                        version: '3.37.1',
                         proposals: true,
                       },
                     },

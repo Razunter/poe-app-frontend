@@ -1,5 +1,13 @@
-import { FlatCompat } from '@eslint/eslintrc'
-import prettierConfig from 'eslint-config-canonical/configurations/prettier.js'
+import tsParser from '@typescript-eslint/parser'
+import auto from 'eslint-config-canonical/configurations/auto.js'
+import canonical from 'eslint-config-canonical/configurations/canonical.js'
+import canonicalJSDoc from 'eslint-config-canonical/configurations/jsdoc.js'
+import canonicalPrettier from 'eslint-config-canonical/configurations/prettier.js'
+import canonicalRegexp from 'eslint-config-canonical/configurations/regexp.js'
+import canonicalTS from 'eslint-config-canonical/configurations/typescript.js'
+import canonicalTSTC from 'eslint-config-canonical/configurations/typescript-type-checking.js'
+import eslintPluginAstro from 'eslint-plugin-astro'
+import * as depend from 'eslint-plugin-depend'
 import globals from 'globals'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -8,11 +16,7 @@ import { fileURLToPath } from 'node:url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const compat = new FlatCompat({
-  baseDirectory: __dirname,
-})
-
-const newPrettierConfig = prettierConfig.rules['prettier/prettier'][1]
+const newPrettierConfig = canonicalPrettier.recommended.rules['prettier/prettier'][1]
 newPrettierConfig.semi = false
 newPrettierConfig.printWidth = 120
 
@@ -33,10 +37,7 @@ const generalJS = {
       objects: 'always-multiline',
     },
   ],
-  'import/no-unassigned-import': [
-    2,
-    { allow: ['**/*.css', '**/*.scss', '**/*.postcss'] },
-  ],
+  'import/no-unassigned-import': [2, { allow: ['**/*.css', '**/*.scss', '**/*.postcss'] }],
   'linebreak-style': ['off'],
   'object-curly-newline': [
     'error',
@@ -59,6 +60,9 @@ const generalJS = {
         svg: 'always',
         graphql: 'always',
         json: 'always',
+        css: 'always',
+        scss: 'always',
+        astro: 'always',
       },
     },
   ],
@@ -80,108 +84,90 @@ const ts = {
   'canonical/import-specifier-newline': 'off',
   'canonical/prefer-inline-type-import': 'off',
   'typescript-sort-keys/interface': 'off',
+  'import/consistent-type-specifier-style': 'off', // not granular enough
+  'import/no-duplicates': 'warn',
 }
 
 export default [
-  // mimic ESLintRC-style extends
-  ...compat.extends('canonical/auto', 'plugin:astro/recommended', 'plugin:astro/jsx-a11y-strict'),
-  ...compat.config({
-      overrides: [
-        {
-          plugins: ['prettier'],
-          extends: [
-            'canonical',
-            'canonical/regexp',
-            'canonical/jsdoc',
-            'canonical/node',
-            'canonical/typescript',
-            'canonical/prettier',
-          ],
-
-          // Define the configuration for `.astro` file.
-          files: ['**/*.astro'],
-          // Allows Astro components to be parsed.
-          parser: 'astro-eslint-parser',
-          // Parse the script in `.astro` as TypeScript by adding the following configuration.
-          // It's the setting you need when using TypeScript.
-          parserOptions: {
-            extraFileExtensions: ['.astro'],
-            parser: '@typescript-eslint/parser',
-            project: './tsconfig.json',
-          },
-          rules: {
-            ...generalJS,
-            ...ts,
-            'canonical/filename-match-regex': 'off',
-            'prettier/prettier': [
-              2,
-              {
-                ...newPrettierConfig,
-                files: '*.astro',
-                plugins: ['prettier-plugin-astro'],
-                parser: 'astro',
-              },
-            ],
-          },
-        }
-      ]
-    }
-  ),
+  ...auto,
+  ...eslintPluginAstro.configs.recommended,
+  ...eslintPluginAstro.configs['jsx-a11y-recommended'],
+  depend.configs['flat/recommended'],
   {
-    files: ['**/*.js'],
-    rules:
-      {
-        ...
-          generalJS,
-      }
-    ,
+    files: ['**/*.astro'],
+    plugins: {
+      ...canonical.recommended.plugins,
+      ...canonicalTS.recommended.plugins,
+      ...canonicalTSTC.recommended.plugins,
+      ...canonicalRegexp.recommended.plugins,
+      ...canonicalPrettier.recommended.plugins,
+      ...canonicalJSDoc.recommended.plugins,
+    },
+    rules: {
+      ...canonical.recommended.rules,
+      ...canonicalTS.recommended.rules,
+      ...canonicalTSTC.recommended.rules,
+      ...canonicalRegexp.recommended.rules,
+      ...canonicalPrettier.recommended.rules,
+      ...canonicalJSDoc.recommended.rules,
+      ...generalJS,
+      ...ts,
+      'canonical/filename-match-regex': 'off',
+      'prettier/prettier': [
+        2,
+        {
+          ...newPrettierConfig,
+          files: '*.astro',
+          plugins: ['prettier-plugin-astro'],
+          parser: 'astro',
+        },
+      ],
+    },
     languageOptions: {
       globals: {
-        ...
-          globals.browser,
-      }
-      ,
+        ...globals.browser,
+      },
       parserOptions: {
-        // eslint-disable-next-line unicorn/numeric-separators-style
-        ecmaVersion: 2022,
-        sourceType:
-          'module',
-      }
-      ,
-    }
-    ,
-  }
-  ,
+        ecmaVersion: 'latest',
+        sourceType: 'module',
+        project: './tsconfig.json',
+        tsconfigRootDir: __dirname,
+        parser: tsParser,
+        extraFileExtensions: ['.astro'],
+      },
+    },
+  },
+  {
+    files: ['**/*.js'],
+    rules: {
+      ...generalJS,
+    },
+    languageOptions: {
+      globals: {
+        ...globals.browser,
+      },
+      parserOptions: {
+        ecmaVersion: 'latest',
+        sourceType: 'module',
+      },
+    },
+  },
   {
     files: ['**/*.ts'],
-    languageOptions:
-      {
-        globals: {
-          ...
-            globals.browser,
-        }
-        ,
-        parserOptions: {
-          // eslint-disable-next-line unicorn/numeric-separators-style
-          ecmaVersion: 2022,
-          sourceType:
-            'module',
-          project:
-            './tsconfig.json',
-          tsconfigRootDir:
-          __dirname,
-        }
-        ,
-      }
-    ,
+    languageOptions: {
+      globals: {
+        ...globals.browser,
+      },
+      parserOptions: {
+        ecmaVersion: 'latest',
+        sourceType: 'module',
+        project: './tsconfig.json',
+        tsconfigRootDir: __dirname,
+      },
+    },
     rules: {
-      ...
-        generalJS,
-      ...
-        ts,
-    }
-    ,
-  }
-  ,
-  {}
+      ...generalJS,
+      ...ts,
+    },
+  },
 ]

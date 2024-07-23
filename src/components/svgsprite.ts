@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-named-as-default
 import glob from 'fast-glob'
 import fs from 'node:fs'
 import path from 'node:path'

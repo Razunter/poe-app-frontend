@@ -64,6 +64,40 @@
           "skip": false
         },
         {
+          "title": "Splitting Steel Champ",
+          "url": "https://www.pathofexile.com/forum/view-thread/3337868",
+          "video": "https://www.youtube.com/watch?v=SijqwZ6uyF0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SijqwZ6uyF0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SijqwZ6uyF0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SijqwZ6uyF0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "corosou",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Lightning Strike Champion",
+          "url": "https://www.youtube.com/watch?v=9KV7nWjRSVk",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Fuzzy Duckzy",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=9KV7nWjRSVk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9KV7nWjRSVk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9KV7nWjRSVk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9KV7nWjRSVk/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Lacerate Gladiator",
           "url": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
           "versions": [
@@ -93,6 +127,38 @@
             "480w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Slayer Sweep",
+          "url": "https://www.youtube.com/watch?v=Dyisj3xgHOU",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Exiled Cat",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Dyisj3xgHOU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Dyisj3xgHOU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Dyisj3xgHOU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Dyisj3xgHOU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Warden (Untested Build Guide)",
+          "url": "https://www.youtube.com/watch?v=pbAxHsXHZNg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=pbAxHsXHZNg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pbAxHsXHZNg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pbAxHsXHZNg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pbAxHsXHZNg/maxresdefault.jpg"
           }
         },
         {
@@ -127,6 +193,22 @@
           }
         },
         {
+          "title": "Splitting Steel Champion",
+          "url": "https://www.youtube.com/watch?v=_8vOva122mw",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Wafflez",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=_8vOva122mw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_8vOva122mw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_8vOva122mw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_8vOva122mw/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Cobra Lash League Start BUFFED!",
           "url": "https://maxroll.gg/poe/build-guides/cobra-lash-deadeye",
           "video": "https://www.youtube.com/watch?v=LAWV_Ndl-Vo",
@@ -140,23 +222,6 @@
             "3.24"
           ],
           "author": "aer0",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Splitting Steel Champ",
-          "url": "https://www.pathofexile.com/forum/view-thread/3337868",
-          "video": "https://www.youtube.com/watch?v=SijqwZ6uyF0",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/SijqwZ6uyF0/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/SijqwZ6uyF0/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/SijqwZ6uyF0/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.23",
-            "3.24"
-          ],
-          "author": "corosou",
           "pin": false,
           "skip": false
         },
@@ -184,6 +249,22 @@
     {
       "type": "caster",
       "builds": [
+        {
+          "title": "The STRONGEST BUILD I've ever played! - Archmage Hierophant",
+          "url": "https://www.youtube.com/watch?v=Kbu2hLKek18",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Kbu2hLKek18",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Kbu2hLKek18/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Kbu2hLKek18/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Kbu2hLKek18/maxresdefault.jpg"
+          }
+        },
         {
           "title": "Archmage Spark",
           "url": "https://www.youtube.com/watch?v=fOEsAoHKbr4",
@@ -397,6 +478,22 @@
       "type": "totems",
       "builds": [
         {
+          "title": "The King is wounded BUT NOT DEAD!! - Explosive Arrow Champion Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=OiYAdPeadXE",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=OiYAdPeadXE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OiYAdPeadXE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OiYAdPeadXE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OiYAdPeadXE/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Toxic Rain Ballista Pathfinder",
           "url": "https://maxroll.gg/poe/build-guides/toxic-rain-ballista-pathfinder",
           "video": "https://www.youtube.com/watch?v=KAcrchacF8g",
@@ -479,14 +576,15 @@
         {
           "title": "Righteous Fire Chieftain",
           "url": "https://www.pohx.net/FAQ",
-          "video": "https://www.youtube.com/watch?v=HJOjC6piCao",
+          "video": "https://www.youtube.com/watch?v=9GOTQK3jkD0",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/HJOjC6piCao/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/HJOjC6piCao/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/HJOjC6piCao/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/9GOTQK3jkD0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9GOTQK3jkD0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9GOTQK3jkD0/maxresdefault.jpg"
           },
           "versions": [
-            "3.24"
+            "3.24",
+            "3.25"
           ],
           "author": "Pohx",
           "pin": false,
@@ -566,6 +664,22 @@
           }
         },
         {
+          "title": "Frostblink Ignite",
+          "url": "https://www.youtube.com/watch?v=P8mY_y8dofY",
+          "versions": [
+            "3.25"
+          ],
+          "author": "subtractem",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=P8mY_y8dofY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/P8mY_y8dofY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/P8mY_y8dofY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/P8mY_y8dofY/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Exsanguinate Miner Trickster",
           "url": "https://maxroll.gg/poe/build-guides/exsanguinate-miner-trickster-league-starter",
           "video": "https://www.youtube.com/watch?v=zTTixqnBUyc",
@@ -604,6 +718,24 @@
       "type": "minions",
       "builds": [
         {
+          "title": "BalorMage's Poison Summon Raging Spirits",
+          "url": "https://www.poe-vault.com/guides/balormage-summon-raging-spirits-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=rCzLF49KedM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/rCzLF49KedM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/rCzLF49KedM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/rCzLF49KedM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Holy Relics Necromancer",
           "url": "https://www.pathofexile.com/forum/view-thread/3002453",
           "video": "https://www.youtube.com/watch?v=ZMpQxMQMCOo",
@@ -624,6 +756,23 @@
             "3.25"
           ],
           "author": "Fire_Archer",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Zoomancer Necromancer",
+          "url": "https://www.poe-vault.com/guides/zoomancer-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=Om4yNW428SU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Om4yNW428SU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Om4yNW428SU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Om4yNW428SU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24",
+            "3.25"
+          ],
+          "author": "GhazzyTV",
           "pin": false,
           "skip": false
         },
@@ -656,23 +805,6 @@
             "3.24"
           ],
           "author": "Asmodeus",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "BalorMage's Poison Summon Raging Spirits",
-          "url": "https://www.poe-vault.com/guides/balormage-summon-raging-spirits-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=omI3Rf5XzNg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/omI3Rf5XzNg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/omI3Rf5XzNg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/omI3Rf5XzNg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.23",
-            "3.24"
-          ],
-          "author": "BalorMage",
           "pin": false,
           "skip": false
         },
@@ -743,22 +875,6 @@
             "3.21",
             "3.22",
             "3.23",
-            "3.24"
-          ],
-          "author": "GhazzyTV",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Zoomancer Necromancer",
-          "url": "https://www.poe-vault.com/guides/zoomancer-necromancer-build-guide",
-          "video": "https://www.youtube.com/watch?v=0f2t3HARtWU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/0f2t3HARtWU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/0f2t3HARtWU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/0f2t3HARtWU/maxresdefault.jpg"
-          },
-          "versions": [
             "3.24"
           ],
           "author": "GhazzyTV",

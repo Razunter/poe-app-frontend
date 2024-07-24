@@ -98,21 +98,6 @@
           }
         },
         {
-          "title": "Shield Crush Juggernaught",
-          "url": "https://www.youtube.com/watch?v=ooFIz3feW8w",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Jorgen",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=ooFIz3feW8w",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ooFIz3feW8w/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/ooFIz3feW8w/sddefault.jpg"
-          }
-        },
-        {
           "title": "Lacerate Gladiator",
           "url": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
           "versions": [
@@ -158,6 +143,21 @@
             "480w": "https://i.ytimg.com/vi/Dyisj3xgHOU/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/Dyisj3xgHOU/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/Dyisj3xgHOU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Shield Crush Juggernaught",
+          "url": "https://www.youtube.com/watch?v=ooFIz3feW8w",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Jorgen",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=ooFIz3feW8w",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ooFIz3feW8w/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ooFIz3feW8w/sddefault.jpg"
           }
         },
         {
@@ -313,6 +313,22 @@
       "type": "caster",
       "builds": [
         {
+          "title": "This Build MELTS EVERY MAP! - Ignite Wave of Conviction Elementalist",
+          "url": "https://maxroll.gg/poe/build-guides/wave-of-conviction-elementalist-league-starter",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=KGadeOwMwpA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/KGadeOwMwpA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/KGadeOwMwpA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/KGadeOwMwpA/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "The STRONGEST BUILD I've ever played! - Archmage Hierophant",
           "url": "https://www.youtube.com/watch?v=Kbu2hLKek18",
           "versions": [
@@ -457,6 +473,24 @@
       "type": "ranged",
       "builds": [
         {
+          "title": "Lightning Arrow Deadeye",
+          "url": "https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter",
+          "video": "https://www.youtube.com/watch?v=Zts3up1Kl6U",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Zts3up1Kl6U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Zts3up1Kl6U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Zts3up1Kl6U/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": true,
+          "skip": false
+        },
+        {
           "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, fun to play",
           "url": "https://www.pathofexile.com/forum/view-thread/2551841",
           "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
@@ -496,23 +530,6 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/3Q2E4cXqf7E/hqdefault.jpg"
           }
-        },
-        {
-          "title": "Lightning Arrow Deadeye",
-          "url": "https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter",
-          "video": "https://www.youtube.com/watch?v=Zts3up1Kl6U",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Zts3up1Kl6U/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Zts3up1Kl6U/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Zts3up1Kl6U/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.23",
-            "3.24"
-          ],
-          "author": "Crouching_Tuna",
-          "pin": true,
-          "skip": false
         },
         {
           "title": "Rain of Arrows Raider",
@@ -568,6 +585,22 @@
             "480w": "https://i.ytimg.com/vi/OiYAdPeadXE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/OiYAdPeadXE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/OiYAdPeadXE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Storm Burst Totems - NO Extra Buttons! - Cheap League Starter SC/SSF/HC Viable",
+          "url": "https://www.youtube.com/watch?v=6FA-kBCv1tI",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Tatiantel2",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=6FA-kBCv1tI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6FA-kBCv1tI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6FA-kBCv1tI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6FA-kBCv1tI/maxresdefault.jpg"
           }
         },
         {
@@ -639,7 +672,8 @@
             "3.21",
             "3.22",
             "3.23",
-            "3.24"
+            "3.24",
+            "3.25"
           ],
           "author": "gui_orioli",
           "pin": false,
@@ -709,7 +743,23 @@
           "skip": false
         },
         {
-          "title": "Hexblast Mines Saboteur",
+          "title": "Ice Trap Trickster",
+          "url": "https://maxroll.gg/poe/build-guides/ice-trap-trickster-league-starter",
+          "versions": [
+            "3.25"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=sTlQv2vyyD4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/sTlQv2vyyD4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/sTlQv2vyyD4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/sTlQv2vyyD4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Hexblast Mines Trickster",
           "url": "https://maxroll.gg/poe/build-guides/hexblast-mines-saboteur-league-starter",
           "video": "https://www.youtube.com/watch?v=YajFdm6VdcM",
           "videothumb": {
@@ -727,6 +777,38 @@
           "skip": false
         },
         {
+          "title": "Frostblink Ignite",
+          "url": "https://maxroll.gg/poe/build-guides/frostblink-elementalist-league-starter",
+          "versions": [
+            "3.25"
+          ],
+          "author": "subtractem",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=P8mY_y8dofY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/P8mY_y8dofY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/P8mY_y8dofY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/P8mY_y8dofY/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My League Starter is Ice Shot of Penetration Deadeye",
+          "url": "https://www.youtube.com/watch?v=iCWMHktt9qI",
+          "versions": [
+            "3.25"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=iCWMHktt9qI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iCWMHktt9qI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iCWMHktt9qI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iCWMHktt9qI/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Energy Blade Inquisitor",
           "url": "https://www.youtube.com/watch?v=_eL6L-aZw-Q",
           "versions": [
@@ -740,6 +822,22 @@
             "480w": "https://i.ytimg.com/vi/_eL6L-aZw-Q/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/_eL6L-aZw-Q/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/_eL6L-aZw-Q/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Comprehensive Explosive Trap of Shrapnel Trickster",
+          "url": "https://www.youtube.com/watch?v=tZVv2v2N1CM",
+          "versions": [
+            "3.25"
+          ],
+          "author": "FearlessDumb0",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=tZVv2v2N1CM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tZVv2v2N1CM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tZVv2v2N1CM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tZVv2v2N1CM/maxresdefault.jpg"
           }
         },
         {
@@ -772,22 +870,6 @@
             "480w": "https://i.ytimg.com/vi/cG9Wao5B3e8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/cG9Wao5B3e8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/cG9Wao5B3e8/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Frostblink Ignite",
-          "url": "https://www.youtube.com/watch?v=P8mY_y8dofY",
-          "versions": [
-            "3.25"
-          ],
-          "author": "subtractem",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=P8mY_y8dofY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/P8mY_y8dofY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/P8mY_y8dofY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/P8mY_y8dofY/maxresdefault.jpg"
           }
         },
         {
@@ -885,6 +967,22 @@
           "author": "GhazzyTV",
           "pin": false,
           "skip": false
+        },
+        {
+          "title": "Chaos Minion Army Necromancer",
+          "url": "https://maxroll.gg/poe/build-guides/chaos-minion-army-necromancer-league-starter",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Helm Breaker",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Ah59cHqEq1s",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Ah59cHqEq1s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Ah59cHqEq1s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Ah59cHqEq1s/maxresdefault.jpg"
+          }
         },
         {
           "title": "Still TOO Much Damage Necromancer BAMA Minion League Starter",
@@ -1175,6 +1273,22 @@
       "type": "atlas",
       "builds": [
         {
+          "title": "BLIGHT & EXPEDITION Ping Pong Farming Strat",
+          "url": "https://www.youtube.com/watch?v=mD_X-_rHLDE",
+          "versions": [
+            "3.25"
+          ],
+          "author": "anime princess",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=mD_X-_rHLDE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/mD_X-_rHLDE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/mD_X-_rHLDE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/mD_X-_rHLDE/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Atlas Passive Tree Guide for 3.25 | Delve, Map Completion, Ritual, Bosses",
           "url": "https://www.youtube.com/watch?v=cXj6KVYMRes",
           "versions": [
@@ -1187,6 +1301,22 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/cXj6KVYMRes/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/cXj6KVYMRes/sddefault.jpg"
+          }
+        },
+        {
+          "title": "My Starting Atlas for RF Chief",
+          "url": "https://www.youtube.com/watch?v=nJZo_D2Hcg0",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Pohx",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=nJZo_D2Hcg0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/nJZo_D2Hcg0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/nJZo_D2Hcg0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/nJZo_D2Hcg0/maxresdefault.jpg"
           }
         }
       ]

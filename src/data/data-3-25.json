@@ -82,6 +82,22 @@
           "skip": false
         },
         {
+          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Lightning Strike Champion",
           "url": "https://www.youtube.com/watch?v=9KV7nWjRSVk",
           "versions": [
@@ -209,6 +225,22 @@
           }
         },
         {
+          "title": "Sunder SLAM Chieftain",
+          "url": "https://www.youtube.com/watch?v=-ZMJyAnks0c",
+          "versions": [
+            "3.25"
+          ],
+          "author": "ronarray",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=-ZMJyAnks0c",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-ZMJyAnks0c/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-ZMJyAnks0c/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-ZMJyAnks0c/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Warcries Bleed Earthquake Chieftain",
           "url": "https://www.youtube.com/watch?v=aw729MzBa38",
           "versions": [
@@ -237,6 +269,22 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/p0UgSzr_MuY/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/p0UgSzr_MuY/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Shockwave Cyclone Slayer",
+          "url": "https://www.youtube.com/watch?v=GijkBhZqDOE",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Tuadh",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=GijkBhZqDOE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GijkBhZqDOE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/GijkBhZqDOE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/GijkBhZqDOE/maxresdefault.jpg"
           }
         },
         {
@@ -269,6 +317,20 @@
             "480w": "https://i.ytimg.com/vi/_1wqvwpWDks/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/_1wqvwpWDks/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/_1wqvwpWDks/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike League Start Guide - Slayer/Warden",
+          "url": "https://www.youtube.com/watch?v=-jW24ruPUtQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Fubgun",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=-jW24ruPUtQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-jW24ruPUtQ/hqdefault.jpg"
           }
         },
         {
@@ -518,7 +580,23 @@
           "skip": false
         },
         {
-          "title": "Fubgun's Elemental Hit of the Spectrum Deadeye",
+          "title": "SST Bleed Glad Build Guide",
+          "url": "https://www.youtube.com/watch?v=qIPJZS-6Cf8",
+          "versions": [
+            "3.25"
+          ],
+          "author": "The British Exile",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=qIPJZS-6Cf8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Elemental Hit of the Spectrum Deadeye",
           "url": "https://www.youtube.com/watch?v=3Q2E4cXqf7E",
           "versions": [
             "3.25"
@@ -572,6 +650,26 @@
       "type": "totems",
       "builds": [
         {
+          "title": "Toxic Rain Ballista Pathfinder",
+          "url": "https://maxroll.gg/poe/build-guides/toxic-rain-ballista-pathfinder",
+          "video": "https://www.youtube.com/watch?v=KAcrchacF8g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/KAcrchacF8g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/KAcrchacF8g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/KAcrchacF8g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "The King is wounded BUT NOT DEAD!! - Explosive Arrow Champion Leaguestarter",
           "url": "https://www.youtube.com/watch?v=OiYAdPeadXE",
           "versions": [
@@ -602,25 +700,6 @@
             "640w": "https://i.ytimg.com/vi/6FA-kBCv1tI/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/6FA-kBCv1tI/maxresdefault.jpg"
           }
-        },
-        {
-          "title": "Toxic Rain Ballista Pathfinder",
-          "url": "https://maxroll.gg/poe/build-guides/toxic-rain-ballista-pathfinder",
-          "video": "https://www.youtube.com/watch?v=KAcrchacF8g",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/KAcrchacF8g/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/KAcrchacF8g/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/KAcrchacF8g/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22",
-            "3.23",
-            "3.24"
-          ],
-          "author": "Palsteron",
-          "pin": false,
-          "skip": false
         },
         {
           "title": "Explosive Arrow Ballista Elementalist",
@@ -1199,6 +1278,22 @@
             "480w": "https://i.ytimg.com/vi/xmIO6C6NEMU/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/xmIO6C6NEMU/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/xmIO6C6NEMU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Top 5 New STARTER Builds",
+          "url": "https://www.youtube.com/watch?v=d0LJQrjWd6c",
+          "versions": [
+            "3.25"
+          ],
+          "author": "raychich",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=d0LJQrjWd6c",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/d0LJQrjWd6c/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/d0LJQrjWd6c/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/d0LJQrjWd6c/maxresdefault.jpg"
           }
         },
         {

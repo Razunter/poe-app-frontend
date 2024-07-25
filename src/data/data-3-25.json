@@ -82,6 +82,22 @@
           "skip": false
         },
         {
+          "title": "Lightning Strike Warden",
+          "url": "https://www.youtube.com/watch?v=399-1g7VtUk",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Lolcohol",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=399-1g7VtUk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
           "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
           "versions": [
@@ -95,22 +111,6 @@
             "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Lightning Strike Champion",
-          "url": "https://www.youtube.com/watch?v=9KV7nWjRSVk",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Fuzzy Duckzy",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=9KV7nWjRSVk",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/9KV7nWjRSVk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/9KV7nWjRSVk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/9KV7nWjRSVk/maxresdefault.jpg"
           }
         },
         {
@@ -159,6 +159,22 @@
             "480w": "https://i.ytimg.com/vi/Dyisj3xgHOU/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/Dyisj3xgHOU/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/Dyisj3xgHOU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Champion",
+          "url": "https://www.youtube.com/watch?v=9KV7nWjRSVk",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Fuzzy Duckzy",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=9KV7nWjRSVk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9KV7nWjRSVk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9KV7nWjRSVk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9KV7nWjRSVk/maxresdefault.jpg"
           }
         },
         {
@@ -285,6 +301,22 @@
             "480w": "https://i.ytimg.com/vi/GijkBhZqDOE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/GijkBhZqDOE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/GijkBhZqDOE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Perforate Slayer",
+          "url": "https://www.youtube.com/watch?v=aTwHuNfnJd4",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Tuadh",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=aTwHuNfnJd4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/aTwHuNfnJd4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/aTwHuNfnJd4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/aTwHuNfnJd4/maxresdefault.jpg"
           }
         },
         {
@@ -423,6 +455,22 @@
           }
         },
         {
+          "title": "Blade Vortex",
+          "url": "https://www.youtube.com/watch?v=zuxbm3UXFWs",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Chronic_Painless",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=zuxbm3UXFWs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/zuxbm3UXFWs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/zuxbm3UXFWs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/zuxbm3UXFWs/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Archmage Frostbolt Icenova Hierophant",
           "url": "https://www.youtube.com/watch?v=hGNd3p7NCfg",
           "versions": [
@@ -452,6 +500,22 @@
             "480w": "https://i.ytimg.com/vi/90Zc3ODer28/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/90Zc3ODer28/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/90Zc3ODer28/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "STRONGEST BOSS KILLER I Have EVER Played-Penance Brand Hierophant",
+          "url": "https://www.youtube.com/watch?v=juHkCri_hBY",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Wafflez",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=juHkCri_hBY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/juHkCri_hBY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/juHkCri_hBY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/juHkCri_hBY/maxresdefault.jpg"
           }
         },
         {
@@ -537,11 +601,11 @@
         {
           "title": "Lightning Arrow Deadeye",
           "url": "https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter",
-          "video": "https://www.youtube.com/watch?v=Zts3up1Kl6U",
+          "video": "https://www.youtube.com/watch?v=HUbMk18HtkQ",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Zts3up1Kl6U/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Zts3up1Kl6U/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Zts3up1Kl6U/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/HUbMk18HtkQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/HUbMk18HtkQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/HUbMk18HtkQ/maxresdefault.jpg"
           },
           "versions": [
             "3.23",
@@ -593,6 +657,22 @@
             "480w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
+          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
           }
         },
         {
@@ -670,6 +750,26 @@
           "skip": false
         },
         {
+          "title": "Explosive Arrow Ballista Elementalist",
+          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
+          "video": "https://www.youtube.com/watch?v=wryibKVQ-6g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/wryibKVQ-6g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/wryibKVQ-6g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/wryibKVQ-6g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "The King is wounded BUT NOT DEAD!! - Explosive Arrow Champion Leaguestarter",
           "url": "https://www.youtube.com/watch?v=OiYAdPeadXE",
           "versions": [
@@ -700,25 +800,6 @@
             "640w": "https://i.ytimg.com/vi/6FA-kBCv1tI/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/6FA-kBCv1tI/maxresdefault.jpg"
           }
-        },
-        {
-          "title": "Explosive Arrow Ballista Elementalist",
-          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
-          "video": "https://www.youtube.com/watch?v=wryibKVQ-6g",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/wryibKVQ-6g/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/wryibKVQ-6g/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/wryibKVQ-6g/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22",
-            "3.23",
-            "3.24"
-          ],
-          "author": "Palsteron",
-          "pin": false,
-          "skip": false
         },
         {
           "title": "f1rstborn's Shockwave Totem Inquisitor",
@@ -952,6 +1033,22 @@
           }
         },
         {
+          "title": "Well Rounded Beast - Trickster Hexblast Mines",
+          "url": "https://www.youtube.com/watch?v=MYHuT34C4uY",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Ventrua",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=MYHuT34C4uY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/MYHuT34C4uY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/MYHuT34C4uY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/MYHuT34C4uY/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Exsanguinate Miner Trickster",
           "url": "https://maxroll.gg/poe/build-guides/exsanguinate-miner-trickster-league-starter",
           "video": "https://www.youtube.com/watch?v=zTTixqnBUyc",
@@ -1046,6 +1143,22 @@
           "author": "GhazzyTV",
           "pin": false,
           "skip": false
+        },
+        {
+          "title": "Holy Relic Guardian",
+          "url": "https://www.poe-vault.com/guides/holy-relic-guardian-build-guide",
+          "versions": [
+            "3.25"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=dzO0zFonh-M",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dzO0zFonh-M/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dzO0zFonh-M/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dzO0zFonh-M/maxresdefault.jpg"
+          }
         },
         {
           "title": "Chaos Minion Army Necromancer",
@@ -1368,6 +1481,38 @@
       "type": "atlas",
       "builds": [
         {
+          "title": "Recommended Atlas Trees",
+          "url": "https://www.youtube.com/watch?v=0YNbY3Hrwyg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "BalorMage",
+          "pin": true,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=0YNbY3Hrwyg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Get rich week 1 with Harvest & Expedition",
+          "url": "https://www.youtube.com/watch?v=cH_ihVEco44",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Allie",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=cH_ihVEco44",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/cH_ihVEco44/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/cH_ihVEco44/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/cH_ihVEco44/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "BLIGHT & EXPEDITION Ping Pong Farming Strat",
           "url": "https://www.youtube.com/watch?v=mD_X-_rHLDE",
           "versions": [
@@ -1381,6 +1526,22 @@
             "480w": "https://i.ytimg.com/vi/mD_X-_rHLDE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/mD_X-_rHLDE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/mD_X-_rHLDE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My Starter Atlas Tree (Essence / Bosses)",
+          "url": "https://www.youtube.com/watch?v=8wf94Zs-VDc",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Fuzzy Duckzy",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=8wf94Zs-VDc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/8wf94Zs-VDc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/8wf94Zs-VDc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/8wf94Zs-VDc/maxresdefault.jpg"
           }
         },
         {
@@ -1413,6 +1574,26 @@
             "640w": "https://i.ytimg.com/vi/nJZo_D2Hcg0/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/nJZo_D2Hcg0/maxresdefault.jpg"
           }
+        },
+        {
+          "title": "PoE Atlas Skill Tree builds and guides",
+          "url": "https://poe-atlas.com/",
+          "versions": [
+            "3.25"
+          ],
+          "author": null,
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Make your own",
+          "url": "https://pathofpathing.com/",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Path of Pathing",
+          "pin": false,
+          "skip": false
         }
       ]
     }

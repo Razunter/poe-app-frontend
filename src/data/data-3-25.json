@@ -82,86 +82,6 @@
           "skip": false
         },
         {
-          "title": "Slams but WITHOUT THE CLUNK!! - Autocry Slammer Berserker",
-          "url": "https://www.youtube.com/watch?v=CiMKUZJclcg",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=CiMKUZJclcg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/CiMKUZJclcg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/CiMKUZJclcg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/CiMKUZJclcg/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Glacial Hammer Slayer",
-          "url": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Goratha",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Lightning Strike Warden",
-          "url": "https://www.youtube.com/watch?v=399-1g7VtUk",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Lolcohol",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=399-1g7VtUk",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Lacerate Gladiator",
-          "url": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "Lightning Strike Warden",
           "url": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
           "versions": [
@@ -222,6 +142,86 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/ooFIz3feW8w/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/ooFIz3feW8w/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Slams but WITHOUT THE CLUNK!! - Autocry Slammer Berserker",
+          "url": "https://www.youtube.com/watch?v=CiMKUZJclcg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=CiMKUZJclcg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CiMKUZJclcg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CiMKUZJclcg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CiMKUZJclcg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lacerate Gladiator",
+          "url": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Glacial Hammer Slayer",
+          "url": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Warden",
+          "url": "https://www.youtube.com/watch?v=399-1g7VtUk",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Lolcohol",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=399-1g7VtUk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
           }
         },
         {
@@ -692,6 +692,22 @@
           "skip": false
         },
         {
+          "title": "Poisonous Concoction Slayer",
+          "url": "https://www.youtube.com/watch?v=7GcvPzAeJTQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "jungroan",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=7GcvPzAeJTQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7GcvPzAeJTQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7GcvPzAeJTQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7GcvPzAeJTQ/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "SST Bleed Glad Build Guide",
           "url": "https://www.youtube.com/watch?v=qIPJZS-6Cf8",
           "versions": [
@@ -721,6 +737,22 @@
             "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Puncture Bleed Bow Slayer",
+          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "versions": [
+            "3.25"
+          ],
+          "author": "JayTX",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
           }
         },
         {
@@ -1457,6 +1489,22 @@
     {
       "type": "misc",
       "builds": [
+        {
+          "title": "TOP 5 League Start Build Guides",
+          "url": "https://www.youtube.com/watch?v=3xrQwFc3C4s",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Big Ducks",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3xrQwFc3C4s",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3xrQwFc3C4s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3xrQwFc3C4s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3xrQwFc3C4s/maxresdefault.jpg"
+          }
+        },
         {
           "title": "Top 5 Strongest STARTER Builds",
           "url": "https://www.youtube.com/watch?v=xmIO6C6NEMU",

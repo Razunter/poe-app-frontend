@@ -82,6 +82,38 @@
           "skip": false
         },
         {
+          "title": "Slams but WITHOUT THE CLUNK!! - Autocry Slammer Berserker",
+          "url": "https://www.youtube.com/watch?v=CiMKUZJclcg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=CiMKUZJclcg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CiMKUZJclcg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CiMKUZJclcg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CiMKUZJclcg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Glacial Hammer Slayer",
+          "url": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Lightning Strike Warden",
           "url": "https://www.youtube.com/watch?v=399-1g7VtUk",
           "versions": [
@@ -206,6 +238,22 @@
             "480w": "https://i.ytimg.com/vi/pbAxHsXHZNg/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/pbAxHsXHZNg/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/pbAxHsXHZNg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Warden",
+          "url": "https://www.youtube.com/watch?v=bhI6jT9o7tg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=bhI6jT9o7tg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/bhI6jT9o7tg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/bhI6jT9o7tg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/bhI6jT9o7tg/maxresdefault.jpg"
           }
         },
         {
@@ -676,6 +724,37 @@
           }
         },
         {
+          "title": "Elemental Hit Warden",
+          "url": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
+          "versions": [
+            "3.25"
+          ],
+          "author": "KobeBlackMamba",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pVdnBbBYVmE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pVdnBbBYVmE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pVdnBbBYVmE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Freeze Elemental Hit of the Spectrum Warden",
+          "url": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
+          "versions": [
+            "3.25"
+          ],
+          "author": "SnooBAE85",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/sddefault.jpg"
+          }
+        },
+        {
           "title": "Elemental Hit of the Spectrum Deadeye",
           "url": "https://www.youtube.com/watch?v=3Q2E4cXqf7E",
           "versions": [
@@ -919,6 +998,23 @@
           }
         },
         {
+          "title": "Exsanguinate Miner Trickster",
+          "url": "https://maxroll.gg/poe/build-guides/exsanguinate-miner-trickster-league-starter",
+          "video": "https://www.youtube.com/watch?v=zTTixqnBUyc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/zTTixqnBUyc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/zTTixqnBUyc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/zTTixqnBUyc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24",
+            "3.25"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Hexblast Mines Trickster",
           "url": "https://maxroll.gg/poe/build-guides/hexblast-mines-saboteur-league-starter",
           "video": "https://www.youtube.com/watch?v=YajFdm6VdcM",
@@ -1047,22 +1143,6 @@
             "640w": "https://i.ytimg.com/vi/MYHuT34C4uY/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/MYHuT34C4uY/maxresdefault.jpg"
           }
-        },
-        {
-          "title": "Exsanguinate Miner Trickster",
-          "url": "https://maxroll.gg/poe/build-guides/exsanguinate-miner-trickster-league-starter",
-          "video": "https://www.youtube.com/watch?v=zTTixqnBUyc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/zTTixqnBUyc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/zTTixqnBUyc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/zTTixqnBUyc/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.24"
-          ],
-          "author": "Crouching_Tuna",
-          "pin": false,
-          "skip": false
         }
       ]
     },
@@ -1410,6 +1490,22 @@
           }
         },
         {
+          "title": "9 GREAT League Starter Builds - From Melee to Minions",
+          "url": "https://www.youtube.com/watch?v=u6ZeKfK2S4w",
+          "versions": [
+            "3.25"
+          ],
+          "author": "ronarray",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=u6ZeKfK2S4w",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/u6ZeKfK2S4w/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/u6ZeKfK2S4w/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/u6ZeKfK2S4w/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "SAFE & TESTED League Starter builds",
           "url": "https://www.youtube.com/watch?v=1g7SowFQ_bc",
           "versions": [
@@ -1592,6 +1688,16 @@
             "3.25"
           ],
           "author": "Path of Pathing",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Settlers of Kalguur League Atlas Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1ecfc0m/325_settlers_of_kalguur_league_atlas_index/",
+          "versions": [
+            "3.25"
+          ],
+          "author": "u/johnnylamerton",
           "pin": false,
           "skip": false
         }

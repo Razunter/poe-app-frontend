@@ -82,6 +82,38 @@
           "skip": false
         },
         {
+          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lacerate Gladiator",
+          "url": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Lightning Strike Warden",
           "url": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
           "versions": [
@@ -95,6 +127,54 @@
             "480w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Glacial Hammer Slayer",
+          "url": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Warden",
+          "url": "https://www.youtube.com/watch?v=399-1g7VtUk",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Lolcohol",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=399-1g7VtUk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Slams but WITHOUT THE CLUNK!! - Autocry Slammer Berserker",
+          "url": "https://www.youtube.com/watch?v=CiMKUZJclcg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=CiMKUZJclcg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CiMKUZJclcg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CiMKUZJclcg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CiMKUZJclcg/maxresdefault.jpg"
           }
         },
         {
@@ -142,86 +222,6 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/ooFIz3feW8w/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/ooFIz3feW8w/sddefault.jpg"
-          }
-        },
-        {
-          "title": "Slams but WITHOUT THE CLUNK!! - Autocry Slammer Berserker",
-          "url": "https://www.youtube.com/watch?v=CiMKUZJclcg",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=CiMKUZJclcg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/CiMKUZJclcg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/CiMKUZJclcg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/CiMKUZJclcg/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Lacerate Gladiator",
-          "url": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Glacial Hammer Slayer",
-          "url": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Goratha",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Lightning Strike Warden",
-          "url": "https://www.youtube.com/watch?v=399-1g7VtUk",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Lolcohol",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=399-1g7VtUk",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
           }
         },
         {
@@ -1496,13 +1496,29 @@
             "3.25"
           ],
           "author": "Big Ducks",
-          "pin": false,
+          "pin": true,
           "skip": false,
           "video": "https://www.youtube.com/watch?v=3xrQwFc3C4s",
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/3xrQwFc3C4s/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/3xrQwFc3C4s/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/3xrQwFc3C4s/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "The BEST Builds of Week 1 in Path of Exile Settlers League",
+          "url": "https://www.youtube.com/watch?v=AmzEwRJnb2c",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Big Ducks",
+          "pin": true,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=AmzEwRJnb2c",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/AmzEwRJnb2c/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/AmzEwRJnb2c/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/AmzEwRJnb2c/maxresdefault.jpg"
           }
         },
         {
@@ -1638,6 +1654,22 @@
             "480w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "3 ATLAS TREES for your Leaguestart!",
+          "url": "https://www.youtube.com/watch?v=iqWcqgXBTlI",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=iqWcqgXBTlI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iqWcqgXBTlI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iqWcqgXBTlI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iqWcqgXBTlI/maxresdefault.jpg"
           }
         },
         {

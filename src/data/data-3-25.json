@@ -82,6 +82,22 @@
           "skip": false
         },
         {
+          "title": "Everything You Need for Lacerate Gladiator for Settlers 2.0 - Start to Ubers",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1glrnh3/everything_you_need_for_lacerate_gladiator_for/",
+          "versions": [
+            "3.25"
+          ],
+          "author": "ronarray",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Xsgx58XIxuQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
           "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
           "versions": [
@@ -114,54 +130,6 @@
           }
         },
         {
-          "title": "Lightning Strike Warden",
-          "url": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Allie",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Glacial Hammer Slayer",
-          "url": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Goratha",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Lightning Strike Warden",
-          "url": "https://www.youtube.com/watch?v=399-1g7VtUk",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Lolcohol",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=399-1g7VtUk",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "Slams but WITHOUT THE CLUNK!! - Autocry Slammer Berserker",
           "url": "https://www.youtube.com/watch?v=CiMKUZJclcg",
           "versions": [
@@ -175,6 +143,22 @@
             "480w": "https://i.ytimg.com/vi/CiMKUZJclcg/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/CiMKUZJclcg/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/CiMKUZJclcg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Warden",
+          "url": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Allie",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/maxresdefault.jpg"
           }
         },
         {
@@ -210,6 +194,22 @@
           }
         },
         {
+          "title": "Glacial Hammer Slayer",
+          "url": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=SzDPoBEzVWQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SzDPoBEzVWQ/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Shield Crush Juggernaught",
           "url": "https://www.youtube.com/watch?v=ooFIz3feW8w",
           "versions": [
@@ -222,6 +222,22 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/ooFIz3feW8w/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/ooFIz3feW8w/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Warden",
+          "url": "https://www.youtube.com/watch?v=399-1g7VtUk",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Lolcohol",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=399-1g7VtUk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
           }
         },
         {
@@ -254,22 +270,6 @@
             "480w": "https://i.ytimg.com/vi/bhI6jT9o7tg/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/bhI6jT9o7tg/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/bhI6jT9o7tg/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Bleed LACERATE Gladiator",
-          "url": "https://www.youtube.com/watch?v=Xsgx58XIxuQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "ronarray",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=Xsgx58XIxuQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/maxresdefault.jpg"
           }
         },
         {
@@ -692,6 +692,22 @@
           "skip": false
         },
         {
+          "title": "Poisonous Concoction of Bouncing Pathfinder - My Settlers 2.0 Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=xIma6DE9gA4",
+          "versions": [
+            "3.25"
+          ],
+          "author": "anime princess",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=xIma6DE9gA4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xIma6DE9gA4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xIma6DE9gA4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/xIma6DE9gA4/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Poisonous Concoction Slayer",
           "url": "https://www.youtube.com/watch?v=7GcvPzAeJTQ",
           "versions": [
@@ -1030,6 +1046,22 @@
           }
         },
         {
+          "title": "The Best Build You Haven't Played for Settlers 2.0: Ice Shot of Penetration",
+          "url": "https://maxroll.gg/poe/build-guides/ice-shot-of-penetration-miner-deadeye-league-starter",
+          "versions": [
+            "3.25"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=5fLkw98kWJE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5fLkw98kWJE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5fLkw98kWJE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5fLkw98kWJE/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Exsanguinate Miner Trickster",
           "url": "https://maxroll.gg/poe/build-guides/exsanguinate-miner-trickster-league-starter",
           "video": "https://www.youtube.com/watch?v=zTTixqnBUyc",
@@ -1289,6 +1321,22 @@
           }
         },
         {
+          "title": "Holy Relic Necromancer W/No Spectres Or AG League Starter For Path of Exile Settlers 2.0",
+          "url": "https://www.youtube.com/watch?v=smDGnidwiCU",
+          "versions": [
+            "3.25"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=smDGnidwiCU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/smDGnidwiCU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/smDGnidwiCU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/smDGnidwiCU/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Still TOO Much Damage Necromancer BAMA Minion League Starter",
           "url": "https://www.youtube.com/watch?v=mCz0DY4a8F0",
           "versions": [
@@ -1496,7 +1544,7 @@
             "3.25"
           ],
           "author": "Big Ducks",
-          "pin": true,
+          "pin": false,
           "skip": false,
           "video": "https://www.youtube.com/watch?v=3xrQwFc3C4s",
           "videothumb": {
@@ -1512,13 +1560,43 @@
             "3.25"
           ],
           "author": "Big Ducks",
-          "pin": true,
+          "pin": false,
           "skip": false,
           "video": "https://www.youtube.com/watch?v=AmzEwRJnb2c",
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/AmzEwRJnb2c/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/AmzEwRJnb2c/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/AmzEwRJnb2c/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "The Best League Starters for Settlers Relaunch (2.0)",
+          "url": "https://www.youtube.com/watch?v=FXv-FD4dIXg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Fubgun",
+          "pin": true,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=FXv-FD4dIXg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/FXv-FD4dIXg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/FXv-FD4dIXg/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Path Of Exile 3.25 Re-Launch Starter Builds",
+          "url": "https://www.youtube.com/watch?v=IPS1r7du2EA",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Jorgen",
+          "pin": true,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=IPS1r7du2EA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/IPS1r7du2EA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/IPS1r7du2EA/sddefault.jpg"
           }
         },
         {
@@ -1567,6 +1645,22 @@
             "480w": "https://i.ytimg.com/vi/u6ZeKfK2S4w/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/u6ZeKfK2S4w/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/u6ZeKfK2S4w/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "POE 3.25 Settlers Event Will Be Busted - Builds To Exploit Divine Lanternz",
+          "url": "https://www.youtube.com/watch?v=Eok61FEg0_E",
+          "versions": [
+            "3.25"
+          ],
+          "author": "sirgog",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Eok61FEg0_E",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Eok61FEg0_E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Eok61FEg0_E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Eok61FEg0_E/maxresdefault.jpg"
           }
         },
         {
@@ -1641,13 +1735,29 @@
       "type": "atlas",
       "builds": [
         {
+          "title": "The Best Atlas Strats to Farm Divines With Necro Lantern",
+          "url": "https://www.youtube.com/watch?v=pZsTLY_2BT4",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Fubgun",
+          "pin": true,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=pZsTLY_2BT4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pZsTLY_2BT4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pZsTLY_2BT4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pZsTLY_2BT4/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Recommended Atlas Trees",
           "url": "https://www.youtube.com/watch?v=0YNbY3Hrwyg",
           "versions": [
             "3.25"
           ],
           "author": "BalorMage",
-          "pin": true,
+          "pin": false,
           "skip": false,
           "video": "https://www.youtube.com/watch?v=0YNbY3Hrwyg",
           "videothumb": {

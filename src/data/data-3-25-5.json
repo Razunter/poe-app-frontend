@@ -15,6 +15,86 @@
       "type": "melee",
       "builds": [
         {
+          "title": "My Gen Cry Phrecia Event Starter",
+          "url": "https://www.youtube.com/watch?v=DRF7LEpg4m8",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=DRF7LEpg4m8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/DRF7LEpg4m8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/DRF7LEpg4m8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/DRF7LEpg4m8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Prophet",
+          "url": "https://www.youtube.com/watch?v=nmycLXd9Les",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Fubgun",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=nmycLXd9Les",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/nmycLXd9Les/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/nmycLXd9Les/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/nmycLXd9Les/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Cataclone Ancestral Commander Phrecia Build (Cyclone General's Cry Tectonic Slam of Cataclysm)",
+          "url": "https://www.youtube.com/watch?v=T4RYWfoP4PQ",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "jungroan",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=T4RYWfoP4PQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/T4RYWfoP4PQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/T4RYWfoP4PQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/T4RYWfoP4PQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Molten Strike of the Zenith",
+          "url": "https://www.youtube.com/watch?v=HcCsfeDzR4U",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Onemanaleft",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=HcCsfeDzR4U",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/HcCsfeDzR4U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/HcCsfeDzR4U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/HcCsfeDzR4U/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Frost Blades Gambler",
+          "url": "https://www.youtube.com/watch?v=6IzfvJ_Mbd8",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Zish",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=6IzfvJ_Mbd8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6IzfvJ_Mbd8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6IzfvJ_Mbd8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6IzfvJ_Mbd8/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Splitting Steel Champ",
           "url": "https://www.pathofexile.com/forum/view-thread/3337868",
           "video": "https://www.youtube.com/watch?v=SijqwZ6uyF0",
@@ -455,6 +535,84 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Mana Stacking Kinetic Blast Whisperer",
+          "url": "https://www.youtube.com/watch?v=srAD6EaC_V4",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Allie",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=srAD6EaC_V4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/srAD6EaC_V4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/srAD6EaC_V4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/srAD6EaC_V4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Vaal Cold Snap Architect of Chaos",
+          "url": "https://www.youtube.com/watch?v=otWzqPPpFZ8",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "CaptainLance",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=otWzqPPpFZ8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/otWzqPPpFZ8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/otWzqPPpFZ8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/otWzqPPpFZ8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Kinetic Blast of Clustering Whisperer",
+          "url": "https://www.youtube.com/watch?v=jpq9R8TO4DQ",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=jpq9R8TO4DQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jpq9R8TO4DQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jpq9R8TO4DQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jpq9R8TO4DQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Hexblast Scavenger Sanctum Farmer",
+          "url": "https://www.youtube.com/watch?v=-bns_RrOUnU",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Wafflez",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=-bns_RrOUnU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-bns_RrOUnU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-bns_RrOUnU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-bns_RrOUnU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Sanctum Rush Surfcaster Penance Brand",
+          "url": "https://www.youtube.com/watch?v=W9FbOn98Xqo",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "CaptainLance",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=W9FbOn98Xqo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/W9FbOn98Xqo/hqdefault.jpg"
+          }
+        },
+        {
           "title": "This Build MELTS EVERY MAP! - Ignite Wave of Conviction Elementalist",
           "url": "https://maxroll.gg/poe/build-guides/wave-of-conviction-elementalist-league-starter",
           "versions": [
@@ -647,6 +805,38 @@
       "type": "ranged",
       "builds": [
         {
+          "title": "Elemental hit Blind Prophet",
+          "url": "https://www.youtube.com/watch?v=U2PvvK1Q1mQ",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Fubgun",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=U2PvvK1Q1mQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/U2PvvK1Q1mQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/U2PvvK1Q1mQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/U2PvvK1Q1mQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Manaforged Arrows Whisperer",
+          "url": "https://www.youtube.com/watch?v=yi4rymJ2cdA",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Onemanaleft",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=yi4rymJ2cdA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/yi4rymJ2cdA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yi4rymJ2cdA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/yi4rymJ2cdA/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Lightning Arrow Deadeye",
           "url": "https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter",
           "video": "https://www.youtube.com/watch?v=HUbMk18HtkQ",
@@ -690,6 +880,69 @@
           "author": "thedeathbeam",
           "pin": false,
           "skip": false
+        },
+        {
+          "title": "Puncture Bleed Bow Slayer",
+          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "versions": [
+            "3.25"
+          ],
+          "author": "JayTX",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Elemental Hit Warden",
+          "url": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
+          "versions": [
+            "3.25"
+          ],
+          "author": "KobeBlackMamba",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pVdnBbBYVmE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pVdnBbBYVmE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pVdnBbBYVmE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Freeze Elemental Hit of the Spectrum Warden",
+          "url": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
+          "versions": [
+            "3.25"
+          ],
+          "author": "SnooBAE85",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/sddefault.jpg"
+          }
+        },
+        {
+          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
+          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
+          }
         },
         {
           "title": "Poisonous Concoction of Bouncing Pathfinder - My Settlers 2.0 Leaguestarter",
@@ -737,69 +990,6 @@
             "480w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
-          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Puncture Bleed Bow Slayer",
-          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
-          "versions": [
-            "3.25"
-          ],
-          "author": "JayTX",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Elemental Hit Warden",
-          "url": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
-          "versions": [
-            "3.25"
-          ],
-          "author": "KobeBlackMamba",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/pVdnBbBYVmE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/pVdnBbBYVmE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/pVdnBbBYVmE/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Freeze Elemental Hit of the Spectrum Warden",
-          "url": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
-          "versions": [
-            "3.25"
-          ],
-          "author": "SnooBAE85",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/sddefault.jpg"
           }
         },
         {
@@ -971,6 +1161,22 @@
     {
       "type": "rf",
       "builds": [
+        {
+          "title": "RF Scavenger Build Concept",
+          "url": "https://www.youtube.com/watch?v=r5rqPL03WTs",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Pohx",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=r5rqPL03WTs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/r5rqPL03WTs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/r5rqPL03WTs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/r5rqPL03WTs/maxresdefault.jpg"
+          }
+        },
         {
           "title": "Righteous Fire Chieftain",
           "url": "https://www.pohx.net/FAQ",
@@ -1213,6 +1419,38 @@
     {
       "type": "minions",
       "builds": [
+        {
+          "title": "Poison SRS Servant Of Arakaali",
+          "url": "https://www.youtube.com/watch?v=6Dj_yYtuN0I",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=6Dj_yYtuN0I",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6Dj_yYtuN0I/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6Dj_yYtuN0I/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6Dj_yYtuN0I/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Summon Raging Spirits with SPIDERS?!",
+          "url": "https://www.youtube.com/watch?v=h--aGLmfIlU",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=h--aGLmfIlU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/h--aGLmfIlU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/h--aGLmfIlU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/h--aGLmfIlU/maxresdefault.jpg"
+          }
+        },
         {
           "title": "Poison Summon Raging Spirits",
           "url": "https://www.poe-vault.com/guides/balormage-summon-raging-spirits-necromancer-build-guide",
@@ -1538,6 +1776,36 @@
       "type": "misc",
       "builds": [
         {
+          "title": "The Best League Starters for Settlers Relaunch (2.0)",
+          "url": "https://www.youtube.com/watch?v=FXv-FD4dIXg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Fubgun",
+          "pin": true,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=FXv-FD4dIXg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/FXv-FD4dIXg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/FXv-FD4dIXg/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Path Of Exile 3.25 Re-Launch Starter Builds",
+          "url": "https://www.youtube.com/watch?v=IPS1r7du2EA",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Jorgen",
+          "pin": true,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=IPS1r7du2EA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/IPS1r7du2EA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/IPS1r7du2EA/sddefault.jpg"
+          }
+        },
+        {
           "title": "TOP 5 League Start Build Guides",
           "url": "https://www.youtube.com/watch?v=3xrQwFc3C4s",
           "versions": [
@@ -1567,36 +1835,6 @@
             "480w": "https://i.ytimg.com/vi/AmzEwRJnb2c/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/AmzEwRJnb2c/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/AmzEwRJnb2c/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "The Best League Starters for Settlers Relaunch (2.0)",
-          "url": "https://www.youtube.com/watch?v=FXv-FD4dIXg",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Fubgun",
-          "pin": true,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=FXv-FD4dIXg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/FXv-FD4dIXg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/FXv-FD4dIXg/sddefault.jpg"
-          }
-        },
-        {
-          "title": "Path Of Exile 3.25 Re-Launch Starter Builds",
-          "url": "https://www.youtube.com/watch?v=IPS1r7du2EA",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Jorgen",
-          "pin": true,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=IPS1r7du2EA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/IPS1r7du2EA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/IPS1r7du2EA/sddefault.jpg"
           }
         },
         {
@@ -1751,22 +1989,6 @@
           }
         },
         {
-          "title": "Recommended Atlas Trees",
-          "url": "https://www.youtube.com/watch?v=0YNbY3Hrwyg",
-          "versions": [
-            "3.25"
-          ],
-          "author": "BalorMage",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=0YNbY3Hrwyg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "3 ATLAS TREES for your Leaguestart!",
           "url": "https://www.youtube.com/watch?v=iqWcqgXBTlI",
           "versions": [
@@ -1812,6 +2034,22 @@
             "480w": "https://i.ytimg.com/vi/mD_X-_rHLDE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/mD_X-_rHLDE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/mD_X-_rHLDE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Recommended Atlas Trees",
+          "url": "https://www.youtube.com/watch?v=0YNbY3Hrwyg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=0YNbY3Hrwyg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/0YNbY3Hrwyg/maxresdefault.jpg"
           }
         },
         {

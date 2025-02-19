@@ -15,6 +15,22 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Earthshatter Ancestral Commander",
+          "url": "https://www.youtube.com/watch?v=SX2XSTQoUpk",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "cArn",
+          "video": "https://www.youtube.com/watch?v=SX2XSTQoUpk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SX2XSTQoUpk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SX2XSTQoUpk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SX2XSTQoUpk/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "My Gen Cry Phrecia Event Starter",
           "url": "https://www.youtube.com/watch?v=DRF7LEpg4m8",
           "versions": [
@@ -28,6 +44,22 @@
             "480w": "https://i.ytimg.com/vi/DRF7LEpg4m8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/DRF7LEpg4m8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/DRF7LEpg4m8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "It's time for Smite! Paladin",
+          "url": "https://www.youtube.com/watch?v=a7F42ju_TMk",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Exiled Cat",
+          "video": "https://www.youtube.com/watch?v=a7F42ju_TMk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/a7F42ju_TMk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/a7F42ju_TMk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/a7F42ju_TMk/maxresdefault.jpg"
           }
         },
         {
@@ -76,6 +108,22 @@
             "480w": "https://i.ytimg.com/vi/HcCsfeDzR4U/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/HcCsfeDzR4U/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/HcCsfeDzR4U/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Ice Crash of Cadence Paladin",
+          "url": "https://www.youtube.com/watch?v=JG6abpbDsGQ",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Taaki",
+          "video": "https://www.youtube.com/watch?v=JG6abpbDsGQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JG6abpbDsGQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JG6abpbDsGQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/JG6abpbDsGQ/maxresdefault.jpg"
           }
         },
         {
@@ -178,70 +226,6 @@
           }
         },
         {
-          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Lacerate Gladiator",
-          "url": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Slams but WITHOUT THE CLUNK!! - Autocry Slammer Berserker",
-          "url": "https://www.youtube.com/watch?v=CiMKUZJclcg",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=CiMKUZJclcg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/CiMKUZJclcg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/CiMKUZJclcg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/CiMKUZJclcg/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Lightning Strike Warden",
-          "url": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Allie",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "Slayer Sweep",
           "url": "https://www.youtube.com/watch?v=Dyisj3xgHOU",
           "versions": [
@@ -318,6 +302,70 @@
             "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lacerate Gladiator",
+          "url": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3KgSrJiTqoQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3KgSrJiTqoQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Slams but WITHOUT THE CLUNK!! - Autocry Slammer Berserker",
+          "url": "https://www.youtube.com/watch?v=CiMKUZJclcg",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=CiMKUZJclcg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CiMKUZJclcg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CiMKUZJclcg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CiMKUZJclcg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Strike Warden",
+          "url": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Allie",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QXAuKYxJdRQ/maxresdefault.jpg"
           }
         },
         {
@@ -564,6 +612,38 @@
             "480w": "https://i.ytimg.com/vi/otWzqPPpFZ8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/otWzqPPpFZ8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/otWzqPPpFZ8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Vaal Cold Snap budget Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=MCGKrQ7ndtw",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "GameyMcJamesFace",
+          "video": "https://www.youtube.com/watch?v=MCGKrQ7ndtw",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/MCGKrQ7ndtw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/MCGKrQ7ndtw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/MCGKrQ7ndtw/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Perma Vaal Flameblast Architect of Chaos",
+          "url": "https://www.youtube.com/watch?v=4HOkf4Z0xgo",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Lolcohol",
+          "video": "https://www.youtube.com/watch?v=4HOkf4Z0xgo",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4HOkf4Z0xgo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4HOkf4Z0xgo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4HOkf4Z0xgo/maxresdefault.jpg"
           }
         },
         {
@@ -882,69 +962,6 @@
           "skip": false
         },
         {
-          "title": "Puncture Bleed Bow Slayer",
-          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
-          "versions": [
-            "3.25"
-          ],
-          "author": "JayTX",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Elemental Hit Warden",
-          "url": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
-          "versions": [
-            "3.25"
-          ],
-          "author": "KobeBlackMamba",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/pVdnBbBYVmE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/pVdnBbBYVmE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/pVdnBbBYVmE/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Freeze Elemental Hit of the Spectrum Warden",
-          "url": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
-          "versions": [
-            "3.25"
-          ],
-          "author": "SnooBAE85",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/sddefault.jpg"
-          }
-        },
-        {
-          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
-          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "Poisonous Concoction of Bouncing Pathfinder - My Settlers 2.0 Leaguestarter",
           "url": "https://www.youtube.com/watch?v=xIma6DE9gA4",
           "versions": [
@@ -990,6 +1007,69 @@
             "480w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
+          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Puncture Bleed Bow Slayer",
+          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "versions": [
+            "3.25"
+          ],
+          "author": "JayTX",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Elemental Hit Warden",
+          "url": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
+          "versions": [
+            "3.25"
+          ],
+          "author": "KobeBlackMamba",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=pVdnBbBYVmE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pVdnBbBYVmE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pVdnBbBYVmE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pVdnBbBYVmE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Freeze Elemental Hit of the Spectrum Warden",
+          "url": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
+          "versions": [
+            "3.25"
+          ],
+          "author": "SnooBAE85",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Ezsv7RKMXHM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Ezsv7RKMXHM/sddefault.jpg"
           }
         },
         {
@@ -1217,6 +1297,38 @@
     {
       "type": "mines",
       "builds": [
+        {
+          "title": "FOOL-PROOF Strong Build for Phrecia! - Power Siphon Scavenger",
+          "url": "https://www.youtube.com/watch?v=WqREzkHVkiM",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=WqREzkHVkiM",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/WqREzkHVkiM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WqREzkHVkiM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/WqREzkHVkiM/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Trap Surfcaster",
+          "url": "https://www.youtube.com/watch?v=HUiOE-Whgsk",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "aer0",
+          "video": "https://www.youtube.com/watch?v=HUiOE-Whgsk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/HUiOE-Whgsk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/HUiOE-Whgsk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/HUiOE-Whgsk/maxresdefault.jpg"
+          }
+        },
         {
           "title": "Icicle Mines / Eye of Winter Deadeye",
           "url": "https://www.pathofexile.com/forum/view-thread/3359700",
@@ -1449,6 +1561,22 @@
             "480w": "https://i.ytimg.com/vi/h--aGLmfIlU/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/h--aGLmfIlU/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/h--aGLmfIlU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "zombie + skeleton herald",
+          "url": "https://www.youtube.com/watch?v=i6HhXDwiXuY",
+          "versions": [
+            "3.25.5"
+          ],
+          "author": "thegam3report",
+          "video": "https://www.youtube.com/watch?v=i6HhXDwiXuY",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/i6HhXDwiXuY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/i6HhXDwiXuY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/i6HhXDwiXuY/maxresdefault.jpg"
           }
         },
         {

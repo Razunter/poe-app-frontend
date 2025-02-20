@@ -1,5 +1,5 @@
 {
-  "currentVersion": "3.25.5",
+  "currentVersion": "3.25.3",
   "versions": [
     {
       "name": "Ultimatum",
@@ -105,10 +105,10 @@
       "url": "https://www.pathofexile.com/settlers"
     },
     {
-      "version": "3.25.5",
+      "version": "3.25.3",
       "name": "Legacy of Phrecia event",
       "url": "https://www.pathofexile.com/forum/view-thread/3722512",
-      "wip": true,
+      "wip": false,
       "note": "All Ascendancies are different, have fun!",
       "compatible": []
     }

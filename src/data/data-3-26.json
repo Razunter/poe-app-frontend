@@ -233,6 +233,22 @@
           }
         },
         {
+          "title": "My Starter! SMITE Slayer",
+          "url": "https://www.youtube.com/watch?v=TaBbsBVqYq0",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=TaBbsBVqYq0",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/TaBbsBVqYq0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/TaBbsBVqYq0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/TaBbsBVqYq0/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Cyclone Shockwave Slayer",
           "url": "https://www.youtube.com/watch?v=wjidsGqFc_I",
           "versions": [
@@ -558,6 +574,22 @@
           }
         },
         {
+          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Lightning Strike Warden",
           "url": "https://www.youtube.com/watch?v=QXAuKYxJdRQ",
           "versions": [
@@ -650,22 +682,6 @@
             "480w": "https://i.ytimg.com/vi/399-1g7VtUk/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/399-1g7VtUk/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/399-1g7VtUk/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "ONE-TAP THE WHOLE SCREEN! - Ground Slam Slayer Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=OWdT2nVYBgc",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/OWdT2nVYBgc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/OWdT2nVYBgc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/OWdT2nVYBgc/maxresdefault.jpg"
           }
         },
         {
@@ -1485,6 +1501,38 @@
           }
         },
         {
+          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
+          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Puncture Bleed Bow Slayer",
+          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "versions": [
+            "3.25"
+          ],
+          "author": "JayTX",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Poisonous Concoction Slayer",
           "url": "https://www.youtube.com/watch?v=7GcvPzAeJTQ",
           "versions": [
@@ -1545,38 +1593,6 @@
             "480w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
-          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Puncture Bleed Bow Slayer",
-          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
-          "versions": [
-            "3.25"
-          ],
-          "author": "JayTX",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
           }
         },
         {
@@ -1663,6 +1679,22 @@
             "480w": "https://i.ytimg.com/vi/dVsDkiJNNfQ/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/dVsDkiJNNfQ/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/dVsDkiJNNfQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Amazing All-Rounder League Starter - Toxic Rain / Caustic Arrow Pathfinder",
+          "url": "https://www.youtube.com/watch?v=ydKRzpJRbL8",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=ydKRzpJRbL8",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ydKRzpJRbL8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ydKRzpJRbL8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ydKRzpJRbL8/maxresdefault.jpg"
           }
         },
         {
@@ -1900,6 +1932,21 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/yKTURcq1-T8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/yKTURcq1-T8/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Exsanguinate Reap Miner",
+          "url": "https://www.youtube.com/watch?v=YkLlsJJlR4g",
+          "versions": [
+            "3.26"
+          ],
+          "author": "FearlessDumb0",
+          "video": "https://www.youtube.com/watch?v=YkLlsJJlR4g",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/YkLlsJJlR4g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/YkLlsJJlR4g/sddefault.jpg"
           }
         },
         {

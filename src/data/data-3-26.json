@@ -91,6 +91,22 @@
           }
         },
         {
+          "title": "Volcanic Fissure of Snaking - The strongest League Starter",
+          "url": "https://www.youtube.com/watch?v=yIYeDbmobFk",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Fubgun",
+          "video": "https://www.youtube.com/watch?v=yIYeDbmobFk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/yIYeDbmobFk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yIYeDbmobFk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/yIYeDbmobFk/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Frost Blades Slayer",
           "url": "https://www.youtube.com/watch?v=BcWzWkqztew",
           "versions": [
@@ -250,18 +266,18 @@
         },
         {
           "title": "Cyclone Shockwave Slayer",
-          "url": "https://www.youtube.com/watch?v=wjidsGqFc_I",
+          "url": "https://www.youtube.com/watch?v=TTTOZtzOlsQ",
           "versions": [
             "3.26"
           ],
           "author": "Sanavixx",
-          "video": "https://www.youtube.com/watch?v=wjidsGqFc_I",
+          "video": "https://www.youtube.com/watch?v=TTTOZtzOlsQ",
           "pin": false,
           "skip": false,
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/wjidsGqFc_I/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/wjidsGqFc_I/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/wjidsGqFc_I/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/TTTOZtzOlsQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/TTTOZtzOlsQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/TTTOZtzOlsQ/maxresdefault.jpg"
           }
         },
         {
@@ -899,6 +915,54 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Wave of Conviction Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=mgHlvAyG5mA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=mgHlvAyG5mA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/mgHlvAyG5mA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/mgHlvAyG5mA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/mgHlvAyG5mA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My League Starter - Glacial Cascade Golemancer Elementalist",
+          "url": "https://www.youtube.com/watch?v=l4qv0FAxUfg",
+          "versions": [
+            "3.26"
+          ],
+          "author": "aer0",
+          "video": "https://www.youtube.com/watch?v=l4qv0FAxUfg",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/l4qv0FAxUfg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/l4qv0FAxUfg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/l4qv0FAxUfg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "How I'm Starting 3.26 With Chaos DoT",
+          "url": "https://www.youtube.com/watch?v=qsYTP8SfzmA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Doth",
+          "video": "https://www.youtube.com/watch?v=qsYTP8SfzmA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qsYTP8SfzmA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/qsYTP8SfzmA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/qsYTP8SfzmA/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Poison DD Spellslinger",
           "url": "https://www.youtube.com/watch?v=cxCvCwov9MA",
           "versions": [
@@ -1257,12 +1321,50 @@
           "author": "Chronic_Painless",
           "pin": false,
           "skip": false
+        },
+        {
+          "title": "Cold DoT Witch For Everyone",
+          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ShakCentral",
+          "pin": false,
+          "skip": false
         }
       ]
     },
     {
       "type": "ranged",
       "builds": [
+        {
+          "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, fun to play",
+          "url": "https://www.pathofexile.com/forum/view-thread/2551841",
+          "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dS-gx4lgU7s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dS-gx4lgU7s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dS-gx4lgU7s/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26"
+          ],
+          "author": "thedeathbeam",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "The Smoothest & Strongest Leaguestart! - Poisonous Concoction of Bouncing Pathfinder",
           "url": "https://www.youtube.com/watch?v=yMHbyd4jLb4",
@@ -1458,81 +1560,6 @@
           "skip": false
         },
         {
-          "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, fun to play",
-          "url": "https://www.pathofexile.com/forum/view-thread/2551841",
-          "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/dS-gx4lgU7s/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/dS-gx4lgU7s/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/dS-gx4lgU7s/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.14",
-            "3.15",
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.19",
-            "3.20",
-            "3.21",
-            "3.22",
-            "3.23",
-            "3.24",
-            "3.25"
-          ],
-          "author": "thedeathbeam",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Poisonous Concoction of Bouncing Pathfinder - My Settlers 2.0 Leaguestarter",
-          "url": "https://www.youtube.com/watch?v=xIma6DE9gA4",
-          "versions": [
-            "3.25"
-          ],
-          "author": "anime princess",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=xIma6DE9gA4",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/xIma6DE9gA4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/xIma6DE9gA4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/xIma6DE9gA4/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
-          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
-          "versions": [
-            "3.25"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Puncture Bleed Bow Slayer",
-          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
-          "versions": [
-            "3.25"
-          ],
-          "author": "JayTX",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "Poisonous Concoction Slayer",
           "url": "https://www.youtube.com/watch?v=7GcvPzAeJTQ",
           "versions": [
@@ -1593,6 +1620,54 @@
             "480w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/qIPJZS-6Cf8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "INCREDIBLE Atlas Rushing Build!! - Bleed SST Gladiator",
+          "url": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=3mGPRKypl6k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3mGPRKypl6k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3mGPRKypl6k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3mGPRKypl6k/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Poisonous Concoction of Bouncing Pathfinder - My Settlers 2.0 Leaguestarter",
+          "url": "https://www.youtube.com/watch?v=xIma6DE9gA4",
+          "versions": [
+            "3.25"
+          ],
+          "author": "anime princess",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=xIma6DE9gA4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xIma6DE9gA4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xIma6DE9gA4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/xIma6DE9gA4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Puncture Bleed Bow Slayer",
+          "url": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "versions": [
+            "3.25"
+          ],
+          "author": "JayTX",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=_7vP6W4wvbY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_7vP6W4wvbY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_7vP6W4wvbY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_7vP6W4wvbY/maxresdefault.jpg"
           }
         },
         {
@@ -1801,7 +1876,8 @@
             "3.22",
             "3.23",
             "3.24",
-            "3.25"
+            "3.25",
+            "3.26"
           ],
           "author": "gui_orioli",
           "pin": false,

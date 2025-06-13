@@ -59,38 +59,6 @@
           }
         },
         {
-          "title": "Energy Blade Inquisitor",
-          "url": "https://www.youtube.com/watch?v=7QqjriB39uU",
-          "versions": [
-            "3.26"
-          ],
-          "author": "CaptainLance",
-          "video": "https://www.youtube.com/watch?v=7QqjriB39uU",
-          "pin": false,
-          "skip": false,
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/7QqjriB39uU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/7QqjriB39uU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/7QqjriB39uU/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Shield Crush Champion",
-          "url": "https://www.youtube.com/watch?v=CygeJnFY_hQ",
-          "versions": [
-            "3.26"
-          ],
-          "author": "Exiled Cat",
-          "video": "https://www.youtube.com/watch?v=CygeJnFY_hQ",
-          "pin": false,
-          "skip": false,
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/CygeJnFY_hQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/CygeJnFY_hQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/CygeJnFY_hQ/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "This BEGINNER FRIENDLY Build Clears ALL CONTENT! - Bleed Earthquake Gladiator",
           "url": "https://www.youtube.com/watch?v=I3fGEt9RgKo",
           "versions": [
@@ -107,6 +75,22 @@
           }
         },
         {
+          "title": "Energy Blade Inquisitor",
+          "url": "https://www.youtube.com/watch?v=7QqjriB39uU",
+          "versions": [
+            "3.26"
+          ],
+          "author": "CaptainLance",
+          "video": "https://www.youtube.com/watch?v=7QqjriB39uU",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7QqjriB39uU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7QqjriB39uU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7QqjriB39uU/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Volcanic Fissure of Snaking: Full Leveling & Endgame Guide",
           "url": "https://www.youtube.com/watch?v=YYtbD5vgxLQ",
           "versions": [
@@ -120,6 +104,22 @@
             "480w": "https://i.ytimg.com/vi/YYtbD5vgxLQ/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/YYtbD5vgxLQ/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/YYtbD5vgxLQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Shield Crush Champion",
+          "url": "https://www.youtube.com/watch?v=CygeJnFY_hQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Exiled Cat",
+          "video": "https://www.youtube.com/watch?v=CygeJnFY_hQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CygeJnFY_hQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CygeJnFY_hQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CygeJnFY_hQ/maxresdefault.jpg"
           }
         },
         {
@@ -473,6 +473,22 @@
           }
         },
         {
+          "title": "A TANKY and FAST Elementalist?! - Lightning Conduit Elementalist",
+          "url": "https://www.youtube.com/watch?v=w3dybIb6rIQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=w3dybIb6rIQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/w3dybIb6rIQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/w3dybIb6rIQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/w3dybIb6rIQ/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "My League Starter - Glacial Cascade Golemancer Elementalist",
           "url": "https://www.youtube.com/watch?v=l4qv0FAxUfg",
           "versions": [
@@ -502,22 +518,6 @@
             "480w": "https://i.ytimg.com/vi/qsYTP8SfzmA/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/qsYTP8SfzmA/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/qsYTP8SfzmA/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "A TANKY and FAST Elementalist?! - Lightning Conduit Elementalist",
-          "url": "https://www.youtube.com/watch?v=w3dybIb6rIQ",
-          "versions": [
-            "3.26"
-          ],
-          "author": "Zizaran",
-          "video": "https://www.youtube.com/watch?v=w3dybIb6rIQ",
-          "pin": false,
-          "skip": false,
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/w3dybIb6rIQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/w3dybIb6rIQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/w3dybIb6rIQ/maxresdefault.jpg"
           }
         },
         {
@@ -787,6 +787,22 @@
     {
       "type": "totems",
       "builds": [
+        {
+          "title": "B-Tier but still a good choice! - Explosive Arrow Champion",
+          "url": "https://www.youtube.com/watch?v=JIL1GZWEw6g",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=JIL1GZWEw6g",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JIL1GZWEw6g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JIL1GZWEw6g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/JIL1GZWEw6g/maxresdefault.jpg"
+          }
+        },
         {
           "title": "Power Siphon Ballista Totem",
           "url": "https://www.youtube.com/watch?v=lfHe0n_rdaA",
@@ -1247,22 +1263,6 @@
           }
         },
         {
-          "title": "Zoo Necromancer w/ Helm Breaker",
-          "url": "https://www.youtube.com/watch?v=RLcDuszpBZ8",
-          "versions": [
-            "3.26"
-          ],
-          "author": "Zizaran",
-          "video": "https://www.youtube.com/watch?v=RLcDuszpBZ8",
-          "pin": false,
-          "skip": false,
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/RLcDuszpBZ8/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/RLcDuszpBZ8/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/RLcDuszpBZ8/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "Holy Relic Poison Necromancer",
           "url": "https://www.youtube.com/watch?v=y2iDKNEZaAE",
           "versions": [
@@ -1276,6 +1276,22 @@
             "480w": "https://i.ytimg.com/vi/y2iDKNEZaAE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/y2iDKNEZaAE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/y2iDKNEZaAE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Zoo Necromancer w/ Helm Breaker",
+          "url": "https://www.youtube.com/watch?v=RLcDuszpBZ8",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=RLcDuszpBZ8",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/RLcDuszpBZ8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/RLcDuszpBZ8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/RLcDuszpBZ8/maxresdefault.jpg"
           }
         },
         {
@@ -1623,6 +1639,22 @@
           }
         },
         {
+          "title": "Top 7 Leaguestarters",
+          "url": "https://www.youtube.com/watch?v=gAr8cigPlCA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Palsteron",
+          "video": "https://www.youtube.com/watch?v=gAr8cigPlCA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/gAr8cigPlCA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/gAr8cigPlCA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/gAr8cigPlCA/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "10 Solid League Starter Builds",
           "url": "https://www.youtube.com/watch?v=D2W_EdqoUbQ",
           "versions": [
@@ -1773,6 +1805,22 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/AGQd7AaL0qU/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/AGQd7AaL0qU/sddefault.jpg"
+          }
+        },
+        {
+          "title": "My Atlas Starter Tree for 3.26",
+          "url": "https://www.youtube.com/watch?v=5wbBydzPeCc",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Palsteron",
+          "video": "https://www.youtube.com/watch?v=5wbBydzPeCc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5wbBydzPeCc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5wbBydzPeCc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5wbBydzPeCc/maxresdefault.jpg"
           }
         },
         {

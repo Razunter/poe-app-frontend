@@ -1,0 +1,2182 @@
+{
+  "types": {
+    "melee": "Melee",
+    "caster": "Caster & Wander",
+    "ranged": "Ranged",
+    "totems": "Totems",
+    "rf": "Righteous Fire & Death's Oath",
+    "mines": "Mines & Traps",
+    "minions": "Minions",
+    "misc": "Misc",
+    "atlas": "Atlas"
+  },
+  "buildList": [
+    {
+      "type": "melee",
+      "builds": [
+        {
+          "title": "The Warbringer Slaming Serker",
+          "url": "https://www.pathofexile.com/forum/view-thread/2618769",
+          "video": "https://www.youtube.com/watch?v=WRwc39QPbq4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/WRwc39QPbq4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/WRwc39QPbq4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/WRwc39QPbq4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26",
+            "3.27"
+          ],
+          "author": "frawrst",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Earthshatter",
+          "url": "https://www.youtube.com/watch?v=fmbveQQd4q8",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Jorgen",
+          "video": "https://www.youtube.com/watch?v=fmbveQQd4q8",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/fmbveQQd4q8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/fmbveQQd4q8/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Flicker Strike",
+          "url": "https://www.youtube.com/watch?v=UQobyhDRtTk",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Magefist",
+          "video": "https://www.youtube.com/watch?v=UQobyhDRtTk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/UQobyhDRtTk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UQobyhDRtTk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UQobyhDRtTk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Phys DoT Elementalist",
+          "url": "https://www.youtube.com/watch?v=KaRIcdNtgPc",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=KaRIcdNtgPc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/KaRIcdNtgPc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/KaRIcdNtgPc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/KaRIcdNtgPc/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Bleed LACERATE + RETALIATE Gladiator",
+          "url": "https://www.youtube.com/watch?v=Xr1UEns9ukk",
+          "versions": [
+            "3.27"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=Xr1UEns9ukk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Xr1UEns9ukk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Xr1UEns9ukk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Xr1UEns9ukk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Volcanic Fissure of Snaking: Full Leveling & Endgame Guide",
+          "url": "https://www.youtube.com/watch?v=YYtbD5vgxLQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Crouching_Tuna",
+          "video": "https://www.youtube.com/watch?v=YYtbD5vgxLQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/YYtbD5vgxLQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/YYtbD5vgxLQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/YYtbD5vgxLQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Shield Crush Champion",
+          "url": "https://www.youtube.com/watch?v=CygeJnFY_hQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Exiled Cat",
+          "video": "https://www.youtube.com/watch?v=CygeJnFY_hQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/CygeJnFY_hQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/CygeJnFY_hQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/CygeJnFY_hQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Earthshatter Berserker w/ imExile",
+          "url": "https://www.youtube.com/watch?v=Apb4AbrLPM4",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=Apb4AbrLPM4",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Apb4AbrLPM4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Apb4AbrLPM4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Apb4AbrLPM4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "This BEGINNER FRIENDLY Build Clears ALL CONTENT! - Bleed Earthquake Gladiator",
+          "url": "https://www.youtube.com/watch?v=I3fGEt9RgKo",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=I3fGEt9RgKo",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/I3fGEt9RgKo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/I3fGEt9RgKo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/I3fGEt9RgKo/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Energy Blade Inquisitor",
+          "url": "https://www.youtube.com/watch?v=7QqjriB39uU",
+          "versions": [
+            "3.26"
+          ],
+          "author": "CaptainLance",
+          "video": "https://www.youtube.com/watch?v=7QqjriB39uU",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7QqjriB39uU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7QqjriB39uU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7QqjriB39uU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Volcanic Fissure of Snaking - The strongest League Starter",
+          "url": "https://www.youtube.com/watch?v=yIYeDbmobFk",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Fubgun",
+          "video": "https://www.youtube.com/watch?v=yIYeDbmobFk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/yIYeDbmobFk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yIYeDbmobFk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/yIYeDbmobFk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Frost Blades Slayer",
+          "url": "https://www.youtube.com/watch?v=BcWzWkqztew",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Fuzzy Duckzy",
+          "video": "https://www.youtube.com/watch?v=BcWzWkqztew",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/BcWzWkqztew/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/BcWzWkqztew/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/BcWzWkqztew/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Bleed Gladiator Eviscerate",
+          "url": "https://www.youtube.com/watch?v=a9zPrQcYtww",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Goratha",
+          "video": "https://www.youtube.com/watch?v=a9zPrQcYtww",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/a9zPrQcYtww/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/a9zPrQcYtww/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/a9zPrQcYtww/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "SUNDER CHIEFTAIN! League Starter Act 1 to 10 Leveling Guide",
+          "url": "https://www.youtube.com/watch?v=rLB4FOg_6yg",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Jorgen",
+          "video": "https://www.youtube.com/watch?v=rLB4FOg_6yg",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/rLB4FOg_6yg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/rLB4FOg_6yg/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Cobra Lash Deadeye (ward stacking)",
+          "url": "https://www.youtube.com/watch?v=Au_2ai-sq6U",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Kankar",
+          "video": "https://www.youtube.com/watch?v=Au_2ai-sq6U",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Au_2ai-sq6U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Au_2ai-sq6U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Au_2ai-sq6U/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Flicker Strike",
+          "url": "https://www.youtube.com/watch?v=UpFJTsT7BFI",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Magefist",
+          "video": "https://www.youtube.com/watch?v=UpFJTsT7BFI",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/UpFJTsT7BFI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UpFJTsT7BFI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UpFJTsT7BFI/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Molten strike of the Zenith Full Build Guide",
+          "url": "https://www.youtube.com/watch?v=xE7keXeUiag",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Onemanaleft",
+          "video": "https://www.youtube.com/watch?v=xE7keXeUiag",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xE7keXeUiag/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xE7keXeUiag/sddefault.jpg"
+          }
+        },
+        {
+          "title": "The Ultimate Volcanic Fissure of Snaking Build Guide — Berserker",
+          "url": "https://www.youtube.com/watch?v=khR0v6JMMJo",
+          "versions": [
+            "3.26"
+          ],
+          "author": "PhasePlays",
+          "video": "https://www.youtube.com/watch?v=khR0v6JMMJo",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/khR0v6JMMJo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/khR0v6JMMJo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/khR0v6JMMJo/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Flicker Strike CHAMPION",
+          "url": "https://www.youtube.com/watch?v=dZX-Tu0PPdE",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=dZX-Tu0PPdE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dZX-Tu0PPdE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dZX-Tu0PPdE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dZX-Tu0PPdE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Bleed LACERATE Gladiator",
+          "url": "https://www.youtube.com/watch?v=eIRl_KSvyMQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=eIRl_KSvyMQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/eIRl_KSvyMQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/eIRl_KSvyMQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/eIRl_KSvyMQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My Starter! SMITE Slayer",
+          "url": "https://www.youtube.com/watch?v=TaBbsBVqYq0",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=TaBbsBVqYq0",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/TaBbsBVqYq0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/TaBbsBVqYq0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/TaBbsBVqYq0/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Cyclone Shockwave Slayer",
+          "url": "https://www.youtube.com/watch?v=TTTOZtzOlsQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Sanavixx",
+          "video": "https://www.youtube.com/watch?v=TTTOZtzOlsQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/TTTOZtzOlsQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/TTTOZtzOlsQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/TTTOZtzOlsQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Bladestorm Of Uncertainty Slayer",
+          "url": "https://www.youtube.com/watch?v=ov_7IRRQFXE",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Taaki",
+          "video": "https://www.youtube.com/watch?v=ov_7IRRQFXE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ov_7IRRQFXE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ov_7IRRQFXE/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Frost Blades Champion League Start Guide (and Warden)",
+          "url": "https://www.youtube.com/watch?v=lHys1AoK7EQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zish",
+          "video": "https://www.youtube.com/watch?v=lHys1AoK7EQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lHys1AoK7EQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lHys1AoK7EQ/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Splitting Steel Champ",
+          "url": "https://www.pathofexile.com/forum/view-thread/3337868",
+          "video": "https://www.youtube.com/watch?v=SijqwZ6uyF0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SijqwZ6uyF0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SijqwZ6uyF0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/SijqwZ6uyF0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "corosou",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Versatile Combatant Impale Shield Crush Slayer",
+          "url": "https://www.pathofexile.com/forum/view-thread/3148278",
+          "video": "https://www.youtube.com/watch?v=D1TdadlpDDw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/D1TdadlpDDw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/D1TdadlpDDw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/D1TdadlpDDw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.25"
+          ],
+          "author": "OMFGaTaco",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Everything You Need for Lacerate Gladiator for Settlers 2.0 - Start to Ubers",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1glrnh3/everything_you_need_for_lacerate_gladiator_for/",
+          "versions": [
+            "3.25"
+          ],
+          "author": "ronarray",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Xsgx58XIxuQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Xsgx58XIxuQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Cobra Lash League Start BUFFED!",
+          "url": "https://maxroll.gg/poe/build-guides/cobra-lash-deadeye",
+          "video": "https://www.youtube.com/watch?v=LAWV_Ndl-Vo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/LAWV_Ndl-Vo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/LAWV_Ndl-Vo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/LAWV_Ndl-Vo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.22",
+            "3.24"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "BEST Melee Build Boneshatter Slayer",
+          "url": "https://maxroll.gg/poe/build-guides/boneshatter-slayer-league-starter-guide",
+          "video": "https://www.youtube.com/watch?v=uLsBQxkI4W8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/uLsBQxkI4W8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/uLsBQxkI4W8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/uLsBQxkI4W8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "Tripolar Bear",
+          "pin": false,
+          "skip": false
+        }
+      ]
+    },
+    {
+      "type": "caster",
+      "builds": [
+        {
+          "title": "Blade Vortex",
+          "url": "https://www.youtube.com/watch?v=dfMggIJyhYE",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Chronic_Painless",
+          "video": "https://www.youtube.com/watch?v=dfMggIJyhYE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dfMggIJyhYE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dfMggIJyhYE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dfMggIJyhYE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Wintertide Brand Cold Dot Elementalist",
+          "url": "https://www.youtube.com/watch?v=W7ns-GY-mHs",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Lazy Exile",
+          "video": "https://www.youtube.com/watch?v=W7ns-GY-mHs",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/W7ns-GY-mHs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/W7ns-GY-mHs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/W7ns-GY-mHs/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Blight of Contagion Occultist",
+          "url": "https://www.youtube.com/watch?v=Cqyltsve66E",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=Cqyltsve66E",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Cqyltsve66E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Cqyltsve66E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Cqyltsve66E/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Kinetic Rain Elementalist League Starter Preview",
+          "url": "https://www.youtube.com/watch?v=6G22r8PR7gw",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=6G22r8PR7gw",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6G22r8PR7gw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6G22r8PR7gw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6G22r8PR7gw/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Ignite Divine Ire Elementalist",
+          "url": "https://www.youtube.com/watch?v=znE7Y7y-06s",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=znE7Y7y-06s",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/znE7Y7y-06s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/znE7Y7y-06s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/znE7Y7y-06s/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "This Build MELTS EVERY MAP! - Ignite Wave of Conviction Elementalist",
+          "url": "https://maxroll.gg/poe/build-guides/wave-of-conviction-elementalist-league-starter",
+          "versions": [
+            "3.25",
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=KGadeOwMwpA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/KGadeOwMwpA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/KGadeOwMwpA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/KGadeOwMwpA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Wave of Conviction Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=mgHlvAyG5mA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=mgHlvAyG5mA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/mgHlvAyG5mA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/mgHlvAyG5mA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/mgHlvAyG5mA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "A TANKY and FAST Elementalist?! - Lightning Conduit Elementalist",
+          "url": "https://www.youtube.com/watch?v=w3dybIb6rIQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=w3dybIb6rIQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/w3dybIb6rIQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/w3dybIb6rIQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/w3dybIb6rIQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My League Starter - Glacial Cascade Golemancer Elementalist",
+          "url": "https://www.youtube.com/watch?v=l4qv0FAxUfg",
+          "versions": [
+            "3.26"
+          ],
+          "author": "aer0",
+          "video": "https://www.youtube.com/watch?v=l4qv0FAxUfg",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/l4qv0FAxUfg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/l4qv0FAxUfg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/l4qv0FAxUfg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "How I'm Starting 3.26 With Chaos DoT",
+          "url": "https://www.youtube.com/watch?v=qsYTP8SfzmA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Doth",
+          "video": "https://www.youtube.com/watch?v=qsYTP8SfzmA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qsYTP8SfzmA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/qsYTP8SfzmA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/qsYTP8SfzmA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Storm Brand Inquisitor",
+          "url": "https://www.poe-vault.com/guides/velynas-storm-brand-inquisitor-build-guide",
+          "video": "https://www.youtube.com/watch?v=I4wN7tr88HQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/I4wN7tr88HQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/I4wN7tr88HQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/I4wN7tr88HQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "Velyna",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Corrupting Fever Champion",
+          "url": "https://maxroll.gg/poe/build-guides/corrupting-fever-champion-league-starter-guide",
+          "video": "https://www.youtube.com/watch?v=HMFwMxY_4pg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/HMFwMxY_4pg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/HMFwMxY_4pg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/HMFwMxY_4pg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "Tripolar Bear",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Cold DoT Witch For Everyone",
+          "url": "https://www.pathofexile.com/forum/view-thread/2661120",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ShakCentral",
+          "pin": false,
+          "skip": false
+        }
+      ]
+    },
+    {
+      "type": "ranged",
+      "builds": [
+        {
+          "title": "Ice Shot of Penetration",
+          "url": "https://www.youtube.com/watch?v=68yTZHEpWAA",
+          "versions": [
+            "3.27"
+          ],
+          "author": "aer0",
+          "video": "https://www.youtube.com/watch?v=68yTZHEpWAA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/68yTZHEpWAA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/68yTZHEpWAA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/68yTZHEpWAA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": " Poisonous Concoction",
+          "url": "https://www.youtube.com/watch?v=GjJ6cjBKEfU",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Allie",
+          "video": "https://www.youtube.com/watch?v=GjJ6cjBKEfU",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GjJ6cjBKEfU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/GjJ6cjBKEfU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/GjJ6cjBKEfU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "LA Deadeye",
+          "url": "https://www.youtube.com/watch?v=Sy5N5DgjySE",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Fubgun",
+          "video": "https://www.youtube.com/watch?v=Sy5N5DgjySE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Sy5N5DgjySE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Sy5N5DgjySE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Sy5N5DgjySE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Lightning Arrow Deadeye",
+          "url": "https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter",
+          "video": "https://www.youtube.com/watch?v=HUbMk18HtkQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/HUbMk18HtkQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/HUbMk18HtkQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/HUbMk18HtkQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": true,
+          "skip": false
+        },
+        {
+          "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, fun to play",
+          "url": "https://www.pathofexile.com/forum/view-thread/2551841",
+          "video": "https://www.youtube.com/watch?v=dS-gx4lgU7s",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dS-gx4lgU7s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dS-gx4lgU7s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dS-gx4lgU7s/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26"
+          ],
+          "author": "thedeathbeam",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The Smoothest & Strongest Leaguestart! - Poisonous Concoction of Bouncing Pathfinder",
+          "url": "https://www.youtube.com/watch?v=yMHbyd4jLb4",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Allie",
+          "video": "https://www.youtube.com/watch?v=yMHbyd4jLb4",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/yMHbyd4jLb4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yMHbyd4jLb4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/yMHbyd4jLb4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "The Ultimate PCONC of Bouncing Leaguestarter Guide - Pathfinder",
+          "url": "https://www.youtube.com/watch?v=km8ii06AHSU",
+          "versions": [
+            "3.26"
+          ],
+          "author": "anime princess",
+          "video": "https://www.youtube.com/watch?v=km8ii06AHSU",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/km8ii06AHSU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/km8ii06AHSU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/km8ii06AHSU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Poison SRS Necro Also Making A Huge Comeback, Giga QoL And New Gloves",
+          "url": "https://www.youtube.com/watch?v=-IxopJAEVnE",
+          "versions": [
+            "3.26"
+          ],
+          "author": "BalorMage",
+          "video": "https://www.youtube.com/watch?v=-IxopJAEVnE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-IxopJAEVnE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-IxopJAEVnE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-IxopJAEVnE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Explosive Concoction is ABSURDLY Strong for League Start",
+          "url": "https://www.youtube.com/watch?v=3K9-Ztnym8E",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Big Ducks",
+          "video": "https://www.youtube.com/watch?v=3K9-Ztnym8E",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3K9-Ztnym8E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3K9-Ztnym8E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3K9-Ztnym8E/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Elementalist Poisonous Concoction of Bouncing ~ My Leaguestart Plan",
+          "url": "https://www.youtube.com/watch?v=2ohn-0tjN0g",
+          "versions": [
+            "3.26"
+          ],
+          "author": "CaptainLance",
+          "video": "https://www.youtube.com/watch?v=2ohn-0tjN0g",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/2ohn-0tjN0g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/2ohn-0tjN0g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/2ohn-0tjN0g/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Deadeye Lightning Arrow / Elemental Hit",
+          "url": "https://www.youtube.com/watch?v=tDjODLiQ4pg",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Fubgun",
+          "video": "https://www.youtube.com/watch?v=tDjODLiQ4pg",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tDjODLiQ4pg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tDjODLiQ4pg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tDjODLiQ4pg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Poisonous Concoction of Bouncing Slayer: League Start to Endgame",
+          "url": "https://www.youtube.com/watch?v=eN7ghFEQ1cA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Kass SaiYaJiN",
+          "video": "https://www.youtube.com/watch?v=eN7ghFEQ1cA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/eN7ghFEQ1cA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/eN7ghFEQ1cA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/eN7ghFEQ1cA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My STARTER! - Poisonous Concoction of Bouncing SLAYER",
+          "url": "https://www.youtube.com/watch?v=5Kcy7Li3BEA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Raychich",
+          "video": "https://www.youtube.com/watch?v=5Kcy7Li3BEA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5Kcy7Li3BEA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5Kcy7Li3BEA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5Kcy7Li3BEA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Poisonous Concoction Starter & NEW FLICKER TECH",
+          "url": "https://www.youtube.com/watch?v=DLJB1VnuJms",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ruetoo",
+          "video": "https://www.youtube.com/watch?v=DLJB1VnuJms",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/DLJB1VnuJms/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/DLJB1VnuJms/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/DLJB1VnuJms/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Toxic Rain Champion - Step-by-Step PoE Build Guide for Beginners & Casuals",
+          "url": "https://www.pathofexile.com/forum/view-thread/3229622",
+          "versions": [
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "fezz8386",
+          "pin": false,
+          "skip": false
+        }
+      ]
+    },
+    {
+      "type": "totems",
+      "builds": [
+        {
+          "title": "A COMFY LEAGUESTARTER!! - Explosive Arrow Champion",
+          "url": "https://www.youtube.com/watch?v=C2LY2sUDfSg",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=C2LY2sUDfSg",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/C2LY2sUDfSg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/C2LY2sUDfSg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/C2LY2sUDfSg/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Flameblast Totems",
+          "url": "https://www.youtube.com/watch?v=d0Z75xExqfE",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Tatiantel2",
+          "video": "https://www.youtube.com/watch?v=d0Z75xExqfE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/d0Z75xExqfE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/d0Z75xExqfE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/d0Z75xExqfE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Explosive Arrow Ballista Elementalist",
+          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
+          "video": "https://www.youtube.com/watch?v=wryibKVQ-6g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/wryibKVQ-6g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/wryibKVQ-6g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/wryibKVQ-6g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "B-Tier but still a good choice! - Explosive Arrow Champion",
+          "url": "https://www.youtube.com/watch?v=JIL1GZWEw6g",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=JIL1GZWEw6g",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JIL1GZWEw6g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JIL1GZWEw6g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/JIL1GZWEw6g/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Power Siphon Ballista Totem",
+          "url": "https://www.youtube.com/watch?v=lfHe0n_rdaA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Lazy Exile",
+          "video": "https://www.youtube.com/watch?v=lfHe0n_rdaA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lfHe0n_rdaA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lfHe0n_rdaA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/lfHe0n_rdaA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Hierophant Power Siphon Ballista Totem - One of the best All-Rounder | My League Starter",
+          "url": "https://www.youtube.com/watch?v=JZES7TgotPM",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Lazy Exile",
+          "video": "https://www.youtube.com/watch?v=JZES7TgotPM",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/JZES7TgotPM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/JZES7TgotPM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/JZES7TgotPM/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Explosive Arrow Ballista Elementalist ft. Golems - My Leaguestarter for 3.26",
+          "url": "https://www.youtube.com/watch?v=dVsDkiJNNfQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Palsteron",
+          "video": "https://www.youtube.com/watch?v=dVsDkiJNNfQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dVsDkiJNNfQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dVsDkiJNNfQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dVsDkiJNNfQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Amazing All-Rounder League Starter - Toxic Rain / Caustic Arrow Pathfinder",
+          "url": "https://www.youtube.com/watch?v=ydKRzpJRbL8",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=ydKRzpJRbL8",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ydKRzpJRbL8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ydKRzpJRbL8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ydKRzpJRbL8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Toxic Rain Ballista Pathfinder",
+          "url": "https://maxroll.gg/poe/build-guides/toxic-rain-ballista-pathfinder",
+          "video": "https://www.youtube.com/watch?v=KAcrchacF8g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/KAcrchacF8g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/KAcrchacF8g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/KAcrchacF8g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Holy Flame Totem Scion",
+          "url": "https://www.pathofexile.com/forum/view-thread/3146104",
+          "versions": [
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26"
+          ],
+          "author": "gui_orioli",
+          "pin": false,
+          "skip": false
+        }
+      ]
+    },
+    {
+      "type": "rf",
+      "builds": [
+        {
+          "title": "RF Elementalist",
+          "url": "https://www.youtube.com/watch?v=t9H90b0kwjA",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Asmodeus",
+          "video": "https://www.youtube.com/watch?v=t9H90b0kwjA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/t9H90b0kwjA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/t9H90b0kwjA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/t9H90b0kwjA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Righteous Fire Chieftain",
+          "url": "https://www.pohx.net/FAQ",
+          "video": "https://www.youtube.com/watch?v=cLuXHHE9t4Y",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/cLuXHHE9t4Y/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/cLuXHHE9t4Y/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/cLuXHHE9t4Y/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24",
+            "3.25",
+            "3.26"
+          ],
+          "author": "Pohx",
+          "pin": true,
+          "skip": false
+        },
+        {
+          "title": "Righteous Fire Scion Comprehensive Build Guide",
+          "url": "https://www.youtube.com/watch?v=qX-51wqVCZQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "CaptainLance",
+          "video": "https://www.youtube.com/watch?v=qX-51wqVCZQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/qX-51wqVCZQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/qX-51wqVCZQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/qX-51wqVCZQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "RF Scavenger Build Concept",
+          "url": "https://www.pohx.net/?scav",
+          "versions": [
+            "3.25.3"
+          ],
+          "author": "Pohx",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=r5rqPL03WTs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/r5rqPL03WTs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/r5rqPL03WTs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/r5rqPL03WTs/maxresdefault.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "type": "mines",
+      "builds": [
+        {
+          "title": "Icicle Mines / Eye of Winter Deadeye",
+          "url": "https://www.pathofexile.com/forum/view-thread/3359700",
+          "video": "https://www.youtube.com/watch?v=gDQYfbvRif8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/gDQYfbvRif8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/gDQYfbvRif8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/gDQYfbvRif8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26",
+            "3.27"
+          ],
+          "author": "99prosorc",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Ice Trap Trickster",
+          "url": "https://maxroll.gg/poe/build-guides/ice-trap-trickster-league-starter",
+          "versions": [
+            "3.25",
+            "3.26"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=sTlQv2vyyD4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/sTlQv2vyyD4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/sTlQv2vyyD4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/sTlQv2vyyD4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "The Best Build You Haven't Played for Settlers 2.0: Ice Shot of Penetration",
+          "url": "https://maxroll.gg/poe/build-guides/ice-shot-of-penetration-miner-deadeye-league-starter",
+          "versions": [
+            "3.25",
+            "3.26"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=5fLkw98kWJE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5fLkw98kWJE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5fLkw98kWJE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5fLkw98kWJE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Exsanguinate Miner Trickster",
+          "url": "https://maxroll.gg/poe/build-guides/exsanguinate-miner-trickster-league-starter",
+          "video": "https://www.youtube.com/watch?v=zTTixqnBUyc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/zTTixqnBUyc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/zTTixqnBUyc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/zTTixqnBUyc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24",
+            "3.25",
+            "3.26"
+          ],
+          "author": "Crouching_Tuna",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Exsanguinate / Reap Miner Trickster",
+          "url": "https://www.youtube.com/watch?v=NHXZRZBThJ0",
+          "versions": [
+            "3.26"
+          ],
+          "author": "aer0plane",
+          "video": "https://www.youtube.com/watch?v=NHXZRZBThJ0",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/NHXZRZBThJ0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/NHXZRZBThJ0/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Explosive Trap Trickster",
+          "url": "https://www.youtube.com/watch?v=yKTURcq1-T8",
+          "versions": [
+            "3.26"
+          ],
+          "author": "FearlessDumb0",
+          "video": "https://www.youtube.com/watch?v=yKTURcq1-T8",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/yKTURcq1-T8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yKTURcq1-T8/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Exsanguinate Reap Miner",
+          "url": "https://www.youtube.com/watch?v=YkLlsJJlR4g",
+          "versions": [
+            "3.26"
+          ],
+          "author": "FearlessDumb0",
+          "video": "https://www.youtube.com/watch?v=YkLlsJJlR4g",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/YkLlsJJlR4g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/YkLlsJJlR4g/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Goratha's Saboteur Rolling Magma Mines 3.26 League Start Plans",
+          "url": "https://www.youtube.com/watch?v=bALPXT5nMRs",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Goratha",
+          "video": "https://www.youtube.com/watch?v=bALPXT5nMRs",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/bALPXT5nMRs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/bALPXT5nMRs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/bALPXT5nMRs/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Explosive Trap Trickster",
+          "url": "https://www.youtube.com/watch?v=3JzozbqS0bw",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=3JzozbqS0bw",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3JzozbqS0bw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3JzozbqS0bw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3JzozbqS0bw/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Exsanguinate Reap Mine Golemancer Elementalist",
+          "url": "https://www.youtube.com/watch?v=k516mavEdx0",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=k516mavEdx0",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/k516mavEdx0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/k516mavEdx0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/k516mavEdx0/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Exsanguinate Mines Elementalist",
+          "url": "https://www.youtube.com/watch?v=j3BFmukuk7Y",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Vikfro",
+          "video": "https://www.youtube.com/watch?v=j3BFmukuk7Y",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/j3BFmukuk7Y/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/j3BFmukuk7Y/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/j3BFmukuk7Y/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Hexblast Mines Trickster",
+          "url": "https://maxroll.gg/poe/build-guides/hexblast-mines-saboteur-league-starter",
+          "video": "https://www.youtube.com/watch?v=YajFdm6VdcM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/YajFdm6VdcM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/YajFdm6VdcM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/YajFdm6VdcM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Frostblink Ignite",
+          "url": "https://maxroll.gg/poe/build-guides/frostblink-elementalist-league-starter",
+          "versions": [
+            "3.25"
+          ],
+          "author": "subtractem",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=P8mY_y8dofY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/P8mY_y8dofY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/P8mY_y8dofY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/P8mY_y8dofY/maxresdefault.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "type": "minions",
+      "builds": [
+        {
+          "title": "Holy Relics Necromancer",
+          "url": "https://www.pathofexile.com/forum/view-thread/3002453",
+          "video": "https://www.youtube.com/watch?v=ZMpQxMQMCOo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26"
+          ],
+          "author": "Fire_Archer",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Mage Skelly Necromancer",
+          "url": "https://www.poe-vault.com/guides/mage-skeleton-necromancer-build-guide",
+          "versions": [
+            "3.26"
+          ],
+          "author": "GhazzyTV",
+          "video": "https://www.youtube.com/watch?v=fdLpOeNKWhQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/fdLpOeNKWhQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/fdLpOeNKWhQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/fdLpOeNKWhQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Chaos Minion Army Necromancer",
+          "url": "https://maxroll.gg/poe/build-guides/chaos-minion-army-necromancer-league-starter",
+          "versions": [
+            "3.25",
+            "3.26"
+          ],
+          "author": "Helm Breaker",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=Ah59cHqEq1s",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Ah59cHqEq1s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Ah59cHqEq1s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Ah59cHqEq1s/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Holy Relic Poison Necromancer",
+          "url": "https://www.youtube.com/watch?v=y2iDKNEZaAE",
+          "versions": [
+            "3.26"
+          ],
+          "author": "BalorMage",
+          "video": "https://www.youtube.com/watch?v=y2iDKNEZaAE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/y2iDKNEZaAE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/y2iDKNEZaAE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/y2iDKNEZaAE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Zoo Necromancer w/ Helm Breaker",
+          "url": "https://www.youtube.com/watch?v=RLcDuszpBZ8",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=RLcDuszpBZ8",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/RLcDuszpBZ8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/RLcDuszpBZ8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/RLcDuszpBZ8/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Skelly Archer Minion Summoner",
+          "url": "https://www.youtube.com/watch?v=7U1Gp0a9shI",
+          "versions": [
+            "3.26"
+          ],
+          "author": "GhazzyTV",
+          "video": "https://www.youtube.com/watch?v=7U1Gp0a9shI",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7U1Gp0a9shI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7U1Gp0a9shI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7U1Gp0a9shI/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "BAMA Necromancer - IN DEPTH League Starter Build Guide for Witch",
+          "url": "https://www.youtube.com/watch?v=fv_ifkdhFLc",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=fv_ifkdhFLc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/fv_ifkdhFLc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/fv_ifkdhFLc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/fv_ifkdhFLc/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "BAMA! One of The STRONGEST League Starters in 3.26 Guardian/Necromancer Build Guide",
+          "url": "https://www.youtube.com/watch?v=sF9V_XDh32A",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Wafflez",
+          "video": "https://www.youtube.com/watch?v=sF9V_XDh32A",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/sF9V_XDh32A/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/sF9V_XDh32A/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/sF9V_XDh32A/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Poison Summon Raging Spirits",
+          "url": "https://www.poe-vault.com/guides/balormage-summon-raging-spirits-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=rCzLF49KedM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/rCzLF49KedM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/rCzLF49KedM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/rCzLF49KedM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.23",
+            "3.24",
+            "3.25"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Holy Relic Of Conviction Necromancer",
+          "url": "https://www.poe-vault.com/guides/holy-relic-necromancer-build-guide",
+          "versions": [
+            "3.25"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=oSuFsQZv9Gk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/oSuFsQZv9Gk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/oSuFsQZv9Gk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/oSuFsQZv9Gk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Zoomancer Necromancer",
+          "url": "https://www.poe-vault.com/guides/zoomancer-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=Om4yNW428SU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Om4yNW428SU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Om4yNW428SU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Om4yNW428SU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24",
+            "3.25"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Holy Relic Guardian",
+          "url": "https://www.poe-vault.com/guides/holy-relic-guardian-build-guide",
+          "versions": [
+            "3.25"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=dzO0zFonh-M",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dzO0zFonh-M/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dzO0zFonh-M/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dzO0zFonh-M/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Summoner Necromancer Optimized Leveling Guide",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1bo7ji3/324_summoner_necromancer_optimized_leveling_guide/",
+          "video": "https://www.youtube.com/watch?v=acz9TAhiZ2I",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/acz9TAhiZ2I/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/acz9TAhiZ2I/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/acz9TAhiZ2I/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24"
+          ],
+          "author": "Asmodeus",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Absolution Necromancer",
+          "url": "https://www.poe-vault.com/guides/absolution-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=U4U3QNL1LMI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/U4U3QNL1LMI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/U4U3QNL1LMI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/U4U3QNL1LMI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Dark Pact Necromancer",
+          "url": "https://www.poe-vault.com/guides/dark-pact-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=maY4IiGEr2E",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/maY4IiGEr2E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/maY4IiGEr2E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/maY4IiGEr2E/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Tanky minion league starter - SRS Necromancer",
+          "url": "https://www.poe-vault.com/guides/ghazzy-summon-raging-spirits-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=_n6G7nzvqUY",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_n6G7nzvqUY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_n6G7nzvqUY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_n6G7nzvqUY/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Poison Animate Weapon Necromancer",
+          "url": "https://www.poe-vault.com/guides/animate-weapon-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=pef1Jk-CZn8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pef1Jk-CZn8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pef1Jk-CZn8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pef1Jk-CZn8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "CHEAPEST STARTER EVER! - Dominating Blow Necromancer",
+          "url": "https://www.poe-vault.com/guides/dominating-blow-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=7MXQqbcTKXo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7MXQqbcTKXo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7MXQqbcTKXo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7MXQqbcTKXo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "GhazzyTV",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "SRS Bomber | League Start to Endgame | All Content",
+          "url": "https://www.pathofexile.com/forum/view-thread/2995833",
+          "video": "https://www.youtube.com/watch?v=iqB1mZ3Oh1E",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iqB1mZ3Oh1E/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.14",
+            "3.15",
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.19",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24"
+          ],
+          "author": "Weo_",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Blink Arrow/Mirror Arrow Necro/Guardian",
+          "url": "https://docs.google.com/document/d/1NbBbwPDUrtwYryAElxNIHs0chSiRwF5jDIBhf6fZZow/edit?usp=sharing",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Pr3vy",
+          "pin": false,
+          "skip": false
+        }
+      ]
+    },
+    {
+      "type": "misc",
+      "builds": [
+        {
+          "title": "Juicy Energy Shield Builds from 3.26 Unnerfed/Buffed for 3.27",
+          "url": "https://www.youtube.com/watch?v=rzh8XcYNvpw",
+          "versions": [
+            "3.27"
+          ],
+          "author": "CaptainLance",
+          "video": "https://www.youtube.com/watch?v=rzh8XcYNvpw",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/rzh8XcYNvpw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/rzh8XcYNvpw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/rzh8XcYNvpw/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Tier list for League Start",
+          "url": "https://www.youtube.com/watch?v=3BTbnkWvxJc",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Fubgun",
+          "video": "https://www.youtube.com/watch?v=3BTbnkWvxJc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3BTbnkWvxJc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3BTbnkWvxJc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3BTbnkWvxJc/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Top 6 LEAGUE STARTER Builds",
+          "url": "https://www.youtube.com/watch?v=K2GHHfYfXik",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Raychich",
+          "video": "https://www.youtube.com/watch?v=K2GHHfYfXik",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/K2GHHfYfXik/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/K2GHHfYfXik/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/K2GHHfYfXik/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Tier List",
+          "url": "https://www.youtube.com/watch?v=V1Pe5Hxj8mI",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Tytykiller",
+          "video": "https://www.youtube.com/watch?v=V1Pe5Hxj8mI",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/V1Pe5Hxj8mI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/V1Pe5Hxj8mI/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Top 5 BEST League Start Builds You HAVE To Try",
+          "url": "https://www.youtube.com/watch?v=jRqkiYkm7iU",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Big Ducks",
+          "video": "https://www.youtube.com/watch?v=jRqkiYkm7iU",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jRqkiYkm7iU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jRqkiYkm7iU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jRqkiYkm7iU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "League Start Tier List for 3.26, Going Over The Best Builds",
+          "url": "https://www.youtube.com/watch?v=jplyDWVrMPU",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Fubgun",
+          "video": "https://www.youtube.com/watch?v=jplyDWVrMPU",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jplyDWVrMPU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jplyDWVrMPU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jplyDWVrMPU/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Path Of Exile 3.26 Starter Builds",
+          "url": "https://www.youtube.com/watch?v=t_KB6yM3zDQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Jorgen",
+          "video": "https://www.youtube.com/watch?v=t_KB6yM3zDQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/t_KB6yM3zDQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/t_KB6yM3zDQ/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Top 7 Leaguestarters",
+          "url": "https://www.youtube.com/watch?v=gAr8cigPlCA",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Palsteron",
+          "video": "https://www.youtube.com/watch?v=gAr8cigPlCA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/gAr8cigPlCA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/gAr8cigPlCA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/gAr8cigPlCA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "10 Solid League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=D2W_EdqoUbQ",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=D2W_EdqoUbQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/D2W_EdqoUbQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/D2W_EdqoUbQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/D2W_EdqoUbQ/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Tytykiller Tier List",
+          "url": "https://www.youtube.com/watch?v=yI2u0_kx3bc",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Tytykiller",
+          "video": "https://www.youtube.com/watch?v=yI2u0_kx3bc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/yI2u0_kx3bc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/yI2u0_kx3bc/sddefault.jpg"
+          }
+        },
+        {
+          "title": "3.26 Tier List",
+          "url": "https://docs.google.com/spreadsheets/u/0/d/1vPoXHbQ-4I7_7JEAHXfU76A8E-wy_hRsWiIrFhb_Av0/htmlview?gid=0&pli=1#gid=0",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Spicysushi",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Secrets of the Atlas League Start Build Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1l5xyzt/326_secrets_of_the_atlas_league_start_build_index/",
+          "versions": [
+            "3.26"
+          ],
+          "author": "u/NzLawless",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Legacy of Phrecia Event - Build Compilation and Links",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1irr129/325_legacy_of_phrecia_event_build_compilation_and/",
+          "versions": [
+            "3.25.3"
+          ],
+          "author": "u/Jolly_Royal5331",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "3.25 builds",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRFHcv9UPXf7LURwTnlIeSNy15XhhjbilR3t9_CA2DgkS-Z_KFCABIH9Nj4-9fO4CFb16xrdLnpN8VF/pubhtml",
+          "versions": [
+            "3.25"
+          ],
+          "author": "ruetoo",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "3.25 Settlers of Kalguur League Start Build Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1eaudsu/325_settlers_of_kalguur_league_start_build_index/",
+          "versions": [
+            "3.25"
+          ],
+          "author": "u/NzLawless",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Necropolis League Atlas Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1bqe50c/324_necropolis_league_atlas_index/",
+          "versions": [
+            "3.24"
+          ],
+          "author": "u/johnnylamerton",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "3.24 Necropolis League Start Build Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1bmbqp6/324_necropolis_league_start_build_index/",
+          "versions": [
+            "3.24"
+          ],
+          "author": "u/NzLawless",
+          "pin": false,
+          "skip": false
+        }
+      ]
+    },
+    {
+      "type": "atlas",
+      "builds": [
+        {
+          "title": "STARTER Atlas Tree for FAST Map Progression",
+          "url": "https://www.youtube.com/watch?v=jH2r2u9PEIk",
+          "versions": [
+            "3.26"
+          ],
+          "author": "anime princess",
+          "video": "https://www.youtube.com/watch?v=jH2r2u9PEIk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jH2r2u9PEIk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jH2r2u9PEIk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jH2r2u9PEIk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My Starter Atlas for early map completion",
+          "url": "https://www.youtube.com/watch?v=PJicDy1DQTY",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Fuzzy Duckzy",
+          "video": "https://www.youtube.com/watch?v=PJicDy1DQTY",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/PJicDy1DQTY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/PJicDy1DQTY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/PJicDy1DQTY/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Delve, Betrayal, Settlers & Bosses",
+          "url": "https://www.youtube.com/watch?v=AGQd7AaL0qU",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Jorgen",
+          "video": "https://www.youtube.com/watch?v=AGQd7AaL0qU",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/AGQd7AaL0qU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/AGQd7AaL0qU/sddefault.jpg"
+          }
+        },
+        {
+          "title": "My Atlas Starter Tree for 3.26",
+          "url": "https://www.youtube.com/watch?v=5wbBydzPeCc",
+          "versions": [
+            "3.26"
+          ],
+          "author": "Palsteron",
+          "video": "https://www.youtube.com/watch?v=5wbBydzPeCc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/5wbBydzPeCc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/5wbBydzPeCc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/5wbBydzPeCc/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Early ATLAS Guide for PROFIT & FASTER Progress",
+          "url": "https://www.youtube.com/watch?v=9dqApOjzaak",
+          "versions": [
+            "3.26"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=9dqApOjzaak",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9dqApOjzaak/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9dqApOjzaak/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9dqApOjzaak/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "PoE Atlas Skill Tree builds and guides",
+          "url": "https://poe-atlas.com/",
+          "versions": [
+            "3.25"
+          ],
+          "author": null,
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Make your own",
+          "url": "https://pathofpathing.com/",
+          "versions": [
+            "3.25"
+          ],
+          "author": "Path of Pathing",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Settlers of Kalguur League Atlas Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1ecfc0m/325_settlers_of_kalguur_league_atlas_index/",
+          "versions": [
+            "3.25"
+          ],
+          "author": "u/johnnylamerton",
+          "pin": false,
+          "skip": false
+        }
+      ]
+    }
+  ]
+}

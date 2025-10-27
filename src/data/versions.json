@@ -1,5 +1,5 @@
 {
-  "currentVersion": "3.26",
+  "currentVersion": "3.27",
   "versions": [
     {
       "name": "Ultimatum",
@@ -117,6 +117,13 @@
       "name": "Secrets of the Atlas",
       "url": "https://www.pathofexile.com/secrets",
       "wip": false
+    },
+    {
+      "version": "3.27",
+      "name": "Keepers of the Flame",
+      "url": "https://www.pathofexile.com/keepers",
+      "wip": true,
+      "note": "Most builds from 3.26 should work"
     }
   ]
 }

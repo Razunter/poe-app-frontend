@@ -44,6 +44,22 @@
           "skip": false
         },
         {
+          "title": "Shockwave CYCLONE Slayer",
+          "url": "https://mobalytics.gg/poe/builds/ronarray-shockwave-cyclone-generals-cry-slayer",
+          "versions": [
+            "3.27"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=lSQQ6cNLv_E",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lSQQ6cNLv_E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lSQQ6cNLv_E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/lSQQ6cNLv_E/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Unarmed Cyclone Gladiator",
           "url": "https://www.youtube.com/watch?v=Ue7Gx0EOlxs",
           "versions": [
@@ -167,6 +183,54 @@
             "480w": "https://i.ytimg.com/vi/UQobyhDRtTk/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/UQobyhDRtTk/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/UQobyhDRtTk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Earthshatter Slayer",
+          "url": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Snwz9rVqSIE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Snwz9rVqSIE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Snwz9rVqSIE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Bleed Boneshatter Juggernaut",
+          "url": "https://www.youtube.com/watch?v=UXPVNIB9mD4",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=UXPVNIB9mD4",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/UXPVNIB9mD4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UXPVNIB9mD4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UXPVNIB9mD4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Energy Blade Inquisitor",
+          "url": "https://www.youtube.com/watch?v=g_bqsdUApKc",
+          "versions": [
+            "3.27"
+          ],
+          "author": "CaptainLance",
+          "video": "https://www.youtube.com/watch?v=g_bqsdUApKc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/g_bqsdUApKc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/g_bqsdUApKc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/g_bqsdUApKc/maxresdefault.jpg"
           }
         },
         {
@@ -374,6 +438,22 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Lightning Conduit Elementalist",
+          "url": "https://www.youtube.com/watch?v=Oh7iDXT_utQ",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=Oh7iDXT_utQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Oh7iDXT_utQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Oh7iDXT_utQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Oh7iDXT_utQ/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Mana Stacking Wander",
           "url": "https://www.youtube.com/watch?v=wov_0Jg-X6c",
           "versions": [
@@ -435,6 +515,22 @@
             "480w": "https://i.ytimg.com/vi/vlTTgOxijlM/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/vlTTgOxijlM/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/vlTTgOxijlM/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "DEFINITELY BAIT Poison Spark Assassin",
+          "url": "https://www.youtube.com/watch?v=M-Vn07I5LJA",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Goratha",
+          "video": "https://www.youtube.com/watch?v=M-Vn07I5LJA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/M-Vn07I5LJA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/M-Vn07I5LJA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/M-Vn07I5LJA/maxresdefault.jpg"
           }
         },
         {
@@ -547,6 +643,22 @@
             "480w": "https://i.ytimg.com/vi/7sYcBDswAfA/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/7sYcBDswAfA/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/7sYcBDswAfA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Explosion-maxxing Phys DoT Elementalist",
+          "url": "https://www.youtube.com/watch?v=praFasz7Dqc",
+          "versions": [
+            "3.27"
+          ],
+          "author": "ruetoo",
+          "video": "https://www.youtube.com/watch?v=praFasz7Dqc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/praFasz7Dqc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/praFasz7Dqc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/praFasz7Dqc/maxresdefault.jpg"
           }
         },
         {
@@ -792,6 +904,28 @@
       "type": "totems",
       "builds": [
         {
+          "title": "Explosive Arrow Ballista Elementalist",
+          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
+          "video": "https://www.youtube.com/watch?v=wryibKVQ-6g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/wryibKVQ-6g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/wryibKVQ-6g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/wryibKVQ-6g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26",
+            "3.27"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Storm Burst Totems Hierophant ft. Oscrix",
           "url": "https://www.youtube.com/watch?v=WTBQFdkdi3M",
           "versions": [
@@ -853,27 +987,6 @@
             "640w": "https://i.ytimg.com/vi/d0Z75xExqfE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/d0Z75xExqfE/maxresdefault.jpg"
           }
-        },
-        {
-          "title": "Explosive Arrow Ballista Elementalist",
-          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist",
-          "video": "https://www.youtube.com/watch?v=wryibKVQ-6g",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/wryibKVQ-6g/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/wryibKVQ-6g/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/wryibKVQ-6g/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.21",
-            "3.22",
-            "3.23",
-            "3.24",
-            "3.25",
-            "3.26"
-          ],
-          "author": "Palsteron",
-          "pin": false,
-          "skip": false
         },
         {
           "title": "Toxic Rain Ballista Pathfinder",
@@ -1167,6 +1280,22 @@
           }
         },
         {
+          "title": "Poison Ranged Animate Weapon Necromancer",
+          "url": "https://maxroll.gg/poe/build-guides/poison-ranged-animate-weapons-league-starter",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Helm Breaker",
+          "video": "https://www.youtube.com/watch?v=RewVHLHq5mM",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/RewVHLHq5mM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/RewVHLHq5mM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/RewVHLHq5mM/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Holy Relic",
           "url": "https://www.youtube.com/watch?v=oEQreaZ3P5c",
           "versions": [
@@ -1180,6 +1309,22 @@
             "480w": "https://i.ytimg.com/vi/oEQreaZ3P5c/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/oEQreaZ3P5c/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/oEQreaZ3P5c/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Poison SRS Necromancer",
+          "url": "https://www.youtube.com/watch?v=02FGUOdA-ls",
+          "versions": [
+            "3.27"
+          ],
+          "author": "BalorMage",
+          "video": "https://www.youtube.com/watch?v=02FGUOdA-ls",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/02FGUOdA-ls/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/02FGUOdA-ls/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/02FGUOdA-ls/maxresdefault.jpg"
           }
         },
         {
@@ -1370,6 +1515,22 @@
           }
         },
         {
+          "title": "The 5 Easiest & Safest League Start Builds",
+          "url": "https://www.youtube.com/watch?v=byNZZrIkD3A",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Lolcohol",
+          "video": "https://www.youtube.com/watch?v=byNZZrIkD3A",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/byNZZrIkD3A/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/byNZZrIkD3A/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/byNZZrIkD3A/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Top 6 LEAGUE STARTER Builds",
           "url": "https://www.youtube.com/watch?v=K2GHHfYfXik",
           "versions": [
@@ -1465,6 +1626,22 @@
     {
       "type": "atlas",
       "builds": [
+        {
+          "title": "Going over The Best Week 1 Atlas Farms",
+          "url": "https://www.youtube.com/watch?v=dKL1dwM9T0s",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Fubgun",
+          "video": "https://www.youtube.com/watch?v=dKL1dwM9T0s",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/dKL1dwM9T0s/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/dKL1dwM9T0s/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/dKL1dwM9T0s/maxresdefault.jpg"
+          }
+        },
         {
           "title": "PoE Atlas Skill Tree builds and guides",
           "url": "https://poe-atlas.com/",

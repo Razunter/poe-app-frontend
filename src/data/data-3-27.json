@@ -15,6 +15,22 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Earthshatter Berserker",
+          "url": "https://mobalytics.gg/poe/profile/everseen/builds/everseen-s-hcssf-earthshatter-berserker-league-starter",
+          "versions": [
+            "3.27"
+          ],
+          "author": "everseen",
+          "video": "https://www.youtube.com/watch?v=renpea20-ho",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/renpea20-ho/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/renpea20-ho/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/renpea20-ho/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "The Warbringer Slaming Serker",
           "url": "https://www.pathofexile.com/forum/view-thread/2618769",
           "video": "https://www.youtube.com/watch?v=WRwc39QPbq4",
@@ -57,6 +73,54 @@
             "480w": "https://i.ytimg.com/vi/lSQQ6cNLv_E/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/lSQQ6cNLv_E/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/lSQQ6cNLv_E/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Earthshatter Slayer",
+          "url": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Snwz9rVqSIE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Snwz9rVqSIE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Snwz9rVqSIE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Bleed Boneshatter Juggernaut",
+          "url": "https://www.youtube.com/watch?v=UXPVNIB9mD4",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=UXPVNIB9mD4",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/UXPVNIB9mD4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/UXPVNIB9mD4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/UXPVNIB9mD4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Energy Blade Inquisitor",
+          "url": "https://www.youtube.com/watch?v=g_bqsdUApKc",
+          "versions": [
+            "3.27"
+          ],
+          "author": "CaptainLance",
+          "video": "https://www.youtube.com/watch?v=g_bqsdUApKc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/g_bqsdUApKc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/g_bqsdUApKc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/g_bqsdUApKc/maxresdefault.jpg"
           }
         },
         {
@@ -186,51 +250,19 @@
           }
         },
         {
-          "title": "Earthshatter Slayer",
-          "url": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
+          "title": "Earthquake Gladiator",
+          "url": "https://www.youtube.com/watch?v=tSplX1-s-pE",
           "versions": [
             "3.27"
           ],
           "author": "Zizaran",
-          "video": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
+          "video": "https://www.youtube.com/watch?v=tSplX1-s-pE",
           "pin": false,
           "skip": false,
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Snwz9rVqSIE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Snwz9rVqSIE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Snwz9rVqSIE/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Bleed Boneshatter Juggernaut",
-          "url": "https://www.youtube.com/watch?v=UXPVNIB9mD4",
-          "versions": [
-            "3.27"
-          ],
-          "author": "Zizaran",
-          "video": "https://www.youtube.com/watch?v=UXPVNIB9mD4",
-          "pin": false,
-          "skip": false,
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/UXPVNIB9mD4/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/UXPVNIB9mD4/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/UXPVNIB9mD4/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Energy Blade Inquisitor",
-          "url": "https://www.youtube.com/watch?v=g_bqsdUApKc",
-          "versions": [
-            "3.27"
-          ],
-          "author": "CaptainLance",
-          "video": "https://www.youtube.com/watch?v=g_bqsdUApKc",
-          "pin": false,
-          "skip": false,
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/g_bqsdUApKc/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/g_bqsdUApKc/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/g_bqsdUApKc/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/tSplX1-s-pE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tSplX1-s-pE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tSplX1-s-pE/maxresdefault.jpg"
           }
         },
         {
@@ -345,6 +377,21 @@
           }
         },
         {
+          "title": "Ground Slam Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=Gm6QhHFm7No",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Void241",
+          "video": "https://www.youtube.com/watch?v=Gm6QhHFm7No",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Gm6QhHFm7No/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Gm6QhHFm7No/sddefault.jpg"
+          }
+        },
+        {
           "title": "Two Melee Leaguestarters - Earthshatter & Cyclone",
           "url": "https://www.youtube.com/watch?v=YXwqUqydQ64",
           "versions": [
@@ -438,6 +485,40 @@
       "type": "caster",
       "builds": [
         {
+          "title": "This Build MELTS EVERY MAP! - Ignite Wave of Conviction Elementalist",
+          "url": "https://maxroll.gg/poe/build-guides/wave-of-conviction-elementalist-league-starter",
+          "versions": [
+            "3.25",
+            "3.26",
+            "3.27"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false,
+          "video": "https://www.youtube.com/watch?v=KGadeOwMwpA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/KGadeOwMwpA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/KGadeOwMwpA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/KGadeOwMwpA/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "(Experimental) Kinetic Rain of Impact Elementalist",
+          "url": "https://mobalytics.gg/poe/profile/peuget2/builds/wander-elementalist-league-starter",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Peuget",
+          "video": "https://www.youtube.com/watch?v=-YJbNENXtCk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-YJbNENXtCk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-YJbNENXtCk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-YJbNENXtCk/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Lightning Conduit Elementalist",
           "url": "https://www.youtube.com/watch?v=Oh7iDXT_utQ",
           "versions": [
@@ -486,6 +567,22 @@
           }
         },
         {
+          "title": "Arc Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=MQI2Q-W_-GM",
+          "versions": [
+            "3.27"
+          ],
+          "author": "BuffaloBaron",
+          "video": "https://www.youtube.com/watch?v=MQI2Q-W_-GM",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/MQI2Q-W_-GM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/MQI2Q-W_-GM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/MQI2Q-W_-GM/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Blade Vortex",
           "url": "https://www.youtube.com/watch?v=dfMggIJyhYE",
           "versions": [
@@ -499,6 +596,22 @@
             "480w": "https://i.ytimg.com/vi/dfMggIJyhYE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/dfMggIJyhYE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/dfMggIJyhYE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Chaos DoT Occultist",
+          "url": "https://www.youtube.com/watch?v=xtmOap_wvEQ",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Doth",
+          "video": "https://www.youtube.com/watch?v=xtmOap_wvEQ",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xtmOap_wvEQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xtmOap_wvEQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/xtmOap_wvEQ/maxresdefault.jpg"
           }
         },
         {
@@ -677,23 +790,6 @@
           }
         },
         {
-          "title": "This Build MELTS EVERY MAP! - Ignite Wave of Conviction Elementalist",
-          "url": "https://maxroll.gg/poe/build-guides/wave-of-conviction-elementalist-league-starter",
-          "versions": [
-            "3.25",
-            "3.26"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false,
-          "video": "https://www.youtube.com/watch?v=KGadeOwMwpA",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/KGadeOwMwpA/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/KGadeOwMwpA/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/KGadeOwMwpA/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "Cold DoT Witch For Everyone",
           "url": "https://www.pathofexile.com/forum/view-thread/2661120",
           "versions": [
@@ -789,6 +885,22 @@
           }
         },
         {
+          "title": "Bleed Bow Gladiator",
+          "url": "https://www.youtube.com/watch?v=6LS198tPXc0",
+          "versions": [
+            "3.27"
+          ],
+          "author": "JayTX",
+          "video": "https://www.youtube.com/watch?v=6LS198tPXc0",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6LS198tPXc0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6LS198tPXc0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6LS198tPXc0/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Toxic Rain Pathfinder",
           "url": "https://www.youtube.com/watch?v=eh1UaFX2h2w",
           "versions": [
@@ -833,6 +945,21 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/UV5KutFCxF0/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/UV5KutFCxF0/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Bow Cast-on-crit Poison Detonate Dead Assassin",
+          "url": "https://www.youtube.com/watch?v=-lHJjhefxJc",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Snoobae85",
+          "video": "https://www.youtube.com/watch?v=-lHJjhefxJc",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-lHJjhefxJc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-lHJjhefxJc/sddefault.jpg"
           }
         },
         {
@@ -1033,6 +1160,25 @@
       "type": "rf",
       "builds": [
         {
+          "title": "Righteous Fire Chieftain",
+          "url": "https://www.pohx.net/FAQ",
+          "video": "https://www.youtube.com/watch?v=BpkQ5TJotp0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/BpkQ5TJotp0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/BpkQ5TJotp0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/BpkQ5TJotp0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.24",
+            "3.25",
+            "3.26",
+            "3.27"
+          ],
+          "author": "Pohx",
+          "pin": true,
+          "skip": false
+        },
+        {
           "title": "RF Elementalist",
           "url": "https://www.youtube.com/watch?v=t9H90b0kwjA",
           "versions": [
@@ -1047,24 +1193,6 @@
             "640w": "https://i.ytimg.com/vi/t9H90b0kwjA/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/t9H90b0kwjA/maxresdefault.jpg"
           }
-        },
-        {
-          "title": "Righteous Fire Chieftain",
-          "url": "https://www.pohx.net/FAQ",
-          "video": "https://www.youtube.com/watch?v=cLuXHHE9t4Y",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/cLuXHHE9t4Y/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/cLuXHHE9t4Y/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/cLuXHHE9t4Y/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.24",
-            "3.25",
-            "3.26"
-          ],
-          "author": "Pohx",
-          "pin": true,
-          "skip": false
         },
         {
           "title": "RF Scavenger Build Concept",
@@ -1544,6 +1672,22 @@
             "480w": "https://i.ytimg.com/vi/K2GHHfYfXik/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/K2GHHfYfXik/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/K2GHHfYfXik/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "10 SOLID League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=y5dsChnNLEA",
+          "versions": [
+            "3.27"
+          ],
+          "author": "ronarray",
+          "video": "https://www.youtube.com/watch?v=y5dsChnNLEA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/y5dsChnNLEA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/y5dsChnNLEA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/y5dsChnNLEA/maxresdefault.jpg"
           }
         },
         {

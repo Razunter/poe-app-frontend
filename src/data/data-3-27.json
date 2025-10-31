@@ -15,6 +15,22 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Viper strike of Mamba",
+          "url": "https://maxroll.gg/poe/build-guides/viper-strike-of-mamba-pathfinder-league-starter",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Crouching_Tuna",
+          "video": "https://www.youtube.com/watch?v=ugQ9WRXP09c",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ugQ9WRXP09c/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ugQ9WRXP09c/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ugQ9WRXP09c/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Earthshatter Berserker",
           "url": "https://mobalytics.gg/poe/profile/everseen/builds/everseen-s-hcssf-earthshatter-berserker-league-starter",
           "versions": [
@@ -76,22 +92,6 @@
           }
         },
         {
-          "title": "Earthshatter Slayer",
-          "url": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
-          "versions": [
-            "3.27"
-          ],
-          "author": "Zizaran",
-          "video": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
-          "pin": false,
-          "skip": false,
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Snwz9rVqSIE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Snwz9rVqSIE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/Snwz9rVqSIE/maxresdefault.jpg"
-          }
-        },
-        {
           "title": "Bleed Boneshatter Juggernaut",
           "url": "https://www.youtube.com/watch?v=UXPVNIB9mD4",
           "versions": [
@@ -105,6 +105,22 @@
             "480w": "https://i.ytimg.com/vi/UXPVNIB9mD4/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/UXPVNIB9mD4/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/UXPVNIB9mD4/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Earthquake Gladiator",
+          "url": "https://www.youtube.com/watch?v=tSplX1-s-pE",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=tSplX1-s-pE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tSplX1-s-pE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tSplX1-s-pE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tSplX1-s-pE/maxresdefault.jpg"
           }
         },
         {
@@ -140,19 +156,19 @@
           }
         },
         {
-          "title": "Viper Strike of Mamba Pathfinder",
-          "url": "https://www.youtube.com/watch?v=ldxKgnuWiPY",
+          "title": "Earthshatter Slayer",
+          "url": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
           "versions": [
             "3.27"
           ],
-          "author": "Crouching_Tuna",
-          "video": "https://www.youtube.com/watch?v=ldxKgnuWiPY",
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=Snwz9rVqSIE",
           "pin": false,
           "skip": false,
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ldxKgnuWiPY/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/ldxKgnuWiPY/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/ldxKgnuWiPY/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/Snwz9rVqSIE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Snwz9rVqSIE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Snwz9rVqSIE/maxresdefault.jpg"
           }
         },
         {
@@ -247,22 +263,6 @@
             "480w": "https://i.ytimg.com/vi/UQobyhDRtTk/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/UQobyhDRtTk/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/UQobyhDRtTk/maxresdefault.jpg"
-          }
-        },
-        {
-          "title": "Earthquake Gladiator",
-          "url": "https://www.youtube.com/watch?v=tSplX1-s-pE",
-          "versions": [
-            "3.27"
-          ],
-          "author": "Zizaran",
-          "video": "https://www.youtube.com/watch?v=tSplX1-s-pE",
-          "pin": false,
-          "skip": false,
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/tSplX1-s-pE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/tSplX1-s-pE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/tSplX1-s-pE/maxresdefault.jpg"
           }
         },
         {
@@ -692,6 +692,22 @@
             "480w": "https://i.ytimg.com/vi/uholCTl7oRw/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/uholCTl7oRw/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/uholCTl7oRw/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My Hierophant Wander",
+          "url": "https://www.youtube.com/watch?v=QfiSC7uzjcA",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Palsteron",
+          "video": "https://www.youtube.com/watch?v=QfiSC7uzjcA",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QfiSC7uzjcA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QfiSC7uzjcA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QfiSC7uzjcA/maxresdefault.jpg"
           }
         },
         {
@@ -1390,6 +1406,32 @@
       "type": "minions",
       "builds": [
         {
+          "title": "Holy Relics Necromancer",
+          "url": "https://www.pathofexile.com/forum/view-thread/3002453",
+          "video": "https://www.youtube.com/watch?v=ZMpQxMQMCOo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.16",
+            "3.17",
+            "3.18",
+            "3.20",
+            "3.21",
+            "3.22",
+            "3.23",
+            "3.24",
+            "3.25",
+            "3.26",
+            "3.27"
+          ],
+          "author": "Fire_Archer",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Chaos Minion Army Necromancer",
           "url": "https://maxroll.gg/poe/build-guides/chaos-minion-army-necromancer-league-starter",
           "versions": [
@@ -1421,6 +1463,22 @@
             "480w": "https://i.ytimg.com/vi/RewVHLHq5mM/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/RewVHLHq5mM/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/RewVHLHq5mM/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Forged Frostbearer Spectre Necromancer",
+          "url": "https://maxroll.gg/poe/build-guides/forged-frostbearer-spectre-necromancer-league-starter",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Helm Breaker",
+          "video": "https://www.youtube.com/watch?v=esvfGNythhY",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/esvfGNythhY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/esvfGNythhY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/esvfGNythhY/maxresdefault.jpg"
           }
         },
         {
@@ -1486,31 +1544,6 @@
             "640w": "https://i.ytimg.com/vi/bCuXBj8bDOs/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/bCuXBj8bDOs/maxresdefault.jpg"
           }
-        },
-        {
-          "title": "Holy Relics Necromancer",
-          "url": "https://www.pathofexile.com/forum/view-thread/3002453",
-          "video": "https://www.youtube.com/watch?v=ZMpQxMQMCOo",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/ZMpQxMQMCOo/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.16",
-            "3.17",
-            "3.18",
-            "3.20",
-            "3.21",
-            "3.22",
-            "3.23",
-            "3.24",
-            "3.25",
-            "3.26"
-          ],
-          "author": "Fire_Archer",
-          "pin": false,
-          "skip": false
         },
         {
           "title": "Mage Skelly Necromancer",
@@ -1771,6 +1804,38 @@
       "type": "atlas",
       "builds": [
         {
+          "title": "How to Complete Your Atlas FAST",
+          "url": "https://www.youtube.com/watch?v=TxkiuJqGtos",
+          "versions": [
+            "3.27"
+          ],
+          "author": "anime princess",
+          "video": "https://www.youtube.com/watch?v=TxkiuJqGtos",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/TxkiuJqGtos/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/TxkiuJqGtos/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/TxkiuJqGtos/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "My STARTER Atlas Strategies",
+          "url": "https://www.youtube.com/watch?v=lStRrQexHRY",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Crouching_Tuna",
+          "video": "https://www.youtube.com/watch?v=lStRrQexHRY",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lStRrQexHRY/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lStRrQexHRY/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/lStRrQexHRY/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Going over The Best Week 1 Atlas Farms",
           "url": "https://www.youtube.com/watch?v=dKL1dwM9T0s",
           "versions": [
@@ -1784,6 +1849,69 @@
             "480w": "https://i.ytimg.com/vi/dKL1dwM9T0s/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/dKL1dwM9T0s/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/dKL1dwM9T0s/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "How to Progress your Atlas on League Start",
+          "url": "https://www.youtube.com/watch?v=NOH6pllJW7Q",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Fubgun",
+          "video": "https://www.youtube.com/watch?v=NOH6pllJW7Q",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/NOH6pllJW7Q/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/NOH6pllJW7Q/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/NOH6pllJW7Q/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Delve, Heist, Beast, Ritual & Alters",
+          "url": "https://www.youtube.com/watch?v=jTnCQCYHcqU",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Jorgen",
+          "video": "https://www.youtube.com/watch?v=jTnCQCYHcqU",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jTnCQCYHcqU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jTnCQCYHcqU/sddefault.jpg"
+          }
+        },
+        {
+          "title": "CROP ROTATION Explained in 4 Minutes — Harvest In-Depth Guide",
+          "url": "https://www.youtube.com/watch?v=VjXKyk2bMzE",
+          "versions": [
+            "3.27"
+          ],
+          "author": "PhazePlays",
+          "video": "https://www.youtube.com/watch?v=VjXKyk2bMzE",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/VjXKyk2bMzE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/VjXKyk2bMzE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/VjXKyk2bMzE/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "How To Farm Day 1 Blighted Maps",
+          "url": "https://www.youtube.com/watch?v=xjiqufk9Juw",
+          "versions": [
+            "3.27"
+          ],
+          "author": "Travic",
+          "video": "https://www.youtube.com/watch?v=xjiqufk9Juw",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/xjiqufk9Juw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/xjiqufk9Juw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/xjiqufk9Juw/maxresdefault.jpg"
           }
         },
         {

@@ -122,7 +122,7 @@
       "version": "3.27",
       "name": "Keepers of the Flame",
       "url": "https://www.pathofexile.com/keepers",
-      "wip": true,
+      "wip": false,
       "note": "Most builds from 3.26 should work"
     }
   ]

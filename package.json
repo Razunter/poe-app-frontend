@@ -19,7 +19,7 @@
   ],
   "devDependencies": {
     "@astrojs/compiler": "2.13.0",
-    "@astrojs/ts-plugin": "^1.10.5",
+    "@astrojs/ts-plugin": "1.10.6",
     "@babel/core": "^7.28.5",
     "@babel/plugin-syntax-import-assertions": "^7.27.1",
     "@babel/preset-env": "^7.28.5",
@@ -34,7 +34,7 @@
     "astro-eslint-parser": "^1.2.2",
     "astro-purgecss": "^5.3.0",
     "astro-robots-txt": "^1.0.0",
-    "browserslist": "^4.27.0",
+    "browserslist": "^4.28.1",
     "cross-env": "^7.0.3",
     "eslint": "^9.38.0",
     "eslint-config-canonical": "^44.9.9",
@@ -65,13 +65,18 @@
     "vite-tsconfig-paths": "^5.1.4"
   },
   "dependencies": {
-    "astro": "5.15.1",
-    "caniuse-lite": "^1.0.30001751",
-    "core-js": "^3.46.0",
+    "astro": "5.16.6",
+    "baseline-browser-mapping": "^2.9.11",
+    "caniuse-lite": "^1.0.30001761",
+    "core-js": "^3.47.0",
     "lite-youtube-embed": "^0.3.3",
     "modern-normalize": "^3.0.1",
     "rfs": "^10.0.0",
     "simple-scrollspy": "^2.5.3"
+  },
+  "overrides": {
+    "browserslist": "$browserslist",
+    "core-js": "$core-js"
   },
   "trustedDependencies": [
     "@parcel/watcher",

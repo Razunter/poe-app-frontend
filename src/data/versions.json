@@ -1,5 +1,5 @@
 {
-  "currentVersion": "3.27",
+  "currentVersion": "3.27.1",
   "versions": [
     {
       "name": "Ultimatum",
@@ -124,6 +124,12 @@
       "url": "https://www.pathofexile.com/keepers",
       "wip": false,
       "note": "Most builds from 3.26 should work"
+    },
+    {
+      "version": "3.27.1",
+      "name": "Phrecia",
+      "url": "https://www.pathofexile.com/forum/view-thread/3907351",
+      "wip": true
     }
   ]
 }

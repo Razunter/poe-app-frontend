@@ -1,10 +1,10 @@
 import { babel } from '@rollup/plugin-babel'
-import { defineConfig } from 'astro/config'
 import compress from 'astro-compress'
 import purgecss from 'astro-purgecss'
 import robotsTxt from 'astro-robots-txt'
-import tsconfigPaths from 'vite-tsconfig-paths'
+import { defineConfig } from 'astro/config'
 import type { Logger } from 'sass'
+import tsconfigPaths from 'vite-tsconfig-paths'
 
 const production = process.env.NODE_ENV === 'production'
 
@@ -82,7 +82,7 @@ export default defineConfig({
                       useBuiltIns: 'usage',
                       bugfixes: true,
                       corejs: {
-                        version: '3.47.0',
+                        version: '3.48.0',
                         proposals: true,
                       },
                     },

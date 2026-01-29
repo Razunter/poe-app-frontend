@@ -15,6 +15,38 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Earthshatter Ancestral Commander",
+          "url": "https://www.youtube.com/watch?v=kSiFkccKfnw",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=kSiFkccKfnw",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/kSiFkccKfnw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/kSiFkccKfnw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/kSiFkccKfnw/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Earthshatter Paladin",
+          "url": "https://www.youtube.com/watch?v=cRvKhU1Rlp0",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "cArn",
+          "video": "https://www.youtube.com/watch?v=cRvKhU1Rlp0",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/cRvKhU1Rlp0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/cRvKhU1Rlp0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/cRvKhU1Rlp0/maxresdefault.jpg"
+          }
+        },
+        {
           "title": "Elemental Hit",
           "url": "https://www.youtube.com/watch?v=NRO0Qe45xtI",
           "versions": [

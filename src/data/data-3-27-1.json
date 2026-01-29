@@ -60,6 +60,35 @@
             "480w": "https://i.ytimg.com/vi/D5AAom15YuU/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/D5AAom15YuU/sddefault.jpg"
           }
+        },
+        {
+          "title": "HCSSF Boneshatter (Bleed) Gambler Guide",
+          "url": "https://www.youtube.com/watch?v=6z1o1x1c41w",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "Zish",
+          "video": "https://www.youtube.com/watch?v=6z1o1x1c41w",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6z1o1x1c41w/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6z1o1x1c41w/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Jiquani's Potential Aristocrat",
+          "url": "https://www.youtube.com/watch?v=XTEn1ytyx0c",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "CaptainLance9",
+          "video": "https://www.youtube.com/watch?v=XTEn1ytyx0c",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/XTEn1ytyx0c/hqdefault.jpg"
+          }
         }
       ]
     },
@@ -96,6 +125,22 @@
             "480w": "https://i.ytimg.com/vi/NEs5vrjwLZ0/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/NEs5vrjwLZ0/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/NEs5vrjwLZ0/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "A Caster with LOADS of POTENTIAL! - ‪@Goratha‬'s Phrecia Herald Stacker Build Guide",
+          "url": "https://www.youtube.com/watch?v=tshfQtV63cw",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=tshfQtV63cw",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tshfQtV63cw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tshfQtV63cw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tshfQtV63cw/maxresdefault.jpg"
           }
         },
         {
@@ -182,6 +227,22 @@
             "640w": "https://i.ytimg.com/vi/Gqq4nY-dntE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/Gqq4nY-dntE/maxresdefault.jpg"
           }
+        },
+        {
+          "title": "Poison Concoction of Bouncing Servant of Arakaali",
+          "url": "https://www.youtube.com/watch?v=NOZhdYex0tk",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "Peuget2",
+          "video": "https://www.youtube.com/watch?v=NOZhdYex0tk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/NOZhdYex0tk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/NOZhdYex0tk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/NOZhdYex0tk/maxresdefault.jpg"
+          }
         }
       ]
     },
@@ -201,6 +262,22 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/UlTApcEB1H8/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/UlTApcEB1H8/sddefault.jpg"
+          }
+        },
+        {
+          "title": "Kinetic Fusillade Ballista Paladin",
+          "url": "https://www.youtube.com/watch?v=_R74RqBEXB4",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "Palsteron",
+          "video": "https://www.youtube.com/watch?v=_R74RqBEXB4",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_R74RqBEXB4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_R74RqBEXB4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_R74RqBEXB4/maxresdefault.jpg"
           }
         }
       ]
@@ -276,12 +353,60 @@
             "640w": "https://i.ytimg.com/vi/DQUfIwGNwJA/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/DQUfIwGNwJA/maxresdefault.jpg"
           }
+        },
+        {
+          "title": "Surfcaster Power Siphon Mines [Campaign]",
+          "url": "https://www.youtube.com/watch?v=pBQuMy4hAc4",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "Travic",
+          "video": "https://www.youtube.com/watch?v=pBQuMy4hAc4",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/pBQuMy4hAc4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/pBQuMy4hAc4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/pBQuMy4hAc4/maxresdefault.jpg"
+          }
         }
       ]
     },
     {
       "type": "minions",
       "builds": [
+        {
+          "title": "Servant of Arakaali Poison Ranged Animate Weapon",
+          "url": "https://maxroll.gg/poe/build-guides/poison-ranged-animate-weapons-league-starter",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "Zizaran",
+          "video": "https://www.youtube.com/watch?v=e7xTQnIVWSk",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/e7xTQnIVWSk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/e7xTQnIVWSk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/e7xTQnIVWSk/maxresdefault.jpg"
+          }
+        },
+        {
+          "title": "Spectre Paladin",
+          "url": "https://www.poe-vault.com/guides/paladin-duelist-build-guide",
+          "versions": [
+            "3.27.1"
+          ],
+          "author": "Ghazzy",
+          "video": "https://www.youtube.com/watch?v=0Vh5XKHLFL0",
+          "pin": false,
+          "skip": false,
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/0Vh5XKHLFL0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/0Vh5XKHLFL0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/0Vh5XKHLFL0/maxresdefault.jpg"
+          }
+        },
         {
           "title": "Herald of Agony is Overpowered",
           "url": "https://www.youtube.com/watch?v=RbT1iQ-qUSA",

@@ -1,13 +1,13 @@
 {
-  "currentVersion": "3.27.1",
+  "currentVersion": "3.28",
   "versions": [
     {
-      "name": "Ultimatum",
       "version": "3.14",
+      "name": "Ultimatum",
       "wip": false,
-      "compatible": [],
+      "url": "",
       "note": "",
-      "url": ""
+      "compatible": []
     },
     {
       "version": "3.15",
@@ -15,7 +15,6 @@
       "wip": false,
       "url": "https://www.pathofexile.com/expedition",
       "note": "Extreme balance changes, be wary!",
-      "skiprf": true,
       "compatible": []
     },
     {
@@ -24,7 +23,6 @@
       "wip": false,
       "url": "https://www.pathofexile.com/scourge",
       "note": "New passives tree, old builds won't work!",
-      "skiprf": true,
       "compatible": []
     },
     {
@@ -33,7 +31,6 @@
       "wip": false,
       "url": "https://www.pathofexile.com/siege",
       "note": "",
-      "skiprf": false,
       "compatible": []
     },
     {
@@ -44,8 +41,7 @@
       "note": "Builds are compatible with 3.17",
       "compatible": [
         "3.17"
-      ],
-      "skiprf": false
+      ]
     },
     {
       "version": "3.19",
@@ -53,7 +49,6 @@
       "wip": false,
       "url": "https://www.pathofexile.com/kalandra",
       "note": "",
-      "skiprf": false,
       "compatible": []
     },
     {
@@ -62,74 +57,79 @@
       "wip": false,
       "url": "https://www.pathofexile.com/sanctum",
       "note": "",
-      "skiprf": false,
       "compatible": []
     },
     {
       "version": "3.21",
       "name": "Crucible",
-      "compatible": [],
-      "note": "",
       "wip": false,
-      "url": "https://www.pathofexile.com/crucible"
+      "url": "https://www.pathofexile.com/crucible",
+      "note": "",
+      "compatible": []
     },
     {
       "version": "3.22",
       "name": "Trial of the Ancestors",
-      "compatible": [],
-      "note": "Most builds are compatible with 3.21 with minor adjustments",
       "wip": false,
-      "url": "https://www.pathofexile.com/ancestor"
+      "url": "https://www.pathofexile.com/ancestor",
+      "note": "Most builds are compatible with 3.21 with minor adjustments",
+      "compatible": []
     },
     {
       "version": "3.23",
       "name": "Affliction",
-      "compatible": [],
-      "note": "3.22 builds more or less compatible",
       "wip": false,
-      "url": "http://pathofexile.com/affliction"
+      "url": "http://pathofexile.com/affliction",
+      "note": "3.22 builds more or less compatible",
+      "compatible": []
     },
     {
       "version": "3.24",
       "name": "Necropolis",
-      "compatible": [],
-      "note": "",
       "wip": false,
-      "url": "https://www.pathofexile.com/necropolis"
+      "url": "https://www.pathofexile.com/necropolis",
+      "note": "",
+      "compatible": []
     },
     {
       "version": "3.25",
       "name": "Settlers of Kalguur",
-      "compatible": [],
       "wip": false,
-      "url": "https://www.pathofexile.com/settlers"
+      "url": "https://www.pathofexile.com/settlers",
+      "compatible": []
     },
     {
       "version": "3.25.3",
       "name": "Legacy of Phrecia event",
-      "url": "https://www.pathofexile.com/forum/view-thread/3722512",
       "wip": false,
+      "url": "https://www.pathofexile.com/forum/view-thread/3722512",
       "note": "All Ascendancies are different, have fun!",
       "compatible": []
     },
     {
       "version": "3.26",
       "name": "Secrets of the Atlas",
-      "url": "https://www.pathofexile.com/secrets",
-      "wip": false
+      "wip": false,
+      "url": "https://www.pathofexile.com/secrets"
     },
     {
       "version": "3.27",
       "name": "Keepers of the Flame",
-      "url": "https://www.pathofexile.com/keepers",
       "wip": false,
+      "url": "https://www.pathofexile.com/keepers",
       "note": "Most builds from 3.26 should work"
     },
     {
       "version": "3.27.1",
       "name": "Phrecia",
-      "url": "https://www.pathofexile.com/forum/view-thread/3907351",
-      "wip": false
+      "wip": false,
+      "url": "https://www.pathofexile.com/forum/view-thread/3907351"
+    },
+    {
+      "version": "3.28",
+      "name": "Mirage",
+      "wip": true,
+      "url": "https://www.pathofexile.com/mirage"
     }
   ]
 }

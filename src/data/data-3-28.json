@@ -4,6 +4,22 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Energy Blade Inquisitor",
+          "url": "https://mobalytics.gg/poe/profile/captainlance/builds/energy-blade-inquisitor",
+          "video": "https://www.youtube.com/watch?v=MZcElp_q_94",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/MZcElp_q_94/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/MZcElp_q_94/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/MZcElp_q_94/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "CaptainLance9",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Frost Blades Slayer",
           "url": "https://maxroll.gg/poe/build-guides/frost-blades-slayer-league-starter",
           "video": "https://www.youtube.com/watch?v=aadUFAU4vu4",
@@ -78,6 +94,22 @@
             "3.28"
           ],
           "author": "limit_break_overdrive",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Divine Blast Champion",
+          "url": "https://www.youtube.com/watch?v=eOHo2G6ka9E",
+          "video": "https://www.youtube.com/watch?v=eOHo2G6ka9E",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/eOHo2G6ka9E/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/eOHo2G6ka9E/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/eOHo2G6ka9E/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Taaki",
           "pin": false,
           "skip": false
         },
@@ -227,6 +259,22 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Kinetic Fusillade Warden",
+          "url": "https://mobalytics.gg/poe/profile/lolcohol/builds/3-28-lolcohol-kf-warden-leveling",
+          "video": "https://www.youtube.com/watch?v=RaIM6AoO1S8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/RaIM6AoO1S8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/RaIM6AoO1S8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/RaIM6AoO1S8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Lolcohol",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Kinetic Fusillade Hierophant",
           "url": "https://mobalytics.gg/poe/profile/peuget2/builds/kinetic-fusillade-hierophant-league-starter",
           "video": "https://www.youtube.com/watch?v=5uQMm6JJKsU",
@@ -271,6 +319,38 @@
             "3.28"
           ],
           "author": "Chronic_Painless",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Kinetic Blast Deadeye",
+          "url": "https://www.youtube.com/watch?v=_uA8dTNO2FA",
+          "video": "https://www.youtube.com/watch?v=_uA8dTNO2FA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_uA8dTNO2FA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_uA8dTNO2FA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_uA8dTNO2FA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Fubgun",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "New Shock Nova Archmage Hierophant",
+          "url": "https://www.youtube.com/watch?v=6vyNa69RjUs",
+          "video": "https://www.youtube.com/watch?v=6vyNa69RjUs",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6vyNa69RjUs/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6vyNa69RjUs/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6vyNa69RjUs/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Goratha",
           "pin": false,
           "skip": false
         },
@@ -494,6 +574,22 @@
       "builds": [
         {
           "title": "Kinetic Fusillade Ballista Hierophant",
+          "url": "https://maxroll.gg/poe/build-guides/kinetic-fusillade-ballista-hierophant-league-starter",
+          "video": "https://www.youtube.com/watch?v=1W8Tnjkugko",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/1W8Tnjkugko/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/1W8Tnjkugko/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/1W8Tnjkugko/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Kinetic Fusillade Ballista Hierophant",
           "url": "https://mobalytics.gg/poe/profile/peuget2/builds/3-28-kinetic-fusillade-ballista-league-starter",
           "video": "https://www.youtube.com/watch?v=EbgUjNlJM0I",
           "videothumb": {
@@ -505,6 +601,22 @@
             "3.28"
           ],
           "author": "Peuget2",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Hierophant Ice Spear Totems",
+          "url": "https://www.youtube.com/watch?v=L6HxTwt2Iks",
+          "video": "https://www.youtube.com/watch?v=L6HxTwt2Iks",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/L6HxTwt2Iks/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/L6HxTwt2Iks/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/L6HxTwt2Iks/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "ImSidVicious",
           "pin": false,
           "skip": false
         },
@@ -649,6 +761,22 @@
     {
       "type": "minions",
       "builds": [
+        {
+          "title": "Poison Carrion Golems & Zombie Necromancer",
+          "url": "https://maxroll.gg/poe/build-guides/carrion-golems-zombies-necromancer-league-starter",
+          "video": "https://www.youtube.com/watch?v=tH7FZHPdnKc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tH7FZHPdnKc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tH7FZHPdnKc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tH7FZHPdnKc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Helm Breaker",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "Holy Absolution Guardian",
           "url": "https://mobalytics.gg/poe/profile/ronarray/builds/holy-absolution-guardian-build-step-by-step-guide-from-league-starter-to-ubers",

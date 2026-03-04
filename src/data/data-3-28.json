@@ -162,6 +162,22 @@
           "skip": false
         },
         {
+          "title": "Flicker Strike Max Block Gladiator",
+          "url": "https://www.youtube.com/watch?v=6oaB5IxDKzw",
+          "video": "https://www.youtube.com/watch?v=6oaB5IxDKzw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/6oaB5IxDKzw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/6oaB5IxDKzw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/6oaB5IxDKzw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Magefist",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Divine Blast Champion",
           "url": "https://www.youtube.com/watch?v=eOHo2G6ka9E",
           "video": "https://www.youtube.com/watch?v=eOHo2G6ka9E",
@@ -362,6 +378,22 @@
             "480w": "https://i.ytimg.com/vi/Yst0bX_9g1g/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/Yst0bX_9g1g/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/Yst0bX_9g1g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Allie",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Impending Doom Life Stacking Reliquarian",
+          "url": "https://www.youtube.com/watch?v=t5evpwBSAHw",
+          "video": "https://www.youtube.com/watch?v=t5evpwBSAHw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/t5evpwBSAHw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/t5evpwBSAHw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/t5evpwBSAHw/maxresdefault.jpg"
           },
           "versions": [
             "3.28"
@@ -1092,7 +1124,39 @@
     },
     {
       "type": "atlas",
-      "builds": []
+      "builds": [
+        {
+          "title": "How to Run Heist in Mirage League",
+          "url": "https://www.poe-vault.com/guides/guide-for-heist",
+          "video": "https://www.youtube.com/watch?v=nDn39KUiuDk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/nDn39KUiuDk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/nDn39KUiuDk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/nDn39KUiuDk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Path of Evening",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Delve + Anything Else",
+          "url": "https://www.youtube.com/watch?v=-AJhyoD_1GU",
+          "video": "https://www.youtube.com/watch?v=-AJhyoD_1GU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-AJhyoD_1GU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-AJhyoD_1GU/sddefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Jorgen",
+          "pin": false,
+          "skip": false
+        }
+      ]
     }
   ],
   "types": {

@@ -4,6 +4,38 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Boneshatter of Complex Trauma Juggernaut",
+          "url": "https://maxroll.gg/poe/build-guides/boneshatter-juggernaut-league-starter",
+          "video": "https://www.youtube.com/watch?v=D79KG-lJoWU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/D79KG-lJoWU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/D79KG-lJoWU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/D79KG-lJoWU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Dance with Death Energy Blade Juggernaut",
+          "url": "https://www.reddit.com/r/pathofexile/comments/1rkeg0w/328_dance_with_death_energy_blade_juggernaut_free/",
+          "video": "https://www.youtube.com/watch?v=iSKlb-hf4Qo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iSKlb-hf4Qo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iSKlb-hf4Qo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iSKlb-hf4Qo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Alohaa",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Energy Blade Inquisitor",
           "url": "https://mobalytics.gg/poe/profile/captainlance/builds/energy-blade-inquisitor",
           "video": "https://www.youtube.com/watch?v=MZcElp_q_94",
@@ -48,6 +80,38 @@
             "3.28"
           ],
           "author": "Goratha",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Bleed Slams Slayer: Revamped",
+          "url": "https://mobalytics.gg/poe/profile/phazeplays/builds/3-28-phazeplays-bleed-slams-slayer-revamped-ground-slam-of-earthshaking",
+          "video": "https://www.youtube.com/watch?v=3kmz88dm5Zw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3kmz88dm5Zw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3kmz88dm5Zw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3kmz88dm5Zw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "PhazePlays",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Void Shockwave Cyclone Slayer",
+          "url": "https://mobalytics.gg/poe/builds/ronarray-shockwave-cyclone-generals-cry-slayer",
+          "video": "https://www.youtube.com/watch?v=Sz0kJAzZpoc",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Sz0kJAzZpoc/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Sz0kJAzZpoc/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Sz0kJAzZpoc/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "ronarray",
           "pin": false,
           "skip": false
         },
@@ -520,6 +584,22 @@
           "skip": false
         },
         {
+          "title": "Lightning Arrow / Elemental Hit Deadeye",
+          "url": "https://www.youtube.com/watch?v=izWIPL8Slvw",
+          "video": "https://www.youtube.com/watch?v=izWIPL8Slvw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/izWIPL8Slvw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/izWIPL8Slvw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/izWIPL8Slvw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Fubgun",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Kinetic Fusillade Oshabi",
           "url": "https://mobalytics.gg/poe/profile/lolcohol/builds/kinetic-fusillade-elemantalist-lolcohol",
           "video": "https://www.youtube.com/watch?v=Bdk0q9zwAYw",
@@ -573,6 +653,38 @@
       "type": "totems",
       "builds": [
         {
+          "title": "Holy Flame Totem Hierophant",
+          "url": "https://maxroll.gg/poe/build-guides/holy-flame-totem-hierophant-league-starter",
+          "video": "https://www.youtube.com/watch?v=eaBX7pHfwqQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/eaBX7pHfwqQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/eaBX7pHfwqQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/eaBX7pHfwqQ/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Kinetic Fusillade Totem Reliquarian",
+          "url": "https://mobalytics.gg/poe/profile/lazy-exile/builds/ascendant-kf-totem-league-starter",
+          "video": "https://www.youtube.com/watch?v=h4AXVJsDUSo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/h4AXVJsDUSo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/h4AXVJsDUSo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/h4AXVJsDUSo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Lazy Exile",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Kinetic Fusillade Ballista Hierophant",
           "url": "https://maxroll.gg/poe/build-guides/kinetic-fusillade-ballista-hierophant-league-starter",
           "video": "https://www.youtube.com/watch?v=1W8Tnjkugko",
@@ -605,6 +717,22 @@
           "skip": false
         },
         {
+          "title": "Kinetic Fusillade Ballista Hierophant",
+          "url": "https://mobalytics.gg/poe/builds/kinetic-fusillade-ballista-league-starter",
+          "video": "https://www.youtube.com/watch?v=h86YcMqi5OM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/h86YcMqi5OM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/h86YcMqi5OM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/h86YcMqi5OM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Peuget2",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Hierophant Ice Spear Totems",
           "url": "https://www.youtube.com/watch?v=L6HxTwt2Iks",
           "video": "https://www.youtube.com/watch?v=L6HxTwt2Iks",
@@ -617,6 +745,22 @@
             "3.28"
           ],
           "author": "ImSidVicious",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Kinetic Fusillade Ballista Champion",
+          "url": "https://www.youtube.com/watch?v=FCyYPvXsskk",
+          "video": "https://www.youtube.com/watch?v=FCyYPvXsskk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/FCyYPvXsskk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/FCyYPvXsskk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/FCyYPvXsskk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Palsteron",
           "pin": false,
           "skip": false
         },
@@ -709,6 +853,21 @@
           "skip": false
         },
         {
+          "title": "Exsanguinate Reap Miner",
+          "url": "https://www.youtube.com/watch?v=ZEvuQ5krLwQ",
+          "video": "https://www.youtube.com/watch?v=ZEvuQ5krLwQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ZEvuQ5krLwQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ZEvuQ5krLwQ/sddefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "FearlessDumb0",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Boss Blasting Scavenger",
           "url": "https://mobalytics.gg/poe/profile/pathofevening/builds/pyroclast-mine-scavenger",
           "video": "https://www.youtube.com/watch?v=ZWpb8JStTQA",
@@ -761,6 +920,24 @@
     {
       "type": "minions",
       "builds": [
+        {
+          "title": "Servant of Arakaali Poison Ranged Animate Weapon",
+          "url": "https://maxroll.gg/poe/build-guides/poison-ranged-animate-weapons-league-starter",
+          "video": "https://www.youtube.com/watch?v=e7xTQnIVWSk",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/e7xTQnIVWSk/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/e7xTQnIVWSk/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/e7xTQnIVWSk/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.27.1",
+            "3.27",
+            "3.28"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
         {
           "title": "Poison Carrion Golems & Zombie Necromancer",
           "url": "https://maxroll.gg/poe/build-guides/carrion-golems-zombies-necromancer-league-starter",
@@ -858,23 +1035,6 @@
           "skip": false
         },
         {
-          "title": "Servant of Arakaali Poison Ranged Animate Weapon",
-          "url": "https://maxroll.gg/poe/build-guides/poison-ranged-animate-weapons-league-starter",
-          "video": "https://www.youtube.com/watch?v=e7xTQnIVWSk",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/e7xTQnIVWSk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/e7xTQnIVWSk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/e7xTQnIVWSk/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.27.1",
-            "3.27"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Zombie + Skeleton Necromancer",
           "url": "https://www.youtube.com/watch?v=bCuXBj8bDOs",
           "video": "https://www.youtube.com/watch?v=bCuXBj8bDOs",
@@ -895,7 +1055,40 @@
     },
     {
       "type": "misc",
-      "builds": []
+      "builds": [
+        {
+          "title": "My Top 5 Mirage League Starters",
+          "url": "https://www.youtube.com/watch?v=7CkhEx7JhA0",
+          "video": "https://www.youtube.com/watch?v=7CkhEx7JhA0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7CkhEx7JhA0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7CkhEx7JhA0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7CkhEx7JhA0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "BuffaloBaron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "What Kinetic Fusillade Ascendancy is BEST for YOU in 3.28 Mirage",
+          "url": "https://www.youtube.com/watch?v=_l0W_uL8p2k",
+          "video": "https://www.youtube.com/watch?v=_l0W_uL8p2k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_l0W_uL8p2k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_l0W_uL8p2k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_l0W_uL8p2k/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        }
+      ]
     },
     {
       "type": "atlas",

@@ -84,6 +84,22 @@
           "skip": false
         },
         {
+          "title": "Holy Hammers Berserker",
+          "url": "https://mobalytics.gg/poe/builds/holy-hammers-berserker-league-starter",
+          "video": "https://www.youtube.com/watch?v=TOG5WdH-pt0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/TOG5WdH-pt0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/TOG5WdH-pt0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/TOG5WdH-pt0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Peuget2",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Bleed Slams Slayer: Revamped",
           "url": "https://mobalytics.gg/poe/profile/phazeplays/builds/3-28-phazeplays-bleed-slams-slayer-revamped-ground-slam-of-earthshaking",
           "video": "https://www.youtube.com/watch?v=3kmz88dm5Zw",
@@ -112,6 +128,22 @@
             "3.28"
           ],
           "author": "ronarray",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "The new BEST Slam in PoE? - Holy Hammers",
+          "url": "https://mobalytics.gg/poe/profile/woolie/builds/3-28-woolie-s-holy-hammer-slammer",
+          "video": "https://www.youtube.com/watch?v=G-1bHX40Z8k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/G-1bHX40Z8k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/G-1bHX40Z8k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/G-1bHX40Z8k/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Woolie",
           "pin": false,
           "skip": false
         },
@@ -153,6 +185,21 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/cbp_-bemhM0/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/cbp_-bemhM0/sddefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "limit_break_overdrive",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Shield Crush Slayer",
+          "url": "https://www.youtube.com/watch?v=LNXORbrwDMg",
+          "video": "https://www.youtube.com/watch?v=LNXORbrwDMg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/LNXORbrwDMg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/LNXORbrwDMg/sddefault.jpg"
           },
           "versions": [
             "3.28"
@@ -339,6 +386,38 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Mana Stacker Spark Hierophant",
+          "url": "https://mobalytics.gg/poe/profile/animeprincess/builds/mana-stacker-hierophant-comprehensive-leaguestart-guide",
+          "video": "https://www.youtube.com/watch?v=GrFM_W5nwjM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/GrFM_W5nwjM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/GrFM_W5nwjM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/GrFM_W5nwjM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Anime Princess",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Spark Archmage Heirophant",
+          "url": "https://mobalytics.gg/poe/builds/bigducks-spark-archmage-heirophant",
+          "video": "https://www.youtube.com/watch?v=9wr3f1Khdio",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9wr3f1Khdio/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9wr3f1Khdio/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9wr3f1Khdio/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Big Ducks",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Kinetic Fusillade Warden",
           "url": "https://mobalytics.gg/poe/profile/lolcohol/builds/3-28-lolcohol-kf-warden-leveling",
           "video": "https://www.youtube.com/watch?v=RaIM6AoO1S8",
@@ -458,6 +537,22 @@
             "480w": "https://i.ytimg.com/vi/PSOwx6mp1Dg/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/PSOwx6mp1Dg/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/PSOwx6mp1Dg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "theslinkyshadow",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Penance Brand Ignite Elementalist",
+          "url": "https://www.youtube.com/watch?v=QAKZL3wVxes",
+          "video": "https://www.youtube.com/watch?v=QAKZL3wVxes",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QAKZL3wVxes/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QAKZL3wVxes/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QAKZL3wVxes/maxresdefault.jpg"
           },
           "versions": [
             "3.28"
@@ -602,11 +697,10 @@
         {
           "title": "Cold Convert Ice Shot of Penetration Warden",
           "url": "https://mobalytics.gg/poe/builds/cold-convert-ice-shot-of-penetration-warden",
-          "video": "https://www.youtube.com/watch?v=F0yp0ckxQH8",
+          "video": "https://www.youtube.com/watch?v=iKNsJ9RTmj8",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/F0yp0ckxQH8/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/F0yp0ckxQH8/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/F0yp0ckxQH8/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/iKNsJ9RTmj8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iKNsJ9RTmj8/sddefault.jpg"
           },
           "versions": [
             "3.28"
@@ -628,6 +722,38 @@
             "3.28"
           ],
           "author": "Fubgun",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Bleed Bow Reliquarian",
+          "url": "https://www.youtube.com/watch?v=y8lBKFqZ5xg",
+          "video": "https://www.youtube.com/watch?v=y8lBKFqZ5xg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/y8lBKFqZ5xg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/y8lBKFqZ5xg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/y8lBKFqZ5xg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "JayTX",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Poisonous Concoction Slayer",
+          "url": "https://www.youtube.com/watch?v=8x5IIp293Bw",
+          "video": "https://www.youtube.com/watch?v=8x5IIp293Bw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/8x5IIp293Bw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/8x5IIp293Bw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/8x5IIp293Bw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Kass Saiyajin",
           "pin": false,
           "skip": false
         },
@@ -870,6 +996,38 @@
       "type": "mines",
       "builds": [
         {
+          "title": "Glacial Cascade Miner Elementalist",
+          "url": "https://mobalytics.gg/poe/profile/asmodeus/builds/cold-miner-elementalist-leveling-guide",
+          "video": "https://www.youtube.com/watch?v=sgGUuwD4jms",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/sgGUuwD4jms/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/sgGUuwD4jms/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/sgGUuwD4jms/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Asmodeus",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Rolling Magma Mines Saboteur",
+          "url": "https://maxroll.gg/poe/build-guides/rolling-magma-mines-saboteur-league-starter",
+          "video": "https://www.youtube.com/watch?v=P4JEYLQNwcE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/P4JEYLQNwcE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/P4JEYLQNwcE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/P4JEYLQNwcE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Eye of Winter Mines Inquisitor",
           "url": "https://www.youtube.com/watch?v=hz14FbW1iag",
           "video": "https://www.youtube.com/watch?v=hz14FbW1iag",
@@ -891,6 +1049,21 @@
           "videothumb": {
             "480w": "https://i.ytimg.com/vi/ZEvuQ5krLwQ/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/ZEvuQ5krLwQ/sddefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "FearlessDumb0",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Wave of Conviction of Trarthus Miner",
+          "url": "https://www.youtube.com/watch?v=SmB87hAIqm0",
+          "video": "https://www.youtube.com/watch?v=SmB87hAIqm0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/SmB87hAIqm0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/SmB87hAIqm0/sddefault.jpg"
           },
           "versions": [
             "3.28"
@@ -971,6 +1144,38 @@
           "skip": false
         },
         {
+          "title": "Holy Relic Necromancer",
+          "url": "https://www.poe-vault.com/guides/holy-relic-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=iZPPL1Bv5ao",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iZPPL1Bv5ao/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iZPPL1Bv5ao/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iZPPL1Bv5ao/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Dominating Blow Guardian",
+          "url": "https://www.poe-vault.com/guides/dominating-blow-guardian-buildguide",
+          "video": "https://www.youtube.com/watch?v=PYxXBbrS7cU",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/PYxXBbrS7cU/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/PYxXBbrS7cU/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/PYxXBbrS7cU/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Ghazzy",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Poison Carrion Golems & Zombie Necromancer",
           "url": "https://maxroll.gg/poe/build-guides/carrion-golems-zombies-necromancer-league-starter",
           "video": "https://www.youtube.com/watch?v=tH7FZHPdnKc",
@@ -994,6 +1199,22 @@
             "480w": "https://i.ytimg.com/vi/Z4tVWAIqOkE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/Z4tVWAIqOkE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/Z4tVWAIqOkE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "ronarray",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Vaal Absolution Necromancer",
+          "url": "https://mobalytics.gg/poe/builds/ronarray-absolution-necromancer-build-league-starter-to-endgame",
+          "video": "https://www.youtube.com/watch?v=EU_8X-8AFPg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/EU_8X-8AFPg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/EU_8X-8AFPg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/EU_8X-8AFPg/maxresdefault.jpg"
           },
           "versions": [
             "3.28"
@@ -1117,6 +1338,15 @@
             "3.28"
           ],
           "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Mobalytics Tier List",
+          "url": "https://mobalytics.gg/poe/tier-list",
+          "versions": [
+            "3.28"
+          ],
           "pin": false,
           "skip": false
         }

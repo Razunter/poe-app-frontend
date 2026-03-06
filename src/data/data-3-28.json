@@ -52,6 +52,22 @@
           "skip": false
         },
         {
+          "title": "Earthshatter Berserker",
+          "url": "https://mobalytics.gg/poe/builds/hcssf-earthshatter-berserker-league-starter",
+          "video": "https://www.youtube.com/watch?v=iGR5qEDfvi8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/iGR5qEDfvi8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/iGR5qEDfvi8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/iGR5qEDfvi8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "everseen",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Frost Blades Slayer",
           "url": "https://maxroll.gg/poe/build-guides/frost-blades-slayer-league-starter",
           "video": "https://www.youtube.com/watch?v=aadUFAU4vu4",
@@ -482,6 +498,22 @@
           "skip": false
         },
         {
+          "title": "Shock Nova Archmage Hierophant",
+          "url": "https://mobalytics.gg/poe/builds/shock-nova-heirophant-league-starter",
+          "video": "https://www.youtube.com/watch?v=fbilAxrSouA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/fbilAxrSouA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/fbilAxrSouA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/fbilAxrSouA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Peuget2",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Mana Stacking Wander Hierophant",
           "url": "https://www.youtube.com/watch?v=Yst0bX_9g1g",
           "video": "https://www.youtube.com/watch?v=Yst0bX_9g1g",
@@ -727,6 +759,22 @@
           "skip": false
         },
         {
+          "title": "Perfect Agony Poisonous Concoction Assassin",
+          "url": "https://mobalytics.gg/poe/profile/jungroan/builds/perfect-agony-poisonous-concoction-assassin",
+          "video": "https://www.youtube.com/watch?v=jyVJ1qGd9Fw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jyVJ1qGd9Fw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jyVJ1qGd9Fw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jyVJ1qGd9Fw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Jungroan",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Toxic Rain Pathfinder",
           "url": "https://www.poe-vault.com/guides/toxic-rain-pathfinder-build-guide",
           "video": "https://www.youtube.com/watch?v=UHm_-qgAtyg",
@@ -859,6 +907,22 @@
       "type": "totems",
       "builds": [
         {
+          "title": "Explosive Arrow Ballista Champion",
+          "url": "https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-champion-league-starter",
+          "video": "https://www.youtube.com/watch?v=VNrQ01QjNGE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/VNrQ01QjNGE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/VNrQ01QjNGE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/VNrQ01QjNGE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Holy Flame Totem Hierophant",
           "url": "https://maxroll.gg/poe/build-guides/holy-flame-totem-hierophant-league-starter",
           "video": "https://www.youtube.com/watch?v=eaBX7pHfwqQ",
@@ -971,6 +1035,22 @@
           "skip": false
         },
         {
+          "title": "Storm Burst Totems",
+          "url": "https://www.youtube.com/watch?v=oHWKlA1l5H8",
+          "video": "https://www.youtube.com/watch?v=oHWKlA1l5H8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/oHWKlA1l5H8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/oHWKlA1l5H8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/oHWKlA1l5H8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Talantiel2",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Polytheist Ice Spear Totems",
           "url": "https://www.youtube.com/watch?v=UlTApcEB1H8",
           "video": "https://www.youtube.com/watch?v=UlTApcEB1H8",
@@ -1007,6 +1087,22 @@
       "type": "rf",
       "builds": [
         {
+          "title": "Righteous Fire Chieftain",
+          "url": "https://pohx.net/",
+          "video": "https://www.youtube.com/watch?v=7flriI9ltHM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/7flriI9ltHM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/7flriI9ltHM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/7flriI9ltHM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Pohx",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Life Stacker Bog Shaman Righteous Fire",
           "url": "https://www.youtube.com/watch?v=ox5dubgkiu0",
           "video": "https://www.youtube.com/watch?v=ox5dubgkiu0",
@@ -1017,16 +1113,6 @@
           },
           "versions": [
             "3.27.1"
-          ],
-          "author": "Pohx",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "RF",
-          "url": "https://pohx.net/",
-          "versions": [
-            "3.28"
           ],
           "author": "Pohx",
           "pin": false,
@@ -1202,6 +1288,22 @@
           "skip": false
         },
         {
+          "title": "Poison Summon Raging Spirits Necromancer",
+          "url": "https://www.poe-vault.com/guides/balormage-summon-raging-spirits-necromancer-build-guide",
+          "video": "https://www.youtube.com/watch?v=4KX5z5d2VbI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/4KX5z5d2VbI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/4KX5z5d2VbI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/4KX5z5d2VbI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Dominating Blow Guardian",
           "url": "https://www.poe-vault.com/guides/dominating-blow-guardian-buildguide",
           "video": "https://www.youtube.com/watch?v=PYxXBbrS7cU",
@@ -1368,6 +1470,22 @@
       "type": "misc",
       "builds": [
         {
+          "title": "Top 5 BEST League Start Builds",
+          "url": "https://www.youtube.com/watch?v=YAERMZwQj5g",
+          "video": "https://www.youtube.com/watch?v=YAERMZwQj5g",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/YAERMZwQj5g/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/YAERMZwQj5g/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/YAERMZwQj5g/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Big Ducks",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "My Top 5 Mirage League Starters",
           "url": "https://www.youtube.com/watch?v=7CkhEx7JhA0",
           "video": "https://www.youtube.com/watch?v=7CkhEx7JhA0",
@@ -1396,6 +1514,22 @@
             "3.28"
           ],
           "author": "Palsteron",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "10 solid League Starter Builds",
+          "url": "https://www.youtube.com/watch?v=jLxxjmg6xy0",
+          "video": "https://www.youtube.com/watch?v=jLxxjmg6xy0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/jLxxjmg6xy0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/jLxxjmg6xy0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/jLxxjmg6xy0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "ronarray",
           "pin": false,
           "skip": false
         },
@@ -1452,6 +1586,22 @@
             "3.28"
           ],
           "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "How to Progress your Atlas in 3.28 Mirage League",
+          "url": "https://www.youtube.com/watch?v=HlCwgdALnNo",
+          "video": "https://www.youtube.com/watch?v=HlCwgdALnNo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/HlCwgdALnNo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/HlCwgdALnNo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/HlCwgdALnNo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Fubgun",
           "pin": false,
           "skip": false
         },

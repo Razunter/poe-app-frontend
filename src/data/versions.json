@@ -128,7 +128,7 @@
     {
       "version": "3.28",
       "name": "Mirage",
-      "wip": true,
+      "wip": false,
       "url": "https://www.pathofexile.com/mirage"
     }
   ]

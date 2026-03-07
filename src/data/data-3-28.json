@@ -1384,6 +1384,22 @@
           "skip": false
         },
         {
+          "title": "Summoner Necromancer",
+          "url": "https://www.youtube.com/watch?v=_uWHZVHhY6A",
+          "video": "https://www.youtube.com/watch?v=_uWHZVHhY6A",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_uWHZVHhY6A/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_uWHZVHhY6A/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_uWHZVHhY6A/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Popcorn SRS",
           "url": "https://www.youtube.com/watch?v=yDhBLojcpV0",
           "video": "https://www.youtube.com/watch?v=yDhBLojcpV0",
@@ -1617,6 +1633,38 @@
             "3.28"
           ],
           "author": "Jorgen",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Low Investment Blight Alc & Go",
+          "url": "https://www.youtube.com/watch?v=EPW_z5qJjVg",
+          "video": "https://www.youtube.com/watch?v=EPW_z5qJjVg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/EPW_z5qJjVg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/EPW_z5qJjVg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/EPW_z5qJjVg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Lazy Exile",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "My Atlas Plans for Day 1",
+          "url": "https://www.youtube.com/watch?v=eYxKJOdQgOM",
+          "video": "https://www.youtube.com/watch?v=eYxKJOdQgOM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/eYxKJOdQgOM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/eYxKJOdQgOM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/eYxKJOdQgOM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28"
+          ],
+          "author": "Palsteron",
           "pin": false,
           "skip": false
         }

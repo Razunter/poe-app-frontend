@@ -104,7 +104,10 @@ const parserOptions = {
   tsconfigRootDir: __dirname,
 } satisfies Linter.ParserOptions
 
+const gitignorePath = fileURLToPath(new URL('.gitignore', import.meta.url))
+
 export default defineConfig([
+  includeIgnoreFile(gitignorePath, { gitignoreResolution: true }),
   globalIgnores(['.astro/**/*', '.idea/**/*', '.vscode/**/*', 'dist/**/*', 'node_modules/**/*']),
   ...auto,
   depend.configs['flat/recommended'],

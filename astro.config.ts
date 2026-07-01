@@ -35,7 +35,7 @@ export default defineConfig({
           plugins: [
             ["polyfill-corejs3",
               {
-                method: "usage-global",
+                method: "usage-pure",
                 version: corejsPackage.version,
               },
             ],

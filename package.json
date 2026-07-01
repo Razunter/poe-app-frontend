@@ -34,6 +34,7 @@
     "astro-robots-txt": "^1.0.0",
     "babel-plugin-polyfill-corejs3": "^1.0.0",
     "browserslist": "^4.28.4",
+    "core-js-pure": "^3.49.0",
     "cross-env": "^10.1.0",
     "eslint": "^9.39.3",
     "eslint-config-canonical": "^47.4.2",

@@ -3,6 +3,8 @@ import eslintCommentsPluginConfigs from '@eslint-community/eslint-plugin-eslint-
 import jsPlugin from '@eslint/js'
 import stylisticPlugin from '@stylistic/eslint-plugin'
 import tsParser from '@typescript-eslint/parser'
+import * as astroParser from 'astro-eslint-parser'
+import { configs as eslintPluginAstro } from 'eslint-plugin-astro'
 import * as depend from 'eslint-plugin-depend'
 import importPlugin from 'eslint-plugin-import-x'
 import jsdoc from 'eslint-plugin-jsdoc'
@@ -14,8 +16,6 @@ import { includeIgnoreFile } from 'eslint/config'
 import globals from 'globals'
 import { fileURLToPath } from 'node:url'
 import tsPlugin from 'typescript-eslint'
-import * as astroParser from 'astro-eslint-parser'
-import { configs as eslintPluginAstro } from 'eslint-plugin-astro'
 
 // mimic CommonJS variables -- not needed if using CommonJS
 const __dirname = import.meta.dirname
@@ -166,7 +166,15 @@ const generalJS = {
   'import-x/no-relative-parent-imports': 0,
   'import-x/no-restricted-paths': 0,
   'import-x/no-self-import': 2,
-  'import-x/no-unassigned-import': [2, { allow: ['**/*.css', '**/*.scss', '**/*.postcss'] }],
+  'import-x/no-unassigned-import': [
+    2,
+    { allow: [
+      '**/*.css',
+      '**/*.scss',
+      '**/*.postcss',
+      '**/lite-yt-embed.js',
+    ] },
+  ],
   'import-x/no-unresolved': 0,
   'import-x/no-unused-modules': 0,
   'import-x/no-useless-path-segments': [2, { noUselessIndex: true }],
@@ -231,6 +239,7 @@ const generalJS = {
   'perfectionist/sort-object-types': 'off',
   'perfectionist/sort-objects': 'off',
   'perfectionist/sort-union-types': 'off',
+  'perfectionist/sort-jsx-props': 'off',
   // --- promise rules ---
   'promise/always-return': 0,
   'promise/prefer-await-to-callbacks': 0,
@@ -386,7 +395,8 @@ export default [
       ...ts,
       '@typescript-eslint/no-misused-promises': 'off', // broken
       'consistent-return': 'off', // broken
-      'canonical/filename-match-regex': 'off',
+      'unicorn/no-top-level-side-effects': 'off',
+      'unicorn/no-top-level-assignment-in-function': 'off',
     },
   },
   {

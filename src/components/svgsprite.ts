@@ -34,26 +34,31 @@ const svgsprite = async () => {
   // Add them all to the spriter
   for (const file of files) {
     const filePath = path.join(cwd, file)
-    spriter.add(filePath, null, fs.readFileSync(filePath, 'utf8'))
+    const content = await fs.promises.readFile(filePath, 'utf8')
+    spriter.add(filePath, null, content)
   }
+
+  const result = await new Promise<CompileResult>((resolve, reject) => {
+    spriter.compile((error, result) => {
+      if (error) {
+        reject(error)
+      } else {
+        resolve(result)
+      }
+    })
+  })
 
   const compiledSprite: Map<string, Buffer> = new Map()
 
-  spriter.compile((error, result: CompileResult) => {
-    if (error) {
-      throw error
-    }
-
-    for (const mode in result) {
-      if (Object.hasOwn(result, mode)) {
-        for (const resource in result[mode]) {
-          if (Object.hasOwn(result[mode], resource)) {
-            compiledSprite.set(mode, result[mode][resource].contents)
-          }
+  for (const mode in result) {
+    if (Object.hasOwn(result, mode)) {
+      for (const resource in result[mode]) {
+        if (Object.hasOwn(result[mode], resource)) {
+          compiledSprite.set(mode, result[mode][resource].contents)
         }
       }
     }
-  })
+  }
 
   return compiledSprite?.get('symbol')?.toString()
 }

@@ -47,9 +47,6 @@ const process = () => {
           target.setAttribute('hidden', '')
           target.outerHTML = `<iframe src="https://player.twitch.tv/?video=v${url}&parent=${domain}" allowfullscreen="true" width="640" height="360" class="videoframe videoframe--twitch" frameborder="0"></iframe>`
         }
-        // else if (event.target.classList.contains('video-button--Streamable')) {
-        //     event.target.outerHTML = '<iframe src="' + url + '" frameborder="0" width="480" height="360" allowfullscreen frameborder="0"></iframe>';
-        // }
       },
       { passive: true },
     )

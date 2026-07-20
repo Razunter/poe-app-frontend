@@ -31,8 +31,8 @@ const currentUrl = Astro.url
     <meta property="og:url" content={currentUrl} />
     <meta name="twitter:creator" content={metadata.author.twitter} />
     <meta name="generator" content={Astro.generator} />
-    {import.meta.env.NODE_ENV === 'production' && <GoogleAnalytics />}
-    <script src="node_modules/lite-youtube-embed/src/lite-yt-embed.js"></script>
+    {import.meta.env.PROD && <GoogleAnalytics />}
+    <script>import 'lite-youtube-embed/src/lite-yt-embed.js'</script>
     <script src="../js/index.ts"></script>
   </head>
   <body>

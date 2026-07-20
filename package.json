@@ -1,6 +1,6 @@
 {
   "name": "poe-app-frontend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "private": true,
   "license": "MIT",
@@ -25,6 +25,7 @@
     "@e18e/eslint-plugin": "^0.5.1",
     "@eslint-community/eslint-plugin-eslint-comments": "^4.7.2",
     "@eslint/eslintrc": "^3.3.6",
+    "@eslint/js": "^10.0.1",
     "@rolldown/plugin-babel": "^0.2.3",
     "@ronilaukkarinen/stylelint-a11y": "^1.2.9",
     "@stylistic/eslint-plugin": "^5.10.0",
@@ -55,7 +56,6 @@
     "postcss": "^8.5.20",
     "postcss-html": "^1.8.1",
     "postcss-lightningcss": "^1.1.0",
-    "postcss-preset-env": "^11.3.2",
     "postcss-sort-media-queries": "^6.6.2",
     "sass": "^1.101.0",
     "stylelint": "^17.14.1",

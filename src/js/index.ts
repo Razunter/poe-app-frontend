@@ -4,6 +4,7 @@ const domain = 'raz-poebuilds.netlify.app'
 
 const pauseVideos = (clickedVideo: HTMLIFrameElement | null) => {
   const videos = document.querySelectorAll<HTMLIFrameElement>('lite-youtube iframe')
+
   for (const video of videos) {
     if (video !== clickedVideo) {
       video.contentWindow?.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*')
@@ -32,12 +33,13 @@ const process = () => {
 
   // THUMBS
   const buttons = document.querySelectorAll('.video-button')
+
   for (const button of buttons) {
     button.addEventListener(
       'click',
       (event) => {
         const target = event.currentTarget as HTMLElement
-        const url = target.getAttribute('data-video')
+        const url = target.dataset.video
         if (
           target.classList.contains('video-button--TwitchClip') ||
           target.classList.contains('video-button--Twitch')

@@ -21,7 +21,7 @@ module.exports = {
     'selector-class-pattern': null,
     'selector-id-pattern': null,
     'no-descending-specificity': null,
-    'declaration-block-no-redundant-longhand-properties': [true, {ignoreShorthands: ['grid-template', 'grid-gap']}],
+    'declaration-block-no-redundant-longhand-properties': [true, { ignoreShorthands: ['grid-template', 'grid-gap'] }],
     'scss/percent-placeholder-pattern': null,
   }
 }

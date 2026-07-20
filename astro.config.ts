@@ -1,10 +1,10 @@
-import babel from "@rolldown/plugin-babel";
-import purgecss from "astro-purgecss";
-import robotsTxt from "astro-robots-txt";
-import { defineConfig } from "astro/config";
-import corejsPackage from "core-js/package.json" with { type: "json" }
+import babel from '@rolldown/plugin-babel'
+import purgecss from 'astro-purgecss'
+import robotsTxt from 'astro-robots-txt'
+import { defineConfig } from 'astro/config'
+import corejsPackage from 'core-js/package.json' with { type: 'json' }
 
-const production = process.env.NODE_ENV === "production";
+const production = process.env.NODE_ENV === 'production'
 
 export default defineConfig({
   integrations: [
@@ -13,14 +13,14 @@ export default defineConfig({
     }),
     production
       ? purgecss({
-        safelist: ["iframe"],
+        safelist: ['iframe'],
       })
       : [],
   ],
-  site: "https://raz-poebuilds.netlify.app",
+  site: 'https://raz-poebuilds.netlify.app',
   vite: {
     optimizeDeps: {
-      exclude: ["@resvg"],
+      exclude: ['@resvg'],
     },
     css: {
       preprocessorOptions: {
@@ -33,26 +33,27 @@ export default defineConfig({
       production
         ? babel({
           plugins: [
-            ["polyfill-corejs3",
+            [
+              'polyfill-corejs3',
               {
-                method: "usage-pure",
+                method: 'usage-pure',
                 version: corejsPackage.version,
               },
             ],
           ],
           presets: [
             [
-              "@babel/preset-env",
+              '@babel/preset-env',
               {
-                "corejs": corejsPackage.version,
-                "modules": false,
+                corejs: corejsPackage.version,
+                modules: false,
               },
             ],
           ],
-          exclude: [/\/core-js\//u, /\0rolldown\/runtime\.js/u, "node_modules/**"],
+          exclude: [/\/core-js\//u, /\0rolldown\/runtime\.js/u, 'node_modules/**'],
         })
         : [],
     ],
   },
-  output: "static",
-});
+  output: 'static',
+})

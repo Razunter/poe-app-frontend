@@ -1,0 +1,5 @@
+[install]
+minimumReleaseAge = 86400 # 1 day in seconds
+
+[run]
+bun = true

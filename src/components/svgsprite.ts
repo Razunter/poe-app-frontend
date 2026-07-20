@@ -1,7 +1,7 @@
-import glob from 'fast-glob'
 import fs from 'node:fs'
 import path from 'node:path'
 import SVGSprite, { type Config } from 'svg-sprite'
+import { glob } from 'tinyglobby'
 
 const cwd = path.resolve('./src/components/sprite-icons')
 const spriteConfig = {
@@ -24,7 +24,7 @@ const spriteConfig = {
   },
 } as Config
 
-export default async () => {
+const svgsprite = async () => {
   // Make a new SVGSpriter instance w/ configuration
   const spriter = new SVGSprite(spriteConfig)
 
@@ -58,12 +58,6 @@ export default async () => {
   return compiledSprite?.get('symbol')?.toString()
 }
 
-type CompileResult = Record<
-  string,
-  Record<
-    string,
-    {
-      contents: Buffer
-    }
-  >
->
+export default svgsprite
+
+type CompileResult = Record<string, Record<string, { contents: Buffer }>>

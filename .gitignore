@@ -3,3 +3,8 @@ _site/
 .idea/
 dist/
 .astro
+
+# AI
+AGENTS.md
+.pi
+.omp

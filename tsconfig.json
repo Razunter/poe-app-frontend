@@ -28,15 +28,23 @@
     "allowJs": true,
     "checkJs": true,
     "paths": {
-      "@src/*": ["./src/*"],
-      "@layouts/*": ["./src/layouts/*"],
-      "@css/*": ["./src/styles/*"],
-      "@img/*": ["./src/images/*"]
+      "@src/*": [
+        "./src/*"
+      ],
+      "@layouts/*": [
+        "./src/layouts/*"
+      ],
+      "@css/*": [
+        "./src/styles/*"
+      ],
+      "@img/*": [
+        "./src/images/*"
+      ]
     },
     "plugins": [
       {
         "name": "@astrojs/ts-plugin"
-      },
+      }
     ]
   },
   "include": [

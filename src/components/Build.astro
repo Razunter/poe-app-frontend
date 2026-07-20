@@ -32,7 +32,8 @@ const getVideoID = (input: string | undefined, type: VideoType) => {
 
   if (type === 'YouTube') {
     return input.slice(Math.max(0, input.lastIndexOf('?v=') + 3))
-  } else if (type === 'Twitch') {
+  }
+  if (type === 'Twitch') {
     return input.slice(Math.max(0, input.lastIndexOf('/') + 1))
   }
 
@@ -70,16 +71,20 @@ if (build.videothumb?.['480w']) {
       <a
         class="build-link"
         href={build.url}
+        rel="noopener"
         target="_blank"
-        rel="noopener noreferrer"
       >
         {
           build.author && (
             <>
-              <span class="build-author">{build.author}</span> -
+              <span class="build-author">{build.author}</span>
+              {' '}
+              -
             </>
           )
-        }{build.title}&#8288;
+        }
+        {build.title}
+        &#8288;
         <IconExternal url={build.url} />
       </a>
     </h3>
@@ -88,9 +93,9 @@ if (build.videothumb?.['480w']) {
     {
       videoType === 'YouTube' ? (
         <lite-youtube
-          videoid={videoID}
-          playlabel={'Play: ' + build.title}
           params="enablejsapi=1"
+          playlabel={'Play: ' + build.title}
+          videoid={videoID}
         />
       ) : (
         <button
@@ -99,14 +104,14 @@ if (build.videothumb?.['480w']) {
           title={build.title}
         >
           <img
-            width="640"
+            alt={build.title}
+            class="thumb"
             height="480"
+            loading="lazy"
             sizes="(min-width: 1800px) 790px, (min-width: 1500px) 640px, (min-width: 920px) 480px, 90vw"
             src={dataSRC}
             srcset={dataSRCset.join(', ')}
-            loading="lazy"
-            alt={build.title}
-            class="thumb"
+            width="640"
           />
         </button>
       )

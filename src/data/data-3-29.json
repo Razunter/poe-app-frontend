@@ -4,6 +4,23 @@
       "type": "melee",
       "builds": [
         {
+          "title": "Boneshatter of Complex Trauma Juggernaut",
+          "url": "https://maxroll.gg/poe/build-guides/boneshatter-juggernaut-league-starter",
+          "video": "https://www.youtube.com/watch?v=ThANqlWYJ98",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ThANqlWYJ98/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ThANqlWYJ98/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ThANqlWYJ98/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28",
+            "3.29"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Eviscerate Bleed Gladiator",
           "url": "https://maxroll.gg/poe/build-guides/eviscerate-bleed-gladiator-league-starter",
           "video": "https://www.youtube.com/watch?v=_yr67QUlRH0",
@@ -37,22 +54,6 @@
           "skip": false
         },
         {
-          "title": "Boneshatter Juggernaut",
-          "url": "https://www.youtube.com/watch?v=ThANqlWYJ98",
-          "video": "https://www.youtube.com/watch?v=ThANqlWYJ98",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/ThANqlWYJ98/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/ThANqlWYJ98/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/ThANqlWYJ98/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.29"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Static Strike Slayer",
           "url": "https://www.youtube.com/watch?v=jQy7qtUnQHM",
           "video": "https://www.youtube.com/watch?v=jQy7qtUnQHM",
@@ -60,6 +61,22 @@
             "480w": "https://i.ytimg.com/vi/jQy7qtUnQHM/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/jQy7qtUnQHM/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/jQy7qtUnQHM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Alohaa",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Static Strike Void Shockwave Berserker",
+          "url": "https://www.youtube.com/watch?v=lOnHH393bhQ",
+          "video": "https://www.youtube.com/watch?v=lOnHH393bhQ",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/lOnHH393bhQ/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/lOnHH393bhQ/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/lOnHH393bhQ/maxresdefault.jpg"
           },
           "versions": [
             "3.29"
@@ -117,6 +134,22 @@
           "skip": false
         },
         {
+          "title": "Flicker Strike",
+          "url": "https://www.youtube.com/watch?v=ZxXjPVJQyk8",
+          "video": "https://www.youtube.com/watch?v=ZxXjPVJQyk8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/ZxXjPVJQyk8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/ZxXjPVJQyk8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/ZxXjPVJQyk8/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Magefist",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "SSF Boneshatter Hydrosphere Berserker",
           "url": "https://www.youtube.com/watch?v=LwiJh2wc75w",
           "video": "https://www.youtube.com/watch?v=LwiJh2wc75w",
@@ -128,22 +161,6 @@
             "3.29"
           ],
           "author": "smokie_777",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Boneshatter of Complex Trauma Juggernaut",
-          "url": "https://maxroll.gg/poe/build-guides/boneshatter-juggernaut-league-starter",
-          "video": "https://www.youtube.com/watch?v=D79KG-lJoWU",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/D79KG-lJoWU/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/D79KG-lJoWU/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/D79KG-lJoWU/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.28"
-          ],
-          "author": "Zizaran",
           "pin": false,
           "skip": false
         },
@@ -570,6 +587,22 @@
             "480w": "https://i.ytimg.com/vi/42t9yK-9_Go/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/42t9yK-9_Go/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/42t9yK-9_Go/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Shock Nova of Procession Archmage Hierophant",
+          "url": "https://maxroll.gg/poe/build-guides/shock-nova-of-procession-archmage-hierophant-league-starter",
+          "video": "https://www.youtube.com/watch?v=gYQvyebX8ZM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/gYQvyebX8ZM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/gYQvyebX8ZM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/gYQvyebX8ZM/maxresdefault.jpg"
           },
           "versions": [
             "3.29"
@@ -1182,11 +1215,11 @@
         {
           "title": "Holy Flame Totem Hierophant",
           "url": "https://maxroll.gg/poe/build-guides/holy-flame-totem-hierophant-league-starter",
-          "video": "https://www.youtube.com/watch?v=eaBX7pHfwqQ",
+          "video": "https://www.youtube.com/watch?v=9JlXC_nTF8Y",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/eaBX7pHfwqQ/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/eaBX7pHfwqQ/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/eaBX7pHfwqQ/maxresdefault.jpg"
+            "480w": "https://i.ytimg.com/vi/9JlXC_nTF8Y/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9JlXC_nTF8Y/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9JlXC_nTF8Y/maxresdefault.jpg"
           },
           "versions": [
             "3.28",
@@ -1414,6 +1447,23 @@
       "type": "mines",
       "builds": [
         {
+          "title": "Rolling Magma Mines Saboteur",
+          "url": "https://maxroll.gg/poe/build-guides/rolling-magma-mines-saboteur-league-starter",
+          "video": "https://www.youtube.com/watch?v=RnP_MkWu3WI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/RnP_MkWu3WI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/RnP_MkWu3WI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/RnP_MkWu3WI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28",
+            "3.29"
+          ],
+          "author": "Goratha",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Glacial Cascade Miner Elementalist",
           "url": "https://mobalytics.gg/poe/profile/asmodeus/builds/cold-miner-elementalist-leveling-guide",
           "video": "https://www.youtube.com/watch?v=sgGUuwD4jms",
@@ -1426,22 +1476,6 @@
             "3.28"
           ],
           "author": "Asmodeus",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Rolling Magma Mines Saboteur",
-          "url": "https://maxroll.gg/poe/build-guides/rolling-magma-mines-saboteur-league-starter",
-          "video": "https://www.youtube.com/watch?v=P4JEYLQNwcE",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/P4JEYLQNwcE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/P4JEYLQNwcE/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/P4JEYLQNwcE/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.28"
-          ],
-          "author": "Goratha",
           "pin": false,
           "skip": false
         },
@@ -1556,6 +1590,22 @@
             "3.29"
           ],
           "author": "CaptainLance9",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Spectre Summoner Necromancer",
+          "url": "https://www.poe-vault.com/guides/the-spectre-summoner-build-guide",
+          "video": "https://www.youtube.com/watch?v=3JzWWN28ECI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/3JzWWN28ECI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/3JzWWN28ECI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/3JzWWN28ECI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Ghazzy",
           "pin": false,
           "skip": false
         },
@@ -1889,6 +1939,26 @@
           "skip": false
         },
         {
+          "title": "a few battle tested off-meta league starters",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1v1ki8f/329_a_few_battle_tested_offmeta_league_starters/",
+          "versions": [
+            "3.29"
+          ],
+          "author": "MntBrryCrnch",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "League Start Build Index",
+          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1v2agyh/329_curse_of_the_allflame_league_start_build_index/",
+          "versions": [
+            "3.29"
+          ],
+          "author": "NzLawless",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Mobalytics Tier List",
           "url": "https://mobalytics.gg/poe/tier-list",
           "versions": [
@@ -1904,16 +1974,6 @@
             "3.28"
           ],
           "author": "NzLawless",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "a few battle tested off-meta league starters",
-          "url": "https://www.reddit.com/r/PathOfExileBuilds/comments/1v1ki8f/329_a_few_battle_tested_offmeta_league_starters/",
-          "versions": [
-            "3.29"
-          ],
-          "author": "MntBrryCrnch",
           "pin": false,
           "skip": false
         }

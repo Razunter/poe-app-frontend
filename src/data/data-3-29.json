@@ -86,6 +86,22 @@
           "skip": false
         },
         {
+          "title": "Dominating Blow Guardian",
+          "url": "https://www.youtube.com/watch?v=9glvge2y6sg",
+          "video": "https://www.youtube.com/watch?v=9glvge2y6sg",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/9glvge2y6sg/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/9glvge2y6sg/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/9glvge2y6sg/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "ArminYou",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Ice Crash Ignite Chieftain",
           "url": "https://www.youtube.com/watch?v=YTTcKnqipOM",
           "video": "https://www.youtube.com/watch?v=YTTcKnqipOM",
@@ -146,6 +162,22 @@
             "3.29"
           ],
           "author": "Magefist",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Heavy Kinetic Blast (and Zenith)",
+          "url": "https://www.youtube.com/watch?v=2qJxma3O90M",
+          "video": "https://www.youtube.com/watch?v=2qJxma3O90M",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/2qJxma3O90M/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/2qJxma3O90M/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/2qJxma3O90M/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "onemanaleft",
           "pin": false,
           "skip": false
         },
@@ -563,6 +595,22 @@
       "type": "caster",
       "builds": [
         {
+          "title": "Ice Nova Elementalist",
+          "url": "https://maxroll.gg/poe/build-guides/ice-nova-elementalist-league-starter",
+          "video": "https://www.youtube.com/watch?v=mKrqlBj-SbA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/mKrqlBj-SbA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/mKrqlBj-SbA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/mKrqlBj-SbA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "aer0",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Spark Archmage Heirophant",
           "url": "https://mobalytics.gg/poe/builds/bigducks-spark-archmage-heirophant",
           "video": "https://www.youtube.com/watch?v=DpHXNVNeH88",
@@ -576,6 +624,22 @@
             "3.29"
           ],
           "author": "Big Ducks",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Vaal Ice Nova of Frostbolts Occultist",
+          "url": "https://mobalytics.gg/poe/profile/camaronincheese-fs849b/builds/ffe75f94-22b1-4038-a727-12fad6cb40ad",
+          "video": "https://www.youtube.com/watch?v=QVFyq1N6wKo",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QVFyq1N6wKo/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QVFyq1N6wKo/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QVFyq1N6wKo/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "CamaroniNCheez",
           "pin": false,
           "skip": false
         },
@@ -692,6 +756,22 @@
           "skip": false
         },
         {
+          "title": "Winter Orb Elementalist",
+          "url": "https://www.youtube.com/watch?v=OZypCJ-5Bog",
+          "video": "https://www.youtube.com/watch?v=OZypCJ-5Bog",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/OZypCJ-5Bog/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/OZypCJ-5Bog/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/OZypCJ-5Bog/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Arc Ignite Elementalist",
           "url": "https://www.youtube.com/watch?v=YuDyMPb8ryw",
           "video": "https://www.youtube.com/watch?v=YuDyMPb8ryw",
@@ -720,6 +800,38 @@
             "3.29"
           ],
           "author": "CamaroniNCheez",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Winter Orb Elementalist",
+          "url": "https://www.youtube.com/watch?v=--XDhqSlwPA",
+          "video": "https://www.youtube.com/watch?v=--XDhqSlwPA",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/--XDhqSlwPA/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/--XDhqSlwPA/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/--XDhqSlwPA/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Fubgun",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Kinetic Blast of Clustering Necromancer",
+          "url": "https://www.youtube.com/watch?v=QOXeHiSK-9U",
+          "video": "https://www.youtube.com/watch?v=QOXeHiSK-9U",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/QOXeHiSK-9U/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/QOXeHiSK-9U/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/QOXeHiSK-9U/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Redviles",
           "pin": false,
           "skip": false
         },
@@ -1049,6 +1161,22 @@
           "skip": false
         },
         {
+          "title": "Cold Convert Ice Shot of Penetration Warden",
+          "url": "https://mobalytics.gg/poe/builds/cold-convert-ice-shot-of-penetration-warden",
+          "video": "https://www.youtube.com/watch?v=Q6R7gQ7eywE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Q6R7gQ7eywE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Q6R7gQ7eywE/sddefault.jpg"
+          },
+          "versions": [
+            "3.28",
+            "3.29"
+          ],
+          "author": "SnooBAE85",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Poisonous Concoction of Bouncing Pathfinder",
           "url": "https://mobalytics.gg/poe/builds/animeprincess-poisonous-concoction-of-bouncing",
           "video": "https://www.youtube.com/watch?v=-ag64ohx7DI",
@@ -1093,21 +1221,6 @@
             "3.28"
           ],
           "author": "Path of Evening",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Cold Convert Ice Shot of Penetration Warden",
-          "url": "https://mobalytics.gg/poe/builds/cold-convert-ice-shot-of-penetration-warden",
-          "video": "https://www.youtube.com/watch?v=iKNsJ9RTmj8",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/iKNsJ9RTmj8/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/iKNsJ9RTmj8/sddefault.jpg"
-          },
-          "versions": [
-            "3.28"
-          ],
-          "author": "SnooBAE85",
           "pin": false,
           "skip": false
         },
@@ -1230,6 +1343,38 @@
           "skip": false
         },
         {
+          "title": "Hierophant Ice Spear/Freezing Pulse Totems",
+          "url": "https://mobalytics.gg/poe/profile/bold-storm-964fxg/builds/a382793a-0d44-4028-96d4-99a97478dcdc",
+          "video": "https://www.youtube.com/watch?v=Pn2Z-c5HiOw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/Pn2Z-c5HiOw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/Pn2Z-c5HiOw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/Pn2Z-c5HiOw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "ImSidVicious",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Luminary Mercenary Support Build",
+          "url": "https://www.youtube.com/watch?v=vq-ui0FGZxE",
+          "video": "https://www.youtube.com/watch?v=vq-ui0FGZxE",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/vq-ui0FGZxE/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/vq-ui0FGZxE/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/vq-ui0FGZxE/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Zizaran",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Stormburst Totem Hierophant",
           "url": "https://www.youtube.com/watch?v=fCnYDU84q18",
           "video": "https://www.youtube.com/watch?v=fCnYDU84q18",
@@ -1242,6 +1387,22 @@
             "3.29"
           ],
           "author": "aer0plane",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Storm Burst (of Repulsion) Totems",
+          "url": "https://www.youtube.com/watch?v=IQlMZ5ddGp0",
+          "video": "https://www.youtube.com/watch?v=IQlMZ5ddGp0",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/IQlMZ5ddGp0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/IQlMZ5ddGp0/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/IQlMZ5ddGp0/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Talantiel2",
           "pin": false,
           "skip": false
         },
@@ -1623,6 +1784,22 @@
             "3.29"
           ],
           "author": "Helm Breaker",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Holy Absolution Guardian",
+          "url": "https://mobalytics.gg/poe/builds/ronarray-holy-absolution-guardian",
+          "video": "https://www.youtube.com/watch?v=k6xZ3LckqtM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/k6xZ3LckqtM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/k6xZ3LckqtM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/k6xZ3LckqtM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "ronarray",
           "pin": false,
           "skip": false
         },

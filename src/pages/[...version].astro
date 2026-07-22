@@ -10,8 +10,8 @@ import { type GetStaticPathsItem } from 'astro'
 
 // eslint-disable-next-line func-style
 export async function getStaticPaths() {
-  return structuredClone(versionsData.versions)
-    .reverse()
+  return versionsData.versions
+    .toReversed()
     .map((mapVersion) => {
       return {
         params: {
@@ -42,8 +42,8 @@ if (version.url) {
   pageHeaderVersion = `<a href="${version.url}" target="_blank" rel="noopener noreferrer">${pageHeaderVersion}</a>`
 }
 
-// limited-use internal helper, any[] is safe here
-const intersection = (array: any[], ...args: any[]) => {
+// limited-use internal helper
+const intersection = (array: unknown[], ...args: unknown[]) => {
   return array.filter((item) => {
     return args.every((array_) => {
       return array_.includes(item)
@@ -55,14 +55,16 @@ const isBuildCurrent = (buildVersions: string[], thisPageVersion: string, allVer
   if (buildVersions !== undefined && Array.isArray(buildVersions)) {
     if (buildVersions.includes(thisPageVersion)) {
       return true
-    } else {
-      const versionData = allVersions.find((version_) => {
-        return version_.version === thisPageVersion
-      })
-      if (versionData?.compatible && Array.isArray(versionData.compatible)) {
-        const inter = intersection(versionData.compatible, buildVersions)
-        return inter.length > 0
-      }
+    }
+
+    const versionData = allVersions.find((version_) => {
+      return version_.version === thisPageVersion
+    })
+
+    if (versionData?.compatible && Array.isArray(versionData.compatible)) {
+      const inter = intersection(versionData.compatible, buildVersions)
+
+      return inter.length > 0
     }
   }
 
@@ -160,6 +162,7 @@ filterVersionData()
         >
           <h2 class="section-title">
             <SvgIconLink icon={typekey} />
+            &nbsp;
             {typename}
           </h2>
           <div class="builds-collection">
@@ -185,16 +188,12 @@ filterVersionData()
           href="https://www.pathofexile.com/"
           target="_blank"
           rel="noopener"
-          >Path of Exile</a
         >
+          Path of Exile
+        </a>
       </li>
       <li>
-        Site created by Razunter. <a
-          href="https://github.com/Razunter/poe-app-frontend"
-          target="_blank"
-          rel="noopener"
-          >GitHub</a
-        >
+        Site created by Razunter. <a href="https://github.com/Razunter/poe-app-frontend" target="_blank" rel="noopener">GitHub</a>
       </li>
     </ul>
   </Fragment>

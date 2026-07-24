@@ -661,6 +661,22 @@
           "skip": false
         },
         {
+          "title": "Tornado Of Elemental Turbulence Inquisitor",
+          "url": "https://www.poe-vault.com/guides/tornado-inquisitor-build-guide",
+          "video": "https://www.youtube.com/watch?v=tWyIWTaV_VI",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tWyIWTaV_VI/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tWyIWTaV_VI/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tWyIWTaV_VI/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "BalorMage",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Spark Archmage Heirophant",
           "url": "https://mobalytics.gg/poe/builds/bigducks-spark-archmage-heirophant",
           "video": "https://www.youtube.com/watch?v=DpHXNVNeH88",
@@ -813,6 +829,22 @@
             "480w": "https://i.ytimg.com/vi/yn1MzoinnUw/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/yn1MzoinnUw/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/yn1MzoinnUw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "ronarray",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Ignite Ethereal Knives Elementalist",
+          "url": "https://mobalytics.gg/poe/builds/ignite-ethereal-knives-elementalist-build-league-starter-to-endgame",
+          "video": "https://www.youtube.com/watch?v=tlK_BllLBL8",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/tlK_BllLBL8/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/tlK_BllLBL8/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/tlK_BllLBL8/maxresdefault.jpg"
           },
           "versions": [
             "3.29"
@@ -1301,6 +1333,22 @@
           "skip": false
         },
         {
+          "title": "Bleed Bow League Starter",
+          "url": "https://maxroll.gg/poe/planner/ydnjwr0t",
+          "video": "https://www.youtube.com/watch?v=hhajlbVuwws",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/hhajlbVuwws/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/hhajlbVuwws/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/hhajlbVuwws/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "JayTX",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Toxic Rain Pathfinder",
           "url": "https://mobalytics.gg/poe/builds/toxic-rain-pathfinder",
           "video": "https://www.youtube.com/watch?v=HwsaAGY8HdQ",
@@ -1744,6 +1792,23 @@
       "type": "rf",
       "builds": [
         {
+          "title": "Righteous Fire Chieftain",
+          "url": "https://pohx.net/",
+          "video": "https://www.youtube.com/watch?v=aXDVnydIXJw",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/aXDVnydIXJw/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/aXDVnydIXJw/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/aXDVnydIXJw/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.28",
+            "3.29"
+          ],
+          "author": "Pohx",
+          "pin": false,
+          "skip": false
+        },
+        {
           "title": "Death's Oath",
           "url": "https://www.youtube.com/watch?v=-6wxbrXqSHs",
           "video": "https://www.youtube.com/watch?v=-6wxbrXqSHs",
@@ -1756,22 +1821,6 @@
             "3.29"
           ],
           "author": "Wafflez",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Righteous Fire Chieftain",
-          "url": "https://pohx.net/",
-          "video": "https://www.youtube.com/watch?v=7flriI9ltHM",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/7flriI9ltHM/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/7flriI9ltHM/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/7flriI9ltHM/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.28"
-          ],
-          "author": "Pohx",
           "pin": false,
           "skip": false
         },
@@ -2006,6 +2055,22 @@
             "3.29"
           ],
           "author": "ronarray",
+          "pin": false,
+          "skip": false
+        },
+        {
+          "title": "Minion League Starter Build Guide Updates",
+          "url": "https://www.youtube.com/watch?v=-kpkIeotT5k",
+          "video": "https://www.youtube.com/watch?v=-kpkIeotT5k",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/-kpkIeotT5k/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/-kpkIeotT5k/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/-kpkIeotT5k/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.29"
+          ],
+          "author": "Helm Breaker",
           "pin": false,
           "skip": false
         },

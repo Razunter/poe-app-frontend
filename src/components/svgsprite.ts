@@ -25,6 +25,8 @@ const spriteConfig = {
 } as Config
 
 const svgsprite = async () => {
+  type CompileResult = Record<string, Record<string, { contents: Buffer }>>
+
   // Make a new SVGSpriter instance w/ configuration
   const spriter = new SVGSprite(spriteConfig)
 
@@ -64,5 +66,3 @@ const svgsprite = async () => {
 }
 
 export default svgsprite
-
-type CompileResult = Record<string, Record<string, { contents: Buffer }>>

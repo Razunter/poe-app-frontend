@@ -8,3 +8,26 @@ dist/
 AGENTS.md
 .pi
 .omp
+.context/compound-engineering/
+
+# Local setup files
+.compound-engineering/
+CODING_STANDARDS.md
+CONSTRAINTS.md
+REVIEW.md
+.nvmrc
+.vscode/
+STRATEGY.md
+
+# Local indexes and scratch notes
+.codegraph/
+.scratch/
+/.beads/
+/docs
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key
+.beads/proxieddb/
+*.gate.lock*

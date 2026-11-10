@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   files: [
     '*.css',
     '**/*.css',
@@ -23,5 +23,5 @@ module.exports = {
     'no-descending-specificity': null,
     'declaration-block-no-redundant-longhand-properties': [true, { ignoreShorthands: ['grid-template', 'grid-gap'] }],
     'scss/percent-placeholder-pattern': null,
-  }
+  },
 }

@@ -6,11 +6,11 @@ import tsParser from '@typescript-eslint/parser'
 import * as astroParser from 'astro-eslint-parser'
 import { configs as eslintPluginAstro } from 'eslint-plugin-astro'
 import * as depend from 'eslint-plugin-depend'
-import importPlugin from 'eslint-plugin-import-x'
-import jsdoc from 'eslint-plugin-jsdoc'
-import perfectionistPlugin from 'eslint-plugin-perfectionist'
+import { configs as importPluginConfigs } from 'eslint-plugin-import-x'
+import { configs as jsdocConfigs } from 'eslint-plugin-jsdoc'
+import { configs as perfectionistPluginConfigs } from 'eslint-plugin-perfectionist'
 import promisePlugin from 'eslint-plugin-promise'
-import regexpPlugin from 'eslint-plugin-regexp'
+import { configs as regexpPluginConfigs } from 'eslint-plugin-regexp'
 import unicornPlugin from 'eslint-plugin-unicorn'
 import { includeIgnoreFile } from 'eslint/config'
 import globals from 'globals'
@@ -369,13 +369,13 @@ export default [
   // e18e recommended
 
   e18e.configs.recommended,
-  jsdoc.configs['flat/recommended-typescript'],
+  jsdocConfigs['flat/recommended-typescript'],
   jsPlugin.configs.recommended,
   stylisticPlugin.configs.recommended,
-  importPlugin.configs['flat/recommended'],
-  perfectionistPlugin.configs['recommended-natural'],
+  importPluginConfigs['flat/recommended'],
+  perfectionistPluginConfigs['recommended-natural'],
   promisePlugin.configs['flat/recommended'],
-  regexpPlugin.configs['flat/recommended'],
+  regexpPluginConfigs['flat/recommended'],
   unicornPlugin.configs.recommended,
   eslintCommentsPluginConfigs.recommended,
   ...tsPlugin.configs.recommended,
@@ -388,7 +388,11 @@ export default [
       globals: {
         ...globals.browser,
       },
-      parserOptions,
+      parserOptions: {
+        ...parserOptions,
+        projectService: false,
+        project: true,
+      },
     },
     rules: {
       ...generalJS,
@@ -400,11 +404,10 @@ export default [
     },
   },
   {
-    files: ['**/*.js'],
+    files: ['**/*.{js,mjs}'],
     rules: { ...generalJS },
     languageOptions: {
-      globals: globals.builtin,
-      parserOptions,
+      globals: globals.node,
     },
   },
   {

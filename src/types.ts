@@ -1,11 +1,3 @@
-export type VersionDataType = {
-  types: Record<string, string>
-  buildList: Array<{
-    type: string
-    builds: BuildDataType[]
-  }>
-}
-
 export type BuildDataType = {
   title: string
   url: string
@@ -19,6 +11,14 @@ export type BuildDataType = {
   versions: string[]
   author?: string
   skip?: boolean
+}
+
+export type VersionDataType = {
+  types: Record<string, string>
+  buildList: Array<{
+    type: string
+    builds: BuildDataType[]
+  }>
 }
 
 export type VersionType = {

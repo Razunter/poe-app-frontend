@@ -9,7 +9,7 @@ type Props = {
 const { versions, currentVersionNumber } = Astro.props as Props
 
 const maxLinks = 3
-const cutVersions = structuredClone(versions).reverse().slice(0, maxLinks)
+const cutVersions = versions.toReversed().slice(0, maxLinks)
 
 const navLinks = cutVersions.map((version, index) => {
   if (version.version === currentVersionNumber) {

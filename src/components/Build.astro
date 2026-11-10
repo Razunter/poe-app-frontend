@@ -43,23 +43,21 @@ const getVideoID = (input: string | undefined, type: VideoType) => {
 const videoType = getVideoType(build?.video)
 const videoID = getVideoID(build.video, videoType)
 
-const makeWebP = (url: string, videoTypeLocal: VideoType) => {
-  if (videoTypeLocal !== 'YouTube') {
-    return url
-  }
-
-  return url.replaceAll('/vi/', '/vi_webp/').replaceAll('.jpg', '.webp')
+const makeWebP = (url: string) => {
+  return videoType === 'YouTube'
+    ? url.replaceAll('/vi/', '/vi_webp/').replaceAll('.jpg', '.webp')
+    : url
 }
 
 let dataSRC = ''
 const dataSRCset: string[] = []
 
 if (build.videothumb?.['480w']) {
-  dataSRC = makeWebP(build.videothumb['480w'], videoType)
+  dataSRC = makeWebP(build.videothumb['480w'])
 
   for (const size in build.videothumb) {
     if (Object.hasOwn(build.videothumb, size)) {
-      dataSRCset.push(makeWebP(build.videothumb[size], videoType) + ' ' + size)
+      dataSRCset.push(makeWebP(build.videothumb[size]) + ' ' + size)
     }
   }
 }

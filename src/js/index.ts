@@ -1,3 +1,4 @@
+// The package's CommonJS entrypoint exposes a non-callable default in the browser bundle.
 import scrollSpy from 'simple-scrollspy/src/index'
 
 const domain = 'raz-poebuilds.netlify.app'
@@ -23,10 +24,12 @@ const process = () => {
     'click',
     (event) => {
       const target = event.target as HTMLElement
-      if (target.nodeName === 'LITE-YOUTUBE') {
-        const iframe = target.querySelector('iframe')
-        pauseVideos(iframe)
+      if (target.nodeName !== 'LITE-YOUTUBE') {
+        return
       }
+
+      const iframe = target.querySelector('iframe')
+      pauseVideos(iframe)
     },
     { passive: true },
   )
@@ -39,14 +42,16 @@ const process = () => {
       'click',
       (event) => {
         const target = event.currentTarget as HTMLElement
-        const url = target.dataset.video
         if (
-          target.classList.contains('video-button--TwitchClip') ||
-          target.classList.contains('video-button--Twitch')
+          !target.classList.contains('video-button--TwitchClip') &&
+          !target.classList.contains('video-button--Twitch')
         ) {
-          target.setAttribute('hidden', '')
-          target.outerHTML = `<iframe src="https://player.twitch.tv/?video=v${url}&parent=${domain}" allowfullscreen="true" width="640" height="360" class="videoframe videoframe--twitch" frameborder="0"></iframe>`
+          return
         }
+
+        const url = target.dataset.video
+        target.setAttribute('hidden', '')
+        target.outerHTML = `<iframe src="https://player.twitch.tv/?video=v${url}&parent=${domain}" allowfullscreen="true" width="640" height="360" class="videoframe videoframe--twitch" frameborder="0"></iframe>`
       },
       { passive: true },
     )

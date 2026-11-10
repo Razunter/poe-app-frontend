@@ -18,6 +18,12 @@ This repository contains the website’s source code. The site is built with [As
 
 The tool used to edit the collection lives in a separate repository: [poe-app](https://github.com/Razunter/poe-app).
 
+## Checks
+
+Run `bun test tests/filterVersionData.test.ts` to check league compatibility, skipped builds, and empty categories.
+Run `bun --bun run build` to build current and archived pages.
+When changing video handling, check mouse and keyboard activation in the browser. Starting a YouTube preview must send pause commands to other previews.
+
 ## License
 
 Licensed under the [MIT License](LICENSE).

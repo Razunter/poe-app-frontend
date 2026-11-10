@@ -52,7 +52,8 @@
     "src/**/*.d.ts",
     "src/**/*.ts",
     "src/**/*.js",
-    "src/**/*.astro"
+    "src/**/*.astro",
+    "tests/**/*.ts"
   ],
   "exclude": [
     "node_modules/*"

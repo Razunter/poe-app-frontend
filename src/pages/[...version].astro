@@ -5,6 +5,7 @@ import FooterNav from '@src/components/FooterNav.astro'
 import SvgIconLink from '@src/components/SvgIconLink.astro'
 import sprite from '@src/components/svgsprite'
 import versionsData from '@src/data/versions.json'
+import { filterVersionData } from '@src/filterVersionData.ts'
 import { type VersionDataType, type VersionType } from '@src/types.ts'
 import { type GetStaticPathsItem } from 'astro'
 
@@ -33,71 +34,14 @@ const thisVersionNumber = version.version
 const title = `Path of Exile ${thisVersionNumber} «${version.name}» starter builds collection (Razunter's picks)`
 const description = `Quick preview of starter builds for Path of Exile v${thisVersionNumber} ${version.name}, collected by Razunter`
 const reformattedVersionNumber = thisVersionNumber.replaceAll('.', '-')
-const data = (await import(`../data/data-${reformattedVersionNumber}.json`)) as VersionDataType
-let currentTypes = Object.entries(data.types)
+const data = filterVersionData((await import(`../data/data-${reformattedVersionNumber}.json`)) as VersionDataType, version)
+const currentTypes = Object.entries(data.types)
 const svgSprite = await sprite()
 
 let pageHeaderVersion = `${thisVersionNumber} «${version.name}»`
 if (version.url) {
   pageHeaderVersion = `<a href="${version.url}" target="_blank" rel="noopener noreferrer">${pageHeaderVersion}</a>`
 }
-
-// limited-use internal helper
-const intersection = (array: unknown[], ...args: unknown[]) => {
-  return array.filter((item) => {
-    return args.every((array_) => {
-      return array_.includes(item)
-    })
-  })
-}
-
-const isBuildCurrent = (buildVersions: string[], thisPageVersion: string, allVersions: VersionType[]) => {
-  if (buildVersions !== undefined && Array.isArray(buildVersions)) {
-    if (buildVersions.includes(thisPageVersion)) {
-      return true
-    }
-
-    const versionData = allVersions.find((version_) => {
-      return version_.version === thisPageVersion
-    })
-
-    if (versionData?.compatible && Array.isArray(versionData.compatible)) {
-      const inter = intersection(versionData.compatible, buildVersions)
-
-      return inter.length > 0
-    }
-  }
-
-  return false
-}
-
-const filterVersionData = () => {
-  const emptyCategories: string[] = []
-
-  for (const type of currentTypes) {
-    const buildCategoryIndex = data.buildList.findIndex((item) => {
-      return item.type === type[0]
-    })
-
-    if (buildCategoryIndex !== -1) {
-      data.buildList[buildCategoryIndex].builds = data.buildList[buildCategoryIndex].builds.filter((build) => {
-        return !build.skip && isBuildCurrent(build.versions, version.version, versionsData.versions)
-      })
-
-      if (data.buildList[buildCategoryIndex].builds.length === 0) {
-        emptyCategories.push(data.buildList[buildCategoryIndex].type)
-      }
-    }
-  }
-
-  if (emptyCategories.length > 0) {
-    currentTypes = currentTypes.filter((type) => {
-      return !emptyCategories.includes(type[0])
-    })
-  }
-}
-
-filterVersionData()
 ---
 
 <Layout

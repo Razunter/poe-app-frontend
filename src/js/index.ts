@@ -23,8 +23,8 @@ const process = () => {
   document.addEventListener(
     'click',
     (event) => {
-      const target = event.target as HTMLElement
-      if (target.nodeName !== 'LITE-YOUTUBE') {
+      const target = (event.target as HTMLElement).closest('lite-youtube')
+      if (!target) {
         return
       }
 

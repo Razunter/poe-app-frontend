@@ -220,16 +220,13 @@ a {
   }
 
   iframe,
-  img,
-  .novideo,
-  .videoWrap {
+  img {
     width: 100%;
     height: auto;
     aspect-ratio: 16/9;
   }
 
-  .video-wrap,
-  .novideo {
+  .video-wrap {
     margin-top: auto;
   }
 
@@ -251,8 +248,7 @@ a {
     }
 
     img,
-    iframe,
-    .novideo {
+    iframe {
       cursor: pointer;
       object-fit: cover;
       position: absolute;
@@ -265,17 +261,6 @@ a {
   img {
     display: block;
     object-fit: cover;
-  }
-
-  .novideo {
-    @include rfs.font-size(1.3rem);
-
-    width: 100%;
-    min-height: 3em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid #{$text-color};
   }
 }
 

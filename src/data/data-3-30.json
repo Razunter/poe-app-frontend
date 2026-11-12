@@ -975,23 +975,6 @@
           "skip": false
         },
         {
-          "title": "Toxic Rain Pathfinder",
-          "url": "https://www.poe-vault.com/guides/toxic-rain-pathfinder-build-guide",
-          "video": "https://www.youtube.com/watch?v=UHm_-qgAtyg",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/UHm_-qgAtyg/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/UHm_-qgAtyg/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/UHm_-qgAtyg/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.28",
-            "3.30"
-          ],
-          "author": "Path of Evening",
-          "pin": false,
-          "skip": false
-        },
-        {
           "title": "Bleed Bow League Starter",
           "url": "https://maxroll.gg/poe/planner/ydnjwr0t",
           "video": "https://www.youtube.com/watch?v=hhajlbVuwws",
@@ -1137,22 +1120,6 @@
             "480w": "https://i.ytimg.com/vi/vq-ui0FGZxE/hqdefault.jpg",
             "640w": "https://i.ytimg.com/vi/vq-ui0FGZxE/sddefault.jpg",
             "1280w": "https://i.ytimg.com/vi/vq-ui0FGZxE/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.29"
-          ],
-          "author": "Zizaran",
-          "pin": false,
-          "skip": false
-        },
-        {
-          "title": "Explosive Arrow Champion",
-          "url": "https://www.youtube.com/watch?v=bD7Bt0UmVlo",
-          "video": "https://www.youtube.com/watch?v=bD7Bt0UmVlo",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/bD7Bt0UmVlo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/bD7Bt0UmVlo/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/bD7Bt0UmVlo/maxresdefault.jpg"
           },
           "versions": [
             "3.29"

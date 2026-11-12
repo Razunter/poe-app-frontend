@@ -84,6 +84,7 @@ if (version.url) {
       (version.wip || version.note) && (
         <div class="subtitle">
           {version.wip && 'Work in Progress!'}
+          {version.wip && version.note && ' '}
           {version.note}
         </div>
       )

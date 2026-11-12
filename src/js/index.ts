@@ -2,18 +2,31 @@
 import scrollSpy from 'simple-scrollspy/src/index'
 
 const domain = 'raz-poebuilds.netlify.app'
+const process = () => {
+  type YouTubePreview = HTMLElement & {
+    getYTPlayer: () => Promise<{ pauseVideo: () => void } | undefined>
+  }
 
-const pauseVideos = (clickedVideo: HTMLIFrameElement | null) => {
-  const videos = document.querySelectorAll<HTMLIFrameElement>('lite-youtube iframe')
+  let selectedVideo: HTMLElement | null = null
 
-  for (const video of videos) {
-    if (video !== clickedVideo) {
-      video.contentWindow?.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*')
+  const pauseVideos = async (target: YouTubePreview) => {
+    selectedVideo = target
+
+    const clickedVideo = target.querySelector('iframe')
+    const videos = document.querySelectorAll<HTMLIFrameElement>('lite-youtube iframe')
+
+    for (const video of videos) {
+      if (video !== clickedVideo) {
+        video.contentWindow?.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*')
+      }
+    }
+
+    const player = await target.getYTPlayer()
+    if (target !== selectedVideo) {
+      player?.pauseVideo()
     }
   }
-}
 
-const process = () => {
   // NAV
   scrollSpy('.mainnav ul', {
     offset: 100,
@@ -23,13 +36,12 @@ const process = () => {
   document.addEventListener(
     'click',
     (event) => {
-      const target = (event.target as HTMLElement).closest('lite-youtube')
+      const target = (event.target as HTMLElement).closest<YouTubePreview>('lite-youtube')
       if (!target) {
         return
       }
 
-      const iframe = target.querySelector('iframe')
-      pauseVideos(iframe)
+      void pauseVideos(target)
     },
     { passive: true },
   )

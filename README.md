@@ -20,9 +20,11 @@ The tool used to edit the collection lives in a separate repository: [poe-app](h
 
 ## Checks
 
-Run `bun test tests/filterVersionData.test.ts` to check league compatibility, skipped builds, and empty categories.
+Run `bun test tests/filterVersionData.test.ts tests/youtubePlayback.test.ts` to check league compatibility, skipped builds, empty categories, and delayed YouTube playback.
 Run `bun --bun run build` to build current and archived pages.
 When changing video handling, check mouse and keyboard activation in the browser. Starting a YouTube preview must send pause commands to other previews.
+
+Bun applies `patches/lite-youtube-embed@0.3.4.patch` during installation. The patch shares API readiness across previews and exposes pending player promises without upgrading the dependency.
 
 ## License
 

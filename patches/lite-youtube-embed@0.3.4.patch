@@ -1,0 +1,69 @@
+diff --git a/src/lite-yt-embed.js b/src/lite-yt-embed.js
+index ec4b6137c412ea7a4daefbcbde7ea9813cc0f9ba..4344c240d4fb251148161263bb90aef364d3f903 100644
+--- a/src/lite-yt-embed.js
++++ b/src/lite-yt-embed.js
+@@ -115,18 +115,24 @@ class LiteYTEmbed extends HTMLElement {
+     }
+ 
+     fetchYTPlayerApi() {
+-        if (window.YT || (window.YT && window.YT.Player)) return;
+-
+-        this.ytApiPromise = new Promise((res, rej) => {
+-            var el = document.createElement('script');
+-            el.src = 'https://www.youtube.com/iframe_api';
+-            el.async = true;
+-            el.onload = _ => {
+-                YT.ready(res);
+-            };
+-            el.onerror = rej;
+-            this.append(el);
+-        });
++        if (!LiteYTEmbed.ytApiPromise) {
++            LiteYTEmbed.ytApiPromise = new Promise((res, rej) => {
++                if (window.YT) {
++                    YT.ready(res);
++                    return;
++                }
++
++                var el = document.createElement('script');
++                el.src = 'https://www.youtube.com/iframe_api';
++                el.async = true;
++                el.onload = _ => {
++                    YT.ready(res);
++                };
++                el.onerror = rej;
++                this.append(el);
++            });
++        }
++        return LiteYTEmbed.ytApiPromise;
+     }
+ 
+     /** Return the YT Player API instance. (Public L-YT-E API) */
+@@ -139,15 +145,14 @@ class LiteYTEmbed extends HTMLElement {
+     }
+ 
+     async addYTPlayerIframe() {
+-        this.fetchYTPlayerApi();
+-        await this.ytApiPromise;
++        await this.fetchYTPlayerApi();
+ 
+         const videoPlaceholderEl = document.createElement('div')
+         this.append(videoPlaceholderEl);
+ 
+         const paramsObj = Object.fromEntries(this.getParams().entries());
+ 
+-        this.playerPromise = new Promise(resolve => {
++        return new Promise(resolve => {
+             let player = new YT.Player(videoPlaceholderEl, {
+                 width: '100%',
+                 videoId: this.videoId,
+@@ -183,7 +188,8 @@ class LiteYTEmbed extends HTMLElement {
+         this.classList.add('lyt-activated');
+ 
+         if (this.needsYTApi) {
+-            return this.addYTPlayerIframe(this.getParams());
++            this.playerPromise = this.addYTPlayerIframe();
++            return this.playerPromise;
+         }
+ 
+         const iframeEl = this.createBasicIframe();

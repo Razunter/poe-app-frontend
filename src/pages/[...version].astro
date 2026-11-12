@@ -1,12 +1,13 @@
 ---
 import Layout from '@layouts/Layout.astro'
+import { parseCollection } from '@src/collectionIdentity.ts'
 import BuildList from '@src/components/BuildList.astro'
 import FooterNav from '@src/components/FooterNav.astro'
 import SvgIconLink from '@src/components/SvgIconLink.astro'
 import sprite from '@src/components/svgsprite'
 import versionsData from '@src/data/versions.json'
 import { filterVersionData } from '@src/filterVersionData.ts'
-import { type VersionDataType, type VersionType } from '@src/types.ts'
+import { type VersionType } from '@src/types.ts'
 import { type GetStaticPathsItem } from 'astro'
 
 // eslint-disable-next-line func-style
@@ -34,7 +35,9 @@ const thisVersionNumber = version.version
 const title = `Path of Exile ${thisVersionNumber} «${version.name}» starter builds collection (Razunter's picks)`
 const description = `Quick preview of starter builds for Path of Exile v${thisVersionNumber} ${version.name}, collected by Razunter`
 const reformattedVersionNumber = thisVersionNumber.replaceAll('.', '-')
-const data = filterVersionData((await import(`../data/data-${reformattedVersionNumber}.json`)) as VersionDataType, version)
+const collectionFile = `../data/data-${reformattedVersionNumber}.json`
+const collectionModule = await import(`../data/data-${reformattedVersionNumber}.json`)
+const data = filterVersionData(parseCollection(collectionModule.default, collectionFile), version)
 const currentTypes = Object.entries(data.types)
 const priorityType = currentTypes.find(([typekey]) => {
   return data.buildList.find((collection) => {

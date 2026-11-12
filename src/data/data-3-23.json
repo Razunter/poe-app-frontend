@@ -27,7 +27,8 @@
           ],
           "author": "corosou",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "41f8e269-c668-45d1-b592-cdffa4753ba2"
         },
         {
           "title": "The Warbringer Slaming Serker",
@@ -52,7 +53,8 @@
           ],
           "author": "frawrst",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "621fd52f-fdbf-4525-8118-867086018bd0"
         },
         {
           "title": "Versatile Combatant Impale Shield Crush Slayer",
@@ -73,7 +75,8 @@
           ],
           "author": "OMFGaTaco",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "cc92dd54-22b8-4961-8e7f-b5cd1e224dc6"
         },
         {
           "title": "BEST Melee Build Boneshatter Slayer",
@@ -91,7 +94,8 @@
           ],
           "author": "Tripolar Bear",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "6c51162c-65d1-44bc-85f4-1cf42f175536"
         },
         {
           "title": "The FASTEST leaguestarter got STRONGER?! - Boneshatter Slayer ft. @CARNDARAK",
@@ -107,7 +111,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "5b14f59a-2182-4d31-b74c-3812f644ae65"
         },
         {
           "title": "My BUFFED League Starter for 3.23 Affliction League! (Cobra Lash Deadeye)",
@@ -123,7 +128,8 @@
           ],
           "author": "aer0",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9b496d79-28e9-4be6-ab45-014853333ed6"
         },
         {
           "title": "Cobra Lash League Start BUFFED!",
@@ -139,7 +145,8 @@
           ],
           "author": "aer0",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "f2850528-0823-418b-aca9-fc4f8350f2b2"
         },
         {
           "title": "Frost Blades Trickster",
@@ -155,7 +162,8 @@
           ],
           "author": "Behind Eyes Gaming",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c3269272-a13e-4611-8073-b7fde96924e0"
         },
         {
           "title": "(untested) DEFINITELY NOT A BAIT BUILD! Glacial Hammer Trauma... thing?",
@@ -171,7 +179,8 @@
           ],
           "author": "Goratha",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "98ec7b32-3d98-4529-9a8c-d820aa831ad1"
         },
         {
           "title": "The ULTIMATE Strike Skill Bait! - Glacial Hammer Juggernaut ft. @Goratha",
@@ -187,7 +196,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "09de90a7-3bea-456e-bcf8-8aded7eaef05"
         },
         {
           "title": "Boneshatter Slayer Guide",
@@ -204,7 +214,8 @@
           ],
           "author": "Carn",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "8e0c449a-38e8-4aec-9b26-f19c6382560d"
         },
         {
           "title": "Shockwave Cyclone Build (League Starter) | Champion",
@@ -218,7 +229,8 @@
             "3.19",
             "3.20"
           ],
-          "author": "wishdropper"
+          "author": "wishdropper",
+          "id": "a8bbf400-c696-4909-a362-30a24f387c8a"
         },
         {
           "title": "Consecrated Path Chieftan",
@@ -232,7 +244,8 @@
           "versions": [
             "3.20"
           ],
-          "author": "Eliteish"
+          "author": "Eliteish",
+          "id": "737097fd-a4d3-46dd-9c39-e2eced0929b5"
         },
         {
           "title": "Frost Blades Berserker",
@@ -246,7 +259,8 @@
           "versions": [
             "3.19"
           ],
-          "author": ""
+          "author": "",
+          "id": "887d3742-d335-47cd-8271-188f1b36cfdc"
         }
       ]
     },
@@ -267,7 +281,8 @@
           ],
           "author": "Atollo",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "7eefe1a6-b12b-457b-9e78-f19eece1f23b"
         },
         {
           "title": "Cold Conversion Blade Vortex Elementalist / Occultist",
@@ -286,7 +301,8 @@
           ],
           "author": "Chronic_Painless",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "31f6ecdd-dc46-46a3-8640-f29eaa114db6"
         },
         {
           "title": "Storm Brand Inquisitor",
@@ -306,7 +322,8 @@
           ],
           "author": "Velyna",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "fa84d8b8-ab35-4751-befc-723b92fcac50"
         },
         {
           "title": "Corrupting Fever Champion",
@@ -324,7 +341,8 @@
           ],
           "author": "Tripolar Bear",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "3fe000e0-30d0-4585-966d-d76e244e1762"
         },
         {
           "title": "This skill DELETES the early game! - Lightning Conduit Elementalist",
@@ -340,7 +358,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "840edd73-2a01-4fc1-9e88-7d293b04fb47"
         },
         {
           "title": "Energy Blade CoC Inquisitor",
@@ -356,7 +375,8 @@
           ],
           "author": "CaptainLance9",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "2ef89d54-9539-4c9a-b505-52e31eed84cf"
         },
         {
           "title": "Frostblink Ignite League Starter (update)",
@@ -372,7 +392,8 @@
           ],
           "author": "subtractem",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "6865ce04-a7d7-45c8-af02-c898d86d92cc"
         },
         {
           "title": "Vaal Flameblast Ignite (All-Rounder) Elementalist League Start Guide",
@@ -386,7 +407,8 @@
           ],
           "author": "jungroan",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ac19b9cb-10b9-41df-91f1-62e8c5d7028a"
         },
         {
           "title": "Cold DoT Occultist For Everyone",
@@ -410,7 +432,8 @@
           ],
           "author": "ShakCentral",
           "pin": true,
-          "skip": false
+          "skip": false,
+          "id": "e200e783-f7c1-487f-aa9f-5097ba72f846"
         },
         {
           "title": "Impending Doom Pathfinder",
@@ -426,7 +449,8 @@
           ],
           "author": "Crouching_Tuna",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "fcfea175-22aa-4f7c-95f0-c028f3793e4f"
         },
         {
           "title": "Impending Doom Occultist",
@@ -443,7 +467,8 @@
           ],
           "author": "Crouching_Tuna",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "3f0574af-51ca-4813-9ba1-5c9f9927551f"
         },
         {
           "title": "Poison Blade Vortex Occultist",
@@ -460,7 +485,8 @@
           ],
           "author": "Crouching_Tuna",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "40078d70-4839-450a-9a2a-edbf5e1205ba"
         },
         {
           "title": "#1 League Starter Cold DoT Elementalist",
@@ -477,7 +503,8 @@
           ],
           "author": "Tripolar Bear",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "12d59a56-21b7-4765-ac63-8f8c47eaf3e8"
         },
         {
           "title": "Blade Vortex",
@@ -493,7 +520,8 @@
           ],
           "author": "Chronic_Painless",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "07aeedf3-1a35-46d9-862a-07ec0943a29c"
         },
         {
           "title": "Goratha's SPARK Inquisitor",
@@ -510,7 +538,8 @@
           ],
           "author": "Goratha",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9d4ed4f5-57da-4a2b-bae9-ddbadbea0217"
         },
         {
           "title": "The BEST CHAOS DEGEN leaguestarter! - Impending Doom Pathfinder ft. @CrouchingTuna",
@@ -526,7 +555,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "2e93c782-55ca-4c84-a465-3075db5a36b4"
         },
         {
           "title": "The COOLEST All-Rounder Spellcaster Leaguestarter! - Cold DoT Hierophant",
@@ -542,7 +572,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "43281f93-a6a0-4b24-8b4b-8832e8cf91b1"
         },
         {
           "title": "Trickster Spark (not beginner friendly)",
@@ -558,7 +589,8 @@
           ],
           "author": "anime princess",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "b62712d8-f37e-49b2-aaed-031cb73e84f3"
         },
         {
           "title": "Impending Doom Pathfinder",
@@ -573,7 +605,8 @@
           ],
           "author": "Void241",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "6d6bffa9-ef9c-476a-9d34-c940595b41e9"
         },
         {
           "title": "Hydrosphere Occultist Build Guide",
@@ -587,7 +620,8 @@
           "versions": [
             "3.20"
           ],
-          "author": "aer0"
+          "author": "aer0",
+          "id": "02e97e48-4018-454e-840b-9452305bbdea"
         },
         {
           "title": "Bane Occultist League Starter",
@@ -601,7 +635,8 @@
           "versions": [
             "3.20"
           ],
-          "author": "subtractem"
+          "author": "subtractem",
+          "id": "a3309f68-f064-4da4-80b5-d07cf2a55189"
         },
         {
           "title": "Self Cast Ice Nova Build",
@@ -614,7 +649,8 @@
             "3.18",
             "3.19"
           ],
-          "author": "wishdropper"
+          "author": "wishdropper",
+          "id": "397dad7c-71dc-4084-9166-2d8ca5585b3c"
         },
         {
           "title": "CantripN's Hadoken! - Lightning Conduit / Crackling Lance / Arc Permafreeze",
@@ -628,7 +664,8 @@
           ],
           "author": "CantripN",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "04c7d7f5-fa72-4288-b04a-c09719ae9a03"
         },
         {
           "title": "HC SSF Forbidden Rite Pathfinder League Starter",
@@ -638,7 +675,8 @@
           ],
           "author": "u/Blazefire878",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "360f6eeb-519c-4d90-b9fa-10d31a129cb3"
         },
         {
           "title": "Wave of Conviction | Elementalist",
@@ -649,7 +687,8 @@
           ],
           "author": "TheMehmetBozlak",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "a669ab74-5d6e-42ef-9cd0-823cdfb84c20"
         }
       ]
     },
@@ -670,7 +709,8 @@
           ],
           "author": "Crouching_Tuna",
           "pin": true,
-          "skip": false
+          "skip": false,
+          "id": "87834301-ecef-4812-8939-f12a7d09838b"
         },
         {
           "title": "Rain of Arrows Raider",
@@ -688,7 +728,8 @@
           ],
           "author": "Fuzzy Duckzy",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "d3878bf2-6b41-4962-a25f-b3e80af84416"
         },
         {
           "title": "Scourge Arrow Poison Prolif Pathfinder - Fast, fun to play",
@@ -713,7 +754,8 @@
           ],
           "author": "thedeathbeam",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "a0fa3485-1221-4235-ad60-2a41d5337a11"
         },
         {
           "title": "The FASTEST build for BLASTERS! - Lightning Arrow Deadeye ft @havoc616",
@@ -729,7 +771,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c4e4f496-d9ea-4ac7-8343-230cea020262"
         },
         {
           "title": "Another EXCELLENT Leaguestarter that got BUFFED! - Toxic Rain Pathfinder",
@@ -745,7 +788,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "22a713f0-548c-45dd-ad5d-b8445354adc4"
         },
         {
           "title": "This new POISON TECH is SO BUSTED! - Poison Caustic Arrow Pathfinder ft. @Goratha",
@@ -761,7 +805,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "f93c8d3a-c969-4231-adfd-978a7ef3ab0b"
         },
         {
           "title": "Bergerbrush's Beginner Friendly Toxic Rain Raider",
@@ -777,7 +822,8 @@
           ],
           "author": "BergerBrush",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "459aa724-220f-4cf1-82dc-f5cf206a2546"
         },
         {
           "title": "Rain of Arrows Raider",
@@ -794,7 +840,8 @@
           ],
           "author": "Fuzzy Duckzy",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9f73c750-31ab-4c66-93c5-652ff351359d"
         },
         {
           "title": "Bleed Bow Champ/Glad - Too Much Fun!!! - All Content Viable",
@@ -811,7 +858,8 @@
           ],
           "author": "Mr9Lives",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ef9a0606-fefb-47ad-8808-1c9ea9fd8cab"
         },
         {
           "title": "Ice Shot and CHILL - Smooth and Fun League Starter",
@@ -827,7 +875,8 @@
           ],
           "author": "aer0",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "7ff8a315-36c5-4492-a62b-ef50fc79127c"
         },
         {
           "title": "Champion Lightning Arrow League Starter",
@@ -843,7 +892,8 @@
           ],
           "author": "Goratha",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "b5e51ce8-a6ff-40b9-8f06-bd3dd87f780d"
         },
         {
           "title": "Poison Tornado Shot",
@@ -858,7 +908,8 @@
           ],
           "author": "SnooBAE85",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "bd2c1617-9c9b-4986-b48c-d5072510a738"
         },
         {
           "title": "Poisonous Concoction Pathfinder - FULL GUIDE (and my league starter)",
@@ -873,7 +924,8 @@
           ],
           "author": "SnooBAE85",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "27fe12fd-9279-46ce-81ab-6072284188ea"
         },
         {
           "title": "SST Bleed Gladiator",
@@ -887,7 +939,8 @@
           "versions": [
             "3.20"
           ],
-          "author": "The British Exile"
+          "author": "The British Exile",
+          "id": "100f8035-7836-4134-87f3-d2b01d0b0329"
         },
         {
           "title": "Toxic Rain Champion - Step-by-Step PoE Build Guide for Beginners & Casuals",
@@ -903,7 +956,8 @@
           ],
           "author": "fezz8386",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "0e483730-6ddf-4359-84e6-6d9dd6e55890"
         }
       ]
     },
@@ -928,7 +982,8 @@
           ],
           "author": "",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "5f6b5963-b99d-4000-81f5-6b919e66c659"
         },
         {
           "title": "Toxic Rain Ballista Pathfinder",
@@ -946,7 +1001,8 @@
           ],
           "author": "Palsteron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "7e90788f-15c9-4251-a286-3736e2b6dbd8"
         },
         {
           "title": "Explosive Arrow Ballista Elementalist",
@@ -964,7 +1020,8 @@
           ],
           "author": "Palsteron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "acc669c0-fc97-4b7c-b96a-c1e62d847bcb"
         },
         {
           "title": "This is STILL MY FAVOURITE Leaguestarter for new players! - Explosive Arrow Champion",
@@ -980,7 +1037,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "2f747915-be0d-4a31-8a70-740e339fe986"
         },
         {
           "title": "This BUSTED BUILD is back! - Toxic Rain & Poison Artillery Ballista Pathfinder",
@@ -996,7 +1054,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "a51e4d12-84d2-4b98-9d8c-a17496a9effb"
         },
         {
           "title": "Caustic Arrow Poison Ballista - My Leaguestarter",
@@ -1012,7 +1071,8 @@
           ],
           "author": "Palsteron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ba62c433-9f58-4dfc-a429-2635215f9dd0"
         },
         {
           "title": "Storm Burst Totems - Cheap League Starter SSF/HC Viable - Clears All Content",
@@ -1028,7 +1088,8 @@
           ],
           "author": "Tatiantel2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "3c3c5a5e-16c2-464e-ac4d-4b2b71d7a85a"
         },
         {
           "title": "Divine Ire Totems Guide with Leveling Guide - new Transfigured Gem is Extremely Powerful!",
@@ -1044,7 +1105,8 @@
           ],
           "author": "Tatiantel2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "082465fc-969e-496a-a1d8-c20bd5fa47a6"
         },
         {
           "title": "Lightning Arrow League Start Build",
@@ -1061,7 +1123,8 @@
           ],
           "author": "Grimro",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "0ec0ad20-d401-4255-8f1b-7c6cef89f094"
         },
         {
           "title": "Artillery Ballista Raider Guide",
@@ -1078,7 +1141,8 @@
           ],
           "author": "The British Exile",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "081621b5-b388-4e47-b9dd-171b4004fac1"
         },
         {
           "title": "Holy Flame Totem Build",
@@ -1095,7 +1159,8 @@
           ],
           "author": "TheMehmetBozlak",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "4afae90b-060e-4e74-818f-ded9046ea641"
         },
         {
           "title": "Artillery Ballista Raider Build Guide",
@@ -1109,7 +1174,8 @@
           "versions": [
             "3.20"
           ],
-          "author": "Fyregrass"
+          "author": "Fyregrass",
+          "id": "f1b46d39-8a6b-4d90-9dd5-e6ed0a3ac4df"
         },
         {
           "title": "Grim's Lightning Arrow Artillery Ballista",
@@ -1123,7 +1189,8 @@
           "versions": [
             "3.20"
           ],
-          "author": "Grimro"
+          "author": "Grimro",
+          "id": "59424f1e-ffa2-490a-9f01-a0a86a3e5f09"
         },
         {
           "title": "Bergerbrush's Budget & Beginner Divine Ire Totem Hierophant",
@@ -1137,7 +1204,8 @@
             "3.16"
           ],
           "author": "",
-          "skip": true
+          "skip": true,
+          "id": "fdba2c5c-5b92-4038-9d19-280497176f83"
         },
         {
           "title": "Holy Flame Totem Scion",
@@ -1153,7 +1221,8 @@
           ],
           "author": "gui_orioli",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "b746f7f4-b993-48e9-8850-bdfa3b4ca20d"
         }
       ]
     },
@@ -1176,7 +1245,8 @@
           ],
           "author": "Pohx",
           "pin": true,
-          "skip": false
+          "skip": false,
+          "id": "810c1d61-7ac5-47a4-80a1-5b3fc2b89c5a"
         },
         {
           "title": "Megachonk RF Jugg | Ultra Tanky + Endgame Viable + Very good starter",
@@ -1197,7 +1267,8 @@
           ],
           "author": "devon752",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "f34559d1-c98d-4d98-ad0c-651307936083"
         },
         {
           "title": "Just play this build already. - Righteous Fire Inquisitor by @PohxKappa",
@@ -1213,7 +1284,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9257e2db-f997-4d29-82ed-a44b1ac8931d"
         }
       ]
     },
@@ -1234,7 +1306,8 @@
           ],
           "author": "99prosorc",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "4802164f-c65c-44a9-87c6-f676193f1060"
         },
         {
           "title": "Hexblast Mines Saboteur",
@@ -1250,7 +1323,8 @@
           ],
           "author": "Palsteron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "93fbcac5-7169-433d-a167-2c40b3ee0d99"
         },
         {
           "title": "BLOW BOSSES UP on a budget! - Explosive Trap Trickster",
@@ -1266,7 +1340,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "6696190d-de9c-4f1f-a381-89872e94e2f2"
         },
         {
           "title": "My League Starter: Exsang Mines",
@@ -1282,7 +1357,8 @@
           ],
           "author": "Crouching_Tuna",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "eaa307b5-97d9-42fb-bb16-5fb09f027ded"
         },
         {
           "title": "BLOW UP Bosses with this build!! - @Palsteron 's Hexblast Mines",
@@ -1298,7 +1374,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "33d47bec-7a17-4cde-81f7-75685239724e"
         },
         {
           "title": "Hexblast Mines - My 3.22 Leaguestarter",
@@ -1314,7 +1391,8 @@
           ],
           "author": "Palsteron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "07b54ad5-dd94-4308-b540-46db04e8cd69"
         },
         {
           "title": "Blazing Salvo Mines Saboteur",
@@ -1331,7 +1409,8 @@
             "3.18",
             "3.19"
           ],
-          "author": "Qosmoz"
+          "author": "Qosmoz",
+          "id": "4ea322be-fadc-49ff-8199-678120fdf8ff"
         }
       ]
     },
@@ -1358,7 +1437,8 @@
           ],
           "author": "Fire_Archer",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "1f7e5936-3cb6-4d5b-96a6-0ff1eb5e70aa"
         },
         {
           "title": "Poison Animate Weapon Necromancer",
@@ -1383,7 +1463,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "669ebf13-eb99-439c-8d3a-d4f5008c696d"
         },
         {
           "title": "Tanky minion league starter - SRS Necromancer",
@@ -1408,7 +1489,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "2bd3253d-c969-4d8b-82f6-788c220e6b7f"
         },
         {
           "title": "Dark Pact Necromancer",
@@ -1433,7 +1515,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "33cc444f-c8cc-4e53-a24f-16dea415583b"
         },
         {
           "title": "Absolution Necromancer",
@@ -1453,7 +1536,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "4734a655-e231-4986-9271-9709fe06d46c"
         },
         {
           "title": "CHEAPEST STARTER EVER! - Dominating Blow Necromancer",
@@ -1478,7 +1562,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "fe886da3-7e81-48de-8ec0-aaf38d34a7b8"
         },
         {
           "title": "SRS Bomber | League Start to Endgame | All Content",
@@ -1503,7 +1588,8 @@
           ],
           "author": "Weo_",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "10698592-6a60-4006-b749-070265588249"
         },
         {
           "title": "I'm Leaguestarting THIS! - Falling Zombies Guardian",
@@ -1519,7 +1605,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "5879a611-129e-45f7-97b3-14a5883242d3"
         },
         {
           "title": "Poison SRS Necromancer UPDATE For PoE 3.23",
@@ -1535,7 +1622,8 @@
           ],
           "author": "BalorMage",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "25d10875-8896-49aa-baaf-9bcc951f4a47"
         },
         {
           "title": "One of the FASTEST and SAFEST League Start Builds - Summon Raging Spirit Guardian",
@@ -1551,7 +1639,8 @@
           ],
           "author": "Big Ducks",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c36f90cc-68ff-40e0-9ed5-a291cc972f7e"
         },
         {
           "title": "Animate Weapon With BOWS?!",
@@ -1567,7 +1656,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "3979f9f0-8dc0-404b-ab08-5dcc50c5b24c"
         },
         {
           "title": "RANGED Animate Weapon Necromancer",
@@ -1583,7 +1673,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "eca8cf37-1396-45ca-a0a7-f55fe238b443"
         },
         {
           "title": "Summon Raging Spirit Guardian League Start Guide",
@@ -1599,7 +1690,8 @@
           ],
           "author": "subtractem",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "7b566a90-c635-40e9-b298-9624761bace9"
         },
         {
           "title": "Super solid league starter - Physical Carrion Golems",
@@ -1623,7 +1715,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e5e665c6-f7ed-4852-b121-a52f2de0bdd5"
         },
         {
           "title": "Poison SRS",
@@ -1640,7 +1733,8 @@
           ],
           "author": "BalorMage",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "fed7e3f9-e18f-4d5e-ae34-50fd791c4827"
         },
         {
           "title": "MAGE SKELLIES ARE BACK!! - Mage Skeleton Necro Build Guide",
@@ -1656,7 +1750,8 @@
           ],
           "author": "GhazzyTV",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "34c09e2a-788b-446c-9276-e380abe1cea6"
         },
         {
           "title": "Velyna's HoAG Storm Rain | Cheap and Easy Leaguestarter",
@@ -1671,7 +1766,8 @@
             "3.19",
             "3.20"
           ],
-          "author": "Velyna"
+          "author": "Velyna",
+          "id": "fdb13e59-a85e-49f8-844e-8135fc9416a1"
         },
         {
           "title": "Skeleton Mage Necromancer",
@@ -1685,7 +1781,8 @@
           "versions": [
             "3.17"
           ],
-          "author": "Navandis Gaming"
+          "author": "Navandis Gaming",
+          "id": "d76b6024-36fd-474e-b9d9-453b02fbe4e0"
         },
         {
           "title": "Summon Homing Missiles (SRS) Necromancer",
@@ -1698,7 +1795,8 @@
           ],
           "author": "ACGIFT",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "18e76ecb-ba5b-48f0-a2ca-1f072199c624"
         }
       ]
     },
@@ -1719,7 +1817,8 @@
           ],
           "author": "Big Ducks",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "f6df3f22-5c18-432a-834d-15773f392e0f"
         },
         {
           "title": "My Top 7 Leaguestarters for Path of Exile Affliction",
@@ -1735,7 +1834,8 @@
           ],
           "author": "Palsteron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e6faa12c-ef81-46d8-85d7-c3f6c81b67d4"
         },
         {
           "title": "Nobody Knows the Top Affliction Starter Builds, here are my picks.",
@@ -1751,7 +1851,8 @@
           ],
           "author": "Tenkiei",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "8f002fab-d5d6-4415-a1a5-93507c9e3f55"
         },
         {
           "title": "How to pick a League Starter for YOU",
@@ -1767,7 +1868,8 @@
           ],
           "author": "aer0",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "1fa44aa7-067a-4581-921b-8495ea154152"
         },
         {
           "title": "My Top 10 Leaguestarters for 3.22 Ancestors League",
@@ -1783,7 +1885,8 @@
           ],
           "author": "Palsteron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c876ee4b-ba40-4b32-84c5-a9459f17dcd5"
         },
         {
           "title": "3.22: Which 3.21 Successful League Starters Will Still Do Well?",
@@ -1799,7 +1902,8 @@
           ],
           "author": "sirgog",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "98526870-c71a-45a9-83e9-897170ffd326"
         },
         {
           "title": "What's the Best Off-Meta Starter Build? (In My Opinion)",
@@ -1815,7 +1919,8 @@
           ],
           "author": "Tenkiei",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "a92851f0-c522-4bae-8ad9-7545154f9e51"
         },
         {
           "title": "POE 3.21 League Start Build Ideas - My Picks",
@@ -1831,7 +1936,8 @@
           ],
           "author": "sirgog",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "494c159d-9ed7-413f-b693-09280f7f9fba"
         },
         {
           "title": "3.23 Affliction League Start Build Index",
@@ -1841,7 +1947,8 @@
           ],
           "author": "u/NzLawless",
           "pin": true,
-          "skip": false
+          "skip": false,
+          "id": "6c6f2cad-728c-4112-9575-e6ece58fdc62"
         },
         {
           "title": "3.22 Trial of the Ancestors League Start Build Index",
@@ -1851,7 +1958,8 @@
           ],
           "author": "u/NzLawless",
           "pin": true,
-          "skip": false
+          "skip": false,
+          "id": "0dce6127-84e6-4eb5-a480-56f49599b4e8"
         },
         {
           "title": "3.21 League Start Flow Chart",
@@ -1861,7 +1969,8 @@
           ],
           "author": "u/MrMeltJr",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ddc66a25-3b95-4709-91f9-796a5a1001ab"
         }
       ]
     }

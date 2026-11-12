@@ -36,3 +36,5 @@ STRATEGY.md
 .beads-credential-key
 .beads/proxieddb/
 *.gate.lock*
+
+.identity-migration/

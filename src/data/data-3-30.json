@@ -18,7 +18,8 @@
           ],
           "author": "Fuzzy Duckzy Gaming",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9c5c1009-6946-46fc-afc3-2d197db44219"
         },
         {
           "title": "Cyclone Shockwave Slayer",
@@ -34,7 +35,8 @@
           ],
           "author": "Sanavixx",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9960f422-4bc3-4572-b23f-45cc5d23a901"
         },
         {
           "title": "Hybrid Crit Dominating Blow of Inspiring Guardian",
@@ -51,7 +53,8 @@
           ],
           "author": "ArminYou",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "a708de60-81db-43cd-afc4-cd94064f3021"
         },
         {
           "title": "Lacerate of Haemorrhage Gladiator",
@@ -66,7 +69,8 @@
           ],
           "author": "limit_break_overdrive",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c556d701-4dd3-40e7-aec0-559185e949a7"
         },
         {
           "title": "Perforate Jugg League Starter Build Guide - 3.30 Covens of Umbra",
@@ -79,7 +83,8 @@
           "versions": [
             "3.30"
           ],
-          "author": "limit_break_overdrive"
+          "author": "limit_break_overdrive",
+          "id": "9005b344-c838-48aa-b778-e99f13c66f2c"
         },
         {
           "title": "Flicker Strike",
@@ -96,7 +101,8 @@
           ],
           "author": "Magefist",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "b88f783d-3058-4409-8bfa-ed98c88d11d0"
         },
         {
           "title": "Boneshatter of Complex Trauma Juggernaut",
@@ -113,7 +119,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "8b749c1a-4190-4247-9776-787aeb6f0015"
         },
         {
           "title": "Void Shockwave Cyclone Slayer",
@@ -129,7 +136,8 @@
           ],
           "author": "Big Ducks",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "6985dcc7-4399-466c-9cff-305caf01a9d0"
         },
         {
           "title": "Eviscerate Bleed Gladiator",
@@ -146,7 +154,8 @@
           ],
           "author": "Goratha",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "37c00fcb-9154-4983-8cf4-16f51bc5d36b"
         },
         {
           "title": "Bleed Slams Slayer — Perforate of Bloodshed & Hydrosphere Edition",
@@ -163,7 +172,8 @@
           ],
           "author": "PhazePlays",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "42a68b55-93ac-43e7-9a77-5ce8bb8c8e5a"
         },
         {
           "title": "Void Shockwave Cyclone Slayer",
@@ -180,7 +190,8 @@
           ],
           "author": "ronarray",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "74c17646-8dd3-42f1-a57a-5c48171e41c5"
         },
         {
           "title": "Spineshatter Champion",
@@ -196,7 +207,8 @@
           ],
           "author": "Woolie",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "8cdbcd5a-3189-461a-98c1-b39fd3099292"
         },
         {
           "title": "Earthquake Gladiator",
@@ -212,7 +224,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9ba5468a-14fd-4f4b-817e-d426f2849863"
         },
         {
           "title": "Static Strike Void Shockwave Berserker",
@@ -228,7 +241,8 @@
           ],
           "author": "Alohaa",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "d116e40e-0802-4718-bbe8-2bf4d23087ab"
         },
         {
           "title": "Static Strike Slayer",
@@ -244,7 +258,8 @@
           ],
           "author": "Alohaa",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "5b884918-769a-4949-ad67-8f34065b2f85"
         },
         {
           "title": "Ice Crash Ignite Chieftain",
@@ -260,7 +275,8 @@
           ],
           "author": "Crouching Tuna",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "fec26ce9-4b70-4259-8f0d-49bcba4e4f5f"
         },
         {
           "title": "Shield Crush Berserker",
@@ -276,7 +292,8 @@
           ],
           "author": "Exiled Cat",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c79a2382-b9de-4ec6-8c91-618381467c48"
         },
         {
           "title": "Venom Gyre Deadeye",
@@ -292,7 +309,8 @@
           ],
           "author": "Kankar",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "5225026a-f720-432f-be49-4e6c7d06240b"
         },
         {
           "title": "Heavy Kinetic Blast (and Zenith)",
@@ -308,7 +326,8 @@
           ],
           "author": "onemanaleft",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e7653a1e-c308-4bca-8ccc-48eb17d1506c"
         },
         {
           "title": "SSF Boneshatter Hydrosphere Berserker",
@@ -323,7 +342,8 @@
           ],
           "author": "smokie_777",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "565e4680-cb3f-4a5c-b123-104b17ac2d7f"
         },
         {
           "title": "Dance with Death Energy Blade Juggernaut",
@@ -339,7 +359,8 @@
           ],
           "author": "Alohaa",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "badaeb82-b174-4272-84b3-6eb5df9bb2a4"
         },
         {
           "title": "Energy Blade Inquisitor",
@@ -355,7 +376,8 @@
           ],
           "author": "CaptainLance9",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "33b3f5da-b382-4166-91ae-5e6a18a5fd9e"
         },
         {
           "title": "Earthshatter Berserker",
@@ -371,7 +393,8 @@
           ],
           "author": "everseen",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "cdb7a061-c828-426f-bd49-0ada8b595bf9"
         },
         {
           "title": "Holy Hammers Berserker",
@@ -387,7 +410,8 @@
           ],
           "author": "Peuget2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "93ba493f-eb7a-4349-9665-5ea769f90913"
         },
         {
           "title": "Elemental Hit Slayer",
@@ -403,7 +427,8 @@
           ],
           "author": "Ruetoo",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "a8ef6553-7607-4759-b87d-1b02ba840fc1"
         },
         {
           "title": "The new BEST Slam in PoE? - Holy Hammers",
@@ -419,7 +444,8 @@
           ],
           "author": "Woolie",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "798a9e0e-0c05-428f-b5c2-0361ba8c3f78"
         }
       ]
     },
@@ -441,7 +467,8 @@
           ],
           "author": "aer0",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9585d6a6-3a55-4581-8ac0-5f789e8b06e1"
         },
         {
           "title": "Tornado Of Elemental Turbulence Inquisitor",
@@ -458,7 +485,8 @@
           ],
           "author": "BalorMage",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "8b653ce7-ec6c-4149-9556-3016cdab2f3c"
         },
         {
           "title": "Vaal Ice Nova of Frostbolts Occultist",
@@ -474,7 +502,8 @@
           ],
           "author": "CamaroniNCheez",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "54698db4-0211-4daa-94b7-0cd4b020a1f9"
         },
         {
           "title": "Penance Brand Ignite Elementalist",
@@ -491,7 +520,8 @@
           ],
           "author": "Goratha",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e0b09fe1-a1ca-4f30-9a33-42b1f3e330a4"
         },
         {
           "title": "Essence Drain Contagion",
@@ -508,7 +538,8 @@
           ],
           "author": "Goratha",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "1fd153ed-495c-413e-bd60-49ba6acc6d47"
         },
         {
           "title": "Lightning Tendrils Elementalist",
@@ -522,7 +553,8 @@
           "versions": [
             "3.30"
           ],
-          "author": "Peuget2"
+          "author": "Peuget2",
+          "id": "4fd5b3d7-1d14-49e0-b4c3-3b7870aa6b03"
         },
         {
           "title": "Kinetic Blast of Clustering Necromancer",
@@ -539,7 +571,8 @@
           ],
           "author": "Redviles",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ef40123c-2bcf-4abc-ab2c-467a98a666b4"
         },
         {
           "title": "Static Strike Guardian",
@@ -553,7 +586,8 @@
           "versions": [
             "3.30"
           ],
-          "author": "Alohaa"
+          "author": "Alohaa",
+          "id": "db6fe2c3-b46d-4a26-933d-85a56c5facd0"
         },
         {
           "title": "Penance Brand Ignite",
@@ -569,7 +603,8 @@
           ],
           "author": "Anime Princess",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "27754f29-7be6-40a4-8fab-67e2e527c162"
         },
         {
           "title": "Spark Archmage Heirophant",
@@ -586,7 +621,8 @@
           ],
           "author": "Big Ducks",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "1d673a0e-5314-44e0-affe-756393e4f6db"
         },
         {
           "title": "Shock Nova of Procession Archmage Hierophant",
@@ -602,7 +638,8 @@
           ],
           "author": "Goratha",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "198f82b4-8372-4ac6-b6fd-4b9cba438fbe"
         },
         {
           "title": "Winter Orb Elementalist",
@@ -618,7 +655,8 @@
           ],
           "author": "Peuget2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "3f15260b-078f-4121-9022-a48da62073ff"
         },
         {
           "title": "Crackling Lance Elementalist",
@@ -634,7 +672,8 @@
           ],
           "author": "Peuget2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9d4373e6-9627-40a6-8760-11f83ec5364a"
         },
         {
           "title": "Creeping Frost & Winter Orb Elementalist",
@@ -650,7 +689,8 @@
           ],
           "author": "PhazePlays",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "d2a482c1-d7e9-4dce-b69d-95d3469ea21a"
         },
         {
           "title": "Ignite Ethereal Knives Elementalist",
@@ -666,7 +706,8 @@
           ],
           "author": "ronarray",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e9a348fc-fceb-4a45-83ba-76accec59125"
         },
         {
           "title": "Winter Orb Occultist",
@@ -682,7 +723,8 @@
           ],
           "author": "ronarray",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "57bcdd8f-5c9b-4e72-9404-676373767485"
         },
         {
           "title": "Blade Fall Blade Blast Slinger Assassin",
@@ -698,7 +740,8 @@
           ],
           "author": "Ky",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "f80d7ff5-2480-40ce-99d7-6829788053c2"
         },
         {
           "title": "Wintertide Brand Cold Dot Elementalist",
@@ -714,7 +757,8 @@
           ],
           "author": "Lazy Exile",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "bddbcd04-9fb5-45fe-abc1-2d571fbe9213"
         },
         {
           "title": "Cold DoT Wintertide Brand Elementalist",
@@ -730,7 +774,8 @@
           ],
           "author": "theslinkyshadow",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c2805fc2-b90d-4989-ad83-030e621b5635"
         },
         {
           "title": "Arc Ignite Elementalist",
@@ -746,7 +791,8 @@
           ],
           "author": "BuffaloBaron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "3ba7d696-e937-4ee5-8e51-b4f9a1d571d8"
         },
         {
           "title": "Chaos DoT Occultist",
@@ -762,7 +808,8 @@
           ],
           "author": "Doth",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "2e9f8cfe-344a-4787-b8fe-a763e0125eef"
         },
         {
           "title": "Hexblast ignite Elementalist",
@@ -778,7 +825,8 @@
           ],
           "author": "Paak_HC",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "0f150953-652e-4b86-a9a0-d74d7978da37"
         },
         {
           "title": "Winter Orb Elementalist",
@@ -794,7 +842,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "490c688d-ffec-40fd-a9c7-0d82f854e77d"
         },
         {
           "title": "Glacial Cascade Elementalist",
@@ -810,7 +859,8 @@
           ],
           "author": "CamaroniNCheez",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "4afbed02-163a-4e3f-a0f3-f7fab88bd67a"
         },
         {
           "title": "Winter Orb Elementalist",
@@ -826,7 +876,8 @@
           ],
           "author": "Fubgun",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "905ae8eb-f7c2-45ea-8ff4-1cf0c1bceb74"
         },
         {
           "title": "Blade Blast Assassin | Cold Conversion",
@@ -842,7 +893,8 @@
           ],
           "author": "Telvanni",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "de842626-d06c-404a-9c37-6c24c450cffe"
         },
         {
           "title": "Mana Stacker Spark Hierophant",
@@ -858,7 +910,8 @@
           ],
           "author": "Anime Princess",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ab05c355-ddcf-48cd-94f4-04ccf212b9e6"
         },
         {
           "title": "Kinetic Fusillade Warden",
@@ -874,7 +927,8 @@
           ],
           "author": "Lolcohol",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "49361980-e6b9-4ac3-9124-fcdf1a00d110"
         },
         {
           "title": "Kinetic Fusillade Hierophant",
@@ -890,7 +944,8 @@
           ],
           "author": "Peuget2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c4ced83a-6bda-41ba-8548-db14afd743db"
         },
         {
           "title": "Shock Nova Archmage Hierophant",
@@ -906,7 +961,8 @@
           ],
           "author": "Peuget2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c279af91-5277-49b8-8cc1-28c30aa63c84"
         },
         {
           "title": "Cold DoT Elementalist",
@@ -916,7 +972,8 @@
           ],
           "author": "ShakCentral",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e200e783-f7c1-487f-aa9f-5097ba72f846"
         }
       ]
     },
@@ -938,7 +995,8 @@
           ],
           "author": "Anime Princess",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9f06a062-6874-4d86-9177-af51762d1082"
         },
         {
           "title": "Lightning Arrow Deadeye",
@@ -955,7 +1013,8 @@
           ],
           "author": "Fubgun",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "9b83af95-94d5-46b8-9024-45e59488400a"
         },
         {
           "title": "Toxic Rain Pathfinder",
@@ -972,7 +1031,8 @@
           ],
           "author": "Path of Evening",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e68af3f9-5477-4881-a6de-53046120a6e9"
         },
         {
           "title": "Bleed Bow League Starter",
@@ -988,7 +1048,8 @@
           ],
           "author": "JayTX",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "a822be58-b62e-4931-ae74-7043b6119fbb"
         },
         {
           "title": "Cold Convert Ice Shot of Penetration Warden",
@@ -1004,7 +1065,8 @@
           ],
           "author": "SnooBAE85",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "6c6c900f-452a-4fea-b367-2e7225a2c536"
         },
         {
           "title": "Perfect Agony Poisonous Concoction Assassin",
@@ -1020,7 +1082,8 @@
           ],
           "author": "Jungroan",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "54b8cbc5-d98c-45d9-9fdf-6ae7c4a8d82b"
         }
       ]
     },
@@ -1042,7 +1105,8 @@
           ],
           "author": "ImSidVicious",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ef695197-bc47-48f9-87f7-a45972af1e65"
         },
         {
           "title": "Stormburst Totem Hierophant",
@@ -1059,7 +1123,8 @@
           ],
           "author": "aer0plane",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "72effa1b-5bce-4b64-83c9-70cbd3e095e7"
         },
         {
           "title": "Explosive Arrow Ballista Champion",
@@ -1076,7 +1141,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "b92c080f-164e-4f2e-b607-c95578138449"
         },
         {
           "title": "Holy Flame Totem Hierophant",
@@ -1093,7 +1159,8 @@
           ],
           "author": "aer0",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "42f07d13-5ad6-4405-9c56-06ab5b304aff"
         },
         {
           "title": "Kinetic Fusillade Ballista Hierophant",
@@ -1110,7 +1177,8 @@
           ],
           "author": "Palsteron",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ebe6c0fd-b2fc-4f63-b77c-38a8b337c561"
         },
         {
           "title": "Luminary Mercenary Support Build",
@@ -1126,7 +1194,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "ab894c12-edee-4d41-b91b-73b8889aa517"
         },
         {
           "title": "Storm Burst (of Repulsion) Totems",
@@ -1142,7 +1211,8 @@
           ],
           "author": "Talantiel2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "4b502674-a93b-4f97-95d8-d86c0d896443"
         },
         {
           "title": "Kinetic Fusillade Totem Reliquarian",
@@ -1158,7 +1228,8 @@
           ],
           "author": "Lazy Exile",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "c85a7e6e-572d-45d9-89e9-08dd179514ce"
         },
         {
           "title": "Kinetic Fusillade Ballista Hierophant",
@@ -1174,7 +1245,8 @@
           ],
           "author": "Peuget2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "8bdc88f5-7a5f-4b20-abae-6b403ef785d0"
         },
         {
           "title": "Kinetic Fusillade Ballista Hierophant",
@@ -1190,7 +1262,8 @@
           ],
           "author": "Peuget2",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "439e7633-fe91-4425-93ec-5ab66081d0db"
         }
       ]
     },
@@ -1213,7 +1286,8 @@
           ],
           "author": "Pohx",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "37c4c9a4-96c9-4f36-82c9-2a0675fc75b8"
         },
         {
           "title": "Death's Oath Autobomber",
@@ -1230,7 +1304,8 @@
           ],
           "author": "Wafflez",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "37240901-edcc-4282-b96c-0c46b4406fc4"
         }
       ]
     },
@@ -1249,7 +1324,8 @@
           "versions": [
             "3.30"
           ],
-          "author": "Peuget2"
+          "author": "Peuget2",
+          "id": "af0576c1-ef7c-4964-911e-3410c4a6ff68"
         },
         {
           "title": "Rolling Magma Mines Saboteur",
@@ -1266,7 +1342,8 @@
           ],
           "author": "Goratha",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "daef83dc-2caa-4146-a6e3-54f9b6860388"
         },
         {
           "title": "Glacial Cascade Miner Elementalist",
@@ -1282,7 +1359,8 @@
           ],
           "author": "Asmodeus",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e54a13ed-1f5e-41cc-907d-3f3d4c256e49"
         }
       ]
     },
@@ -1301,7 +1379,8 @@
           "versions": [
             "3.30"
           ],
-          "author": "Allie"
+          "author": "Allie",
+          "id": "80a7f364-791f-4e5b-a57b-e97f32d6b20c"
         },
         {
           "title": "Holy Relic Necromancer",
@@ -1319,7 +1398,8 @@
           ],
           "author": "BalorMage",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "85f8df80-2da2-4633-bf75-a2d66d0faf5b"
         },
         {
           "title": "Poison Summon Raging Spirits Necromancer",
@@ -1336,7 +1416,8 @@
           ],
           "author": "BalorMage",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "849365ed-3465-433a-8ef6-ed52e9b17951"
         },
         {
           "title": "Servant of Arakaali Poison Ranged Animate Weapon",
@@ -1355,7 +1436,8 @@
           ],
           "author": "Zizaran",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "4e9ecd01-ba54-4381-a410-2a73596cbe81"
         },
         {
           "title": "Luminary Merc Bot",
@@ -1371,7 +1453,8 @@
           ],
           "author": "CaptainLance9",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "2bf2647f-3b68-43a3-93c4-f6490766d44b"
         },
         {
           "title": "Dominating Blow Guardian",
@@ -1388,7 +1471,8 @@
           ],
           "author": "Ghazzy",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "e1c219b0-e4d6-40ca-956a-94faa711f880"
         },
         {
           "title": "Spectre Summoner Necromancer",
@@ -1404,7 +1488,8 @@
           ],
           "author": "Ghazzy",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "5b6e734f-7697-4222-a4b9-8d018eff9be4"
         },
         {
           "title": "Poison Carrion Golems & Zombie Necromancer",
@@ -1421,7 +1506,8 @@
           ],
           "author": "Helm Breaker",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "6f769e22-4bc5-4a6e-b0b7-2faa23e8e2ab"
         },
         {
           "title": "Holy Absolution Guardian",
@@ -1437,7 +1523,8 @@
           ],
           "author": "ronarray",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "f73d3593-4a21-4f99-92e1-fdf2e2dab0ad"
         },
         {
           "title": "Minion League Starter Build Guide Updates",
@@ -1453,7 +1540,8 @@
           ],
           "author": "Helm Breaker",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "27abec38-16c4-4b9c-ae48-0e9bdb109840"
         },
         {
           "title": "Popcorn SRS",
@@ -1469,7 +1557,8 @@
           ],
           "author": "tabl3s",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "8f1bceac-d893-436a-ae21-250ba6b41030"
         },
         {
           "title": "Poison Reaper of Revenants",
@@ -1485,7 +1574,8 @@
           ],
           "author": "tabl3s",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "0459eb1b-f4f6-4848-ab58-25f0b201d9c1"
         },
         {
           "title": "Pure Spectre Necromancer",
@@ -1501,7 +1591,8 @@
           ],
           "author": "Ghazzy",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "70bae57e-9696-420d-b570-41f5876dcedc"
         },
         {
           "title": "Holy Absolution Guardian",
@@ -1517,7 +1608,8 @@
           ],
           "author": "ronarray",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "b936f3e7-eaca-4eae-87db-954767d2eee3"
         },
         {
           "title": "Vaal Absolution Necromancer",
@@ -1533,7 +1625,8 @@
           ],
           "author": "ronarray",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "8f0917f9-72cd-48c8-b33b-21aa486bb669"
         }
       ]
     },
@@ -1552,7 +1645,8 @@
           "versions": [
             "3.30"
           ],
-          "author": "Fubgun"
+          "author": "Fubgun",
+          "id": "2c5039bf-85ac-4faf-870c-8ffd5c88f40f"
         },
         {
           "title": "Phys DoT Autobomber Elementalist",
@@ -1566,7 +1660,8 @@
           "versions": [
             "3.30"
           ],
-          "author": "Ventrua"
+          "author": "Ventrua",
+          "id": "a59f339b-2faf-4e93-b19f-3e3431ce8c48"
         },
         {
           "title": "League Start Build Index",
@@ -1576,7 +1671,8 @@
           ],
           "author": "NzLawless",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "a3512717-8a5a-4d5f-8c18-ca5c19c6ceef"
         },
         {
           "title": "Mobalytics Tier List",
@@ -1585,7 +1681,8 @@
             "3.28"
           ],
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "4edbfd90-baf1-4d2e-8dc2-15a63f43522b"
         },
         {
           "title": "3.28 Mirage League Start Build Index",
@@ -1595,7 +1692,8 @@
           ],
           "author": "NzLawless",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "fac1438c-8fb5-42f6-ad72-52503022bf66"
         }
       ]
     },
@@ -1616,7 +1714,8 @@
           ],
           "author": "Path of Evening",
           "pin": false,
-          "skip": false
+          "skip": false,
+          "id": "b9e5ba66-83e2-489a-9081-46a96d9006ac"
         },
         {
           "title": "Why I picked these Atlas trees for league start",
@@ -1630,7 +1729,8 @@
           "versions": [
             "3.30"
           ],
-          "author": "Fuzzy Duckzy Gaming"
+          "author": "Fuzzy Duckzy Gaming",
+          "id": "9b5b3492-b27b-4ecb-bf4e-ab9b8fed0f3d"
         }
       ]
     }

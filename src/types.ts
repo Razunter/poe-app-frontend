@@ -1,4 +1,5 @@
 export type BuildDataType = {
+  id: string
   title: string
   url: string
   video?: string

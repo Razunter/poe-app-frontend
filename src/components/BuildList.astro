@@ -4,9 +4,10 @@ import { type BuildDataType, type VersionDataType } from '@src/types.ts'
 
 type Props = {
   collection: VersionDataType['buildList'][number] | undefined
+  isPriorityCollection: boolean
 }
 
-const { collection } = Astro.props as Props
+const { collection, isPriorityCollection } = Astro.props as Props
 
 const filteredBuilds: BuildDataType[] = []
 const filteredBuildsNoVideo: BuildDataType[] = []
@@ -22,8 +23,8 @@ if (collection) {
 ---
 
 {
-  filteredBuilds.map((build) => {
-    return <Build build={build} />
+  filteredBuilds.map((build, index) => {
+    return <Build build={build} isPriority={isPriorityCollection && index === 0} />
   })
 }
 

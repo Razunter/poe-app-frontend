@@ -36,6 +36,13 @@ const description = `Quick preview of starter builds for Path of Exile v${thisVe
 const reformattedVersionNumber = thisVersionNumber.replaceAll('.', '-')
 const data = filterVersionData((await import(`../data/data-${reformattedVersionNumber}.json`)) as VersionDataType, version)
 const currentTypes = Object.entries(data.types)
+const priorityType = currentTypes.find(([typekey]) => {
+  return data.buildList.find((collection) => {
+    return collection.type === typekey
+  })?.builds.some((build) => {
+    return Boolean(build.videothumb?.['480w'])
+  })
+})?.[0]
 const svgSprite = await sprite()
 
 let pageHeaderVersion = `${thisVersionNumber} «${version.name}»`
@@ -115,6 +122,7 @@ if (version.url) {
               collection={data.buildList.find((item) => {
                 return item.type === typekey
               })}
+              isPriorityCollection={typekey === priorityType}
             />
           </div>
         </section>

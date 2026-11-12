@@ -285,8 +285,7 @@
           "url": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
           "video": "https://www.youtube.com/watch?v=6AXPj-FMHSo",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/6AXPj-FMHSo/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/6AXPj-FMHSo/sddefault.jpg"
+            "480w": "https://i.ytimg.com/vi/6AXPj-FMHSo/hqdefault.jpg"
           },
           "versions": [
             "3.14"

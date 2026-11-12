@@ -4,9 +4,10 @@ import { type BuildDataType } from '@src/types.ts'
 
 type Props = {
   build: BuildDataType
+  isPriority: boolean
 }
 
-const { build } = Astro.props as Props
+const { build, isPriority } = Astro.props as Props
 
 type VideoType = 'novideo' | 'Twitch' | 'YouTube'
 
@@ -56,7 +57,7 @@ if (build.videothumb?.['480w']) {
   dataSRC = makeWebP(build.videothumb['480w'])
 
   for (const size in build.videothumb) {
-    if (Object.hasOwn(build.videothumb, size)) {
+    if (Object.hasOwn(build.videothumb, size) && (videoType !== 'YouTube' || size === '480w' || size === '640w')) {
       dataSRCset.push(makeWebP(build.videothumb[size]) + ' ' + size)
     }
   }
@@ -91,11 +92,25 @@ if (build.videothumb?.['480w']) {
   <div class="video-wrap">
     {
       videoType === 'YouTube' ? (
+        // The dependency reads inline backgroundImage to skip its default poster and WebP probe.
         <lite-youtube
           params="enablejsapi=1"
           playlabel={'Play: ' + build.title}
+          style="background-image: none"
           videoid={videoID}
-        />
+        >
+          <img
+            alt=""
+            class="youtube-poster"
+            fetchpriority={isPriority ? 'high' : undefined}
+            height="480"
+            loading={isPriority ? 'eager' : 'lazy'}
+            sizes="(min-width: 1800px) 790px, (min-width: 1500px) 640px, (min-width: 920px) 480px, 90vw"
+            src={dataSRC}
+            srcset={dataSRCset.join(', ')}
+            width="640"
+          />
+        </lite-youtube>
       ) : (
         <button
           class={`video-button video-button--${videoType}`}
@@ -105,8 +120,9 @@ if (build.videothumb?.['480w']) {
           <img
             alt={build.title}
             class="thumb"
+            fetchpriority={isPriority ? 'high' : undefined}
             height="480"
-            loading="lazy"
+            loading={isPriority ? 'eager' : 'lazy'}
             sizes="(min-width: 1800px) 790px, (min-width: 1500px) 640px, (min-width: 920px) 480px, 90vw"
             src={dataSRC}
             srcset={dataSRCset.join(', ')}
@@ -121,6 +137,22 @@ if (build.videothumb?.['480w']) {
 <style lang="scss">
   lite-youtube {
     max-width: 100%;
+
+    &::before {
+      z-index: 1;
+    }
+
+    > .youtube-poster {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    > :global(iframe) {
+      z-index: 2;
+    }
   }
 
   .video-button {

@@ -5,6 +5,7 @@
 Run `bun test tests/filterVersionData.test.ts tests/youtubePlayback.test.ts` to check league compatibility, skipped builds, empty categories, and delayed YouTube playback.
 Run `bun --bun run build` to build current and archived pages.
 After a fresh production build, run `bun test tests/posterLoading.test.ts` to check poster sources, category order, and image loading priorities on every league page. The suite reads `dist` and does not rebuild it.
+After a fresh production build, run `bun test tests/sectionTitles.test.ts` to check current and archived section titles, navigation, icons, category order, and filtered build membership. This suite also reads `dist` without rebuilding it.
 When changing video handling, check mouse and keyboard activation in the browser. Starting a YouTube preview must send pause commands to other previews.
 
 ## Video maintenance

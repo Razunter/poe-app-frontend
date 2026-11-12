@@ -4,10 +4,45 @@ import '@css/global.scss'
 import GoogleAnalytics from '@src/components/GoogleAnalytics.astro'
 import metadata from '@src/data/metadata.json'
 
-let { title, description } = Astro.props
-title ??= metadata.title
-description ??= metadata.description
-const currentUrl = Astro.url
+type Props = {
+  title?: string
+  description?: string
+}
+
+const { title = metadata.title, description = metadata.description } = Astro.props as Props
+const siteUrl = new URL('/', Astro.site).href
+const currentUrl = new URL(Astro.url.pathname, Astro.site).href
+const imageUrl = new URL(metadata.image.src, Astro.site).href
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${siteUrl}#website`,
+      url: siteUrl,
+      name: metadata.title,
+      description: metadata.description,
+      image: imageUrl,
+      inLanguage: 'en',
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${currentUrl}#webpage`,
+      url: currentUrl,
+      name: title,
+      description,
+      isPartOf: { '@id': `${siteUrl}#website` },
+      image: {
+        '@type': 'ImageObject',
+        url: imageUrl,
+        width: metadata.image.width,
+        height: metadata.image.height,
+        caption: metadata.image.alt,
+      },
+      inLanguage: 'en',
+    },
+  ],
+}
 ---
 
 <!doctype html>
@@ -16,6 +51,7 @@ const currentUrl = Astro.url
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
+    <link rel="canonical" href={currentUrl} />
     <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png?v=M46dyAmWwq" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=M46dyAmWwq" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=M46dyAmWwq" />
@@ -28,9 +64,23 @@ const currentUrl = Astro.url
     <meta name="robots" content="index,follow" />
     <meta name="description" content={description} />
     <meta property="og:site_name" content={metadata.title} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
     <meta property="og:url" content={currentUrl} />
+    <meta property="og:image" content={imageUrl} />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content={String(metadata.image.width)} />
+    <meta property="og:image:height" content={String(metadata.image.height)} />
+    <meta property="og:image:alt" content={metadata.image.alt} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageUrl} />
+    <meta name="twitter:image:alt" content={metadata.image.alt} />
     <meta name="twitter:creator" content={metadata.author.twitter} />
     <meta name="generator" content={Astro.generator} />
+    <script type="application/ld+json" set:html={JSON.stringify(structuredData).replaceAll('<', '\\u003c')} />
     {import.meta.env.PROD && <GoogleAnalytics />}
     <script>import 'lite-youtube-embed/src/lite-yt-embed.js'</script>
     <script src="../js/index.ts"></script>

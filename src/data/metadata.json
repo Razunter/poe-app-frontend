@@ -2,6 +2,12 @@
   "title": "Path of Exile starter builds collection (Razunter's picks)",
   "url": "https://raz-poebuilds.netlify.app",
   "description": "Starter builds for Path of Exile from forums and other sources, collected by Razunter",
+  "image": {
+    "src": "/site-preview.jpg",
+    "width": 1200,
+    "height": 630,
+    "alt": "Path of Exile starter builds — Razunter’s picks, with a sword, magic wand and glowing crystal"
+  },
   "author": {
     "name": "Razunter",
     "twitter": "@Razunter"

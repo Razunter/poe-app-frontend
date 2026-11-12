@@ -18,6 +18,7 @@ export default defineConfig({
       : [],
   ],
   site: 'https://raz-poebuilds.netlify.app',
+  trailingSlash: 'always',
   vite: {
     optimizeDeps: {
       exclude: ['@resvg'],

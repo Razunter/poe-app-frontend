@@ -140,7 +140,7 @@
     {
       "version": "3.30",
       "name": "Covens of Umbra",
-      "wip": true,
+      "wip": false,
       "url": "https://www.pathofexile.com/covens",
       "note": "Builds are compatible, some nerfed.",
       "compatible": [

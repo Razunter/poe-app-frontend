@@ -1121,14 +1121,15 @@
           "id": "6c6c900f-452a-4fea-b367-2e7225a2c536",
           "title": "Cold Convert Ice Shot of Penetration Warden",
           "url": "https://mobalytics.gg/poe/builds/cold-convert-ice-shot-of-penetration-warden",
-          "video": "https://www.youtube.com/watch?v=Q6R7gQ7eywE",
+          "video": "https://www.youtube.com/watch?v=mUCd5YQVkV0",
           "videothumb": {
-            "480w": "https://i.ytimg.com/vi/Q6R7gQ7eywE/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/Q6R7gQ7eywE/sddefault.jpg"
+            "480w": "https://i.ytimg.com/vi/mUCd5YQVkV0/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/mUCd5YQVkV0/sddefault.jpg"
           },
           "versions": [
             "3.28",
-            "3.29"
+            "3.29",
+            "3.30"
           ],
           "author": "SnooBAE85",
           "pin": false,
@@ -1780,6 +1781,21 @@
           "author": "Fubgun"
         },
         {
+          "id": "8ce0049c-0922-48f4-92e4-a9d2e4597158",
+          "title": "4 Underrated Builds",
+          "url": "https://www.youtube.com/watch?v=619yOnOYsa4",
+          "video": "https://www.youtube.com/watch?v=619yOnOYsa4",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/619yOnOYsa4/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/619yOnOYsa4/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/619yOnOYsa4/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.30"
+          ],
+          "author": "Palsteron"
+        },
+        {
           "id": "4edbfd90-baf1-4d2e-8dc2-15a63f43522b",
           "title": "Mobalytics Tier List",
           "url": "https://mobalytics.gg/poe/tier-list",
@@ -1817,6 +1833,21 @@
     {
       "type": "atlas",
       "builds": [
+        {
+          "id": "0ac2d141-c7d2-40e4-912e-681a77f663e8",
+          "title": "Day 1 Atlas Plans",
+          "url": "https://www.youtube.com/watch?v=_mMOrBJzETM",
+          "video": "https://www.youtube.com/watch?v=_mMOrBJzETM",
+          "videothumb": {
+            "480w": "https://i.ytimg.com/vi/_mMOrBJzETM/hqdefault.jpg",
+            "640w": "https://i.ytimg.com/vi/_mMOrBJzETM/sddefault.jpg",
+            "1280w": "https://i.ytimg.com/vi/_mMOrBJzETM/maxresdefault.jpg"
+          },
+          "versions": [
+            "3.30"
+          ],
+          "author": "Fubgun"
+        },
         {
           "id": "9b5b3492-b27b-4ecb-bf4e-ab9b8fed0f3d",
           "title": "Why I picked these Atlas trees for league start",
@@ -1861,23 +1892,6 @@
             "3.30"
           ],
           "author": "Tytykiller"
-        },
-        {
-          "id": "b9e5ba66-83e2-489a-9081-46a96d9006ac",
-          "title": "How to Run Heist in Mirage League",
-          "url": "https://www.poe-vault.com/guides/guide-for-heist",
-          "video": "https://www.youtube.com/watch?v=nDn39KUiuDk",
-          "videothumb": {
-            "480w": "https://i.ytimg.com/vi/nDn39KUiuDk/hqdefault.jpg",
-            "640w": "https://i.ytimg.com/vi/nDn39KUiuDk/sddefault.jpg",
-            "1280w": "https://i.ytimg.com/vi/nDn39KUiuDk/maxresdefault.jpg"
-          },
-          "versions": [
-            "3.28"
-          ],
-          "author": "Path of Evening",
-          "pin": false,
-          "skip": false
         }
       ]
     }
